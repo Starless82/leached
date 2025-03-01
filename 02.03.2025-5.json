@@ -1,0 +1,25 @@
+{
+    "name": "Jeanette Rose",
+    "age": 11,
+    "address": {
+        "street": "Lori Junction",
+        "city": "Jacobside",
+        "state": "New York",
+        "zip": "96375"
+    },
+    "contact": {
+        "phone": "+1-666-608-1390x304",
+        "servicePhone": "800031848"
+    },
+    "birthday": "2014-27-10",
+    "ip": "121.206.119.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Third until wear party require sell. Keep industry month.\nRise while happen person center or. Speak democratic sound cost together. Under sit low suffer whether every benefit decision.",
+        "bio": "Should join car fear live give generation charge.\nHair deep pull give each pick treatment. On national but long.\nThank special your. Long strategy style key world."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
