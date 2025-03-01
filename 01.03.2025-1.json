@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Joyce",
+    "age": 77,
+    "address": {
+        "street": "Baker Stravenue",
+        "city": "Haneyport",
+        "state": "Wyoming",
+        "zip": "76464"
+    },
+    "contact": {
+        "phone": "841-565-0935x6866",
+        "servicePhone": "800916882"
+    },
+    "birthday": "1948-06-02",
+    "ip": "155.117.128.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Involve finish later senior door body. My discuss plant PM. And reality billion beyond think behind best manage.",
+        "bio": "Republican however analysis.\nLaugh push investment occur leader discussion. Power do deep learn effort represent positive lot. Decide five become sport provide condition cultural rate."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
