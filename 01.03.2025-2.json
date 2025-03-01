@@ -1,0 +1,25 @@
+{
+    "name": "Robert Wise",
+    "age": 80,
+    "address": {
+        "street": "Johns Keys",
+        "city": "Wrightmouth",
+        "state": "Washington",
+        "zip": "24841"
+    },
+    "contact": {
+        "phone": "+1-906-440-9891x76055",
+        "servicePhone": "800805495"
+    },
+    "birthday": "1945-11-11",
+    "ip": "25.83.67.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Total name task itself. Agreement this nor where before game.\nHeart respond less senior eat. Evidence picture tend population past.",
+        "bio": "Matter participant subject may there. Everything cup pressure son table.\nRange behind street. Growth Mr view window item realize candidate. Business visit much candidate tonight."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
