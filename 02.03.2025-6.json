@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Jones",
+    "age": 104,
+    "address": {
+        "street": "Johnny Light",
+        "city": "Sanfordshire",
+        "state": "Minnesota",
+        "zip": "98247"
+    },
+    "contact": {
+        "phone": "(420)263-0358x3650",
+        "servicePhone": "800875299"
+    },
+    "birthday": "1921-30-09",
+    "ip": "201.10.227.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Eat go here should institution long during. Rich task artist manager dinner sea including.\nSection able course paper. Soldier business pattern treat full rate fear. Policy truth nice window.",
+        "bio": "Only make enter power year. Standard line magazine worker available.\nAble herself gas into political. Result difficult southern. Order grow town professor.\nBeat president civil push."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
