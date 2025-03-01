@@ -1,0 +1,25 @@
+{
+    "name": "Cindy Butler",
+    "age": 87,
+    "address": {
+        "street": "Christina Branch",
+        "city": "South Ryan",
+        "state": "Arkansas",
+        "zip": "70233"
+    },
+    "contact": {
+        "phone": "(342)937-6463x7683",
+        "servicePhone": "800179665"
+    },
+    "birthday": "1938-28-01",
+    "ip": "120.24.239.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Take must best out mouth send.\nEven customer trip receive. System language already near accept product threat drive.\nTheir or she prove campaign. Peace sign keep matter.",
+        "bio": "Result through into perform stuff. Watch nation another lose car.\nImagine kitchen everything up employee might store. Water later perhaps nature family doctor perform."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
