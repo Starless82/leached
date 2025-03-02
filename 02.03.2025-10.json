@@ -1,0 +1,25 @@
+{
+    "name": "Seth Rodriguez",
+    "age": 111,
+    "address": {
+        "street": "Javier Islands",
+        "city": "Josestad",
+        "state": "Wisconsin",
+        "zip": "83490"
+    },
+    "contact": {
+        "phone": "3034482663",
+        "servicePhone": "800698752"
+    },
+    "birthday": "1914-08-09",
+    "ip": "5.141.4.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Operation bit east simple PM treat. Information war yet group data ground modern. The despite environmental.\nYeah body time two popular fill thank local.",
+        "bio": "Worry similar black trip every season such.\nThemselves family measure major accept. Here artist church public southern. Word group focus matter fire draw design."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
