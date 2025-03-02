@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Taylor",
+    "age": 116,
+    "address": {
+        "street": "Valerie Lights",
+        "city": "Adamfurt",
+        "state": "Virginia",
+        "zip": "51383"
+    },
+    "contact": {
+        "phone": "443.686.2938x53628",
+        "servicePhone": "800156051"
+    },
+    "birthday": "1909-25-10",
+    "ip": "35.11.20.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Heart leave available window main there. Box interest technology loss program. Laugh crime important image wait.",
+        "bio": "Government without great street. Letter require way remain time magazine. By politics month game give.\nOwner hair especially hundred fill. Usually morning other front major."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
