@@ -1,0 +1,25 @@
+{
+    "name": "William Maxwell",
+    "age": 8,
+    "address": {
+        "street": "Deborah Knoll",
+        "city": "South Alexandria",
+        "state": "Missouri",
+        "zip": "03576"
+    },
+    "contact": {
+        "phone": "728.297.8048x354",
+        "servicePhone": "800141220"
+    },
+    "birthday": "2017-03-03",
+    "ip": "160.254.128.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Republican relationship hard. Way up character study majority. Service sure size support.\nVery growth deep find arrive program concern. Throughout he guess whose.",
+        "bio": "Art third building. Company have speech order kid hotel change.\nTurn speak campaign economy three fine support report. Among no late strong like difference. Receive color face voice candidate."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
