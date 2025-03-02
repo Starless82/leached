@@ -1,0 +1,25 @@
+{
+    "name": "Jenna Foster",
+    "age": 61,
+    "address": {
+        "street": "Norma Falls",
+        "city": "Christopherside",
+        "state": "Ohio",
+        "zip": "61044"
+    },
+    "contact": {
+        "phone": "001-684-647-3098",
+        "servicePhone": "800635393"
+    },
+    "birthday": "1964-16-08",
+    "ip": "9.168.228.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Market morning return blue head away south.\nCan it also clear artist help. Foreign since usually seat worker behind role. Statement provide forward.",
+        "bio": "Scientist hair federal. Develop window feel professional let force rest.\nReceive commercial unit. Down behavior mind religious process quality.\nRecord follow seven safe per experience cost there."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
