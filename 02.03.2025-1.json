@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Brown",
+    "age": 9,
+    "address": {
+        "street": "Friedman Falls",
+        "city": "Jessicaborough",
+        "state": "Pennsylvania",
+        "zip": "20398"
+    },
+    "contact": {
+        "phone": "763.713.9219x4223",
+        "servicePhone": "800276219"
+    },
+    "birthday": "2016-17-12",
+    "ip": "143.3.203.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Subject wide head north. Leave movie vote school understand.\nArt leader understand military off say certainly. Owner truth improve song matter.",
+        "bio": "Open owner city success television talk. Today book movie investment. Whatever drug court other."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
