@@ -1,0 +1,25 @@
+{
+    "name": "Kathryn Gonzalez MD",
+    "age": 105,
+    "address": {
+        "street": "Smith Street",
+        "city": "East Judith",
+        "state": "Kentucky",
+        "zip": "83782"
+    },
+    "contact": {
+        "phone": "7584619724",
+        "servicePhone": "800387595"
+    },
+    "birthday": "1920-18-04",
+    "ip": "186.86.222.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Eight government heavy grow fine quality treat. Believe action black decision. Various area former open.\nHold appear national example employee.\nForward forward reveal sport you arm too.",
+        "bio": "You hope west we.\nAdmit possible bank system success. Her sea nice describe huge contain. Film ten company future."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
