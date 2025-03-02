@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Lee",
+    "age": 43,
+    "address": {
+        "street": "Stone Viaduct",
+        "city": "East Joshuabury",
+        "state": "Maryland",
+        "zip": "73845"
+    },
+    "contact": {
+        "phone": "947.438.1100x90235",
+        "servicePhone": "800353945"
+    },
+    "birthday": "1982-28-09",
+    "ip": "35.114.173.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Six perform whether positive black table. Third turn add Democrat believe follow option.",
+        "bio": "Threat out occur it lay point ground. Official everything cut officer. Analysis work hospital lot."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
