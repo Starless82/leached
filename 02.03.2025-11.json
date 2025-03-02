@@ -1,0 +1,25 @@
+{
+    "name": "Austin Gutierrez",
+    "age": 77,
+    "address": {
+        "street": "Matthew Hills",
+        "city": "Hicksside",
+        "state": "Florida",
+        "zip": "73121"
+    },
+    "contact": {
+        "phone": "(703)532-5945",
+        "servicePhone": "800036841"
+    },
+    "birthday": "1948-12-05",
+    "ip": "1.235.59.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Adult bill effort bad now act surface. Mouth activity career whether. Hundred beyond any news thus somebody or.\nTonight letter with. Garden bank move prevent with. Keep order our able us.",
+        "bio": "Much open subject popular two bring top put. Sort lawyer this foreign sure none. Movement out hear someone article."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
