@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Moore",
+    "age": 10,
+    "address": {
+        "street": "Gary Spurs",
+        "city": "South Steven",
+        "state": "Arkansas",
+        "zip": "97118"
+    },
+    "contact": {
+        "phone": "9959756483",
+        "servicePhone": "800314709"
+    },
+    "birthday": "2015-11-01",
+    "ip": "138.246.85.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Spend above east international. Treatment tell tonight yes unit want court. Fall social become democratic.\nBegin collection respond still hair Democrat radio month. West simply girl purpose play.",
+        "bio": "Court must sort traditional establish practice make. Enough agency still when threat. Over ever politics every run black product. Know relate difference teacher fight relate."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
