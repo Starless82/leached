@@ -1,0 +1,25 @@
+{
+    "name": "Penny Logan",
+    "age": 44,
+    "address": {
+        "street": "Keith Underpass",
+        "city": "Port Christopherfurt",
+        "state": "Mississippi",
+        "zip": "89391"
+    },
+    "contact": {
+        "phone": "986.786.8117",
+        "servicePhone": "800206872"
+    },
+    "birthday": "1981-30-06",
+    "ip": "133.166.5.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Student he hot determine behind former human. Thought coach little live. Back girl where.\nMovie change add natural. Film road recent father.",
+        "bio": "Past color star spend state turn. Operation would clearly according spend number. Real interest staff sure place maintain test fall."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
