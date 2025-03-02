@@ -1,0 +1,25 @@
+{
+    "name": "Justin Robinson",
+    "age": 37,
+    "address": {
+        "street": "Brandon Plaza",
+        "city": "East Chad",
+        "state": "Illinois",
+        "zip": "92184"
+    },
+    "contact": {
+        "phone": "792.584.8239x20090",
+        "servicePhone": "800194382"
+    },
+    "birthday": "1988-28-08",
+    "ip": "34.234.28.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Career court thing authority sure. Camera difficult hundred close like candidate.\nTeacher wife financial ahead alone report.\nFive whom nor man. East fast sport dream.",
+        "bio": "Radio drop high allow executive side trip popular. Consumer wide begin try prove information talk. Six standard everything day how. Factor capital two raise age."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
