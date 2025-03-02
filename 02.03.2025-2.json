@@ -1,0 +1,25 @@
+{
+    "name": "Kayla Rodgers",
+    "age": 73,
+    "address": {
+        "street": "Holly Parkway",
+        "city": "West Curtisberg",
+        "state": "Montana",
+        "zip": "30299"
+    },
+    "contact": {
+        "phone": "001-833-444-4324",
+        "servicePhone": "800764277"
+    },
+    "birthday": "1952-01-06",
+    "ip": "118.150.226.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Notice forget feeling rate. Foot quite hit anything wear.\nDaughter security father item anything perform five successful.",
+        "bio": "Unit wrong authority to beat buy range create. Majority similar material onto. Threat early fill fact."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
