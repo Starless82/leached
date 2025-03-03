@@ -1,0 +1,25 @@
+{
+    "name": "Diana Werner",
+    "age": 67,
+    "address": {
+        "street": "Thomas Run",
+        "city": "Amyberg",
+        "state": "Nevada",
+        "zip": "60607"
+    },
+    "contact": {
+        "phone": "+1-830-455-3371x0482",
+        "servicePhone": "800777617"
+    },
+    "birthday": "1958-13-05",
+    "ip": "8.119.230.182",
+    "foo": "bar",
+    "profile": {
+        "about": "National wide myself no field listen traditional. Least not me seven provide fall certainly. Season Republican easy thousand strong while because.",
+        "bio": "As analysis pay blood. Hear stand card green. Exactly lead skin raise physical try memory."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
