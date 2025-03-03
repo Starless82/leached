@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Walker",
+    "age": 61,
+    "address": {
+        "street": "Flores Roads",
+        "city": "Smithton",
+        "state": "Maine",
+        "zip": "44682"
+    },
+    "contact": {
+        "phone": "352-309-4937x12415",
+        "servicePhone": "800565568"
+    },
+    "birthday": "1964-03-06",
+    "ip": "131.54.179.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Bar alone seek until style. Approach truth much during meet service report. Want social television soldier upon away these.",
+        "bio": "Likely door artist read suddenly. Money writer happen yet billion."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
