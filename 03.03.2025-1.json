@@ -1,0 +1,25 @@
+{
+    "name": "John Clark",
+    "age": 72,
+    "address": {
+        "street": "Misty Roads",
+        "city": "Mitchellshire",
+        "state": "Idaho",
+        "zip": "33224"
+    },
+    "contact": {
+        "phone": "001-950-531-9681x052",
+        "servicePhone": "800128376"
+    },
+    "birthday": "1953-15-06",
+    "ip": "153.167.9.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Style against loss. Church decide avoid return long them author song. Third Democrat themselves against church friend pass. Particularly for admit so high consumer use short.",
+        "bio": "Yard perform top treat. Cup admit young nice chair country. Beautiful fly series eat.\nDefense set everything here. Tell much threat establish. Yes much hand how add sea."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
