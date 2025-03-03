@@ -1,0 +1,25 @@
+{
+    "name": "Carl Brown",
+    "age": 68,
+    "address": {
+        "street": "Wyatt Stream",
+        "city": "New Georgeview",
+        "state": "Nebraska",
+        "zip": "01679"
+    },
+    "contact": {
+        "phone": "+1-379-530-1315x1939",
+        "servicePhone": "800759270"
+    },
+    "birthday": "1957-12-03",
+    "ip": "199.14.90.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Perhaps clear help school. Happy above sense anyone type. Set little huge.\nFind quite tree charge light. Simply military rather two agent he can. Trial night human life economic.",
+        "bio": "Consumer return guy discussion moment single. Owner able actually public toward. Strong general because major whom actually."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
