@@ -1,0 +1,25 @@
+{
+    "name": "Wendy Maldonado",
+    "age": 24,
+    "address": {
+        "street": "Robinson Way",
+        "city": "South Bethany",
+        "state": "Florida",
+        "zip": "22128"
+    },
+    "contact": {
+        "phone": "8987579032",
+        "servicePhone": "800577789"
+    },
+    "birthday": "2001-15-11",
+    "ip": "122.87.229.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Result will company support class law source. Participant third network speech leader member.\nOffer age front matter. Perhaps glass region if. Control interview guy home.",
+        "bio": "Identify relate watch it past drive suddenly. Law behavior window three.\nDeal approach less describe. Wonder campaign marriage sing degree. Inside stock hear act."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
