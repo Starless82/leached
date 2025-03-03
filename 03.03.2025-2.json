@@ -1,0 +1,25 @@
+{
+    "name": "Ricardo Clark",
+    "age": 15,
+    "address": {
+        "street": "Huerta Mills",
+        "city": "West Terri",
+        "state": "Utah",
+        "zip": "65730"
+    },
+    "contact": {
+        "phone": "(512)450-9310",
+        "servicePhone": "800453164"
+    },
+    "birthday": "2010-18-03",
+    "ip": "46.87.189.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Learn machine alone individual operation. Analysis power treat hear keep.",
+        "bio": "Join prove boy great operation. Top find political third physical. Hope news down street machine environmental choose."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
