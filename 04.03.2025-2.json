@@ -1,0 +1,25 @@
+{
+    "name": "Brian Villarreal",
+    "age": 112,
+    "address": {
+        "street": "Wendy Ways",
+        "city": "Lake Jasonmouth",
+        "state": "Ohio",
+        "zip": "09948"
+    },
+    "contact": {
+        "phone": "001-396-758-9564",
+        "servicePhone": "800110449"
+    },
+    "birthday": "1913-20-09",
+    "ip": "76.186.75.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Just change to place what here if. Reach hand person say none fly cause. Husband girl minute.\nPick seat future move. Produce night around floor.",
+        "bio": "Best south sing cultural herself. Food policy or pay skill page health. Skin itself product include evening present past success."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
