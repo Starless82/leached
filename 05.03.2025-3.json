@@ -1,0 +1,25 @@
+{
+    "name": "Maria Anderson",
+    "age": 113,
+    "address": {
+        "street": "Troy Springs",
+        "city": "Cassiefort",
+        "state": "Indiana",
+        "zip": "66729"
+    },
+    "contact": {
+        "phone": "001-321-505-1174x69925",
+        "servicePhone": "800155198"
+    },
+    "birthday": "1912-22-02",
+    "ip": "195.202.106.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Order road seek environmental remember to. He they subject other some rich land both. Character notice theory. Onto ball decision offer.",
+        "bio": "Her quite material hair party manager. Quickly look various agent score economic. Hit teacher hundred current letter hospital determine. Save daughter cell buy large source concern."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
