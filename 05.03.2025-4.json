@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Perez",
+    "age": 99,
+    "address": {
+        "street": "Pearson Drive",
+        "city": "Ballshire",
+        "state": "Texas",
+        "zip": "95036"
+    },
+    "contact": {
+        "phone": "939.489.5194x9668",
+        "servicePhone": "800536688"
+    },
+    "birthday": "1926-12-03",
+    "ip": "131.94.6.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Wish nor experience room personal. Certainly food financial lot. Total turn land make computer.",
+        "bio": "Approach newspaper cell condition rate better stand star. Drug surface full. Somebody energy American good.\nIdentify last hundred doctor grow. More draw remember move."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
