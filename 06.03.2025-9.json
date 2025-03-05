@@ -1,0 +1,25 @@
+{
+    "name": "Janice Moreno",
+    "age": 38,
+    "address": {
+        "street": "Tommy Fork",
+        "city": "Michaelburgh",
+        "state": "Maryland",
+        "zip": "50123"
+    },
+    "contact": {
+        "phone": "001-483-778-0264",
+        "servicePhone": "800766719"
+    },
+    "birthday": "1987-28-04",
+    "ip": "20.126.147.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Its various admit sense fill.\nDrive be what age remain. What politics real administration there would best important.\nYourself trip oil Democrat responsibility want.",
+        "bio": "Others take scientist court world decision. Yourself out ground his.\nClaim open woman every."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
