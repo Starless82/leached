@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Cox",
+    "age": 53,
+    "address": {
+        "street": "Brian Lights",
+        "city": "Brianbury",
+        "state": "Iowa",
+        "zip": "03572"
+    },
+    "contact": {
+        "phone": "614-724-1610",
+        "servicePhone": "800859462"
+    },
+    "birthday": "1972-22-10",
+    "ip": "24.192.7.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Stage adult employee industry expert. Character deal music sort.\nMain even report take cover hundred west. Consider alone step very skill.\nWait show fly event whatever why way interesting.",
+        "bio": "Customer attorney card standard. Mission probably leg surface record image rather."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
