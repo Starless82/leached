@@ -1,0 +1,25 @@
+{
+    "name": "Eugene Gibbs",
+    "age": 61,
+    "address": {
+        "street": "Amy River",
+        "city": "Laurenville",
+        "state": "Alaska",
+        "zip": "17265"
+    },
+    "contact": {
+        "phone": "(617)609-3971",
+        "servicePhone": "800212014"
+    },
+    "birthday": "1964-24-10",
+    "ip": "130.156.103.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Prevent stage together believe five. Pretty conference necessary according soldier open.\nAhead effort near million need. Use able couple by. Chair cold get at interview government performance.",
+        "bio": "Remember my laugh manage think natural.\nImage police lead for series. Camera capital girl expert wife notice measure back.\nHistory understand still section walk. Left against ready reality live."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
