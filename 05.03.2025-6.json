@@ -1,0 +1,25 @@
+{
+    "name": "Cody Ford",
+    "age": 94,
+    "address": {
+        "street": "Garcia Park",
+        "city": "Kaylatown",
+        "state": "Maryland",
+        "zip": "93784"
+    },
+    "contact": {
+        "phone": "(783)377-4163x00531",
+        "servicePhone": "800154426"
+    },
+    "birthday": "1931-01-08",
+    "ip": "129.198.61.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Citizen worry room character build. Population which argue article least focus grow suggest. Analysis character help down across. Begin player organization activity could seem.",
+        "bio": "Yeah should answer indeed could treat. Certain mean as seek natural word voice away. Board unit too street."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
