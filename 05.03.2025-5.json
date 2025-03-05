@@ -1,0 +1,25 @@
+{
+    "name": "Mario Meyers",
+    "age": 84,
+    "address": {
+        "street": "Khan Motorway",
+        "city": "Matthewberg",
+        "state": "Colorado",
+        "zip": "08659"
+    },
+    "contact": {
+        "phone": "4925239192",
+        "servicePhone": "800934720"
+    },
+    "birthday": "1941-08-06",
+    "ip": "197.253.87.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Could that draw since nation natural. Particularly myself citizen. Your quickly impact military late difference organization. Peace collection quickly age.",
+        "bio": "Service image both model light.\nWest fast professor country step computer blue. For hair small simply.\nDiscover learn home fall. Somebody leg involve important staff. Stuff national grow mission."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
