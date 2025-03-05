@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Brooks MD",
+    "age": 68,
+    "address": {
+        "street": "Rebecca Pine",
+        "city": "Travisport",
+        "state": "Nebraska",
+        "zip": "24898"
+    },
+    "contact": {
+        "phone": "952.821.0376x463",
+        "servicePhone": "800065045"
+    },
+    "birthday": "1957-26-11",
+    "ip": "82.109.223.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Image it own. Focus determine yes indeed live positive ok.\nEvening add conference already amount. Avoid daughter fire five policy. End six some learn. Actually present enjoy figure.",
+        "bio": "Public society cup president. Near power yet section.\nGrowth these ground work carry south project. Have prevent only. Couple choice garden cell. Effort clear production."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
