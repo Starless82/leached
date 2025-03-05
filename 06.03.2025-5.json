@@ -1,0 +1,25 @@
+{
+    "name": "Bobby Warren",
+    "age": 9,
+    "address": {
+        "street": "Carter Streets",
+        "city": "New Sherry",
+        "state": "Michigan",
+        "zip": "26172"
+    },
+    "contact": {
+        "phone": "(246)794-3945x2607",
+        "servicePhone": "800914229"
+    },
+    "birthday": "2016-01-05",
+    "ip": "68.37.89.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Measure offer rest task participant detail I top. Receive clear training. Word quality identify weight catch try.",
+        "bio": "Have our as professor address American. Tree team boy for where. That son similar well fear just million.\nTeach on lose at claim in give. Instead yourself their key decision. Wait these thus trial."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
