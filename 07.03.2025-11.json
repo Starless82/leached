@@ -1,0 +1,25 @@
+{
+    "name": "Jack Olson",
+    "age": 104,
+    "address": {
+        "street": "Kane Roads",
+        "city": "Karamouth",
+        "state": "Delaware",
+        "zip": "06536"
+    },
+    "contact": {
+        "phone": "327-470-2333",
+        "servicePhone": "800750655"
+    },
+    "birthday": "1921-16-08",
+    "ip": "70.107.205.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Now improve project follow network job alone. Service receive herself themselves method term suddenly.\nDream institution hour tree bar prepare hard. Major third door some car continue.",
+        "bio": "Trouble step place street chair. Hit drop kind measure.\nReady prove guess song foreign their form. Individual southern more gun throw bill."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
