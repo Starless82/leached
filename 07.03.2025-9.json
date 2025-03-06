@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Bird",
+    "age": 57,
+    "address": {
+        "street": "Melissa Square",
+        "city": "Benjaminmouth",
+        "state": "North Dakota",
+        "zip": "51413"
+    },
+    "contact": {
+        "phone": "5015856557",
+        "servicePhone": "800636162"
+    },
+    "birthday": "1968-17-04",
+    "ip": "66.37.124.231",
+    "foo": "bar",
+    "profile": {
+        "about": "With list most nice sister specific. Blue whatever none down even current.\nBeyond major person around one. Away require onto who surface product produce.",
+        "bio": "Culture sit eight friend give family. See movie recognize to lot well.\nPiece college recognize drive. Fact boy baby leg technology ask."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
