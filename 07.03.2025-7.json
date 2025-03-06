@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Adams",
+    "age": 70,
+    "address": {
+        "street": "Christine Branch",
+        "city": "East Brianfurt",
+        "state": "New Hampshire",
+        "zip": "73260"
+    },
+    "contact": {
+        "phone": "+1-270-839-5845",
+        "servicePhone": "800255350"
+    },
+    "birthday": "1955-20-02",
+    "ip": "80.67.124.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Live discussion which person foreign course whom. Picture relate image eat do weight.\nOnce help student never little. Change arrive near ready. Wish such why answer he.",
+        "bio": "Argue owner woman back pretty chance. Book these bank keep sister.\nIndeed stand may agent. Character manage happen will give recent. Town brother apply."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
