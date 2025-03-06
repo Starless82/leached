@@ -1,0 +1,25 @@
+{
+    "name": "Mary Rivera",
+    "age": 42,
+    "address": {
+        "street": "Ryan Ford",
+        "city": "Bentleyhaven",
+        "state": "Nevada",
+        "zip": "32882"
+    },
+    "contact": {
+        "phone": "+1-346-420-1141",
+        "servicePhone": "800490883"
+    },
+    "birthday": "1983-19-05",
+    "ip": "135.125.252.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Require technology entire book report. Those rule next just assume day far.\nVery fact score event those some point. Tree during he market whatever thing. Ever provide sound back growth say authority.",
+        "bio": "Include network house four. Several more both her teacher right. Simple there explain strong.\nCountry recent while simply. Assume trade husband hope. Other skin strategy onto."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
