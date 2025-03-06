@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Nichols",
+    "age": 70,
+    "address": {
+        "street": "Wallace Stravenue",
+        "city": "Davidfort",
+        "state": "Minnesota",
+        "zip": "72048"
+    },
+    "contact": {
+        "phone": "(973)917-5565",
+        "servicePhone": "800880828"
+    },
+    "birthday": "1955-26-09",
+    "ip": "190.17.240.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Even huge ok daughter also better political. Try kitchen win also should politics begin. Phone figure from deal. Sure them near group coach.\nGroup subject between civil push.",
+        "bio": "Myself be really different something appear feel. Nor wait answer resource movement. Station our court manager particular particular."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
