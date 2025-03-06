@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Nicole Patel MD",
+    "age": 44,
+    "address": {
+        "street": "Eric Cliffs",
+        "city": "East Stephen",
+        "state": "South Dakota",
+        "zip": "28020"
+    },
+    "contact": {
+        "phone": "227.788.8631",
+        "servicePhone": "800585620"
+    },
+    "birthday": "1981-07-12",
+    "ip": "176.172.153.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Old just at stay.\nRole easy wonder hard hour least your. Find dinner card person.\nAnother fast new central million chair.",
+        "bio": "Outside commercial future another suddenly. Seven down population artist maintain he animal. Lay begin fill production."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
