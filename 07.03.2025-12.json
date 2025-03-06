@@ -1,0 +1,25 @@
+{
+    "name": "Eric Marshall",
+    "age": 79,
+    "address": {
+        "street": "Patel Groves",
+        "city": "Velasquezberg",
+        "state": "Connecticut",
+        "zip": "16551"
+    },
+    "contact": {
+        "phone": "7774572659",
+        "servicePhone": "800053617"
+    },
+    "birthday": "1946-27-02",
+    "ip": "108.77.147.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Both authority matter very recognize. Consumer type better begin probably.\nEye consumer life energy. Fish if remain strategy.\nCultural threat every available. Me town develop nice.",
+        "bio": "Five be become tonight. Leg security line color. Her statement opportunity deal or rest view."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
