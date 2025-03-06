@@ -1,0 +1,25 @@
+{
+    "name": "Jon Bryant",
+    "age": 111,
+    "address": {
+        "street": "Joseph Isle",
+        "city": "East Robertborough",
+        "state": "Florida",
+        "zip": "83365"
+    },
+    "contact": {
+        "phone": "749.618.2366x31097",
+        "servicePhone": "800963571"
+    },
+    "birthday": "1914-23-06",
+    "ip": "31.34.92.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Others employee budget through. Assume part accept soon common toward.\nAdult sell physical stay line. Happy season source smile book.\nThousand billion bar race reason Mr can word.",
+        "bio": "Company sense raise middle. General include bill. Different reach which very economy stock charge.\nStart recent interest along. Tv measure perform theory. Billion appear sit expert build."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
