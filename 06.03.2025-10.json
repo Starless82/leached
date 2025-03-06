@@ -1,0 +1,25 @@
+{
+    "name": "Gary Crawford",
+    "age": 105,
+    "address": {
+        "street": "Stephanie Path",
+        "city": "Smithfurt",
+        "state": "North Dakota",
+        "zip": "03685"
+    },
+    "contact": {
+        "phone": "303.512.5456x58034",
+        "servicePhone": "800056073"
+    },
+    "birthday": "1920-22-06",
+    "ip": "67.232.248.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Exist catch hair subject professional even relate.\nMay four old change executive future certainly. Full difference the. Dog care set pay.",
+        "bio": "Identify else tonight require. Have likely decision there.\nDirection organization step manager yeah picture. Third rock tree sense pressure by."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
