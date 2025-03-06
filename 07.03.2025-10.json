@@ -1,0 +1,25 @@
+{
+    "name": "Mark Kim",
+    "age": 48,
+    "address": {
+        "street": "Catherine Manor",
+        "city": "Port Matthewfort",
+        "state": "Maryland",
+        "zip": "88544"
+    },
+    "contact": {
+        "phone": "(628)702-6668x0747",
+        "servicePhone": "800092029"
+    },
+    "birthday": "1977-06-11",
+    "ip": "77.167.159.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Suddenly natural question degree market. And develop sound kind now sit.\nSouth blood kind. Term only country toward full ball that.\nThrough civil leave build look write short. Close my morning size.",
+        "bio": "Value school middle military exactly. Sell school day week.\nSuccess at station hold participant. Network discuss near write south. Buy little end end property force."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
