@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Brown",
+    "age": 52,
+    "address": {
+        "street": "Warner Ranch",
+        "city": "North Jasmine",
+        "state": "Arkansas",
+        "zip": "72115"
+    },
+    "contact": {
+        "phone": "(217)790-3736x63740",
+        "servicePhone": "800659682"
+    },
+    "birthday": "1973-09-04",
+    "ip": "4.196.69.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Central television put deal name later popular program. Among great activity almost number rule. Positive threat energy.",
+        "bio": "Forward size design national easy produce bill. Front move threat shoulder green shake.\nAir church wait force street road. Push respond choose reflect statement least."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
