@@ -1,0 +1,25 @@
+{
+    "name": "Renee Jacobs",
+    "age": 78,
+    "address": {
+        "street": "Joyce Lock",
+        "city": "North Angelabury",
+        "state": "North Carolina",
+        "zip": "91521"
+    },
+    "contact": {
+        "phone": "+1-440-307-7452x503",
+        "servicePhone": "800678889"
+    },
+    "birthday": "1947-20-03",
+    "ip": "21.99.206.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Age push mouth each into. Son type manager chair thank join fight cell. With market probably dinner read.\nLearn father strong north bring unit. Line early start far impact.",
+        "bio": "Federal add month tell. Black bank style. Tonight turn can then skill whole."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
