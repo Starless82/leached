@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Daniels",
+    "age": 30,
+    "address": {
+        "street": "Julie Skyway",
+        "city": "East Brenda",
+        "state": "Mississippi",
+        "zip": "47573"
+    },
+    "contact": {
+        "phone": "275-628-8401x7065",
+        "servicePhone": "800764230"
+    },
+    "birthday": "1995-27-08",
+    "ip": "199.6.40.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Free never play between century. Analysis suffer teacher couple establish.\nThousand country third agent if page leave foreign. Despite which door race room speech because trade.",
+        "bio": "East inside down however. Ability million along religious appear. Less dog catch dream pressure position behavior."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
