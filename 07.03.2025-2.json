@@ -1,0 +1,25 @@
+{
+    "name": "Justin Carter",
+    "age": 17,
+    "address": {
+        "street": "Brittany Causeway",
+        "city": "North Maryland",
+        "state": "Florida",
+        "zip": "28051"
+    },
+    "contact": {
+        "phone": "001-544-353-9675x4431",
+        "servicePhone": "800477582"
+    },
+    "birthday": "2008-04-06",
+    "ip": "144.168.100.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Ever officer kind television seven born offer. Husband responsibility office yeah.",
+        "bio": "Care state which president find policy including take. Suggest material protect candidate treatment price."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
