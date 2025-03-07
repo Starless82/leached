@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Lyons",
+    "age": 36,
+    "address": {
+        "street": "Michael Extensions",
+        "city": "East Dianemouth",
+        "state": "Maine",
+        "zip": "54443"
+    },
+    "contact": {
+        "phone": "001-227-791-5334x955",
+        "servicePhone": "800328741"
+    },
+    "birthday": "1989-02-08",
+    "ip": "58.178.5.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Keep some keep machine.\nJust system industry room almost. Lay feeling box mouth garden human.\nYes born box skill. Skill break realize mouth finally enjoy serve able. Art add three war book glass.",
+        "bio": "Wrong citizen federal.\nBudget write large company. Suddenly best two similar if.\nGun deal born exactly. Car word often sport hour happy."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
