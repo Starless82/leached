@@ -1,0 +1,25 @@
+{
+    "name": "Pam Lawrence",
+    "age": 45,
+    "address": {
+        "street": "Floyd Park",
+        "city": "Jasonview",
+        "state": "Oklahoma",
+        "zip": "55340"
+    },
+    "contact": {
+        "phone": "7733596414",
+        "servicePhone": "800918199"
+    },
+    "birthday": "1980-12-07",
+    "ip": "122.200.199.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Model base third beyond. Set important never tax.",
+        "bio": "Sure our defense continue author affect. Suddenly partner nature war beautiful year.\nFill also town small drop eye."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
