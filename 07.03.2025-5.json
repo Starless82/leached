@@ -1,0 +1,25 @@
+{
+    "name": "Lucas Perry",
+    "age": 70,
+    "address": {
+        "street": "Yvette Point",
+        "city": "Amberfort",
+        "state": "Minnesota",
+        "zip": "49113"
+    },
+    "contact": {
+        "phone": "820-299-6884x9225",
+        "servicePhone": "800564450"
+    },
+    "birthday": "1955-09-08",
+    "ip": "140.53.19.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Quite view low card report. Political pass kid exactly address newspaper any political. Point simple consider.",
+        "bio": "Fall billion understand bit during star. Politics political want including thus. Sure hold yes crime brother bill."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
