@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Lopez DVM",
+    "age": 43,
+    "address": {
+        "street": "Kenneth Mews",
+        "city": "Brooksland",
+        "state": "Texas",
+        "zip": "26065"
+    },
+    "contact": {
+        "phone": "(582)561-1268",
+        "servicePhone": "800469061"
+    },
+    "birthday": "1982-16-02",
+    "ip": "142.85.10.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Machine heavy contain. Special such beyond teach central. Certain everything challenge rich.\nReligious road happen agree instead. Store city material open over difference anything.",
+        "bio": "Cell picture eat along few fast. Choose night receive.\nDark piece think happen. House we paper cold hit."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
