@@ -1,0 +1,25 @@
+{
+    "name": "Debra Gray",
+    "age": 72,
+    "address": {
+        "street": "Suzanne Dale",
+        "city": "East Coryhaven",
+        "state": "Alabama",
+        "zip": "43023"
+    },
+    "contact": {
+        "phone": "823.264.4702x047",
+        "servicePhone": "800735295"
+    },
+    "birthday": "1953-10-11",
+    "ip": "186.239.196.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Close anything simple citizen candidate team. Party especially want yes situation agency big. Author yeah play. Military hold kind almost source.\nAbout result name beautiful share.",
+        "bio": "Season together share look writer base. Over create finish despite want."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
