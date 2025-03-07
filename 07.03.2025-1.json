@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Thomas",
+    "age": 61,
+    "address": {
+        "street": "Benjamin Hills",
+        "city": "Port Christopherburgh",
+        "state": "New Jersey",
+        "zip": "10147"
+    },
+    "contact": {
+        "phone": "+1-219-949-6299",
+        "servicePhone": "800098974"
+    },
+    "birthday": "1964-15-10",
+    "ip": "212.253.199.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Nature son particular far despite. Clearly they assume office.\nFar public reality thus. Hear attention general entire save to go.\nCover glass nature of a standard. Time across they not.",
+        "bio": "Security claim machine education any. Magazine relationship perhaps why art go issue.\nOften should story room sit. Plan within deal.\nCreate arrive growth act. Career ask hope without mouth today."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
