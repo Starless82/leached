@@ -1,0 +1,25 @@
+{
+    "name": "Mark Phillips",
+    "age": 100,
+    "address": {
+        "street": "Michael Prairie",
+        "city": "Joseborough",
+        "state": "New Jersey",
+        "zip": "09462"
+    },
+    "contact": {
+        "phone": "352-868-7268",
+        "servicePhone": "800698714"
+    },
+    "birthday": "1925-17-07",
+    "ip": "65.241.97.127",
+    "foo": "bar",
+    "profile": {
+        "about": "General could task site take door final. Reflect community order.\nSite my page conference join cut sometimes account. Consider room those carry born. Collection former claim.",
+        "bio": "There environmental do man someone reality theory sing. Conference hold and building. Forget threat style radio conference financial concern quite. Even around them second even partner we."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
