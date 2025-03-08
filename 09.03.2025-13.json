@@ -1,0 +1,25 @@
+{
+    "name": "Nathaniel Burnett",
+    "age": 56,
+    "address": {
+        "street": "Elizabeth Glens",
+        "city": "Ambermouth",
+        "state": "New Mexico",
+        "zip": "20986"
+    },
+    "contact": {
+        "phone": "7865005848",
+        "servicePhone": "800569829"
+    },
+    "birthday": "1969-16-12",
+    "ip": "184.2.191.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Development surface throughout power. Management level determine kind. Person senior just.\nYear music best world eye authority customer. Recent change read sure.",
+        "bio": "Any participant government course far bad. Treatment hard computer finish.\nMoment management go. Send among fund public manage fly."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
