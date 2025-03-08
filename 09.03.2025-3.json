@@ -1,0 +1,25 @@
+{
+    "name": "Anne Landry",
+    "age": 99,
+    "address": {
+        "street": "Regina Tunnel",
+        "city": "Port Kathleen",
+        "state": "West Virginia",
+        "zip": "82015"
+    },
+    "contact": {
+        "phone": "001-452-995-2125x6244",
+        "servicePhone": "800094839"
+    },
+    "birthday": "1926-06-09",
+    "ip": "66.152.226.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Main both run deep trouble real popular last. Long begin say blue.\nWell usually on per. Education real sign character to. Whatever clearly brother sign customer present.",
+        "bio": "Leg care industry. Piece party student another. Response edge play decision heart.\nAttack simple wait. Effect play fire memory family night."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
