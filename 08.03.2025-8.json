@@ -1,0 +1,25 @@
+{
+    "name": "James Willis",
+    "age": 104,
+    "address": {
+        "street": "Maldonado Rapids",
+        "city": "South Ericburgh",
+        "state": "Texas",
+        "zip": "77305"
+    },
+    "contact": {
+        "phone": "(968)376-1303",
+        "servicePhone": "800546528"
+    },
+    "birthday": "1921-02-07",
+    "ip": "45.255.170.118",
+    "foo": "bar",
+    "profile": {
+        "about": "He exist mission somebody nearly rate author. Four away central whether situation. Form avoid year program student.\nOrder how on western. Industry nor feel. Control near community player talk.",
+        "bio": "South institution party hear true concern because. Arm lawyer happen value large arm relationship.\nReveal maintain fast everyone discussion bad. Body part teach total travel on before."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
