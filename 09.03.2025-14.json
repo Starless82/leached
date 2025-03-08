@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Dunn",
+    "age": 59,
+    "address": {
+        "street": "Crawford Hollow",
+        "city": "Collinsstad",
+        "state": "Indiana",
+        "zip": "10610"
+    },
+    "contact": {
+        "phone": "(910)448-7064x49518",
+        "servicePhone": "800886576"
+    },
+    "birthday": "1966-29-01",
+    "ip": "222.64.196.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Sit magazine in care foot career end. Close almost nor model agreement watch plant open.\nForward agency rule pick collection. Identify home star adult operation share first.",
+        "bio": "Local card lay bit. Fact husband source agent full. Dinner hotel sure tonight well performance."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
