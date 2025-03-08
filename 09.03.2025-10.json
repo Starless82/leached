@@ -1,0 +1,25 @@
+{
+    "name": "Gary Bird",
+    "age": 54,
+    "address": {
+        "street": "Cole Lakes",
+        "city": "Owenshaven",
+        "state": "Pennsylvania",
+        "zip": "83712"
+    },
+    "contact": {
+        "phone": "001-984-294-5240x13498",
+        "servicePhone": "800209907"
+    },
+    "birthday": "1971-07-07",
+    "ip": "116.14.128.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Enough significant success high. Marriage couple fight safe.\nPopular loss project. Nice say rate opportunity. Military Democrat hot science figure least window.",
+        "bio": "Kid kitchen lay different. Member allow when important drive black. Defense each think answer.\nPressure law eye institution protect. Sea trip himself create age.\nCut interest perform will stage."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
