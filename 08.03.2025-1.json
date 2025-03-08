@@ -1,0 +1,25 @@
+{
+    "name": "Erika Jimenez",
+    "age": 60,
+    "address": {
+        "street": "Garner Garden",
+        "city": "East Ericborough",
+        "state": "New Jersey",
+        "zip": "68004"
+    },
+    "contact": {
+        "phone": "001-797-470-9725",
+        "servicePhone": "800901724"
+    },
+    "birthday": "1965-09-11",
+    "ip": "46.6.7.93",
+    "foo": "bar",
+    "profile": {
+        "about": "World five very page purpose. Than until authority herself easy if.\nSuccessful more learn middle information dream. Three service finish art stage.",
+        "bio": "Attorney event carry involve start picture. Enough heavy rule treat resource everybody question pass. Seem site indeed space.\nFactor candidate machine song budget exactly very."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
