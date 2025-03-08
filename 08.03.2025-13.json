@@ -1,0 +1,25 @@
+{
+    "name": "James Ingram",
+    "age": 21,
+    "address": {
+        "street": "Cooper Views",
+        "city": "Jacksonburgh",
+        "state": "Indiana",
+        "zip": "89407"
+    },
+    "contact": {
+        "phone": "(289)401-8521",
+        "servicePhone": "800600833"
+    },
+    "birthday": "2004-06-04",
+    "ip": "146.123.165.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Whether view production realize who also situation message. Expert remember voice drive on once. Language hand back card model find than.\nPlant nearly listen medical spend bad. Start rather amount.",
+        "bio": "Heavy deal message scientist that quite. Ok consider church should letter.\nDetail then choose research fall kid. Because free include somebody next lawyer."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
