@@ -1,0 +1,25 @@
+{
+    "name": "Sydney Mccormick",
+    "age": 49,
+    "address": {
+        "street": "Danielle Gardens",
+        "city": "South Gregory",
+        "state": "Montana",
+        "zip": "82603"
+    },
+    "contact": {
+        "phone": "670-603-1426x0858",
+        "servicePhone": "800760650"
+    },
+    "birthday": "1976-31-01",
+    "ip": "95.117.188.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Loss baby various yard feel get themselves. Box including hand sort. Third thus return under.\nEither animal table start sit environmental society model. To possible water appear.",
+        "bio": "Wind miss executive town fight later computer.\nThing security heart ahead involve positive explain save. Big pull action activity."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
