@@ -1,0 +1,25 @@
+{
+    "name": "James Hamilton",
+    "age": 45,
+    "address": {
+        "street": "Rogers Isle",
+        "city": "Reginaldchester",
+        "state": "South Carolina",
+        "zip": "95279"
+    },
+    "contact": {
+        "phone": "(526)980-9527x188",
+        "servicePhone": "800800278"
+    },
+    "birthday": "1980-09-09",
+    "ip": "147.113.220.101",
+    "foo": "bar",
+    "profile": {
+        "about": "President Democrat clear human end major series. Popular herself ok claim movement.\nWhom matter everything change which treatment establish. Laugh gun Congress television.",
+        "bio": "Decision activity address professional want nature enter. Media spring voice much within. Fast institution citizen clearly such.\nFund tell will serve every yes region. Foreign feel red hand chair."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
