@@ -1,0 +1,25 @@
+{
+    "name": "Erin Morgan",
+    "age": 13,
+    "address": {
+        "street": "Wendy Prairie",
+        "city": "East Matthew",
+        "state": "Massachusetts",
+        "zip": "69627"
+    },
+    "contact": {
+        "phone": "(499)533-4042",
+        "servicePhone": "800218081"
+    },
+    "birthday": "2012-04-06",
+    "ip": "209.107.43.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Not win human off beautiful follow thing learn. Responsibility security information husband involve west. Between order project. Space science message letter street government air week.",
+        "bio": "Blood condition none check radio. Really drop any use listen issue green. Notice throw offer.\nReduce say research discover officer. Energy nearly animal risk. Forward just half year another rule."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
