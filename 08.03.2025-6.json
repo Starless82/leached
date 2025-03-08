@@ -1,0 +1,25 @@
+{
+    "name": "David Fernandez",
+    "age": 59,
+    "address": {
+        "street": "Rodriguez Cliffs",
+        "city": "New Angelatown",
+        "state": "Michigan",
+        "zip": "19019"
+    },
+    "contact": {
+        "phone": "(308)940-0504x29068",
+        "servicePhone": "800421307"
+    },
+    "birthday": "1966-15-07",
+    "ip": "86.162.195.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Allow change only start work. Gas continue sure lot see least force stage.",
+        "bio": "Continue imagine treat detail live smile low. Throw cultural wall of never drop measure. Enjoy say season.\nAppear opportunity smile back today size resource. Matter also green religious."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
