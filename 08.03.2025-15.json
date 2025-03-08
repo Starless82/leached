@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Jason Patrick DVM",
+    "age": 40,
+    "address": {
+        "street": "Beltran Plains",
+        "city": "New Johnmouth",
+        "state": "Tennessee",
+        "zip": "71571"
+    },
+    "contact": {
+        "phone": "+1-288-432-7242",
+        "servicePhone": "800475975"
+    },
+    "birthday": "1985-13-09",
+    "ip": "142.179.230.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Alone fly senior condition subject finish. Debate various wonder recent conference.\nWith age create. Send Congress training daughter. Relate response want color either tree again. Compare seat care.",
+        "bio": "Staff need but to. Certain hit individual deep assume within ground.\nProject yourself data north so draw many. Until money court on both state. Spring receive social nice shoulder wide wear boy."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
