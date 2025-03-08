@@ -1,0 +1,25 @@
+{
+    "name": "Kari Butler",
+    "age": 79,
+    "address": {
+        "street": "Campbell Knolls",
+        "city": "East Jennifer",
+        "state": "New York",
+        "zip": "78938"
+    },
+    "contact": {
+        "phone": "+1-706-444-2080x814",
+        "servicePhone": "800681081"
+    },
+    "birthday": "1946-18-08",
+    "ip": "201.93.164.15",
+    "foo": "bar",
+    "profile": {
+        "about": "These wait few true high wait author. Instead not hear.\nWhich move natural trouble. Service hospital because today. Its until trip commercial war small.",
+        "bio": "Show during fish resource show red some. Fund act go ago us."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
