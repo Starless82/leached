@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Grant",
+    "age": 84,
+    "address": {
+        "street": "Hull Landing",
+        "city": "Alexanderstad",
+        "state": "Florida",
+        "zip": "94654"
+    },
+    "contact": {
+        "phone": "(617)916-5345",
+        "servicePhone": "800258412"
+    },
+    "birthday": "1941-04-12",
+    "ip": "116.179.120.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Thank happen simply five sing. About arm suffer weight less first room. Without describe feel goal assume. Want fact occur consumer be since.",
+        "bio": "Coach guy short lose. At and friend dinner.\nVote artist else issue. Hear attorney throughout major. Mind try outside almost fill live. Treatment similar than compare side analysis before shoulder."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
