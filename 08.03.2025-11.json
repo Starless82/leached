@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Reeves",
+    "age": 82,
+    "address": {
+        "street": "Laura Points",
+        "city": "Johnstonview",
+        "state": "Delaware",
+        "zip": "02717"
+    },
+    "contact": {
+        "phone": "001-782-674-5978",
+        "servicePhone": "800174874"
+    },
+    "birthday": "1943-28-04",
+    "ip": "151.99.181.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Lead trial few. Sense final interest necessary.\nSerious lead require law. Course than reduce or relate company campaign east.\nWriter everybody marriage radio question. Western issue for word.",
+        "bio": "Such describe civil assume tough whose together. Skin star never past western building. Ground send part between information see degree drug."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
