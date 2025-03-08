@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Mcmahon DVM",
+    "age": 57,
+    "address": {
+        "street": "Amanda Bridge",
+        "city": "Teresaport",
+        "state": "New Mexico",
+        "zip": "90748"
+    },
+    "contact": {
+        "phone": "(698)687-9049x973",
+        "servicePhone": "800572859"
+    },
+    "birthday": "1968-07-12",
+    "ip": "67.205.12.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Table morning coach program coach. Front word early art reason. Return stay between different already.",
+        "bio": "Drop month southern soon local. Day consumer number money.\nPlayer new sound think because light history. Our must drop letter challenge night help."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
