@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Holmes",
+    "age": 110,
+    "address": {
+        "street": "Harris Streets",
+        "city": "New Henryborough",
+        "state": "Delaware",
+        "zip": "58427"
+    },
+    "contact": {
+        "phone": "(650)653-6598x6895",
+        "servicePhone": "800282654"
+    },
+    "birthday": "1915-15-03",
+    "ip": "112.75.201.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Somebody responsibility edge fall quickly entire. Past well player north democratic. Position argue approach question.\nReach one stock often. Small course set although reduce southern mind.",
+        "bio": "Then area may memory kitchen. Throw special environmental specific. Population area environment two find fall."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
