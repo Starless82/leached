@@ -1,0 +1,25 @@
+{
+    "name": "Mia Williams",
+    "age": 7,
+    "address": {
+        "street": "Jeffery Forest",
+        "city": "Lichester",
+        "state": "Utah",
+        "zip": "55916"
+    },
+    "contact": {
+        "phone": "(513)254-1607x306",
+        "servicePhone": "800233927"
+    },
+    "birthday": "2018-27-09",
+    "ip": "140.98.191.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Respond marriage word street. Eye identify kid chair big better. Medical tax peace husband hold born. Capital collection right toward hour.",
+        "bio": "Consider country only. Newspaper who cause view simply.\nWest somebody second management paper. People necessary finish item wide. Four speech doctor fire education movement machine whole."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
