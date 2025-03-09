@@ -1,0 +1,25 @@
+{
+    "name": "Bryan Long",
+    "age": 107,
+    "address": {
+        "street": "Christie Lock",
+        "city": "New Keith",
+        "state": "New Jersey",
+        "zip": "30996"
+    },
+    "contact": {
+        "phone": "633-457-3906x2873",
+        "servicePhone": "800353091"
+    },
+    "birthday": "1918-26-11",
+    "ip": "7.193.222.163",
+    "foo": "bar",
+    "profile": {
+        "about": "General on while various. Professor yeah care so thousand dog sense.\nShe once author theory coach subject. Mean research option drug personal turn.",
+        "bio": "Join simple situation entire. Home thing film night audience question will. Go student magazine second maintain explain real discussion."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
