@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Hinton",
+    "age": 10,
+    "address": {
+        "street": "Green Camp",
+        "city": "East Timothy",
+        "state": "Nebraska",
+        "zip": "79314"
+    },
+    "contact": {
+        "phone": "(523)376-2188",
+        "servicePhone": "800458853"
+    },
+    "birthday": "2015-02-08",
+    "ip": "12.57.74.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Person agreement too smile attorney draw receive. Detail no staff investment administration image anyone.\nLate accept line reason. Power note far provide must. Report relate mother.",
+        "bio": "Crime run wide themselves even something send. Reach deal should smile.\nProgram bar week public easy. Always though fly might candidate."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
