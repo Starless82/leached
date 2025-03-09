@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Curtis",
+    "age": 17,
+    "address": {
+        "street": "Cindy Crossroad",
+        "city": "Tonyaside",
+        "state": "Utah",
+        "zip": "88237"
+    },
+    "contact": {
+        "phone": "(623)224-1018x6953",
+        "servicePhone": "800182479"
+    },
+    "birthday": "2008-18-07",
+    "ip": "32.249.29.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Fire view hospital benefit low in expert. Hope friend of national.\nEvent wait itself word.\nScientist instead pretty page floor yeah put same. Star including floor.",
+        "bio": "Perhaps serve street all accept. Physical commercial short even generation surface. Likely full develop party institution movie daughter."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
