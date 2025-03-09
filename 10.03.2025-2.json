@@ -1,0 +1,25 @@
+{
+    "name": "Linda White",
+    "age": 10,
+    "address": {
+        "street": "Fry Plains",
+        "city": "Dawntown",
+        "state": "Mississippi",
+        "zip": "68309"
+    },
+    "contact": {
+        "phone": "7166055827",
+        "servicePhone": "800185425"
+    },
+    "birthday": "2015-06-04",
+    "ip": "22.58.7.0",
+    "foo": "bar",
+    "profile": {
+        "about": "College build about. Threat plant environment.\nWithout air this often run guy make can. Successful act study top both.",
+        "bio": "Thousand no professional thousand score present south we. Dark soon see Congress.\nFast because born half fly nor. Radio true ten example himself. Let pick candidate participant opportunity heavy."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
