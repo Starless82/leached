@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Owens",
+    "age": 102,
+    "address": {
+        "street": "Amy Wells",
+        "city": "Fowlerchester",
+        "state": "Ohio",
+        "zip": "18458"
+    },
+    "contact": {
+        "phone": "(287)764-9527x119",
+        "servicePhone": "800522474"
+    },
+    "birthday": "1923-17-04",
+    "ip": "16.191.144.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Artist sing radio wonder above special.\nEnergy interesting or or argue. Hear serve hair per.\nFly business end. Good challenge pay million. Various financial sense front that product model.",
+        "bio": "Him cover idea morning play. Wonder site continue.\nStar TV foot. Store generation ask heavy sit body mother.\nPick quickly since board. Once effort relationship newspaper."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
