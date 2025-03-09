@@ -1,0 +1,25 @@
+{
+    "name": "Michael Braun",
+    "age": 93,
+    "address": {
+        "street": "David Shore",
+        "city": "East Gregory",
+        "state": "Michigan",
+        "zip": "26007"
+    },
+    "contact": {
+        "phone": "869.467.4686x992",
+        "servicePhone": "800554955"
+    },
+    "birthday": "1932-21-01",
+    "ip": "38.242.144.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Health talk consumer. Pretty scientist oil work. Garden win dinner lawyer collection. Professor center listen.\nDay strategy eat until blue. Someone above character ago.",
+        "bio": "Eight color party. Evidence worker understand TV.\nThis star although theory. Late course marriage among page stop."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
