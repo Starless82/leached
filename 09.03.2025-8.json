@@ -1,0 +1,25 @@
+{
+    "name": "Christina May",
+    "age": 103,
+    "address": {
+        "street": "Rodgers Haven",
+        "city": "South Carolland",
+        "state": "Minnesota",
+        "zip": "63961"
+    },
+    "contact": {
+        "phone": "(503)710-6932x22108",
+        "servicePhone": "800875864"
+    },
+    "birthday": "1922-08-10",
+    "ip": "176.56.93.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Green billion family. Child food raise.\nFree lay rule maybe whole.\nRich like say hope. Hair you finish citizen sit. Must choose design still he answer south.",
+        "bio": "Behind director occur word. Tv during admit late tell figure above. Sport avoid himself necessary find.\nThreat must one reason money what do. Sister enough threat.\nDeep third color significant event."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
