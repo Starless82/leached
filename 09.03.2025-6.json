@@ -1,0 +1,25 @@
+{
+    "name": "Chelsea Pollard",
+    "age": 45,
+    "address": {
+        "street": "Nicole Drive",
+        "city": "Whiteton",
+        "state": "New Hampshire",
+        "zip": "33043"
+    },
+    "contact": {
+        "phone": "696.943.7220",
+        "servicePhone": "800456877"
+    },
+    "birthday": "1980-24-01",
+    "ip": "163.16.175.82",
+    "foo": "bar",
+    "profile": {
+        "about": "More good nor beautiful movement until. Possible forget different land break radio economic.\nArtist catch size cover environmental. Member source about both positive company along.",
+        "bio": "Nation paper table identify. First parent especially then lot he room. Recent loss whether form paper send."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
