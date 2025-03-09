@@ -1,0 +1,25 @@
+{
+    "name": "Ernest Duncan",
+    "age": 83,
+    "address": {
+        "street": "Watson Walk",
+        "city": "Geraldport",
+        "state": "Nevada",
+        "zip": "16863"
+    },
+    "contact": {
+        "phone": "001-447-778-4004",
+        "servicePhone": "800503166"
+    },
+    "birthday": "1942-26-04",
+    "ip": "169.40.252.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Song out thing hand item risk today. Popular dark financial hot own cover vote. Service old mind ask value agree.",
+        "bio": "Somebody level drive current entire major I. Sit data enter international stuff direction describe. Mouth discover itself drug past administration."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
