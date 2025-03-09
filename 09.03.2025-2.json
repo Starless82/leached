@@ -1,0 +1,25 @@
+{
+    "name": "Scott Long",
+    "age": 3,
+    "address": {
+        "street": "Veronica Spur",
+        "city": "West Mark",
+        "state": "Mississippi",
+        "zip": "70463"
+    },
+    "contact": {
+        "phone": "(411)255-0079x612",
+        "servicePhone": "800430072"
+    },
+    "birthday": "2022-28-06",
+    "ip": "188.32.83.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Spend pretty way control within free. Ask our system simple world fish now. Boy cut so accept.",
+        "bio": "Scene draw school market author determine.\nAuthor relate maintain thus article everyone. Drug long alone."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
