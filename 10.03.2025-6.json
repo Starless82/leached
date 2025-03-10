@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Stevens",
+    "age": 58,
+    "address": {
+        "street": "Kim Brook",
+        "city": "Lake Edwin",
+        "state": "New Jersey",
+        "zip": "95465"
+    },
+    "contact": {
+        "phone": "001-625-845-1454x80258",
+        "servicePhone": "800157052"
+    },
+    "birthday": "1967-10-11",
+    "ip": "109.32.116.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Organization evening growth successful final. Movement machine economy quite beyond become listen.\nAgent check kind here interview. Necessary quality cultural realize because travel.",
+        "bio": "Value way charge peace my send. Term own before especially central understand."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
