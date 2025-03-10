@@ -1,0 +1,25 @@
+{
+    "name": "Penny Simpson",
+    "age": 109,
+    "address": {
+        "street": "Steven Vista",
+        "city": "Port Audrey",
+        "state": "Tennessee",
+        "zip": "37745"
+    },
+    "contact": {
+        "phone": "001-620-548-2028",
+        "servicePhone": "800298612"
+    },
+    "birthday": "1916-06-01",
+    "ip": "175.29.219.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Answer argue project various. Week campaign common image firm. Until poor difficult skill.\nConcern all else find reveal beautiful. Clear claim side see politics.",
+        "bio": "Phone when painting like. However society current serious system five anything. Develop possible discover soldier live major question hold."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
