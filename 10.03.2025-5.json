@@ -1,0 +1,25 @@
+{
+    "name": "Steve Smith",
+    "age": 59,
+    "address": {
+        "street": "Ingram Via",
+        "city": "South Gregory",
+        "state": "Kentucky",
+        "zip": "16701"
+    },
+    "contact": {
+        "phone": "405.736.5242",
+        "servicePhone": "800391747"
+    },
+    "birthday": "1966-23-03",
+    "ip": "151.40.84.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Whole common explain whose father similar bank. Authority what authority. Garden stock perhaps head.\nSpecial hair partner record let only thus. Tonight money few response oil.",
+        "bio": "Do song dog where unit. Cup relate cup. Almost somebody major law on.\nOfficer add any ask avoid. Where similar decision cost. Important be four."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
