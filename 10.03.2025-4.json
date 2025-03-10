@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Washington",
+    "age": 43,
+    "address": {
+        "street": "Brian Squares",
+        "city": "Listad",
+        "state": "West Virginia",
+        "zip": "49731"
+    },
+    "contact": {
+        "phone": "688.660.3664x3864",
+        "servicePhone": "800974744"
+    },
+    "birthday": "1982-13-11",
+    "ip": "187.156.34.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Agency enjoy seat institution more example. Wish miss someone military majority.\nOutside past provide.",
+        "bio": "Operation need wide. According some million until middle score. Image bill arrive play eat. War TV describe all sense.\nCase piece fight long such who. Physical cover just my."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
