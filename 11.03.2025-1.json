@@ -1,0 +1,25 @@
+{
+    "name": "Christian Lee",
+    "age": 29,
+    "address": {
+        "street": "Douglas Mills",
+        "city": "Jacksonview",
+        "state": "Wyoming",
+        "zip": "83379"
+    },
+    "contact": {
+        "phone": "499.394.3971x550",
+        "servicePhone": "800028967"
+    },
+    "birthday": "1996-09-09",
+    "ip": "161.135.58.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Add modern large war agree half. See direction like lead week growth thank. Who carry receive send bank full. Able position option feel leader company.",
+        "bio": "Address ago heart bring strategy. Station laugh truth represent thousand former. Never here sea focus."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
