@@ -1,0 +1,25 @@
+{
+    "name": "Kristin Howard",
+    "age": 92,
+    "address": {
+        "street": "Sampson Lane",
+        "city": "Patriciatown",
+        "state": "Alaska",
+        "zip": "01473"
+    },
+    "contact": {
+        "phone": "323.966.0049",
+        "servicePhone": "800649431"
+    },
+    "birthday": "1933-29-09",
+    "ip": "162.7.54.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Successful accept offer trouble. Effort increase back firm individual.\nHeavy southern stock according the painting. Effect figure bad one difference respond.",
+        "bio": "Group much require off man. Have able team public practice on."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
