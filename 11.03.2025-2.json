@@ -1,0 +1,25 @@
+{
+    "name": "Michael Lee",
+    "age": 106,
+    "address": {
+        "street": "Fuller Coves",
+        "city": "West Joshua",
+        "state": "Georgia",
+        "zip": "01311"
+    },
+    "contact": {
+        "phone": "+1-867-890-2943x3126",
+        "servicePhone": "800554189"
+    },
+    "birthday": "1919-03-09",
+    "ip": "114.129.195.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Image ball study morning there husband.\nThroughout without grow good common official big. Prove indicate above me main outside far.",
+        "bio": "Enjoy people control you large. Common say mission life from western.\nSystem Congress poor power. Successful performance international interest. Out meeting make summer break laugh camera."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
