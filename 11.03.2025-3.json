@@ -1,0 +1,25 @@
+{
+    "name": "Regina Jefferson",
+    "age": 5,
+    "address": {
+        "street": "Adams Station",
+        "city": "Odonnellville",
+        "state": "South Dakota",
+        "zip": "45776"
+    },
+    "contact": {
+        "phone": "+1-613-218-6002x5187",
+        "servicePhone": "800970458"
+    },
+    "birthday": "2020-12-07",
+    "ip": "109.103.128.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Forget media involve painting. Sell economic theory clear serve. Return sort wear big.\nTotal relate firm over.",
+        "bio": "Boy lay special center speak. Method weight performance.\nEconomic sign part reason garden area. Number since hour. Building experience contain lead yet bar respond."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
