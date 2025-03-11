@@ -1,0 +1,25 @@
+{
+    "name": "Jason Rhodes",
+    "age": 113,
+    "address": {
+        "street": "Santos Extensions",
+        "city": "Shannonside",
+        "state": "Maine",
+        "zip": "63445"
+    },
+    "contact": {
+        "phone": "001-893-438-8414",
+        "servicePhone": "800459076"
+    },
+    "birthday": "1912-08-05",
+    "ip": "9.112.134.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Run improve live economic mouth research while. Method accept your plant red more. Lose board woman use management occur thing.",
+        "bio": "True usually keep human. Account open senior spend. Bank mention really simple.\nExist risk attack reason determine money college entire. Hot sound ever begin gas wife major."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
