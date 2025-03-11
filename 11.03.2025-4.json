@@ -1,0 +1,25 @@
+{
+    "name": "William Black",
+    "age": 26,
+    "address": {
+        "street": "Dennis Locks",
+        "city": "Karinastad",
+        "state": "New York",
+        "zip": "33648"
+    },
+    "contact": {
+        "phone": "+1-991-676-9154x593",
+        "servicePhone": "800105495"
+    },
+    "birthday": "1999-20-10",
+    "ip": "194.55.168.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Trial in other positive future name young step. Gas size pay up stop those available kitchen. With likely employee instead.\nSize police enough bit.\nBook anything the whole. West fear wait body sport.",
+        "bio": "Return return return line tough recent eat. Economy stock build production worry such stuff east. Really visit among teach."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
