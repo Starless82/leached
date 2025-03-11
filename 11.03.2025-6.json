@@ -1,0 +1,25 @@
+{
+    "name": "Rita Rhodes",
+    "age": 89,
+    "address": {
+        "street": "Turner View",
+        "city": "Patriciafurt",
+        "state": "Rhode Island",
+        "zip": "69656"
+    },
+    "contact": {
+        "phone": "598.440.5141x3188",
+        "servicePhone": "800339725"
+    },
+    "birthday": "1936-23-07",
+    "ip": "58.254.108.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Four stop kitchen discuss.\nStage energy seven. Smile fear leave. Lay myself spring recently if need today.\nInterest successful among ten evidence. Series idea important reveal get fear there.",
+        "bio": "Ball often station support. None want produce activity property sea agency. Kitchen discuss mean realize bit."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
