@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Smith",
+    "age": 76,
+    "address": {
+        "street": "Courtney Oval",
+        "city": "Catherinefort",
+        "state": "Kentucky",
+        "zip": "09251"
+    },
+    "contact": {
+        "phone": "417-431-3433x7845",
+        "servicePhone": "800867291"
+    },
+    "birthday": "1949-02-09",
+    "ip": "202.116.254.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Purpose method all build worry west. Consider buy tend simply.\nDefense authority idea brother large clearly at. Late adult final national through.",
+        "bio": "Evidence thing better tax story season ago. Cause popular even analysis herself activity executive. Something yet then dream political begin."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
