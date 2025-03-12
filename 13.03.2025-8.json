@@ -1,0 +1,25 @@
+{
+    "name": "Justin Stanley",
+    "age": 99,
+    "address": {
+        "street": "Pham Lakes",
+        "city": "Lake Thomasmouth",
+        "state": "New Mexico",
+        "zip": "82243"
+    },
+    "contact": {
+        "phone": "001-567-505-9368x0292",
+        "servicePhone": "800306154"
+    },
+    "birthday": "1926-10-06",
+    "ip": "25.252.144.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Figure think common yet identify. Claim tell reduce drug activity discover represent bed. Of example reveal cost camera yourself.",
+        "bio": "Card through performance direction plan through field. No agreement American. Theory box about discover work."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
