@@ -1,0 +1,25 @@
+{
+    "name": "Jesse Howell",
+    "age": 29,
+    "address": {
+        "street": "Chambers Gardens",
+        "city": "Emilyborough",
+        "state": "Mississippi",
+        "zip": "68010"
+    },
+    "contact": {
+        "phone": "001-910-949-4546x933",
+        "servicePhone": "800400808"
+    },
+    "birthday": "1996-03-08",
+    "ip": "146.212.127.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Might however up live article adult throughout. Crime mind seven training cell morning. Big air item establish to majority moment affect.",
+        "bio": "Front myself official another require. Able see sit.\nBody finally seven spring situation. Actually why exist participant clearly look. Marriage professor mouth have opportunity writer."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
