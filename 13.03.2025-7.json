@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Jacob Cline",
+    "age": 15,
+    "address": {
+        "street": "Watson Tunnel",
+        "city": "Georgebury",
+        "state": "Texas",
+        "zip": "08555"
+    },
+    "contact": {
+        "phone": "838.465.6947",
+        "servicePhone": "800316821"
+    },
+    "birthday": "2010-23-03",
+    "ip": "143.117.88.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Student tree early ahead. Step which say part lay. None beautiful new material certainly long other.\nStudy skin baby success also. Hear build give color. Safe gas really group.",
+        "bio": "Candidate four young industry.\nMember purpose whether laugh big. Scene out government word.\nUsually because term visit rest fire well. Fire gun design trip see prepare catch."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
