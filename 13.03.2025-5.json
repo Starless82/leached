@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Fields",
+    "age": 77,
+    "address": {
+        "street": "Tyler Court",
+        "city": "Jasmineberg",
+        "state": "Idaho",
+        "zip": "47724"
+    },
+    "contact": {
+        "phone": "412.254.6816x15868",
+        "servicePhone": "800766958"
+    },
+    "birthday": "1948-23-01",
+    "ip": "7.109.81.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Pull story year let as TV point deep. Moment reality suddenly sister. Fill beat and.\nProbably artist skill American. American you forward deep. Fine the rather quickly admit.",
+        "bio": "My long writer minute party item.\nSubject during research prove maintain cultural. Well actually though huge office kid next. Whose new son always indeed lay. Seven myself north top."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
