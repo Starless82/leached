@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Guerrero",
+    "age": 10,
+    "address": {
+        "street": "Johnny Tunnel",
+        "city": "Hunterton",
+        "state": "Hawaii",
+        "zip": "72203"
+    },
+    "contact": {
+        "phone": "(773)645-1568",
+        "servicePhone": "800358941"
+    },
+    "birthday": "2015-19-01",
+    "ip": "90.79.38.10",
+    "foo": "bar",
+    "profile": {
+        "about": "In remain artist continue authority. Article statement six material. Discussion American inside bill.\nSay only identify great scene research summer. Develop save world defense single.",
+        "bio": "Car economic loss the military almost. Professional read another pattern."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
