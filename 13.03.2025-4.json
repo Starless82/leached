@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Wilson",
+    "age": 36,
+    "address": {
+        "street": "Novak Viaduct",
+        "city": "West Andrewville",
+        "state": "California",
+        "zip": "02092"
+    },
+    "contact": {
+        "phone": "001-786-947-0640x98811",
+        "servicePhone": "800713040"
+    },
+    "birthday": "1989-15-08",
+    "ip": "150.209.118.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Next bill war. Tree close back force minute voice. Cup gun reality design.\nDream why project sit. Effort who benefit trouble.",
+        "bio": "Debate position off in same. Fly throughout task organization company. Matter resource history piece give financial."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
