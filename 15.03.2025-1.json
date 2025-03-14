@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Brittney Jones",
+    "age": 53,
+    "address": {
+        "street": "Gina Spurs",
+        "city": "Kevinside",
+        "state": "Louisiana",
+        "zip": "33960"
+    },
+    "contact": {
+        "phone": "001-341-410-9533",
+        "servicePhone": "800135986"
+    },
+    "birthday": "1972-23-10",
+    "ip": "164.160.179.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Boy right baby decision grow check bit beautiful. Most good we green. What night sort good identify move.\nDecide within kid. Federal year discuss world. What pay policy figure.",
+        "bio": "Green fill note agency morning new prove. Game other discuss note. Receive huge voice her religious blood.\nStore kid everybody together ago. Key you easy. Different church may office stay ok player."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
