@@ -1,0 +1,25 @@
+{
+    "name": "Brianna Craig",
+    "age": 83,
+    "address": {
+        "street": "Simpson Ridge",
+        "city": "Port Benjamin",
+        "state": "Hawaii",
+        "zip": "99448"
+    },
+    "contact": {
+        "phone": "001-930-405-5995x329",
+        "servicePhone": "800011158"
+    },
+    "birthday": "1942-06-12",
+    "ip": "61.219.160.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Common range administration at responsibility stop.",
+        "bio": "Figure able year put drop right wish. Again reality leg produce.\nBad test two generation hundred. Threat age check increase always. Point deal face let car fear.\nList consumer create structure do."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
