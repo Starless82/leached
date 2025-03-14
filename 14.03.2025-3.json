@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Ward",
+    "age": 8,
+    "address": {
+        "street": "Ryan Overpass",
+        "city": "Johnburgh",
+        "state": "Delaware",
+        "zip": "16907"
+    },
+    "contact": {
+        "phone": "+1-699-890-2644",
+        "servicePhone": "800592796"
+    },
+    "birthday": "2017-23-06",
+    "ip": "180.146.57.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Stand open continue agency factor rule. Late experience partner program plant effect get. Her decide identify win.",
+        "bio": "Floor should site little eat expert despite. Former plant career section hit activity large.\nSpecial resource draw. Cell federal police rise situation politics."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
