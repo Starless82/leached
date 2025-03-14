@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Brown",
+    "age": 17,
+    "address": {
+        "street": "Andrea Green",
+        "city": "Lake Markview",
+        "state": "North Carolina",
+        "zip": "88294"
+    },
+    "contact": {
+        "phone": "001-569-223-2206x42302",
+        "servicePhone": "800059855"
+    },
+    "birthday": "2008-11-03",
+    "ip": "147.245.14.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Avoid teach face argue away. College get his happy miss.\nLate since peace defense. Thank at step those democratic ever public. Defense song common box now.",
+        "bio": "Onto special dog enjoy. Across manage high. About hour professional bit.\nQuickly general serve rather staff suddenly. Wide heart no. Explain four daughter huge buy nature."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
