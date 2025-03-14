@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Meyer",
+    "age": 63,
+    "address": {
+        "street": "Justin Rapids",
+        "city": "Evansberg",
+        "state": "Iowa",
+        "zip": "22973"
+    },
+    "contact": {
+        "phone": "766-209-9434",
+        "servicePhone": "800334378"
+    },
+    "birthday": "1962-23-03",
+    "ip": "22.81.202.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Cover hospital receive position. Energy phone identify someone item public full.\nBank measure significant pay parent control. Scientist themselves Democrat perform daughter culture upon.",
+        "bio": "Raise water imagine night training goal agreement. If push office choose.\nLike very collection authority produce. Year key magazine fast bed movement."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
