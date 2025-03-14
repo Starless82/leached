@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Jimmy Charles PhD",
+    "age": 17,
+    "address": {
+        "street": "Ward Causeway",
+        "city": "Davidfurt",
+        "state": "Tennessee",
+        "zip": "40852"
+    },
+    "contact": {
+        "phone": "001-215-481-0726x136",
+        "servicePhone": "800503506"
+    },
+    "birthday": "2008-18-09",
+    "ip": "157.18.46.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Pay movie as floor word. Author between or responsibility realize myself name group. Choice why have easy.\nThree activity program election positive act any past. Assume decide board turn.",
+        "bio": "Professional environment popular drive firm enjoy party. Ago reduce above.\nPlan least ability term garden dog. Per information dog."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
