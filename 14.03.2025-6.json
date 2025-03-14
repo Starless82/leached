@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Barry",
+    "age": 48,
+    "address": {
+        "street": "Lambert Crossing",
+        "city": "Cordovachester",
+        "state": "Delaware",
+        "zip": "87499"
+    },
+    "contact": {
+        "phone": "696.778.2412",
+        "servicePhone": "800793512"
+    },
+    "birthday": "1977-08-10",
+    "ip": "40.17.75.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Computer at its exactly fear. Vote life respond majority.\nSummer last crime central rather western with eye. Major song culture price cover. Without PM skin third nothing everything skill.",
+        "bio": "Minute indeed hundred amount protect. Pick door thank.\nAgainst light dream business life final."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
