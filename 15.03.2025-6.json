@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Osborne",
+    "age": 48,
+    "address": {
+        "street": "Ellis Mount",
+        "city": "Lydiaton",
+        "state": "Massachusetts",
+        "zip": "89237"
+    },
+    "contact": {
+        "phone": "273-957-0159x7089",
+        "servicePhone": "800065370"
+    },
+    "birthday": "1977-02-03",
+    "ip": "182.145.79.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Kitchen serious sort at arm always. Special lose understand among each. Administration very six final hold describe gas.",
+        "bio": "Very may road write lawyer return.\nSociety market great. Cultural collection as energy seat positive. Truth treat on still nor."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
