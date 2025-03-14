@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Davis",
+    "age": 74,
+    "address": {
+        "street": "White Junction",
+        "city": "Christopherbury",
+        "state": "Montana",
+        "zip": "29775"
+    },
+    "contact": {
+        "phone": "723-955-9058x74835",
+        "servicePhone": "800812541"
+    },
+    "birthday": "1951-13-10",
+    "ip": "119.22.71.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Help cup wide professor seem. Argue for gas.\nMany recent kind this. Mention draw laugh need season. Above again home could work business usually generation.",
+        "bio": "Yes show station soon. Large usually here whose morning truth.\nStock computer resource little. Lawyer rest return television sell."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
