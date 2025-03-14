@@ -1,0 +1,25 @@
+{
+    "name": "Miguel Lyons",
+    "age": 90,
+    "address": {
+        "street": "Hayes Ridges",
+        "city": "Erikabury",
+        "state": "Missouri",
+        "zip": "57310"
+    },
+    "contact": {
+        "phone": "+1-489-423-0930x20089",
+        "servicePhone": "800199711"
+    },
+    "birthday": "1935-03-08",
+    "ip": "219.91.184.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Prove enter as. Degree tend nature him painting far. Race simple act reality agreement.",
+        "bio": "Whom kind pattern design. Choose common state off no woman effort field. Someone listen he significant loss later."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
