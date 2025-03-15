@@ -1,0 +1,25 @@
+{
+    "name": "Wayne Griffin",
+    "age": 104,
+    "address": {
+        "street": "Nicholas Crossing",
+        "city": "Williamsview",
+        "state": "Mississippi",
+        "zip": "30902"
+    },
+    "contact": {
+        "phone": "+1-446-340-7934x6395",
+        "servicePhone": "800994735"
+    },
+    "birthday": "1921-28-09",
+    "ip": "134.121.120.245",
+    "foo": "bar",
+    "profile": {
+        "about": "However present find second. Meet there arm.\nNear amount right necessary. Series mind rise affect believe argue our.\nIndustry I artist first product green somebody.\nBad young myself heart.",
+        "bio": "Coach computer education same language education. Data garden people debate. Thus discover resource third member."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
