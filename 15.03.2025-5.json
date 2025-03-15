@@ -1,0 +1,25 @@
+{
+    "name": "Amy Walton",
+    "age": 110,
+    "address": {
+        "street": "Matthew Extension",
+        "city": "East Tonyfort",
+        "state": "Michigan",
+        "zip": "06190"
+    },
+    "contact": {
+        "phone": "+1-927-201-7555",
+        "servicePhone": "800919223"
+    },
+    "birthday": "1915-01-08",
+    "ip": "220.43.242.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Go raise money share.\nWall will director. Interesting night ready.\nDespite technology create picture course space then. So floor entire when mention actually across floor.",
+        "bio": "His consider leader himself customer question. Eye player letter open red natural.\nBed few finally grow. Reveal available present behavior per. Popular foreign letter serve water example."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
