@@ -1,0 +1,25 @@
+{
+    "name": "Derek Jones",
+    "age": 96,
+    "address": {
+        "street": "Foley Pine",
+        "city": "Baileymouth",
+        "state": "Georgia",
+        "zip": "54962"
+    },
+    "contact": {
+        "phone": "001-616-231-1399",
+        "servicePhone": "800286130"
+    },
+    "birthday": "1929-12-11",
+    "ip": "75.181.206.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Edge media or test. Because new picture like. Lose interview garden little task.\nOfficer less dark child third know together. Stage he national. Show together quite.",
+        "bio": "Car sit experience seat seat. Manage test specific guy. Yeah poor where method never challenge.\nLaugh event possible discover new focus. School ten begin blood miss happen least executive."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
