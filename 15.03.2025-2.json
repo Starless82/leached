@@ -1,0 +1,25 @@
+{
+    "name": "Megan Garcia",
+    "age": 59,
+    "address": {
+        "street": "Burton Terrace",
+        "city": "New Andrealand",
+        "state": "Virginia",
+        "zip": "77117"
+    },
+    "contact": {
+        "phone": "566-517-3835x29011",
+        "servicePhone": "800712811"
+    },
+    "birthday": "1966-26-05",
+    "ip": "118.178.147.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Point step ever network. Discover rest area site west Democrat who.\nModel color his method pressure face. Clear party way lot arrive why realize.",
+        "bio": "Nearly in garden option. Another spend region better game. Former project modern own magazine side glass."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
