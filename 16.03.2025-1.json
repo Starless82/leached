@@ -1,0 +1,25 @@
+{
+    "name": "Jesus Cardenas",
+    "age": 34,
+    "address": {
+        "street": "Heather Row",
+        "city": "South Jeremymouth",
+        "state": "Ohio",
+        "zip": "82390"
+    },
+    "contact": {
+        "phone": "001-524-853-6101",
+        "servicePhone": "800401035"
+    },
+    "birthday": "1991-19-01",
+    "ip": "139.34.88.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Available could same model.\nThis gun morning admit wife account painting cell. Across writer book position president fast certain. Which great must.",
+        "bio": "Country shoulder sort data note around create. Until tough key per. Event account learn section win action beyond."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
