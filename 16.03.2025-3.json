@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Wilson",
+    "age": 1,
+    "address": {
+        "street": "Cole Squares",
+        "city": "Port Kelseyshire",
+        "state": "New Hampshire",
+        "zip": "98441"
+    },
+    "contact": {
+        "phone": "490-532-5888x441",
+        "servicePhone": "800951690"
+    },
+    "birthday": "2024-19-01",
+    "ip": "157.54.79.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Simply capital apply light. Material woman project bed player up. Inside another agency read daughter military.",
+        "bio": "Apply world area listen rule. Control technology decade right.\nMovie operation away fact serve billion recent. Manage officer good yeah activity long."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
