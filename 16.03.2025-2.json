@@ -1,0 +1,25 @@
+{
+    "name": "Ann Thompson",
+    "age": 8,
+    "address": {
+        "street": "Robert Place",
+        "city": "Port Trevor",
+        "state": "Idaho",
+        "zip": "42346"
+    },
+    "contact": {
+        "phone": "(429)391-8550x78059",
+        "servicePhone": "800128398"
+    },
+    "birthday": "2017-19-05",
+    "ip": "69.27.148.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Cold score south whether. Somebody the together score professional including. Start agreement ready magazine opportunity tree we.",
+        "bio": "They house difference sound way. Who growth use partner suddenly half television star."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
