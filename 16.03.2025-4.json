@@ -1,0 +1,25 @@
+{
+    "name": "Christy Miller DVM",
+    "age": 99,
+    "address": {
+        "street": "Jasmine Courts",
+        "city": "Thompsonchester",
+        "state": "Vermont",
+        "zip": "26509"
+    },
+    "contact": {
+        "phone": "001-859-818-0498x7573",
+        "servicePhone": "800193703"
+    },
+    "birthday": "1926-30-10",
+    "ip": "41.54.252.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Build that you service yard official. Far north no performance today hard. Beyond know me paper upon happy.",
+        "bio": "Author end color fire interview provide. Country allow just clearly stage capital hit staff. Answer television gas person.\nAbove above theory view lot society like."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
