@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Molina",
+    "age": 59,
+    "address": {
+        "street": "Brooke Estates",
+        "city": "South Kimberly",
+        "state": "Georgia",
+        "zip": "21825"
+    },
+    "contact": {
+        "phone": "6856713001",
+        "servicePhone": "800934613"
+    },
+    "birthday": "1966-05-05",
+    "ip": "43.57.20.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Voice partner employee firm strategy network. Own race idea both. From finally senior because challenge.\nOver expert life civil five. Magazine discussion property.",
+        "bio": "Magazine several report lot race. Eye concern successful role of how seven. Three section consider home sort he.\nHow raise set year. World every dinner TV truth responsibility."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
