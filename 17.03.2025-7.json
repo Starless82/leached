@@ -1,0 +1,25 @@
+{
+    "name": "Lori Frazier",
+    "age": 97,
+    "address": {
+        "street": "Lopez Course",
+        "city": "New Marilyn",
+        "state": "Colorado",
+        "zip": "99510"
+    },
+    "contact": {
+        "phone": "524.368.1963x230",
+        "servicePhone": "800433897"
+    },
+    "birthday": "1928-05-10",
+    "ip": "126.127.1.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Three radio center evening beat. Control president adult step likely thousand four. Upon quickly customer road statement wonder.",
+        "bio": "Make break study left might board goal. She white ready but institution big various range. Example lot writer cell act.\nGas tonight population provide throw once. It line floor."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
