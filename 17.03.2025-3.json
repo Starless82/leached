@@ -1,0 +1,25 @@
+{
+    "name": "Regina Nelson",
+    "age": 65,
+    "address": {
+        "street": "Victor Fork",
+        "city": "South Jeremyhaven",
+        "state": "Illinois",
+        "zip": "93138"
+    },
+    "contact": {
+        "phone": "001-281-952-4659x1179",
+        "servicePhone": "800849034"
+    },
+    "birthday": "1960-01-11",
+    "ip": "45.28.74.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Threat capital large image clear particularly Mr. Attack structure professor.",
+        "bio": "Rule above line community radio president. Deep fund always career defense middle.\nSomeone reveal thank culture. Let old wrong. Fly family that win political security itself."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
