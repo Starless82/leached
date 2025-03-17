@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Prince",
+    "age": 32,
+    "address": {
+        "street": "William Lights",
+        "city": "South Gregoryton",
+        "state": "Kentucky",
+        "zip": "70888"
+    },
+    "contact": {
+        "phone": "7223982667",
+        "servicePhone": "800335631"
+    },
+    "birthday": "1993-08-02",
+    "ip": "75.174.201.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Area blue authority push. Security close yet despite light but. Window scene main ahead carry deep phone.\nChoose tonight agree.\nStreet office me by human. Day them trade wind hair wear score.",
+        "bio": "On development lose serve remain cover pull. Off understand clearly provide where.\nPurpose line letter against poor. Out than analysis quite arm degree.\nProvide common a actually indeed."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
