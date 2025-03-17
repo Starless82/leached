@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Gaines",
+    "age": 19,
+    "address": {
+        "street": "Thomas Extension",
+        "city": "North Erica",
+        "state": "Oregon",
+        "zip": "77211"
+    },
+    "contact": {
+        "phone": "532.269.6378x5484",
+        "servicePhone": "800017167"
+    },
+    "birthday": "2006-29-12",
+    "ip": "134.232.178.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Might order feeling against system.\nOil dinner ability when reduce catch your. Occur would product born police bill season. Cover cause article.",
+        "bio": "Increase put reveal recognize action protect. Become move person agency position while. Would science everything various use their unit."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
