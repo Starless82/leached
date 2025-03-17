@@ -1,0 +1,25 @@
+{
+    "name": "Richard Brown",
+    "age": 89,
+    "address": {
+        "street": "Jackson Summit",
+        "city": "Charleston",
+        "state": "Maryland",
+        "zip": "73188"
+    },
+    "contact": {
+        "phone": "971-442-1418x0268",
+        "servicePhone": "800001157"
+    },
+    "birthday": "1936-19-06",
+    "ip": "43.187.133.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Relate green almost reason. Budget face still better sit cup.\nScience budget experience. Seem arrive not fall alone let.",
+        "bio": "Last start one sure. If father feeling experience whole official experience.\nOperation of other probably. Health everybody citizen often."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
