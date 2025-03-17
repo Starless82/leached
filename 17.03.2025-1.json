@@ -1,0 +1,25 @@
+{
+    "name": "David Oliver",
+    "age": 69,
+    "address": {
+        "street": "Julie Drive",
+        "city": "Brendabury",
+        "state": "Hawaii",
+        "zip": "57416"
+    },
+    "contact": {
+        "phone": "2108734915",
+        "servicePhone": "800432751"
+    },
+    "birthday": "1956-09-10",
+    "ip": "61.22.192.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Law again great. Good indeed writer all discussion program eye radio.\nDaughter similar degree ago specific. Various yourself left particular tell another need.",
+        "bio": "Investment cut both these red head race. Improve seven leader street morning involve term newspaper."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
