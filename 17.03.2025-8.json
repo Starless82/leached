@@ -1,0 +1,25 @@
+{
+    "name": "Laura Baird",
+    "age": 84,
+    "address": {
+        "street": "Nguyen Station",
+        "city": "Petersonborough",
+        "state": "Maryland",
+        "zip": "84033"
+    },
+    "contact": {
+        "phone": "(386)532-9420x5654",
+        "servicePhone": "800378130"
+    },
+    "birthday": "1941-13-02",
+    "ip": "57.200.234.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Player Republican memory environment. Message treatment far administration evidence how customer. Executive already will unit blue or.",
+        "bio": "Nature amount your deal behavior hair owner. Camera artist there enjoy hour rather less wish. Necessary wonder market style without action why. While wind thus young this present third."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
