@@ -1,0 +1,25 @@
+{
+    "name": "Richard Butler",
+    "age": 36,
+    "address": {
+        "street": "Amy Lakes",
+        "city": "Chrisside",
+        "state": "Indiana",
+        "zip": "13588"
+    },
+    "contact": {
+        "phone": "+1-493-674-9955x1721",
+        "servicePhone": "800479141"
+    },
+    "birthday": "1989-14-05",
+    "ip": "25.43.147.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Buy own yard note fall.\nSmile professor house without paper peace professional. Although room sell bad size TV election.\nCitizen catch present none break author represent. Do buy modern market wait.",
+        "bio": "Available current sea everybody security great section. Nation gas laugh recent. South financial investment lay begin large. Whether carry article firm message."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
