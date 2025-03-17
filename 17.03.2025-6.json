@@ -1,0 +1,25 @@
+{
+    "name": "David Montoya",
+    "age": 62,
+    "address": {
+        "street": "Paul Inlet",
+        "city": "Jonesshire",
+        "state": "Delaware",
+        "zip": "61578"
+    },
+    "contact": {
+        "phone": "922.227.9670",
+        "servicePhone": "800608885"
+    },
+    "birthday": "1963-23-08",
+    "ip": "123.105.216.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Rest east later special place someone pressure. She total information step authority example field.",
+        "bio": "Concern body agree difficult society. Strategy usually sound door. Seek still manager.\nMiss sister easy economic avoid material pressure. Out always understand history report friend tough."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
