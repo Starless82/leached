@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Wright",
+    "age": 83,
+    "address": {
+        "street": "Bailey Gateway",
+        "city": "East Kimberlystad",
+        "state": "New Mexico",
+        "zip": "79978"
+    },
+    "contact": {
+        "phone": "001-909-998-7593",
+        "servicePhone": "800224004"
+    },
+    "birthday": "1942-12-12",
+    "ip": "122.27.12.199",
+    "foo": "bar",
+    "profile": {
+        "about": "However describe all at reason. I scientist modern medical black energy. Business improve use look economic reason.",
+        "bio": "Stand skin near science find. Ability administration board. Two drop floor behavior research center since."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
