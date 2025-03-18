@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Payne",
+    "age": 43,
+    "address": {
+        "street": "Steve Forest",
+        "city": "Allenburgh",
+        "state": "Mississippi",
+        "zip": "64963"
+    },
+    "contact": {
+        "phone": "566-514-4772",
+        "servicePhone": "800528396"
+    },
+    "birthday": "1982-01-09",
+    "ip": "23.132.128.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Cut ball skill. Quickly little four people save wind picture. One mouth movement full trade up north.",
+        "bio": "I on truth pattern moment word hear. Speak artist central.\nAge image century better section. Compare subject country strong with person."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
