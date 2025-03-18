@@ -1,0 +1,25 @@
+{
+    "name": "Ethan Jenkins",
+    "age": 43,
+    "address": {
+        "street": "Timothy Views",
+        "city": "Lake George",
+        "state": "Maine",
+        "zip": "74042"
+    },
+    "contact": {
+        "phone": "+1-486-925-1170x75517",
+        "servicePhone": "800454043"
+    },
+    "birthday": "1982-30-08",
+    "ip": "166.234.182.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Box order set fast area edge fine short. Manager example north leave painting cut full.\nPass past magazine space under yeah own. Wife write clearly foot create newspaper clearly citizen.",
+        "bio": "Company book article do open factor moment. Become professional source measure best write stock analysis."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
