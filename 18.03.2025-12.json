@@ -1,0 +1,25 @@
+{
+    "name": "Jeanette Ewing",
+    "age": 92,
+    "address": {
+        "street": "Debra Meadows",
+        "city": "Garyborough",
+        "state": "Michigan",
+        "zip": "41084"
+    },
+    "contact": {
+        "phone": "6184896213",
+        "servicePhone": "800204006"
+    },
+    "birthday": "1933-11-11",
+    "ip": "59.127.97.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Knowledge behind until might hotel. Defense day I born evening. Road yet also wind he raise.",
+        "bio": "Indicate walk hard place. Social though third follow how few care. Crime off else believe allow."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
