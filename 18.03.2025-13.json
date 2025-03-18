@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Sanchez",
+    "age": 96,
+    "address": {
+        "street": "Christopher Meadow",
+        "city": "Crossport",
+        "state": "New Hampshire",
+        "zip": "33880"
+    },
+    "contact": {
+        "phone": "(342)487-9191",
+        "servicePhone": "800126819"
+    },
+    "birthday": "1929-15-07",
+    "ip": "138.67.152.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Attention song first make group.\nHis hope still available. Single both must say turn positive well. Threat carry cost various tree glass foreign.\nBox short without turn.",
+        "bio": "Process international wind vote administration. Point board remember range ball sing single. Argue become music budget."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
