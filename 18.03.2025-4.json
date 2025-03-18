@@ -1,0 +1,25 @@
+{
+    "name": "Blake Ferguson",
+    "age": 7,
+    "address": {
+        "street": "Christine Highway",
+        "city": "South Stephanie",
+        "state": "South Carolina",
+        "zip": "98600"
+    },
+    "contact": {
+        "phone": "392.988.3643x522",
+        "servicePhone": "800987491"
+    },
+    "birthday": "2018-13-09",
+    "ip": "59.177.197.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Go in religious total me provide ball break. Police certain north way.\nChoose bank health arrive it. Property fight along than. Build gun beat soldier.",
+        "bio": "Sign level write during more many up.\nArm across happy dinner machine move down around.\nAnswer it race other effect. Goal beyond process cup than admit series.\nHair school network trade base few."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
