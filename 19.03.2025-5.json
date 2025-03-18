@@ -1,0 +1,25 @@
+{
+    "name": "Alisha Willis",
+    "age": 68,
+    "address": {
+        "street": "Michael Lodge",
+        "city": "Port Theresa",
+        "state": "Colorado",
+        "zip": "15972"
+    },
+    "contact": {
+        "phone": "001-301-677-8784x0609",
+        "servicePhone": "800534563"
+    },
+    "birthday": "1957-19-05",
+    "ip": "99.25.78.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Sea tax worry song service. Send look its community series.\nArea above return television. Article four white else modern wife share officer.",
+        "bio": "Case seek technology suggest until rather. Road hand because share. Reflect network possible. Public save high.\nTravel feel however there. Health wrong wish film."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
