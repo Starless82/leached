@@ -1,0 +1,25 @@
+{
+    "name": "Dana Lewis",
+    "age": 43,
+    "address": {
+        "street": "Jasmine Neck",
+        "city": "Acostaton",
+        "state": "Maryland",
+        "zip": "73531"
+    },
+    "contact": {
+        "phone": "+1-214-976-7661x0058",
+        "servicePhone": "800880411"
+    },
+    "birthday": "1982-23-05",
+    "ip": "102.169.40.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Explain shake cause. Teacher speech bring culture organization miss agreement. Through direction paper in ask election.\nShould adult fly real onto lay resource throw. Law central conference maintain.",
+        "bio": "Person truth me attack bad certain figure. Term report standard mean collection mean free perhaps. Knowledge animal project woman image hope."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
