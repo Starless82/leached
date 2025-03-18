@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Gallagher",
+    "age": 85,
+    "address": {
+        "street": "Wilkins Extensions",
+        "city": "Wilcoxstad",
+        "state": "Maryland",
+        "zip": "86137"
+    },
+    "contact": {
+        "phone": "+1-701-780-3585",
+        "servicePhone": "800689412"
+    },
+    "birthday": "1940-29-10",
+    "ip": "156.179.136.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Concern opportunity next entire charge energy. Necessary as hour kitchen turn direction include. Audience modern ball instead others despite course.",
+        "bio": "Table affect expect. Life consider house bring tend. To develop account this expert.\nBit own perhaps since foot growth also cup. Here another parent today."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
