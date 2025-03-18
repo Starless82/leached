@@ -1,0 +1,25 @@
+{
+    "name": "David Dalton",
+    "age": 112,
+    "address": {
+        "street": "Lee Mews",
+        "city": "Mooreland",
+        "state": "Utah",
+        "zip": "43343"
+    },
+    "contact": {
+        "phone": "(983)909-9074x7043",
+        "servicePhone": "800302279"
+    },
+    "birthday": "1913-26-03",
+    "ip": "6.56.89.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Father together development five man focus. Thousand news these identify serve above. I mean it discussion.\nRoom change decide can. Almost crime culture figure fine yourself.",
+        "bio": "Sure series serious second. Drive protect offer opportunity all surface. One bring message mission six forget."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
