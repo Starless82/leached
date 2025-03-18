@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Reynolds",
+    "age": 87,
+    "address": {
+        "street": "Melanie Crest",
+        "city": "Martinmouth",
+        "state": "Pennsylvania",
+        "zip": "89906"
+    },
+    "contact": {
+        "phone": "502.392.3706",
+        "servicePhone": "800757976"
+    },
+    "birthday": "1938-10-12",
+    "ip": "23.52.100.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Face push without like window. Major laugh concern huge measure seem girl film. Fast picture walk better.\nCollege beyond anything tax. Together choice present later necessary minute economy become.",
+        "bio": "Ok create young whose ask practice option. International morning north discussion coach stand. Minute argue artist card reach. Painting identify school sure more fine."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
