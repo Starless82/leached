@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Webb",
+    "age": 76,
+    "address": {
+        "street": "Brown Burgs",
+        "city": "Lake Janice",
+        "state": "Minnesota",
+        "zip": "57768"
+    },
+    "contact": {
+        "phone": "001-696-972-0462x569",
+        "servicePhone": "800824544"
+    },
+    "birthday": "1949-03-11",
+    "ip": "218.172.108.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Area five media mention such low. Walk another move.\nChurch lot education go. And point song night member apply appear compare. Money life news determine.",
+        "bio": "Play another perform guess back personal study. Account vote present sort indeed ahead suddenly program. Office high group compare. Way bag level job threat official."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
