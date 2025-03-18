@@ -1,0 +1,25 @@
+{
+    "name": "Jason Wilson",
+    "age": 97,
+    "address": {
+        "street": "Daniel Key",
+        "city": "West Nancytown",
+        "state": "Wyoming",
+        "zip": "97391"
+    },
+    "contact": {
+        "phone": "(749)339-3218x107",
+        "servicePhone": "800157849"
+    },
+    "birthday": "1928-05-04",
+    "ip": "167.214.62.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Action time artist million drug. Matter image quality five relate girl. Study behind political voice red chance.",
+        "bio": "Top strategy their bar nearly. Herself eat window local member hear. Among hour in ten education effect financial exist."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
