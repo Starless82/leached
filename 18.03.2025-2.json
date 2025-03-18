@@ -1,0 +1,25 @@
+{
+    "name": "Brian Klein",
+    "age": 0,
+    "address": {
+        "street": "Taylor Via",
+        "city": "Lake Kirk",
+        "state": "North Carolina",
+        "zip": "86942"
+    },
+    "contact": {
+        "phone": "333-993-0328",
+        "servicePhone": "800752582"
+    },
+    "birthday": "2025-01-01",
+    "ip": "1.169.24.82",
+    "foo": "bar",
+    "profile": {
+        "about": "West life focus group. Partner such though relationship east.",
+        "bio": "Should before third society development let evening. Second two alone."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
