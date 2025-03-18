@@ -1,0 +1,25 @@
+{
+    "name": "Alicia Powell",
+    "age": 65,
+    "address": {
+        "street": "Green Plains",
+        "city": "East Antoniochester",
+        "state": "Virginia",
+        "zip": "14773"
+    },
+    "contact": {
+        "phone": "(431)389-1468",
+        "servicePhone": "800043285"
+    },
+    "birthday": "1960-09-03",
+    "ip": "134.217.53.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Very animal by edge although. Quite reality teacher others economy if. Republican industry tell.\nCoach realize although miss everybody four. Money message cause forward north catch.",
+        "bio": "Include itself agency identify. Head add change create president.\nMaterial question discover nearly expert. Discussion answer lose house former eight."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
