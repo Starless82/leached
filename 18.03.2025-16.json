@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Grant",
+    "age": 77,
+    "address": {
+        "street": "Davis Ways",
+        "city": "Adamville",
+        "state": "Idaho",
+        "zip": "07796"
+    },
+    "contact": {
+        "phone": "001-581-767-8695x28634",
+        "servicePhone": "800203667"
+    },
+    "birthday": "1948-05-01",
+    "ip": "191.119.125.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Quickly free safe response around wide. Customer condition themselves try.",
+        "bio": "Figure military side knowledge significant. Find easy rest explain.\nSummer far stand data before family weight. Evidence station ten what. During senior whatever discover but this."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
