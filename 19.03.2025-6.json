@@ -1,0 +1,25 @@
+{
+    "name": "Cheryl Rivera",
+    "age": 26,
+    "address": {
+        "street": "Castro Route",
+        "city": "Martinfort",
+        "state": "North Carolina",
+        "zip": "87013"
+    },
+    "contact": {
+        "phone": "322-340-5189x816",
+        "servicePhone": "800856293"
+    },
+    "birthday": "1999-30-11",
+    "ip": "192.215.86.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Enough design resource account tax southern. East represent turn brother simple research brother strategy. Recently soon available evening know learn.",
+        "bio": "Mission book whether enough matter receive care. Ability half under price protect.\nStore stuff laugh point material white. Card who discussion size benefit simply purpose. Couple they yet instead."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
