@@ -1,0 +1,25 @@
+{
+    "name": "Parker Skinner",
+    "age": 4,
+    "address": {
+        "street": "Tracy Points",
+        "city": "New Alexander",
+        "state": "New Jersey",
+        "zip": "13277"
+    },
+    "contact": {
+        "phone": "+1-243-494-6642x541",
+        "servicePhone": "800752891"
+    },
+    "birthday": "2021-05-07",
+    "ip": "100.13.3.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Read daughter industry land politics. Surface both find. Left charge compare thousand choose.\nBit interview system less tax only himself. Body appear major summer week hard though.",
+        "bio": "Large not bring shoulder. My foreign blood half situation sound south. Culture fly discover find.\nAgency it remain. Economic culture near source throughout record include."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
