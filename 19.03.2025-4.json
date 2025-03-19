@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Taylor MD",
+    "age": 76,
+    "address": {
+        "street": "Chad Mews",
+        "city": "Sarachester",
+        "state": "Montana",
+        "zip": "01169"
+    },
+    "contact": {
+        "phone": "001-949-374-3877x215",
+        "servicePhone": "800730464"
+    },
+    "birthday": "1949-29-07",
+    "ip": "64.78.127.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Nature discussion account. Use prove company account administration herself outside my. One yes black enjoy environmental.",
+        "bio": "International like receive baby risk yard center. Direction hope manage light simple always. Cell girl age father.\nCommunity base son paper into Republican. Cell page apply inside board question."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
