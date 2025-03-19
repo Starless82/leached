@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Johnson",
+    "age": 93,
+    "address": {
+        "street": "Diaz Cove",
+        "city": "West Curtis",
+        "state": "Iowa",
+        "zip": "06592"
+    },
+    "contact": {
+        "phone": "(659)244-9139",
+        "servicePhone": "800295605"
+    },
+    "birthday": "1932-10-01",
+    "ip": "73.5.141.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Behavior manager receive senior article professional development. True ball very agree direction rest.",
+        "bio": "Series offer change various tend walk. Standard condition during indeed defense increase. National idea generation later."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
