@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Green",
+    "age": 12,
+    "address": {
+        "street": "Miller Glen",
+        "city": "Castilloton",
+        "state": "Washington",
+        "zip": "62042"
+    },
+    "contact": {
+        "phone": "222-757-1398x445",
+        "servicePhone": "800352110"
+    },
+    "birthday": "2013-23-06",
+    "ip": "207.178.206.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Beyond chance right wide over site. Visit may south want task community listen son.",
+        "bio": "Impact anyone action cut when protect a. Onto individual government hour.\nTake series project go Democrat. Cup go left state test should lay start."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
