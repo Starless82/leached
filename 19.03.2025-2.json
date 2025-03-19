@@ -1,0 +1,25 @@
+{
+    "name": "Rickey Williams",
+    "age": 75,
+    "address": {
+        "street": "Tran Stravenue",
+        "city": "New David",
+        "state": "South Carolina",
+        "zip": "59325"
+    },
+    "contact": {
+        "phone": "001-800-972-0586x85206",
+        "servicePhone": "800313955"
+    },
+    "birthday": "1950-23-08",
+    "ip": "31.168.4.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Few even low early customer now. Take foreign six student.\nSort son exactly plant sure among. Line all mission myself sell ground. Grow avoid family worker difficult can job.",
+        "bio": "Television something amount member half this. Past owner per seem again. Either car concern experience indeed individual.\nAttorney woman dog watch attorney involve job. Political top everybody truth."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
