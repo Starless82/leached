@@ -1,0 +1,25 @@
+{
+    "name": "Phillip Jones",
+    "age": 49,
+    "address": {
+        "street": "Porter Pike",
+        "city": "West Rebecca",
+        "state": "Missouri",
+        "zip": "34580"
+    },
+    "contact": {
+        "phone": "+1-684-941-3383x150",
+        "servicePhone": "800417033"
+    },
+    "birthday": "1976-31-01",
+    "ip": "166.236.184.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Table ask nice social when system perhaps. Sound foreign door foot manager loss especially. News sense back executive one choice.",
+        "bio": "This figure eight movement event task. Speech stay long room current explain remain.\nArt like prepare national tend newspaper. Discussion actually along. Suffer pretty computer outside."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
