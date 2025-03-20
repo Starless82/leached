@@ -1,0 +1,25 @@
+{
+    "name": "Peter Mccarthy",
+    "age": 84,
+    "address": {
+        "street": "Amanda Cove",
+        "city": "Port Aliciaside",
+        "state": "Iowa",
+        "zip": "91623"
+    },
+    "contact": {
+        "phone": "766.470.9011x5119",
+        "servicePhone": "800314688"
+    },
+    "birthday": "1941-21-11",
+    "ip": "100.173.168.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Also security modern camera next produce. Development pass continue theory former investment watch.\nSomebody interview source picture. Apply new now how strategy yard.",
+        "bio": "Run song several practice rule task stay. Part perhaps security. Anyone gas perform inside especially same bank. Fast could line."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
