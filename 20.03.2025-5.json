@@ -1,0 +1,25 @@
+{
+    "name": "Mark Harrison",
+    "age": 60,
+    "address": {
+        "street": "Barrett Island",
+        "city": "West Ashley",
+        "state": "Texas",
+        "zip": "85111"
+    },
+    "contact": {
+        "phone": "863-301-2905",
+        "servicePhone": "800333741"
+    },
+    "birthday": "1965-01-03",
+    "ip": "95.213.68.122",
+    "foo": "bar",
+    "profile": {
+        "about": "So executive who difficult explain despite become either. One music Mr dark address represent. Face all hair class.\nFinally begin free. Season them fight walk police western.",
+        "bio": "Important pattern protect game open song. Media set gas treatment hot foreign policy. Lose share staff decision activity only operation growth.\nHer help mean sit."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
