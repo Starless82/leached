@@ -1,0 +1,25 @@
+{
+    "name": "William Craig",
+    "age": 55,
+    "address": {
+        "street": "Hernandez Summit",
+        "city": "West Shannon",
+        "state": "Michigan",
+        "zip": "53908"
+    },
+    "contact": {
+        "phone": "603.559.6518x782",
+        "servicePhone": "800727428"
+    },
+    "birthday": "1970-09-11",
+    "ip": "28.210.174.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Support yes speech dream.\nYet class just one course during force.",
+        "bio": "These around billion pretty. Shake stuff important region receive since. Piece watch must news season road.\nStep forget manage sort. Air able green figure both."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
