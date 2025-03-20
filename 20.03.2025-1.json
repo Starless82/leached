@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Wilson",
+    "age": 10,
+    "address": {
+        "street": "Kerr Cliff",
+        "city": "North Drewhaven",
+        "state": "New Hampshire",
+        "zip": "95492"
+    },
+    "contact": {
+        "phone": "001-545-641-9636x06789",
+        "servicePhone": "800013277"
+    },
+    "birthday": "2015-07-02",
+    "ip": "157.76.211.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Election case alone project record against. Development heart here quickly behavior.\nAddress same find order book. With field work return.",
+        "bio": "On green major course son all father above. Nature anyone white what eat scientist. Body per man see large lose later."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
