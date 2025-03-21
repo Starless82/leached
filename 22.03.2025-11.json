@@ -1,0 +1,25 @@
+{
+    "name": "Maria Underwood",
+    "age": 30,
+    "address": {
+        "street": "John Meadow",
+        "city": "Joshuaberg",
+        "state": "Michigan",
+        "zip": "81768"
+    },
+    "contact": {
+        "phone": "(379)291-6728x638",
+        "servicePhone": "800450278"
+    },
+    "birthday": "1995-23-09",
+    "ip": "214.62.14.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Total bit well recently director. Six body outside tend dark federal series.\nManagement until see dinner. Can somebody which personal official. Ago challenge floor indicate.",
+        "bio": "Small wear page decision choose. Within stop among nice.\nMother inside value let. Will nearly road maybe management right respond. Relate Congress value loss ball probably."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
