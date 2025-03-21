@@ -1,0 +1,25 @@
+{
+    "name": "Tara Harrison",
+    "age": 51,
+    "address": {
+        "street": "Fritz Port",
+        "city": "New Ashley",
+        "state": "Vermont",
+        "zip": "45858"
+    },
+    "contact": {
+        "phone": "989-324-1519x804",
+        "servicePhone": "800643929"
+    },
+    "birthday": "1974-19-11",
+    "ip": "143.184.146.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Now phone see. Hard parent always establish song mind be. Choose forget company significant on list space.",
+        "bio": "Amount head group father. Member key PM increase scene somebody every. Involve always small pattern skill Mr upon.\nReality degree leg rise organization western. Stand air reach support central about."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
