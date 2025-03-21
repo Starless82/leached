@@ -1,0 +1,25 @@
+{
+    "name": "Isaiah Jordan",
+    "age": 114,
+    "address": {
+        "street": "Walker Spur",
+        "city": "New Seantown",
+        "state": "Nebraska",
+        "zip": "70509"
+    },
+    "contact": {
+        "phone": "334.831.9919",
+        "servicePhone": "800975404"
+    },
+    "birthday": "1911-12-06",
+    "ip": "169.68.246.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Someone president do section little hit. Young already moment whatever author.",
+        "bio": "Less that American form drive. Increase radio suffer per. Television oil movie fine order weight much role."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
