@@ -1,0 +1,25 @@
+{
+    "name": "Jason Diaz",
+    "age": 104,
+    "address": {
+        "street": "Peterson Orchard",
+        "city": "Keithhaven",
+        "state": "Illinois",
+        "zip": "25742"
+    },
+    "contact": {
+        "phone": "301.655.5137",
+        "servicePhone": "800887962"
+    },
+    "birthday": "1921-14-08",
+    "ip": "81.99.176.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Relationship author scientist. Positive purpose here happy must table hair. Tree sometimes race.",
+        "bio": "Everyone whom professor charge both many pass. Career ask international store give part.\nHotel as where dog oil. Pay key consumer kind culture economic."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
