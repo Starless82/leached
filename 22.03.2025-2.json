@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Shah",
+    "age": 100,
+    "address": {
+        "street": "Lindsey Court",
+        "city": "Crystalport",
+        "state": "Minnesota",
+        "zip": "36335"
+    },
+    "contact": {
+        "phone": "865-598-9687",
+        "servicePhone": "800337032"
+    },
+    "birthday": "1925-10-04",
+    "ip": "219.162.228.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Defense number every pressure citizen. Finally management perhaps citizen time find onto style. Forget lay it difference.\nStory current physical quality history assume. Enter provide crime be.",
+        "bio": "List wrong note he. Discussion majority candidate manage recent state room.\nInterest trade us while free. See thing just affect everything leg listen. Great future tonight even."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
