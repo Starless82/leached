@@ -1,0 +1,25 @@
+{
+    "name": "Kristina Turner",
+    "age": 77,
+    "address": {
+        "street": "Traci Stream",
+        "city": "Emilyview",
+        "state": "New Jersey",
+        "zip": "22617"
+    },
+    "contact": {
+        "phone": "986-545-1902x826",
+        "servicePhone": "800921778"
+    },
+    "birthday": "1948-20-12",
+    "ip": "143.231.149.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Form rock treatment. Action or best see.\nKind lay think degree magazine degree produce. Class huge space step step ahead instead.",
+        "bio": "Data follow hour agent anyone. Both natural society price part baby true above.\nTable remember several trial. Light participant least represent. Laugh heavy view poor."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
