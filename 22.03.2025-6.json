@@ -1,0 +1,25 @@
+{
+    "name": "Kaitlin Sandoval",
+    "age": 0,
+    "address": {
+        "street": "Vanessa Throughway",
+        "city": "Pearsonville",
+        "state": "Oregon",
+        "zip": "08979"
+    },
+    "contact": {
+        "phone": "801-320-5191",
+        "servicePhone": "800955531"
+    },
+    "birthday": "2025-04-08",
+    "ip": "161.94.229.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Thing week born couple ok its soon. Cause why end already term history.\nBetween still test wide experience. Special development success in.\nCourt be everything they.",
+        "bio": "Test across quality trip cause. Film turn course small he leg already.\nMachine player everything painting modern kind. Military message offer security Democrat sell."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
