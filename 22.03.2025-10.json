@@ -1,0 +1,25 @@
+{
+    "name": "Brian Morgan",
+    "age": 47,
+    "address": {
+        "street": "Trevor Ville",
+        "city": "Douglasfort",
+        "state": "Nebraska",
+        "zip": "89842"
+    },
+    "contact": {
+        "phone": "664-679-7131x23399",
+        "servicePhone": "800734838"
+    },
+    "birthday": "1978-08-03",
+    "ip": "154.254.75.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Population force follow road. Subject leave forward. Exist process act. Sing might visit white that.\nBase sort employee painting feel several loss record. Ok manage him investment fish husband tell.",
+        "bio": "I majority quite week fly. Character story boy gun until hard.\nCarry same raise our about along with. Out treat main I important my very. Hand consider a who work color."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
