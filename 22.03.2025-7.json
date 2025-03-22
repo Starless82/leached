@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Benjamin Smith",
+    "age": 56,
+    "address": {
+        "street": "Thomas Forge",
+        "city": "Lake Natashahaven",
+        "state": "Nebraska",
+        "zip": "83111"
+    },
+    "contact": {
+        "phone": "+1-880-266-1106x78852",
+        "servicePhone": "800966643"
+    },
+    "birthday": "1969-27-02",
+    "ip": "28.150.208.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Along marriage heart police think. Since guy conference while nation.\nIn another skin near. Everything line report western race box air.",
+        "bio": "Watch bad art carry notice arrive. Attack officer ago dog.\nProduction student short health even memory environment by. Agreement cold collection majority. Authority one mission fight government."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
