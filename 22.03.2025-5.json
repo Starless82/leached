@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Stephen Ferguson",
+    "age": 70,
+    "address": {
+        "street": "Arthur Tunnel",
+        "city": "Edgarbury",
+        "state": "Illinois",
+        "zip": "25845"
+    },
+    "contact": {
+        "phone": "(917)530-3126",
+        "servicePhone": "800212158"
+    },
+    "birthday": "1955-01-10",
+    "ip": "6.127.42.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Certain traditional produce.\nSoldier onto charge might seem drop produce know. Pull require whole stage laugh field age field.",
+        "bio": "Mean receive your likely happy. In collection over clearly. Business girl for water.\nFew energy bring up. Control reason role half bank financial. Send site likely argue with writer development."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
