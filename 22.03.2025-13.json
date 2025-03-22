@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Travis",
+    "age": 17,
+    "address": {
+        "street": "Newman Heights",
+        "city": "West Lacey",
+        "state": "Montana",
+        "zip": "54187"
+    },
+    "contact": {
+        "phone": "(612)220-5272x5168",
+        "servicePhone": "800552253"
+    },
+    "birthday": "2008-26-11",
+    "ip": "5.202.237.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Conference low election. Where room with scientist evening speak. Then feel activity toward believe.\nEither gun third station end guy factor thought. Huge everything create.",
+        "bio": "His attention five memory. Happy boy wind present. Want meet always white already."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
