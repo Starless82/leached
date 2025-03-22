@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Lara",
+    "age": 91,
+    "address": {
+        "street": "Lawrence Lakes",
+        "city": "New Stephanieland",
+        "state": "Hawaii",
+        "zip": "15872"
+    },
+    "contact": {
+        "phone": "(448)565-1451x2790",
+        "servicePhone": "800623018"
+    },
+    "birthday": "1934-06-05",
+    "ip": "50.145.164.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Training remember believe structure. Key cultural interesting. Quickly just news newspaper positive reach actually officer. General event state over poor.\nTo body unit.",
+        "bio": "Woman one science adult consumer sell edge. Consumer event machine popular health. Cover follow art various scientist.\nForce size through forward bag. Instead reach agency always."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
