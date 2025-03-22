@@ -1,0 +1,25 @@
+{
+    "name": "Walter Hall",
+    "age": 23,
+    "address": {
+        "street": "Joseph Points",
+        "city": "West Bryanfurt",
+        "state": "North Dakota",
+        "zip": "20831"
+    },
+    "contact": {
+        "phone": "+1-853-991-6705x20985",
+        "servicePhone": "800140789"
+    },
+    "birthday": "2002-01-06",
+    "ip": "153.75.144.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Benefit site hospital every fall step water. Employee after stage always center ok. Environmental about offer five hold debate read.\nAir per although west staff fund.",
+        "bio": "Economy read weight recognize forget various gun. Difference reality while that today physical assume. Walk dinner teacher thought wonder though political nothing."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
