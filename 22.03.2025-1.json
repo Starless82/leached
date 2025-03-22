@@ -1,0 +1,25 @@
+{
+    "name": "Sean Ramirez",
+    "age": 26,
+    "address": {
+        "street": "Jason Inlet",
+        "city": "West Stephaniefort",
+        "state": "Georgia",
+        "zip": "84561"
+    },
+    "contact": {
+        "phone": "979.670.9902x313",
+        "servicePhone": "800084606"
+    },
+    "birthday": "1999-11-10",
+    "ip": "183.40.236.71",
+    "foo": "bar",
+    "profile": {
+        "about": "No music ahead address suddenly away. Where ready term glass peace.\nAge figure safe go second shoulder bank your. Admit three administration option wife whole. Address cup he cut across prove.",
+        "bio": "Action enter law help along yeah. Hear speech cover almost. Particular throw big. Effort speech television few like meet."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
