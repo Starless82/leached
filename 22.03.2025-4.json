@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Park",
+    "age": 33,
+    "address": {
+        "street": "Bailey Fields",
+        "city": "East Lauren",
+        "state": "Iowa",
+        "zip": "88141"
+    },
+    "contact": {
+        "phone": "+1-633-514-4147x89915",
+        "servicePhone": "800721526"
+    },
+    "birthday": "1992-01-09",
+    "ip": "80.189.206.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Low care side huge involve factor local. Quality light follow he wear water describe. Analysis across improve whether board shake.",
+        "bio": "Condition million operation use win have professor. Level Congress too require throughout treatment."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
