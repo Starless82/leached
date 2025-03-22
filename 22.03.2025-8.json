@@ -1,0 +1,25 @@
+{
+    "name": "David Obrien",
+    "age": 112,
+    "address": {
+        "street": "Carney Plains",
+        "city": "New Kirkfurt",
+        "state": "Arizona",
+        "zip": "21747"
+    },
+    "contact": {
+        "phone": "(901)552-8976x26118",
+        "servicePhone": "800789027"
+    },
+    "birthday": "1913-15-10",
+    "ip": "10.90.5.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Attention central model once health when. Its such relate success.\nSecurity very marriage customer away audience. Major beyond kind Democrat soldier.",
+        "bio": "Senior call simply decision fly. Effect land box together everybody difference.\nCase professor seek position. Lose drug my friend itself gun. Moment same major star truth both."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
