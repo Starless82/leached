@@ -1,0 +1,25 @@
+{
+    "name": "Janet Smith",
+    "age": 69,
+    "address": {
+        "street": "Gilbert Views",
+        "city": "Pamside",
+        "state": "Colorado",
+        "zip": "29274"
+    },
+    "contact": {
+        "phone": "+1-219-733-0151x4846",
+        "servicePhone": "800520486"
+    },
+    "birthday": "1956-09-07",
+    "ip": "7.35.47.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Significant nation and job subject dinner enjoy. Traditional at address and human. Set yard although position toward.\nSound book lose cold tough activity box. Support each image fill.",
+        "bio": "Response open popular interview market instead. Back Democrat apply behind red rather. Heavy challenge shake score order.\nPrevent citizen conference move it customer. She wonder discuss."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
