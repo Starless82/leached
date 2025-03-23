@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Sparks",
+    "age": 44,
+    "address": {
+        "street": "Hill Hills",
+        "city": "South Angelaville",
+        "state": "West Virginia",
+        "zip": "53787"
+    },
+    "contact": {
+        "phone": "9609238865",
+        "servicePhone": "800690928"
+    },
+    "birthday": "1981-13-11",
+    "ip": "149.248.26.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Vote indeed discover force right. Always son could lot.",
+        "bio": "Doctor president which ago red successful. Bring customer boy way kid politics big. Future hit newspaper letter.\nHistory establish almost piece throughout as line."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
