@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Hardy",
+    "age": 23,
+    "address": {
+        "street": "John Spur",
+        "city": "Josephfort",
+        "state": "Vermont",
+        "zip": "85320"
+    },
+    "contact": {
+        "phone": "738-347-1897x1669",
+        "servicePhone": "800285501"
+    },
+    "birthday": "2002-18-04",
+    "ip": "148.116.141.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Behavior subject experience way appear fly. Answer ahead number first truth entire anything scene. Its test generation teacher nearly this.\nMember north meeting reason. Senior book air.",
+        "bio": "Receive necessary loss nature remember whole toward trip. Various admit record while."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
