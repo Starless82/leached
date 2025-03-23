@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Vargas",
+    "age": 32,
+    "address": {
+        "street": "Kaitlyn Rapid",
+        "city": "East Paul",
+        "state": "Illinois",
+        "zip": "39068"
+    },
+    "contact": {
+        "phone": "665-895-0997",
+        "servicePhone": "800030980"
+    },
+    "birthday": "1993-09-08",
+    "ip": "137.124.211.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Plan work member quickly. Themselves north person evening. Report often realize my among.\nWatch blood among relationship. Office condition hit data bed themselves. Even how receive determine.",
+        "bio": "Ball protect we third. Industry road century including.\nType fine century method and ready her. Hold administration project already score."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
