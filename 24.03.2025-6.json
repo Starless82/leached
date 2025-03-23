@@ -1,0 +1,25 @@
+{
+    "name": "Julie Murphy",
+    "age": 75,
+    "address": {
+        "street": "Cassandra Forks",
+        "city": "West Chadton",
+        "state": "Hawaii",
+        "zip": "31483"
+    },
+    "contact": {
+        "phone": "(237)568-0420x47424",
+        "servicePhone": "800046840"
+    },
+    "birthday": "1950-08-08",
+    "ip": "208.46.83.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Old name travel front. Pm pay develop hear home wrong the. Every current hospital. Example item read water common player purpose.\nHave detail one improve. Poor despite must interest set cell allow.",
+        "bio": "Behavior leader design. Born say around manager ground. Strategy message fund between.\nArticle catch question five. Article art task some. Sometimes price miss evidence."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
