@@ -1,0 +1,25 @@
+{
+    "name": "Jon Mills",
+    "age": 78,
+    "address": {
+        "street": "Sanchez Ranch",
+        "city": "Doughertyborough",
+        "state": "Tennessee",
+        "zip": "99620"
+    },
+    "contact": {
+        "phone": "920-442-1515",
+        "servicePhone": "800199009"
+    },
+    "birthday": "1947-06-05",
+    "ip": "53.125.185.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Oil skill career idea major. Source ok price how unit.\nMilitary worry sea while less buy. Across no brother tell. Visit pay whom finish.\nSeem add every fall other behind. Down minute suggest two.",
+        "bio": "Watch would give pass nice save. Good study necessary continue. Tonight difficult method provide.\nJob during can be home nearly. Often on store including. Law remain available finish wind."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
