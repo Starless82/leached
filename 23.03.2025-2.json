@@ -1,0 +1,25 @@
+{
+    "name": "Barbara Henderson",
+    "age": 69,
+    "address": {
+        "street": "Kelley Pike",
+        "city": "Port Willie",
+        "state": "Maryland",
+        "zip": "21593"
+    },
+    "contact": {
+        "phone": "001-233-343-4945",
+        "servicePhone": "800884765"
+    },
+    "birthday": "1956-05-12",
+    "ip": "145.20.184.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Feel health traditional machine since people. Majority they of space property say from. Difficult behind much back.",
+        "bio": "Speech amount event turn. Chair and lawyer this strategy character. Argue understand laugh remain discover system."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
