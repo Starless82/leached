@@ -1,0 +1,25 @@
+{
+    "name": "Shawn Brown",
+    "age": 114,
+    "address": {
+        "street": "Church Skyway",
+        "city": "Rothshire",
+        "state": "Mississippi",
+        "zip": "62661"
+    },
+    "contact": {
+        "phone": "946-231-4789x24935",
+        "servicePhone": "800486025"
+    },
+    "birthday": "1911-24-06",
+    "ip": "125.33.20.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Message well officer huge reduce break. Of teacher above research situation deal hot. Collection Mrs last service.\nBrother beyond glass. Network friend fund start expect himself official.",
+        "bio": "Doctor car long minute. Number total else five heavy.\nInclude member foot enter keep. Station person arm fall keep act.\nTreat visit standard including build. Low talk may accept former."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
