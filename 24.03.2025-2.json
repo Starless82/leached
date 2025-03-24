@@ -1,0 +1,25 @@
+{
+    "name": "Toni Bass",
+    "age": 99,
+    "address": {
+        "street": "Dennis Common",
+        "city": "Richardsonchester",
+        "state": "Indiana",
+        "zip": "93006"
+    },
+    "contact": {
+        "phone": "001-902-351-5583x516",
+        "servicePhone": "800863148"
+    },
+    "birthday": "1926-13-08",
+    "ip": "162.174.38.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Foreign cost tree spend pass view. Article population her accept instead assume dinner.\nReality choice security consumer mention.",
+        "bio": "How parent certain member rest but toward. Outside big pressure personal building."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
