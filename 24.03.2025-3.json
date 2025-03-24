@@ -1,0 +1,25 @@
+{
+    "name": "Monica Smith",
+    "age": 17,
+    "address": {
+        "street": "Brittany Wells",
+        "city": "Port Dwayneburgh",
+        "state": "Indiana",
+        "zip": "94934"
+    },
+    "contact": {
+        "phone": "215.264.2045",
+        "servicePhone": "800515843"
+    },
+    "birthday": "2008-29-10",
+    "ip": "195.239.97.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Direction new tend conference. Officer center order movement when increase create. Society social believe weight on.",
+        "bio": "Air score federal wonder.\nDark represent true close. High radio feel four."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
