@@ -1,0 +1,25 @@
+{
+    "name": "Shelby Acosta",
+    "age": 0,
+    "address": {
+        "street": "Myers Lake",
+        "city": "West Bryan",
+        "state": "Idaho",
+        "zip": "06313"
+    },
+    "contact": {
+        "phone": "967-897-0007x9610",
+        "servicePhone": "800557918"
+    },
+    "birthday": "2025-30-08",
+    "ip": "88.57.245.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Letter edge home and another speech.\nVery with still wide. Decide first industry occur put seek. Better something dream defense ball market.",
+        "bio": "There receive physical mention letter it idea exist. Them couple theory heart walk past. Different range these simply old four. Year ok nothing prepare she."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
