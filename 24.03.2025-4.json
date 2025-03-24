@@ -1,0 +1,25 @@
+{
+    "name": "John Woods",
+    "age": 68,
+    "address": {
+        "street": "Khan Cape",
+        "city": "South Jennyfurt",
+        "state": "Nevada",
+        "zip": "47418"
+    },
+    "contact": {
+        "phone": "+1-835-487-5878x853",
+        "servicePhone": "800219836"
+    },
+    "birthday": "1957-20-10",
+    "ip": "73.191.194.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Require main financial challenge. Size seek grow kitchen. Stay development class record back.\nRelate pass politics coach. Door benefit challenge seat.",
+        "bio": "Total poor production American thing. Return risk hospital coach share. Difference including option news worker sell."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
