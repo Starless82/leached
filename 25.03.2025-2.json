@@ -1,0 +1,25 @@
+{
+    "name": "Michael Lee",
+    "age": 21,
+    "address": {
+        "street": "Jones Street",
+        "city": "South Adam",
+        "state": "Vermont",
+        "zip": "08513"
+    },
+    "contact": {
+        "phone": "612.993.9531x794",
+        "servicePhone": "800549377"
+    },
+    "birthday": "2004-14-11",
+    "ip": "192.125.193.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Know identify a baby out cold before. Concern idea think easy discussion memory up camera.\nState positive too. Ready even whom major simple today mother.",
+        "bio": "Social cold many adult population. If along past.\nPerform program medical south place discussion. Let note along car question happen behavior."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
