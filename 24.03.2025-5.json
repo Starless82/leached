@@ -1,0 +1,25 @@
+{
+    "name": "John Richards",
+    "age": 56,
+    "address": {
+        "street": "Megan Alley",
+        "city": "West Daniel",
+        "state": "Louisiana",
+        "zip": "53910"
+    },
+    "contact": {
+        "phone": "001-349-325-5513x0452",
+        "servicePhone": "800638967"
+    },
+    "birthday": "1969-18-12",
+    "ip": "93.152.123.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Education focus though bag structure. Before east those piece join approach.\nDraw bank administration leader. Common hotel movie record. Soldier same myself because my suffer final.",
+        "bio": "Draw teacher into. Memory box old scientist enter.\nFill tell week. Machine member although paper information American. Thank describe today space."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
