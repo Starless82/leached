@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Moore",
+    "age": 56,
+    "address": {
+        "street": "Julie Pass",
+        "city": "Vasquezton",
+        "state": "Rhode Island",
+        "zip": "96447"
+    },
+    "contact": {
+        "phone": "+1-200-374-5610",
+        "servicePhone": "800562234"
+    },
+    "birthday": "1969-15-09",
+    "ip": "189.190.120.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Four list part then attorney. Power half yard.\nCharge finally ability president road.\nMiss memory force truth.\nAssume prepare eye thousand language hour. Defense now garden produce fact senior live.",
+        "bio": "Student education nice get above. Call board PM give three. Physical success unit loss support wall. Man teach girl item month note."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
