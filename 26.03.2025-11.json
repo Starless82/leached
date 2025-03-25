@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Liu",
+    "age": 24,
+    "address": {
+        "street": "Gregory Bridge",
+        "city": "New Jillbury",
+        "state": "Maryland",
+        "zip": "21704"
+    },
+    "contact": {
+        "phone": "258-656-7199x669",
+        "servicePhone": "800720456"
+    },
+    "birthday": "2001-20-09",
+    "ip": "48.170.67.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Relationship effect down argue. Blue why another fast exist. Cold leader seek think feeling old national arrive. Memory question professor station customer almost number.",
+        "bio": "Security pay item five opportunity tend. Environmental group series hotel."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
