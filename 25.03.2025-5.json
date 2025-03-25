@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Wallace",
+    "age": 25,
+    "address": {
+        "street": "Luis Pass",
+        "city": "Bondville",
+        "state": "Louisiana",
+        "zip": "69156"
+    },
+    "contact": {
+        "phone": "(483)369-1859",
+        "servicePhone": "800265045"
+    },
+    "birthday": "2000-01-04",
+    "ip": "176.139.87.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Rather Mr keep fill behind threat short opportunity. Hour speech professional song bill song. Continue technology television only.\nThird determine thing analysis reach. Respond west almost.",
+        "bio": "Often state ask possible. Become without source know ago table."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
