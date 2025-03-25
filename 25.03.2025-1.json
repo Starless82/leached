@@ -1,0 +1,25 @@
+{
+    "name": "Amy Garcia",
+    "age": 8,
+    "address": {
+        "street": "Aguilar Mountains",
+        "city": "North Cory",
+        "state": "New Mexico",
+        "zip": "11218"
+    },
+    "contact": {
+        "phone": "703.756.5087x239",
+        "servicePhone": "800443884"
+    },
+    "birthday": "2017-07-05",
+    "ip": "3.132.172.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Prevent water within speak plan. State scientist involve statement list arrive sort. Responsibility employee sing seek answer focus. Real how practice consider development begin reduce.",
+        "bio": "Another about girl success. Measure service consider run. Already such space analysis.\nWeek all wind oil follow amount off. Consumer foot citizen whole watch region."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
