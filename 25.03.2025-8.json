@@ -1,0 +1,25 @@
+{
+    "name": "Christy Jackson",
+    "age": 55,
+    "address": {
+        "street": "Gardner Center",
+        "city": "Stephensfurt",
+        "state": "Minnesota",
+        "zip": "54491"
+    },
+    "contact": {
+        "phone": "913-759-0071x67842",
+        "servicePhone": "800551001"
+    },
+    "birthday": "1970-20-10",
+    "ip": "115.9.92.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Quickly want institution popular. Kind reason reduce five. Number produce Republican especially thing.\nComputer medical among suggest. Responsibility entire experience quite benefit system.",
+        "bio": "Exist mean rest carry weight under behind. Into hospital policy development table leg development. Training raise place side what."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
