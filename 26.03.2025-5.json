@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Miller",
+    "age": 0,
+    "address": {
+        "street": "Carrie Canyon",
+        "city": "Shelbyberg",
+        "state": "Iowa",
+        "zip": "23502"
+    },
+    "contact": {
+        "phone": "3216651838",
+        "servicePhone": "800883260"
+    },
+    "birthday": "2025-22-07",
+    "ip": "11.190.191.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Top kitchen field worry vote live eye. Present executive order agree movie positive.\nPick training key relate. Test you where anyone because. Reason drop simply later suffer.",
+        "bio": "Possible really coach. Seek different morning travel exactly. Good full spring thing."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
