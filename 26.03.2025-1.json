@@ -1,0 +1,25 @@
+{
+    "name": "Richard Lynch",
+    "age": 22,
+    "address": {
+        "street": "William Rapid",
+        "city": "West Neil",
+        "state": "California",
+        "zip": "42612"
+    },
+    "contact": {
+        "phone": "996.355.0512x2432",
+        "servicePhone": "800255773"
+    },
+    "birthday": "2003-12-06",
+    "ip": "19.76.28.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Above day century any present TV. Cover suffer yet then cause though commercial group.\nSit imagine low different. Sign five make drive government test. Address such food yeah add talk business.",
+        "bio": "Ground nothing keep my officer production someone purpose. Little young friend owner later."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
