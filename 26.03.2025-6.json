@@ -1,0 +1,25 @@
+{
+    "name": "Jeffery Gay",
+    "age": 89,
+    "address": {
+        "street": "Michael Mission",
+        "city": "East Tara",
+        "state": "West Virginia",
+        "zip": "69459"
+    },
+    "contact": {
+        "phone": "001-886-830-3962x74312",
+        "servicePhone": "800008843"
+    },
+    "birthday": "1936-19-09",
+    "ip": "161.144.168.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Want again despite board together put no. Training wait wind decade meet possible. During why western office tend impact action.",
+        "bio": "Brother forward against trip. Line mention produce receive. Great health measure who politics trial."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
