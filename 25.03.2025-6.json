@@ -1,0 +1,25 @@
+{
+    "name": "Yvonne Rodriguez",
+    "age": 22,
+    "address": {
+        "street": "Bowen Ports",
+        "city": "Willismouth",
+        "state": "Mississippi",
+        "zip": "02522"
+    },
+    "contact": {
+        "phone": "943-539-7761",
+        "servicePhone": "800690817"
+    },
+    "birthday": "2003-02-11",
+    "ip": "107.0.36.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Or sell tree edge man if. Human message executive. Building hear race management food. Property six understand bill family note artist something.\nWall describe race. Prevent fact her senior.",
+        "bio": "Top base we war worry last article.\nAlways but garden stuff accept. Next language west control degree yet. Gas site suffer impact police."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
