@@ -1,0 +1,25 @@
+{
+    "name": "Mary Anderson",
+    "age": 16,
+    "address": {
+        "street": "Garza Expressway",
+        "city": "Espinozaborough",
+        "state": "South Dakota",
+        "zip": "35583"
+    },
+    "contact": {
+        "phone": "7173541031",
+        "servicePhone": "800123690"
+    },
+    "birthday": "2009-06-05",
+    "ip": "181.23.176.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Could sit brother. Quality artist describe tend major discover television.\nWatch detail table condition. What hard number close. Team station career per provide first.",
+        "bio": "Year write evening environmental father particularly down. Opportunity course natural. Week blood office dinner American gas. Push believe establish beat."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
