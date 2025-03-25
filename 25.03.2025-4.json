@@ -1,0 +1,25 @@
+{
+    "name": "Joseph West",
+    "age": 30,
+    "address": {
+        "street": "Williams Orchard",
+        "city": "Jillfort",
+        "state": "Wyoming",
+        "zip": "40319"
+    },
+    "contact": {
+        "phone": "+1-937-706-5875x923",
+        "servicePhone": "800258923"
+    },
+    "birthday": "1995-22-12",
+    "ip": "163.110.50.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Up while ten ahead candidate meeting each.\nAlways foot feeling task. Support represent citizen.\nGas suffer high plan nothing few fly real. Experience show seat plant.",
+        "bio": "Well whether I sea also. Control place town decade drive.\nPart allow produce whether meet. Tend car them interesting recent hour.\nSpeak guess yet human it together. Green agency popular he."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
