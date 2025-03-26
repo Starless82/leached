@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Johnson",
+    "age": 38,
+    "address": {
+        "street": "Turner Oval",
+        "city": "New Kimberly",
+        "state": "Delaware",
+        "zip": "27906"
+    },
+    "contact": {
+        "phone": "(665)374-0089",
+        "servicePhone": "800555705"
+    },
+    "birthday": "1987-14-01",
+    "ip": "32.146.169.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Lead know nice dog board quality. Method name term involve yes.\nLetter perform ago. Understand notice nature series cell oil.\nHundred as agree line power include.",
+        "bio": "Strategy wish hospital care argue agreement yard everybody. Enough ever what daughter good daughter drive leg."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
