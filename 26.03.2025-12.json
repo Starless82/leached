@@ -1,0 +1,25 @@
+{
+    "name": "Ethan Cook",
+    "age": 39,
+    "address": {
+        "street": "Garcia Villages",
+        "city": "Johnsonchester",
+        "state": "Arkansas",
+        "zip": "44029"
+    },
+    "contact": {
+        "phone": "773.359.3717",
+        "servicePhone": "800214794"
+    },
+    "birthday": "1986-15-11",
+    "ip": "97.91.196.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Individual democratic we staff approach amount line. Be fast idea pull lawyer three wind. Among quickly head far movement.",
+        "bio": "Six add different leave meeting movie. Specific relationship world health.\nBehind team shake fast. Dog election knowledge off shake dark. Drug recently any professor top technology business."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
