@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Gray",
+    "age": 37,
+    "address": {
+        "street": "Carter Circles",
+        "city": "New Ashley",
+        "state": "Kansas",
+        "zip": "36973"
+    },
+    "contact": {
+        "phone": "(262)442-9015",
+        "servicePhone": "800652846"
+    },
+    "birthday": "1988-17-05",
+    "ip": "62.104.61.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Interesting language apply challenge its oil our. Choice wonder old coach different couple. Cup individual vote current.\nSet they across glass yes to.",
+        "bio": "Policy term official argue anything guess sometimes. High body do major. Culture great yard good true."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
