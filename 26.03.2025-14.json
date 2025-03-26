@@ -1,0 +1,25 @@
+{
+    "name": "David Walker",
+    "age": 39,
+    "address": {
+        "street": "Ryan Islands",
+        "city": "Brittanyton",
+        "state": "Wyoming",
+        "zip": "33224"
+    },
+    "contact": {
+        "phone": "474.647.6825x75291",
+        "servicePhone": "800434285"
+    },
+    "birthday": "1986-21-06",
+    "ip": "121.0.169.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Bed local interest peace. Other visit ground traditional despite onto watch certain.\nEffort though fund. Begin according particular movement condition threat.\nFund computer close half reduce.",
+        "bio": "Ago how position leader account high policy. Consider mind wait service.\nSenior somebody different add room. Home produce institution road."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
