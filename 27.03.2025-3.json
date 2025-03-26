@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Hardy",
+    "age": 46,
+    "address": {
+        "street": "Laura Fields",
+        "city": "South Georgeburgh",
+        "state": "Louisiana",
+        "zip": "24455"
+    },
+    "contact": {
+        "phone": "209-360-1122",
+        "servicePhone": "800884766"
+    },
+    "birthday": "1979-08-03",
+    "ip": "165.71.133.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Forget late film crime. Increase produce often his only win water.\nCall treatment second walk. Unit human partner TV clear.",
+        "bio": "Already so way worker case that. Conference well market as star.\nMovement reach bar action here eight. Note cultural expect. Seat bar wait will other."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
