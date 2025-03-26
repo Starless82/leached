@@ -1,0 +1,25 @@
+{
+    "name": "Sharon Smith",
+    "age": 104,
+    "address": {
+        "street": "Amy Club",
+        "city": "Jaredfurt",
+        "state": "Idaho",
+        "zip": "87406"
+    },
+    "contact": {
+        "phone": "(380)346-0917x994",
+        "servicePhone": "800796567"
+    },
+    "birthday": "1921-01-11",
+    "ip": "111.146.19.14",
+    "foo": "bar",
+    "profile": {
+        "about": "As question policy ask well. Receive return allow. Far night oil discussion serious base.\nSet but know. That east question test human onto. Kind live hospital above third ago over firm.",
+        "bio": "Likely final score must environment. Leader guess window interesting.\nAnyone seek where picture. Also husband once natural cause necessary chance lawyer. Check artist close."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
