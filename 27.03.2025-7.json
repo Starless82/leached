@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Clark",
+    "age": 40,
+    "address": {
+        "street": "Michael Roads",
+        "city": "Lake Kennethland",
+        "state": "South Carolina",
+        "zip": "80643"
+    },
+    "contact": {
+        "phone": "833-963-0584",
+        "servicePhone": "800894509"
+    },
+    "birthday": "1985-06-10",
+    "ip": "123.227.179.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Card help you central those soldier parent. Son whole according ten speak executive offer certain. Manager entire must. Gas record into as.",
+        "bio": "Start policy next team. Authority serve never current. Keep suffer about fire visit.\nOk approach stand security growth process science after. Congress now happen result million company wide science."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
