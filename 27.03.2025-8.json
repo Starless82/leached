@@ -1,0 +1,25 @@
+{
+    "name": "Shannon Sanders",
+    "age": 63,
+    "address": {
+        "street": "Reid Mission",
+        "city": "South Carlos",
+        "state": "North Dakota",
+        "zip": "23746"
+    },
+    "contact": {
+        "phone": "(255)870-1574",
+        "servicePhone": "800371338"
+    },
+    "birthday": "1962-26-01",
+    "ip": "80.224.171.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Color beat instead meet. Indeed candidate or social worker.\nWhen affect fill worry.\nMyself live shoulder order drive without improve. Start against deal hard produce anything himself.",
+        "bio": "Financial camera want be. Catch style they treatment card business policy available. Eight discussion since yes matter show whose amount."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
