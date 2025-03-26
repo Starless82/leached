@@ -1,0 +1,25 @@
+{
+    "name": "Bobby Richardson",
+    "age": 85,
+    "address": {
+        "street": "Russell Courts",
+        "city": "Colechester",
+        "state": "Nevada",
+        "zip": "70638"
+    },
+    "contact": {
+        "phone": "5133607787",
+        "servicePhone": "800566288"
+    },
+    "birthday": "1940-30-10",
+    "ip": "200.56.245.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Sound Democrat draw animal seem director pay. Mention resource build development draw.",
+        "bio": "Senior still growth matter lose challenge thank. Drug future between minute road conference course. Through personal admit agency white."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
