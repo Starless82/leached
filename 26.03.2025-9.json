@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Nelson",
+    "age": 32,
+    "address": {
+        "street": "Martinez Station",
+        "city": "Lake James",
+        "state": "North Carolina",
+        "zip": "57098"
+    },
+    "contact": {
+        "phone": "(936)480-8044",
+        "servicePhone": "800473929"
+    },
+    "birthday": "1993-02-04",
+    "ip": "142.150.235.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Hotel billion agency tax. Such body animal stock. Pay focus put one action best. Stage very form seven little detail.",
+        "bio": "Yard evidence television over. Attention network would what whether night term.\nCultural war cultural Republican six himself. Food specific do. Total enough discussion special specific field."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
