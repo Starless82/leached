@@ -1,0 +1,25 @@
+{
+    "name": "Jason Romero",
+    "age": 2,
+    "address": {
+        "street": "Tamara Parkway",
+        "city": "South David",
+        "state": "Massachusetts",
+        "zip": "26585"
+    },
+    "contact": {
+        "phone": "(207)884-5527x989",
+        "servicePhone": "800120637"
+    },
+    "birthday": "2023-16-02",
+    "ip": "208.121.180.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Leader fast camera always realize west future. Phone ball nor property end security.",
+        "bio": "Generation some bag somebody feel. Return responsibility politics blood drug officer. Teacher population dream kitchen beyond. Window I decide pattern seven structure include."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
