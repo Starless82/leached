@@ -1,0 +1,25 @@
+{
+    "name": "Donald Reeves",
+    "age": 14,
+    "address": {
+        "street": "Randolph Inlet",
+        "city": "Lake Michelle",
+        "state": "Nevada",
+        "zip": "10889"
+    },
+    "contact": {
+        "phone": "6524700554",
+        "servicePhone": "800050882"
+    },
+    "birthday": "2011-14-04",
+    "ip": "73.244.134.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Candidate raise large loss example people do. One down stuff hospital.\nWell policy style prevent. Mrs threat owner he.",
+        "bio": "Low upon yes thing our professor. At organization most study.\nFigure letter sister after. Response yourself could.\nIncrease should computer item possible particular be though."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
