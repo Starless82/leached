@@ -1,0 +1,25 @@
+{
+    "name": "Kim Logan",
+    "age": 0,
+    "address": {
+        "street": "Campos Route",
+        "city": "North Christopher",
+        "state": "Maine",
+        "zip": "13973"
+    },
+    "contact": {
+        "phone": "929.422.0057",
+        "servicePhone": "800988867"
+    },
+    "birthday": "2025-31-08",
+    "ip": "115.153.2.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Why wonder wide enjoy success call. Last pull stock growth. Exist provide may road trial better.\nPartner role air across later first. Source hold everything box really sometimes prove exactly.",
+        "bio": "Inside establish experience newspaper month war.\nFirm fall major film want.\nEnvironment every keep defense of interest keep. Up decision argue above hand baby animal trip."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
