@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Whitaker",
+    "age": 47,
+    "address": {
+        "street": "Henderson Dale",
+        "city": "North Lauren",
+        "state": "Missouri",
+        "zip": "17237"
+    },
+    "contact": {
+        "phone": "(522)456-2122",
+        "servicePhone": "800051505"
+    },
+    "birthday": "1978-07-03",
+    "ip": "106.9.154.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Play quickly health season return record more. Scientist include trade walk serious others. Issue cup spend by need.",
+        "bio": "Challenge PM fill speech cup myself national. Control boy pick ask kid so more. Continue fund get grow stand."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
