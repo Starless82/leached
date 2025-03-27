@@ -1,0 +1,25 @@
+{
+    "name": "Phillip Chambers",
+    "age": 55,
+    "address": {
+        "street": "Pena Square",
+        "city": "South Justin",
+        "state": "Hawaii",
+        "zip": "63844"
+    },
+    "contact": {
+        "phone": "9267916883",
+        "servicePhone": "800196868"
+    },
+    "birthday": "1970-07-09",
+    "ip": "28.27.186.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Surface behind because ball mouth. Know travel natural all family camera candidate.\nUpon almost knowledge end adult truth floor. Material report last the green your which. Future say staff.",
+        "bio": "Brother financial act least since individual ahead. Though war idea. Already senior bad child.\nAccept this most home. Nor money first tell more involve for."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
