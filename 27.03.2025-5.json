@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Jacobson",
+    "age": 54,
+    "address": {
+        "street": "Durham Grove",
+        "city": "New Tylerbury",
+        "state": "Nevada",
+        "zip": "00847"
+    },
+    "contact": {
+        "phone": "363-295-3713x15290",
+        "servicePhone": "800378411"
+    },
+    "birthday": "1971-09-04",
+    "ip": "54.123.226.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Talk laugh behind discover phone next indicate either. Cost top make reveal rise.\nAddress heart wind room front perhaps.",
+        "bio": "Page play southern always lay charge. Two maybe that prove entire out reach message. Officer such loss upon they need ten section.\nHuman reflect land ask always head. Turn way project energy relate."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
