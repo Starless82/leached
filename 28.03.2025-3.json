@@ -1,0 +1,25 @@
+{
+    "name": "Haley Taylor",
+    "age": 11,
+    "address": {
+        "street": "Kendra Garden",
+        "city": "East Daniel",
+        "state": "Florida",
+        "zip": "92331"
+    },
+    "contact": {
+        "phone": "(991)362-7398x580",
+        "servicePhone": "800709289"
+    },
+    "birthday": "2014-30-12",
+    "ip": "217.151.243.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Family out member religious morning break stuff. Audience idea hour summer system. Ahead likely him success explain long.",
+        "bio": "Civil into garden history and maintain out. Fight blood worry. Pattern southern line contain concern.\nMilitary worry cup particularly itself range break."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
