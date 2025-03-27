@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Jamie Scott MD",
+    "age": 110,
+    "address": {
+        "street": "Reyes Lakes",
+        "city": "Harrisfurt",
+        "state": "Vermont",
+        "zip": "26619"
+    },
+    "contact": {
+        "phone": "001-510-470-0575x3394",
+        "servicePhone": "800592543"
+    },
+    "birthday": "1915-05-04",
+    "ip": "113.56.114.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Community must act year admit report. Article democratic partner coach several. Attention business hospital form such require.\nIncluding market old after. Quality tonight stage.",
+        "bio": "Charge over person measure. Small maintain edge forward himself.\nSpecial site record. Kitchen him town discover large rate think describe."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
