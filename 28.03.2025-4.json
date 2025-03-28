@@ -1,0 +1,25 @@
+{
+    "name": "Sherry Jacobs",
+    "age": 86,
+    "address": {
+        "street": "Hernandez Meadow",
+        "city": "West Amymouth",
+        "state": "Oregon",
+        "zip": "76652"
+    },
+    "contact": {
+        "phone": "914-764-3300",
+        "servicePhone": "800508414"
+    },
+    "birthday": "1939-27-01",
+    "ip": "171.50.4.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Red the fall everything less most. Drug return leader open present yard central.\nReduce about call sense attack soon. Someone trial high must professor. Training case everybody many bed.",
+        "bio": "Ok writer study standard themselves throw particularly. Those call prevent. Affect simple produce method myself from. City set agreement guy important keep."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
