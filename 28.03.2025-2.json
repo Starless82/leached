@@ -1,0 +1,25 @@
+{
+    "name": "Carlos Dean",
+    "age": 4,
+    "address": {
+        "street": "Cox Path",
+        "city": "Lake Melissashire",
+        "state": "Nevada",
+        "zip": "43110"
+    },
+    "contact": {
+        "phone": "203-238-0013x892",
+        "servicePhone": "800566979"
+    },
+    "birthday": "2021-23-06",
+    "ip": "151.120.76.209",
+    "foo": "bar",
+    "profile": {
+        "about": "West half training. Story table save page mention among. Medical involve state nothing.",
+        "bio": "Size role play of probably by go. Yard it himself toward something reveal boy.\nI anything late follow. Ahead factor economy suffer onto call."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
