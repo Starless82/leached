@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Arellano",
+    "age": 23,
+    "address": {
+        "street": "Molly Island",
+        "city": "Erinshire",
+        "state": "Nebraska",
+        "zip": "84819"
+    },
+    "contact": {
+        "phone": "001-439-785-4947",
+        "servicePhone": "800601108"
+    },
+    "birthday": "2002-08-12",
+    "ip": "21.24.226.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Gun learn name what seem personal relate personal. Listen a rise well what.\nOut free toward early. Project example operation call positive lay task.",
+        "bio": "Present that affect eat natural choose resource. Culture benefit player meeting place. Radio tree significant young employee."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
