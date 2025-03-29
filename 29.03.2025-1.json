@@ -1,0 +1,25 @@
+{
+    "name": "Casey Smith",
+    "age": 43,
+    "address": {
+        "street": "Parker Fork",
+        "city": "West Jonhaven",
+        "state": "New Jersey",
+        "zip": "10463"
+    },
+    "contact": {
+        "phone": "671.459.6993",
+        "servicePhone": "800693883"
+    },
+    "birthday": "1982-17-10",
+    "ip": "144.89.170.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Blue church teach including. Reality black bed shoulder blood. Drive account reflect record.",
+        "bio": "Spring to green where yes month.\nHistory rather major true. Growth above network knowledge others. Investment cold never behind answer. Them spring huge business perhaps center although market."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
