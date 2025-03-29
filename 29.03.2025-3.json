@@ -1,0 +1,25 @@
+{
+    "name": "Donna Williams",
+    "age": 95,
+    "address": {
+        "street": "Fields Brooks",
+        "city": "Lake Michaelshire",
+        "state": "Louisiana",
+        "zip": "72303"
+    },
+    "contact": {
+        "phone": "273-374-3057",
+        "servicePhone": "800914106"
+    },
+    "birthday": "1930-18-06",
+    "ip": "105.34.37.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Charge value already art fly. Girl simply present. Half everyone move leave market now.",
+        "bio": "Section if study ago on enjoy any. Your continue skill others senior play. Behavior affect indicate teach budget. Describe throughout claim marriage night."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
