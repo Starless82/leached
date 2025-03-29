@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Dunn",
+    "age": 35,
+    "address": {
+        "street": "William Park",
+        "city": "East Julia",
+        "state": "South Dakota",
+        "zip": "81695"
+    },
+    "contact": {
+        "phone": "691.634.8061x54586",
+        "servicePhone": "800305982"
+    },
+    "birthday": "1990-04-07",
+    "ip": "108.44.162.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Thank have probably kind prevent avoid miss. Heart simple view.\nEarly include successful financial six easy term. Then experience there person education which part writer.",
+        "bio": "Life rest believe money then each strategy. Wonder matter American bar may too. Enough exactly service yard laugh along free race. Mr ball guy degree candidate feel."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
