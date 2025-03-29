@@ -1,0 +1,25 @@
+{
+    "name": "Jason Gray",
+    "age": 96,
+    "address": {
+        "street": "Terri Port",
+        "city": "Timchester",
+        "state": "New Jersey",
+        "zip": "62135"
+    },
+    "contact": {
+        "phone": "(653)949-6028x1933",
+        "servicePhone": "800299410"
+    },
+    "birthday": "1929-22-03",
+    "ip": "88.62.93.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Difference finally million stuff. Last two stop practice executive not bring add. Should everyone because stand base week same.",
+        "bio": "Ground person factor shake ten. Standard feeling interest drug. Black government picture single."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
