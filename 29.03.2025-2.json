@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Townsend",
+    "age": 14,
+    "address": {
+        "street": "Nash Coves",
+        "city": "Robinsonside",
+        "state": "Colorado",
+        "zip": "81566"
+    },
+    "contact": {
+        "phone": "263.978.6828x7962",
+        "servicePhone": "800602977"
+    },
+    "birthday": "2011-25-09",
+    "ip": "116.50.79.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Personal along vote realize moment. Stage base play pull pay back gas. Lose piece population thing attack movie teacher.",
+        "bio": "Drop trouble wrong leg image society under. Treat act institution thing. Congress boy oil guess him. Over team general edge animal stay."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
