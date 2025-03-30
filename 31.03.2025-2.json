@@ -1,0 +1,25 @@
+{
+    "name": "Stacey Bean",
+    "age": 28,
+    "address": {
+        "street": "Amanda Terrace",
+        "city": "Port Christophermouth",
+        "state": "Hawaii",
+        "zip": "21818"
+    },
+    "contact": {
+        "phone": "346-721-0935x57874",
+        "servicePhone": "800251637"
+    },
+    "birthday": "1997-04-08",
+    "ip": "1.168.155.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Size interesting point probably down family what subject. Around apply speak game. Feel term floor clearly. Relate event officer impact less suggest bit attorney.",
+        "bio": "Foot light simply body fire perform.\nPaper discussion include career often commercial senior accept."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
