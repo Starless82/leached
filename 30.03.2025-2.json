@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Parker",
+    "age": 57,
+    "address": {
+        "street": "Jennifer Gardens",
+        "city": "New Kenneth",
+        "state": "Maine",
+        "zip": "84331"
+    },
+    "contact": {
+        "phone": "+1-889-796-4197x9245",
+        "servicePhone": "800818722"
+    },
+    "birthday": "1968-21-02",
+    "ip": "76.162.165.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Matter old control third east statement PM. Around my lot miss.\nQuestion teacher middle heavy. Find visit help front major old significant.",
+        "bio": "Return should relationship happen its American hour. History program work inside. Owner perhaps choice health even. Full tax figure because though computer."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
