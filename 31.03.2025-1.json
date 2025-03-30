@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Smith",
+    "age": 103,
+    "address": {
+        "street": "David Springs",
+        "city": "Isabelland",
+        "state": "Minnesota",
+        "zip": "62994"
+    },
+    "contact": {
+        "phone": "(250)736-5569",
+        "servicePhone": "800218460"
+    },
+    "birthday": "1922-23-03",
+    "ip": "10.150.235.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Next activity consider affect prove join agent. Star protect recent why clearly value.\nParticularly per around moment protect.",
+        "bio": "His staff understand all since anything so example. Question next today loss. Commercial recognize wear young look ahead represent test."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
