@@ -1,0 +1,25 @@
+{
+    "name": "Mark Chavez",
+    "age": 20,
+    "address": {
+        "street": "Micheal Inlet",
+        "city": "Marktown",
+        "state": "New Jersey",
+        "zip": "14104"
+    },
+    "contact": {
+        "phone": "971-476-5279x75747",
+        "servicePhone": "800453496"
+    },
+    "birthday": "2005-21-07",
+    "ip": "149.150.57.25",
+    "foo": "bar",
+    "profile": {
+        "about": "People share important gun amount give. Despite purpose police rest leader. Show number decide along must than approach.",
+        "bio": "Least TV position kitchen. Concern which owner difference matter else score kind. Public operation series out probably dark follow teach."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
