@@ -1,0 +1,25 @@
+{
+    "name": "John Webster",
+    "age": 69,
+    "address": {
+        "street": "Williams Burgs",
+        "city": "South Joseph",
+        "state": "Kansas",
+        "zip": "38318"
+    },
+    "contact": {
+        "phone": "(204)783-3108",
+        "servicePhone": "800290981"
+    },
+    "birthday": "1956-12-03",
+    "ip": "99.85.198.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Town even if. Near international certain Mrs high.\nFirm prepare resource break. Act both structure figure determine suffer. Science begin personal not growth.",
+        "bio": "Citizen fight baby allow. Lead alone follow already contain vote everybody card.\nMeeting security control evening skin office team mind. Result table market next miss artist. Send tough month laugh."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
