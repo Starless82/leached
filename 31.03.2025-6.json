@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Gomez",
+    "age": 56,
+    "address": {
+        "street": "William Center",
+        "city": "Lisaside",
+        "state": "Washington",
+        "zip": "37495"
+    },
+    "contact": {
+        "phone": "001-544-757-3700x6482",
+        "servicePhone": "800257756"
+    },
+    "birthday": "1969-01-07",
+    "ip": "210.166.152.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Prepare break computer area them tax. Keep develop federal sing land full participant.\nShake arm moment agent hotel home. His although view back. Yourself share star training indicate economy.",
+        "bio": "She past air piece on give debate. Provide role issue he at. Item under fly range agency choice."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
