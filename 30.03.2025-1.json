@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Benson",
+    "age": 15,
+    "address": {
+        "street": "Kristina Square",
+        "city": "North Carlfurt",
+        "state": "Missouri",
+        "zip": "58506"
+    },
+    "contact": {
+        "phone": "7258816171",
+        "servicePhone": "800708163"
+    },
+    "birthday": "2010-03-10",
+    "ip": "183.55.189.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Car during conference recognize prevent between up. Compare their force inside likely administration want. Treatment citizen outside.",
+        "bio": "Adult although future themselves guy official protect cultural. These rock certainly dark walk offer. Challenge moment until particular open service major."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
