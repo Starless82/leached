@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Best",
+    "age": 93,
+    "address": {
+        "street": "Olsen Port",
+        "city": "New Tinastad",
+        "state": "North Carolina",
+        "zip": "19419"
+    },
+    "contact": {
+        "phone": "+1-550-322-9441",
+        "servicePhone": "800015595"
+    },
+    "birthday": "1932-28-12",
+    "ip": "93.117.34.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Sister yeah part recent until follow kind. Add particular often enough.\nStaff speech within spend including choose. Make community need job also cut. Present piece measure research.",
+        "bio": "Nearly become he job along collection. Allow time spend power back office. Treatment make guy tonight charge safe quite campaign."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
