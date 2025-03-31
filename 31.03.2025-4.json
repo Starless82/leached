@@ -1,0 +1,25 @@
+{
+    "name": "Logan Wilson",
+    "age": 81,
+    "address": {
+        "street": "Gonzalez Prairie",
+        "city": "West Jessica",
+        "state": "Florida",
+        "zip": "64479"
+    },
+    "contact": {
+        "phone": "001-471-905-4722x0647",
+        "servicePhone": "800277564"
+    },
+    "birthday": "1944-29-01",
+    "ip": "102.102.157.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Blue truth report.\nAuthor partner group social so little can quite. Indicate Mr about if.",
+        "bio": "Lay lose scientist option writer why fly. Phone put main. History read long if across stand interview.\nDevelopment court reason position yard assume certain. Significant family hospital leader set."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
