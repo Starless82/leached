@@ -1,0 +1,25 @@
+{
+    "name": "Justin Hurley",
+    "age": 67,
+    "address": {
+        "street": "Fox Crest",
+        "city": "Greenmouth",
+        "state": "Michigan",
+        "zip": "96049"
+    },
+    "contact": {
+        "phone": "360.394.2451",
+        "servicePhone": "800479898"
+    },
+    "birthday": "1958-18-04",
+    "ip": "61.192.45.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Partner hospital safe six. Decide admit rather during drive. Professional view now become up lead bar.",
+        "bio": "Nature effort little everything hold. All defense light create media meeting. Big himself family property.\nCommercial official main matter. School yes last.\nQuite enter include dark."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
