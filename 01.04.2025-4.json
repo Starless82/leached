@@ -1,0 +1,25 @@
+{
+    "name": "Christine Alexander",
+    "age": 34,
+    "address": {
+        "street": "Moore Underpass",
+        "city": "Christopherfort",
+        "state": "South Dakota",
+        "zip": "62879"
+    },
+    "contact": {
+        "phone": "440-785-0154",
+        "servicePhone": "800072017"
+    },
+    "birthday": "1991-31-12",
+    "ip": "13.89.63.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Enter part idea important section case treat water. Head current suggest read. Speech laugh their pattern. Same increase institution happen sister region.",
+        "bio": "Edge environment when. Somebody model score five. Test open a music economic lead follow weight."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
