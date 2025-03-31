@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Angel Smith",
+    "age": 70,
+    "address": {
+        "street": "Nicole Row",
+        "city": "Lake Abigailtown",
+        "state": "Connecticut",
+        "zip": "86957"
+    },
+    "contact": {
+        "phone": "736-937-9966x674",
+        "servicePhone": "800683504"
+    },
+    "birthday": "1955-08-02",
+    "ip": "164.239.18.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Worker believe sit remain eight operation degree. Capital discuss difficult difference serve significant voice training.",
+        "bio": "Street hit purpose treatment tonight. Southern often with market manage vote house simply. Inside goal defense there plant own respond."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
