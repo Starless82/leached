@@ -1,0 +1,25 @@
+{
+    "name": "Eric Perez",
+    "age": 23,
+    "address": {
+        "street": "Patricia Forest",
+        "city": "Lake Gregberg",
+        "state": "Delaware",
+        "zip": "74327"
+    },
+    "contact": {
+        "phone": "001-665-212-5540x037",
+        "servicePhone": "800178218"
+    },
+    "birthday": "2002-23-06",
+    "ip": "205.242.159.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Win last loss safe. Example foot fight history.\nIdentify audience girl then whether likely key.\nChoose new there before likely popular common.",
+        "bio": "The because democratic gun help floor daughter. Traditional father listen green wait history. Order water receive blue despite north."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
