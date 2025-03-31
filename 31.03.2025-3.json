@@ -1,0 +1,25 @@
+{
+    "name": "Scott Aguilar",
+    "age": 18,
+    "address": {
+        "street": "White Turnpike",
+        "city": "Brownstad",
+        "state": "Kentucky",
+        "zip": "17076"
+    },
+    "contact": {
+        "phone": "380-636-5857x7288",
+        "servicePhone": "800173390"
+    },
+    "birthday": "2007-04-09",
+    "ip": "193.47.127.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Others production fill why age policy stay. Personal item under worry talk painting eight. Congress if forward scene two picture.",
+        "bio": "Research quite modern hundred. May go collection story. Back design statement view make from."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
