@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Weiss",
+    "age": 35,
+    "address": {
+        "street": "Kramer Shoal",
+        "city": "Drakeburgh",
+        "state": "Oregon",
+        "zip": "35216"
+    },
+    "contact": {
+        "phone": "(983)666-5064",
+        "servicePhone": "800516131"
+    },
+    "birthday": "1990-14-05",
+    "ip": "162.49.115.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Hotel man sound campaign raise fact more. Training Mrs hear read north on too.\nManage town investment station expect. We pretty hit voice pattern similar.",
+        "bio": "Simple no executive and executive strong machine. Leader hit age fear Democrat. Money glass everybody down."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
