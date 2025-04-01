@@ -1,0 +1,25 @@
+{
+    "name": "Sherri Gregory",
+    "age": 85,
+    "address": {
+        "street": "Tracy Trafficway",
+        "city": "South Troy",
+        "state": "South Dakota",
+        "zip": "08758"
+    },
+    "contact": {
+        "phone": "(767)544-1838",
+        "servicePhone": "800633961"
+    },
+    "birthday": "1940-03-11",
+    "ip": "72.199.6.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Break list Mr. Look account task scientist thank home class.\nYoung soon seven face scientist.\nStop compare church strong discussion rock. Once line approach successful manager already idea.",
+        "bio": "Attention attention very town large whose. Summer its threat cause himself.\nProduction enjoy teacher tough tonight be enter. Relate source dark war garden. Fill pull leg democratic in yourself."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
