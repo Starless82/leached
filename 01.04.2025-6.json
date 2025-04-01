@@ -1,0 +1,25 @@
+{
+    "name": "Richard Joseph",
+    "age": 28,
+    "address": {
+        "street": "Joel Inlet",
+        "city": "Riceton",
+        "state": "Nevada",
+        "zip": "31801"
+    },
+    "contact": {
+        "phone": "001-786-707-5103",
+        "servicePhone": "800688011"
+    },
+    "birthday": "1997-22-02",
+    "ip": "128.60.91.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Him down race through develop two deep. Us call next member option.\nTrouble case production machine himself science song.",
+        "bio": "Watch leg when buy. Administration her cover you though black.\nMoney paper then produce education. Remember leg role star send talk such."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
