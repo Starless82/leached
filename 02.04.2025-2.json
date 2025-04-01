@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Santiago",
+    "age": 10,
+    "address": {
+        "street": "Megan Mountain",
+        "city": "Smithborough",
+        "state": "Wyoming",
+        "zip": "26682"
+    },
+    "contact": {
+        "phone": "(579)589-7977",
+        "servicePhone": "800337076"
+    },
+    "birthday": "2015-19-09",
+    "ip": "166.228.143.84",
+    "foo": "bar",
+    "profile": {
+        "about": "After travel nation describe. Player ago finish total technology can movie. Computer official wish lay way left amount. Employee write why sometimes where early time.",
+        "bio": "Company serve data myself. Spring ever town Mrs sea. Republican month admit compare western various lay."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
