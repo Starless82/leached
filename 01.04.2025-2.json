@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Taylor",
+    "age": 113,
+    "address": {
+        "street": "Carter Creek",
+        "city": "Huffport",
+        "state": "New Hampshire",
+        "zip": "36518"
+    },
+    "contact": {
+        "phone": "809.548.3781",
+        "servicePhone": "800005623"
+    },
+    "birthday": "1912-03-07",
+    "ip": "158.7.232.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Key treatment same indicate hand. Place trouble agency fast main some. Place discover discussion big.\nExactly reason nearly theory throw. Someone cause home under top. Safe tough paper.",
+        "bio": "Reach degree treatment nearly wife state. Degree everything several four have production forward.\nFace good hundred mention. They success trial. Like small ok standard religious team customer."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
