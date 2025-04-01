@@ -1,0 +1,25 @@
+{
+    "name": "Katelyn Russell",
+    "age": 72,
+    "address": {
+        "street": "Jennifer Trace",
+        "city": "North Terri",
+        "state": "Florida",
+        "zip": "96867"
+    },
+    "contact": {
+        "phone": "910-436-1785",
+        "servicePhone": "800655430"
+    },
+    "birthday": "1953-05-04",
+    "ip": "213.142.173.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Join student TV nature. Agency speech race. Growth wide according add mention stuff.",
+        "bio": "Require way tell kind mother enough say. Air cell college figure west. Early join family safe light might anything article.\nOnce my wife impact official."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
