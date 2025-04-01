@@ -1,0 +1,25 @@
+{
+    "name": "Ralph Frederick",
+    "age": 100,
+    "address": {
+        "street": "Raymond Viaduct",
+        "city": "Skinnerfort",
+        "state": "North Dakota",
+        "zip": "97577"
+    },
+    "contact": {
+        "phone": "288.257.8444",
+        "servicePhone": "800304538"
+    },
+    "birthday": "1925-15-01",
+    "ip": "10.39.161.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Half think base walk power home. Wife company explain technology physical answer. Trouble move why memory.",
+        "bio": "Letter main direction relate. Difference fall view benefit speak face.\nParticipant sit above ground. Fall reality act million inside concern beyond. Outside seek power half performance drug some."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
