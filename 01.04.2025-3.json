@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Henry",
+    "age": 15,
+    "address": {
+        "street": "Maria Springs",
+        "city": "Susanville",
+        "state": "Louisiana",
+        "zip": "38362"
+    },
+    "contact": {
+        "phone": "768-334-1644x13080",
+        "servicePhone": "800451857"
+    },
+    "birthday": "2010-17-02",
+    "ip": "53.44.103.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Attack would move step. Far general attack order animal. Recently him then performance career wife effect. Us city bring money history open guy picture.",
+        "bio": "Discover attorney party none. Actually determine morning always.\nWest behind glass understand whatever. Owner book design bed business.\nScience receive six available Mr control."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
