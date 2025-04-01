@@ -1,0 +1,25 @@
+{
+    "name": "Geoffrey Bell",
+    "age": 89,
+    "address": {
+        "street": "Cindy Manor",
+        "city": "Goodmanport",
+        "state": "Vermont",
+        "zip": "92569"
+    },
+    "contact": {
+        "phone": "980-496-9121x992",
+        "servicePhone": "800876497"
+    },
+    "birthday": "1936-03-04",
+    "ip": "99.197.243.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Attack data training top citizen then game. Issue pay ability pass class particularly television.\nFree crime line pattern he follow space. People give themselves concern author friend top.",
+        "bio": "Project future wish information. Another personal really could word kid speak."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
