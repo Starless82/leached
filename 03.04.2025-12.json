@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Singh",
+    "age": 18,
+    "address": {
+        "street": "Barbara Falls",
+        "city": "East Morgan",
+        "state": "Vermont",
+        "zip": "76462"
+    },
+    "contact": {
+        "phone": "927.451.1244",
+        "servicePhone": "800521783"
+    },
+    "birthday": "2007-23-10",
+    "ip": "199.61.72.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Knowledge run follow will air.\nActually politics smile court. Ago contain religious performance himself thousand forward benefit.",
+        "bio": "Thousand foreign weight both drug. Force finally camera southern do no city."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
