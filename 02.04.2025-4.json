@@ -1,0 +1,25 @@
+{
+    "name": "Amy Burns",
+    "age": 18,
+    "address": {
+        "street": "Sharon Fall",
+        "city": "Simsfurt",
+        "state": "Arizona",
+        "zip": "75465"
+    },
+    "contact": {
+        "phone": "(983)379-0736x3372",
+        "servicePhone": "800560216"
+    },
+    "birthday": "2007-08-03",
+    "ip": "90.179.204.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Kind owner little. Woman pay image listen guy baby. Give certain throw stop option something guy.\nView realize more public describe bar. Lot hospital relate explain foreign.",
+        "bio": "Arrive market movement. As else subject popular accept though these. Way like share care listen."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
