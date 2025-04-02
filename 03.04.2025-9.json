@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Mcgrath",
+    "age": 98,
+    "address": {
+        "street": "Aaron Wells",
+        "city": "Amandaburgh",
+        "state": "Illinois",
+        "zip": "09727"
+    },
+    "contact": {
+        "phone": "(358)980-1314",
+        "servicePhone": "800731440"
+    },
+    "birthday": "1927-27-04",
+    "ip": "157.71.88.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Specific today or decide friend today article. Get behind property long price market budget realize. Why radio wish reach alone street hold security. Time data stock consumer believe myself.",
+        "bio": "Vote left modern side international. Every lot involve its specific dinner reach almost. Bit each play area support."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
