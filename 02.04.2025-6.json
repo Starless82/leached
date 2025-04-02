@@ -1,0 +1,25 @@
+{
+    "name": "Garrett Stewart",
+    "age": 90,
+    "address": {
+        "street": "Anderson Ridges",
+        "city": "Thomasview",
+        "state": "New Hampshire",
+        "zip": "23923"
+    },
+    "contact": {
+        "phone": "495-252-7748x656",
+        "servicePhone": "800446199"
+    },
+    "birthday": "1935-13-04",
+    "ip": "64.92.148.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Point your situation guess. Smile thus third improve student child happen. Heart line foot unit little heart issue. Cover clear response community case home worry.",
+        "bio": "Eye American put. Road role action commercial.\nPopulation animal pass speak direction. Clearly discuss certainly down politics peace. Economy health set democratic since lawyer."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
