@@ -1,0 +1,25 @@
+{
+    "name": "Dr. James Stanton MD",
+    "age": 97,
+    "address": {
+        "street": "Hamilton Place",
+        "city": "Robinmouth",
+        "state": "New Hampshire",
+        "zip": "99308"
+    },
+    "contact": {
+        "phone": "551.422.1830x8682",
+        "servicePhone": "800665590"
+    },
+    "birthday": "1928-04-04",
+    "ip": "153.57.117.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Rise executive leader collection way ok. Of event answer along worker network job. No statement third skill new too account really.\nTrade since grow first his generation single.",
+        "bio": "Happen race house chance. If leave customer to myself trial consider. Nor general health throw."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
