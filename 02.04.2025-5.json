@@ -1,0 +1,25 @@
+{
+    "name": "Tyler Hall",
+    "age": 84,
+    "address": {
+        "street": "Brian Viaduct",
+        "city": "Williamsmouth",
+        "state": "South Carolina",
+        "zip": "13911"
+    },
+    "contact": {
+        "phone": "9883109695",
+        "servicePhone": "800898440"
+    },
+    "birthday": "1941-19-09",
+    "ip": "201.68.137.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Listen particularly detail there important. This close ever set lose close behind.",
+        "bio": "Experience create exactly staff theory system. Indicate forget business camera kid cell enough.\nHealth always stand. Account process many heart."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
