@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Hicks",
+    "age": 66,
+    "address": {
+        "street": "Thomas Run",
+        "city": "Sheltontown",
+        "state": "Massachusetts",
+        "zip": "84426"
+    },
+    "contact": {
+        "phone": "(689)752-8066",
+        "servicePhone": "800755231"
+    },
+    "birthday": "1959-04-09",
+    "ip": "67.240.48.132",
+    "foo": "bar",
+    "profile": {
+        "about": "War about maintain effort contain. Memory wear present put PM speech nation.\nMajor free life well stock month. Side statement maintain.",
+        "bio": "Sort indicate medical could. Word yet against state after response administration.\nCover turn consumer south seek religious build. Want actually open law protect choose available."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
