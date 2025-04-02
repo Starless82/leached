@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Webster",
+    "age": 100,
+    "address": {
+        "street": "Cardenas Turnpike",
+        "city": "New Matthew",
+        "state": "Kentucky",
+        "zip": "85115"
+    },
+    "contact": {
+        "phone": "760-975-2050x690",
+        "servicePhone": "800098341"
+    },
+    "birthday": "1925-15-06",
+    "ip": "186.189.133.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Data every finally become skin glass learn talk. Accept structure loss fill heart.\nAgent fall never north too.\nStar say compare. Program require upon face participant pretty last.",
+        "bio": "Chance not less number when wrong hard. Without everybody strategy. Well close notice into question cover.\nWhose though movie hour task add challenge analysis. Either recently child office goal."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
