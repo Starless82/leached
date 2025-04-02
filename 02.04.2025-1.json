@@ -1,0 +1,25 @@
+{
+    "name": "John Cain",
+    "age": 108,
+    "address": {
+        "street": "Turner Locks",
+        "city": "East Joel",
+        "state": "Connecticut",
+        "zip": "33454"
+    },
+    "contact": {
+        "phone": "827-488-0211x3315",
+        "servicePhone": "800157015"
+    },
+    "birthday": "1917-13-06",
+    "ip": "56.253.126.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Mouth a increase task. Almost direction crime stay commercial deep father.\nRace rule my social.\nSchool message quality tonight. Note before throughout field. Control how experience have.",
+        "bio": "Sort compare subject responsibility too I certain. Senior wife social.\nFirm he theory knowledge fight. Dream mouth item local imagine factor suggest federal. Machine speak loss."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
