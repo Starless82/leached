@@ -1,0 +1,25 @@
+{
+    "name": "Angela Watts",
+    "age": 97,
+    "address": {
+        "street": "Hardy Estates",
+        "city": "Karentown",
+        "state": "Missouri",
+        "zip": "15949"
+    },
+    "contact": {
+        "phone": "+1-419-439-1686x77114",
+        "servicePhone": "800378551"
+    },
+    "birthday": "1928-06-11",
+    "ip": "126.4.151.31",
+    "foo": "bar",
+    "profile": {
+        "about": "College language approach national important situation. Cut star base professor manager. Few camera tree generation economic teach third.",
+        "bio": "Knowledge age probably drive within relationship Congress. Relate practice process size power."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
