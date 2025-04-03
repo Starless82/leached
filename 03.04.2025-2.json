@@ -1,0 +1,25 @@
+{
+    "name": "Chris Marsh",
+    "age": 9,
+    "address": {
+        "street": "Lynn Brooks",
+        "city": "Lake Jenniferbury",
+        "state": "Alabama",
+        "zip": "19569"
+    },
+    "contact": {
+        "phone": "888-448-3471x695",
+        "servicePhone": "800644530"
+    },
+    "birthday": "2016-11-03",
+    "ip": "108.56.57.181",
+    "foo": "bar",
+    "profile": {
+        "about": "National scene despite interest. Arm return although blue meet.\nCompany debate job place. Place candidate determine maintain.",
+        "bio": "Least choose better page. Trade conference simply level.\nSense age at low. Officer physical policy picture size attorney whole occur.\nEntire direction learn six. Give win early stuff in experience."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
