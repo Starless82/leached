@@ -1,0 +1,25 @@
+{
+    "name": "Michael Wolfe",
+    "age": 16,
+    "address": {
+        "street": "Hector Station",
+        "city": "Craigtown",
+        "state": "Maryland",
+        "zip": "53490"
+    },
+    "contact": {
+        "phone": "+1-456-694-2958x34987",
+        "servicePhone": "800433315"
+    },
+    "birthday": "2009-21-06",
+    "ip": "105.185.55.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Produce very nature policy perform personal. Laugh full family century reduce summer increase.\nOrder my look under issue table. Meeting system ask word company especially. West attack short player.",
+        "bio": "Put writer need resource. Population have over argue.\nPaper magazine record. Until source early change. Likely oil everybody information reach young."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
