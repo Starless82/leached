@@ -1,0 +1,25 @@
+{
+    "name": "Cheryl Fuentes",
+    "age": 86,
+    "address": {
+        "street": "Mcdonald Spurs",
+        "city": "South Richard",
+        "state": "Kansas",
+        "zip": "33595"
+    },
+    "contact": {
+        "phone": "+1-588-599-1897x2429",
+        "servicePhone": "800722505"
+    },
+    "birthday": "1939-22-08",
+    "ip": "135.146.233.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Network heavy American level debate. Measure group network new.",
+        "bio": "Full old report this head month loss ask. Each everyone race store born think. Edge yeah trade heavy measure town arrive tend."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
