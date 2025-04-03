@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Coleman",
+    "age": 50,
+    "address": {
+        "street": "Brown Cape",
+        "city": "Port Michael",
+        "state": "Colorado",
+        "zip": "66218"
+    },
+    "contact": {
+        "phone": "691-817-3033x889",
+        "servicePhone": "800635490"
+    },
+    "birthday": "1975-15-04",
+    "ip": "31.253.127.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Offer store line ever different treat win. Sit teacher address contain for talk know.",
+        "bio": "Sure here no something. Look sort they office fact deep perform. Not increase where movement from."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
