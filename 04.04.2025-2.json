@@ -1,0 +1,25 @@
+{
+    "name": "Angela Martinez",
+    "age": 80,
+    "address": {
+        "street": "Andrews Park",
+        "city": "Coopermouth",
+        "state": "Connecticut",
+        "zip": "43596"
+    },
+    "contact": {
+        "phone": "3865610433",
+        "servicePhone": "800295105"
+    },
+    "birthday": "1945-03-04",
+    "ip": "181.131.231.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Catch support will building defense factor room account. Approach evening trouble against enter eight. Hard listen bad bank mean late. Rule heavy own design pressure across general.",
+        "bio": "Summer tough old market return. Walk doctor prove quality.\nSignificant hair magazine cold. Music my debate foot spring small. Child hear all discuss."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
