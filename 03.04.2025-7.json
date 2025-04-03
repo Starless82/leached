@@ -1,0 +1,25 @@
+{
+    "name": "Natasha Black",
+    "age": 46,
+    "address": {
+        "street": "Goodwin Meadows",
+        "city": "South Williamberg",
+        "state": "Michigan",
+        "zip": "04743"
+    },
+    "contact": {
+        "phone": "502-891-6181x9319",
+        "servicePhone": "800766052"
+    },
+    "birthday": "1979-01-08",
+    "ip": "183.75.125.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Common someone notice part role list ok deep. Rest finally she my crime all similar along.\nForce should vote loss. Piece case peace tonight that.",
+        "bio": "Better hair attention itself.\nIssue hour front seek. Benefit account them yes.\nBeyond I guy home section term especially. Specific improve culture employee same tonight. Believe cost voice paper."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
