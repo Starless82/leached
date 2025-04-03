@@ -1,0 +1,25 @@
+{
+    "name": "Megan Yang",
+    "age": 42,
+    "address": {
+        "street": "Walker Circles",
+        "city": "Perezburgh",
+        "state": "Louisiana",
+        "zip": "47757"
+    },
+    "contact": {
+        "phone": "430-302-5406x1774",
+        "servicePhone": "800916651"
+    },
+    "birthday": "1983-31-10",
+    "ip": "112.222.252.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Call possible close page sit. Meeting staff well shake. Nation great debate successful Mrs. Dream your in mouth.\nTelevision sport floor more drive civil company. These material along level too sing.",
+        "bio": "Pay run result television security system arm. Scene health them significant affect allow mouth. Think sit lay camera character beat. Threat individual their instead.\nEast remain with."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
