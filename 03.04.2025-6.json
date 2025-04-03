@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Collins",
+    "age": 69,
+    "address": {
+        "street": "Fowler Manors",
+        "city": "Thomasview",
+        "state": "Oklahoma",
+        "zip": "54958"
+    },
+    "contact": {
+        "phone": "+1-250-485-2182",
+        "servicePhone": "800806191"
+    },
+    "birthday": "1956-29-06",
+    "ip": "1.208.132.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Discussion this respond technology easy space. Agreement accept number discuss price. Fact card make great walk strong.",
+        "bio": "Article else side later. Whether identify theory apply those view. Level drive continue yet six my low. Question partner physical especially she again matter."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
