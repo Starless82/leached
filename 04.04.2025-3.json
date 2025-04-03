@@ -1,0 +1,25 @@
+{
+    "name": "Pedro Hines",
+    "age": 55,
+    "address": {
+        "street": "Silva Vista",
+        "city": "Maryshire",
+        "state": "Maine",
+        "zip": "57589"
+    },
+    "contact": {
+        "phone": "(934)831-0621x92699",
+        "servicePhone": "800922645"
+    },
+    "birthday": "1970-04-02",
+    "ip": "217.129.153.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Course road drive inside another everything feel system. Activity cup authority close office notice.\nReality network imagine bad face. Course plan claim prevent.",
+        "bio": "Movie growth entire customer record. Wall city yard explain east.\nCold value defense. Check amount too medical enough. Difference instead provide section clear."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
