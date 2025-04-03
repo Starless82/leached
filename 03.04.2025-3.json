@@ -1,0 +1,25 @@
+{
+    "name": "John Murphy",
+    "age": 52,
+    "address": {
+        "street": "Gregory Ridge",
+        "city": "Cooperhaven",
+        "state": "Nevada",
+        "zip": "82988"
+    },
+    "contact": {
+        "phone": "4714250499",
+        "servicePhone": "800343134"
+    },
+    "birthday": "1973-17-03",
+    "ip": "123.26.1.144",
+    "foo": "bar",
+    "profile": {
+        "about": "House stand share. Responsibility hotel check four which data.\nSeason state name over seem some. Prevent short already adult article already.",
+        "bio": "Difference may form good window any. Mouth international present nor ever imagine miss.\nGuy including dinner decide. Blood option those money yeah everybody yes."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
