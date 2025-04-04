@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Taylor",
+    "age": 56,
+    "address": {
+        "street": "Lisa Manor",
+        "city": "East Danielle",
+        "state": "North Dakota",
+        "zip": "27710"
+    },
+    "contact": {
+        "phone": "(232)764-7030",
+        "servicePhone": "800923898"
+    },
+    "birthday": "1969-12-01",
+    "ip": "207.76.251.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Exist themselves policy impact hear war. Floor set project whole avoid cup author start. Behavior million street decide consumer.",
+        "bio": "Religious career responsibility often. Join enter by which government man. Technology find win rich spring learn.\nRespond be age budget.\nFree onto save third."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
