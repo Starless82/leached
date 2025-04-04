@@ -1,0 +1,25 @@
+{
+    "name": "Shannon Williams",
+    "age": 6,
+    "address": {
+        "street": "Evans Harbor",
+        "city": "South John",
+        "state": "Iowa",
+        "zip": "39985"
+    },
+    "contact": {
+        "phone": "905.366.7895x2123",
+        "servicePhone": "800051299"
+    },
+    "birthday": "2019-13-09",
+    "ip": "73.255.112.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Move light information coach Mrs. Exactly discussion poor major.\nProgram lawyer key apply. Defense control own threat.",
+        "bio": "Kitchen college foot Democrat question. World yourself seven fire. Citizen power control discussion indeed. Along middle we and candidate arrive deal.\nOur baby officer many."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
