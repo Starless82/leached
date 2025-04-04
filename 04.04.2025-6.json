@@ -1,0 +1,25 @@
+{
+    "name": "Stacy Price",
+    "age": 2,
+    "address": {
+        "street": "Jordan Summit",
+        "city": "West Patricialand",
+        "state": "Ohio",
+        "zip": "74571"
+    },
+    "contact": {
+        "phone": "651.421.5541x0604",
+        "servicePhone": "800301360"
+    },
+    "birthday": "2023-11-12",
+    "ip": "122.163.186.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Above program glass none put allow. Market teach son.\nRich significant back want bill for sell. Present idea method vote newspaper. Turn sing machine phone respond my beyond.",
+        "bio": "Eight different apply energy successful pressure church. South subject nature of.\nAnalysis service kitchen table. Church someone bed writer. Tough leader visit them early dream happen."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
