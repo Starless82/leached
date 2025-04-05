@@ -1,0 +1,25 @@
+{
+    "name": "Karen Martinez",
+    "age": 78,
+    "address": {
+        "street": "Matthews Field",
+        "city": "Smithville",
+        "state": "Alaska",
+        "zip": "85965"
+    },
+    "contact": {
+        "phone": "+1-905-715-6147x0259",
+        "servicePhone": "800059053"
+    },
+    "birthday": "1947-27-06",
+    "ip": "150.236.242.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Into know become outside student eight. Program note price top sure. Other owner surface dark Mrs tax.\nWorld image I end baby.",
+        "bio": "Option determine truth determine. Smile quickly prepare less.\nAmount concern she prevent while father. Value and simply good sell often son. Tough company page drug only."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
