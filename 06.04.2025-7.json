@@ -1,0 +1,25 @@
+{
+    "name": "Allison Shannon",
+    "age": 22,
+    "address": {
+        "street": "Snyder Rapid",
+        "city": "Dawnmouth",
+        "state": "Vermont",
+        "zip": "11538"
+    },
+    "contact": {
+        "phone": "995-894-4619x1993",
+        "servicePhone": "800100283"
+    },
+    "birthday": "2003-01-11",
+    "ip": "149.199.203.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Keep year recent. High church bank point.\nChild radio quality well. Sport air own indicate beat cost major. Hair check newspaper activity fund anyone cut.",
+        "bio": "Society decision stock firm herself statement. Million south government family guy source. Military dark sort travel now."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
