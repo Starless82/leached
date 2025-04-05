@@ -1,0 +1,25 @@
+{
+    "name": "Karl Santiago",
+    "age": 62,
+    "address": {
+        "street": "Rebecca Extensions",
+        "city": "Tylerberg",
+        "state": "Connecticut",
+        "zip": "64907"
+    },
+    "contact": {
+        "phone": "(686)643-5460x438",
+        "servicePhone": "800545747"
+    },
+    "birthday": "1963-05-02",
+    "ip": "77.180.81.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Word room ago boy where yard beautiful. Carry your better dream hotel. Decide include general ahead seem race.",
+        "bio": "Plant management character sound although fight work north. Interview model generation Mr night drive we. Value know lead positive."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
