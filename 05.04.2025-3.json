@@ -1,0 +1,25 @@
+{
+    "name": "Janet Gibbs",
+    "age": 47,
+    "address": {
+        "street": "Alexandra Parkways",
+        "city": "Gregorybury",
+        "state": "Louisiana",
+        "zip": "56048"
+    },
+    "contact": {
+        "phone": "+1-257-603-3482x08830",
+        "servicePhone": "800710132"
+    },
+    "birthday": "1978-21-01",
+    "ip": "13.58.119.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Later ability act able never sport Republican. Notice enter senior set fill. Manager current base create too.",
+        "bio": "Dinner oil drug nice near later number. Blood easy focus manager national source specific.\nAppear ever recognize. Man respond measure describe everything suffer believe."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
