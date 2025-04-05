@@ -1,0 +1,25 @@
+{
+    "name": "Brian Allison",
+    "age": 18,
+    "address": {
+        "street": "Contreras Square",
+        "city": "North Laurie",
+        "state": "Missouri",
+        "zip": "41789"
+    },
+    "contact": {
+        "phone": "+1-687-551-1502",
+        "servicePhone": "800513347"
+    },
+    "birthday": "2007-09-01",
+    "ip": "173.32.26.123",
+    "foo": "bar",
+    "profile": {
+        "about": "At feel fill professor possible voice. Executive center first.",
+        "bio": "Head role media national since. High west garden sometimes research. Image can nation management exist suggest current."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
