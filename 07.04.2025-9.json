@@ -1,0 +1,25 @@
+{
+    "name": "Wesley Robinson",
+    "age": 112,
+    "address": {
+        "street": "Parrish Fields",
+        "city": "Pamelafurt",
+        "state": "Minnesota",
+        "zip": "84910"
+    },
+    "contact": {
+        "phone": "(413)961-7403",
+        "servicePhone": "800612778"
+    },
+    "birthday": "1913-25-06",
+    "ip": "189.45.88.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Church born spring nature help those. Could avoid language alone.\nCover character you newspaper figure. Sister true inside drive.",
+        "bio": "Here whatever its clear. Open necessary notice my notice let. Season play head hundred pick cut.\nHuman letter painting social training. Past budget event."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
