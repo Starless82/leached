@@ -1,0 +1,25 @@
+{
+    "name": "Brian Conway",
+    "age": 115,
+    "address": {
+        "street": "Danielle Port",
+        "city": "North Morganland",
+        "state": "Massachusetts",
+        "zip": "58128"
+    },
+    "contact": {
+        "phone": "796.463.8039x44509",
+        "servicePhone": "800830568"
+    },
+    "birthday": "1910-08-07",
+    "ip": "47.203.167.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Sing black system read. Outside authority business north item.",
+        "bio": "Voice performance wait half current chair.\nPiece let exist information commercial article. Consider weight note main test nothing. Herself hundred he put.\nFeeling senior ten fear why officer stock."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
