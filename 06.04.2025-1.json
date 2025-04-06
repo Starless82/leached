@@ -1,0 +1,25 @@
+{
+    "name": "Laura Jones",
+    "age": 20,
+    "address": {
+        "street": "Richards Street",
+        "city": "Hoffmanchester",
+        "state": "South Dakota",
+        "zip": "47263"
+    },
+    "contact": {
+        "phone": "342.506.6049x702",
+        "servicePhone": "800394525"
+    },
+    "birthday": "2005-04-03",
+    "ip": "135.134.16.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Ball relationship knowledge particularly beyond. Voice unit boy partner to.\nEither source none ever establish. Democrat claim poor product term.",
+        "bio": "Way like bed direction and behind move.\nThough again morning learn start. They doctor way life better end.\nWhile true card crime arrive else. Blue exactly mention sign until measure bed."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
