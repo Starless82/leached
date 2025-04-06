@@ -1,0 +1,25 @@
+{
+    "name": "Kathryn Sullivan",
+    "age": 50,
+    "address": {
+        "street": "Kimberly Expressway",
+        "city": "North Jessicaside",
+        "state": "Pennsylvania",
+        "zip": "12357"
+    },
+    "contact": {
+        "phone": "(415)355-1971x2785",
+        "servicePhone": "800688694"
+    },
+    "birthday": "1975-18-02",
+    "ip": "89.12.179.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Out by bill site. Population officer subject shake. Carry heart college oil.\nSecond role full light actually yes. Culture concern stock.\nMarket fight feel main kind. Paper fish move still hit care.",
+        "bio": "Star production return you investment. Raise crime pretty recently ten mind.\nTrue contain team public also low. Like once apply science relationship."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
