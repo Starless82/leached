@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Myers",
+    "age": 74,
+    "address": {
+        "street": "Daniel Way",
+        "city": "Port Charlesmouth",
+        "state": "North Dakota",
+        "zip": "27369"
+    },
+    "contact": {
+        "phone": "467.466.7584x3739",
+        "servicePhone": "800949958"
+    },
+    "birthday": "1951-26-09",
+    "ip": "200.61.145.159",
+    "foo": "bar",
+    "profile": {
+        "about": "We movement treatment my analysis lawyer big. Enjoy federal activity goal leader between among.",
+        "bio": "They behind different. Summer never determine weight technology. Focus growth step whose two glass while."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
