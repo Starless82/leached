@@ -1,0 +1,25 @@
+{
+    "name": "Karen Jones",
+    "age": 31,
+    "address": {
+        "street": "Ronald Orchard",
+        "city": "Kirbyhaven",
+        "state": "Massachusetts",
+        "zip": "58039"
+    },
+    "contact": {
+        "phone": "+1-971-572-2986x1436",
+        "servicePhone": "800457831"
+    },
+    "birthday": "1994-16-11",
+    "ip": "150.121.17.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Adult another herself reason trip purpose. Whatever film nothing reflect. Behavior everything option nor agency teach tonight.",
+        "bio": "Form voice mouth myself already expect although. Movement maybe study again board. On six away same."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
