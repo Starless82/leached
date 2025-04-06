@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Ramos",
+    "age": 31,
+    "address": {
+        "street": "Kevin Hill",
+        "city": "Port Tylerport",
+        "state": "Texas",
+        "zip": "66945"
+    },
+    "contact": {
+        "phone": "001-500-439-3790",
+        "servicePhone": "800132000"
+    },
+    "birthday": "1994-09-08",
+    "ip": "155.136.42.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Customer major very cup. Student myself recent.\nBreak spring remember agree worker also.\nTry door resource performance. Beautiful or our line. Meet visit bar role show.",
+        "bio": "Nature art prepare name. Leg wish seek ever go. Accept within light piece poor. Enough relationship able this.\nEveryone single third. Experience again west than civil on."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
