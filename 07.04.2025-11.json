@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Collins",
+    "age": 93,
+    "address": {
+        "street": "Hall Shore",
+        "city": "Gregorybury",
+        "state": "South Carolina",
+        "zip": "48203"
+    },
+    "contact": {
+        "phone": "931.997.2799x17156",
+        "servicePhone": "800250963"
+    },
+    "birthday": "1932-27-08",
+    "ip": "50.159.247.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Near least work me successful fact president. Building course save detail.\nThing pressure sign wind. Free statement deal security. Wish gun behavior personal prepare door any game.",
+        "bio": "Although nearly father positive product he meeting.\nAbility open night keep ago million any. Produce themselves quickly raise.\nDiscover good forget support. Rate them act idea leg field."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
