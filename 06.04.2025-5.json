@@ -1,0 +1,25 @@
+{
+    "name": "Christine Perez",
+    "age": 6,
+    "address": {
+        "street": "Evans Row",
+        "city": "Griffithview",
+        "state": "Montana",
+        "zip": "28731"
+    },
+    "contact": {
+        "phone": "+1-320-314-5974x2026",
+        "servicePhone": "800844026"
+    },
+    "birthday": "2019-12-03",
+    "ip": "84.154.196.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Attorney western measure trip all new. Feel dark data. Collection shake her.\nWalk once huge herself put write school. Before hundred field popular local white.",
+        "bio": "Bill experience join still. Physical spring happy operation thousand father camera simply."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
