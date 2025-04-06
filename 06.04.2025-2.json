@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Pitts",
+    "age": 17,
+    "address": {
+        "street": "Brittney Hills",
+        "city": "West Edward",
+        "state": "New Hampshire",
+        "zip": "76801"
+    },
+    "contact": {
+        "phone": "(787)712-7216",
+        "servicePhone": "800541833"
+    },
+    "birthday": "2008-24-04",
+    "ip": "204.47.237.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Government including animal factor bad something sport ask. Fact where born onto senior trade. Laugh herself stop.",
+        "bio": "Soon involve property property question. Understand movie still card pretty she.\nSerious blue we any. Movement situation edge full. Very treat final film."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
