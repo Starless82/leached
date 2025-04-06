@@ -1,0 +1,25 @@
+{
+    "name": "Mike Moore",
+    "age": 70,
+    "address": {
+        "street": "Gould Turnpike",
+        "city": "South Nicholas",
+        "state": "Delaware",
+        "zip": "69980"
+    },
+    "contact": {
+        "phone": "(272)317-8071",
+        "servicePhone": "800139235"
+    },
+    "birthday": "1955-01-11",
+    "ip": "130.44.97.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Forget third writer get high. Sometimes already why cell sing research deal. Forget second gas against most spring.",
+        "bio": "Debate why high foreign season all.\nInteresting imagine yeah situation let international. Possible career feel similar year chance ready artist. Drive agent piece set operation sometimes."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
