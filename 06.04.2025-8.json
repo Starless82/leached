@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Glover",
+    "age": 53,
+    "address": {
+        "street": "Hobbs Gateway",
+        "city": "Laurachester",
+        "state": "Ohio",
+        "zip": "93771"
+    },
+    "contact": {
+        "phone": "405-583-2822",
+        "servicePhone": "800180427"
+    },
+    "birthday": "1972-26-05",
+    "ip": "20.42.61.154",
+    "foo": "bar",
+    "profile": {
+        "about": "According poor throughout consumer thus court thousand. Matter catch give right suddenly look seek.\nHit out seek.",
+        "bio": "Which spend nation understand large. Employee certainly lot how region detail."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
