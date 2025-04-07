@@ -1,0 +1,25 @@
+{
+    "name": "Kristen Kline",
+    "age": 95,
+    "address": {
+        "street": "Barker Fort",
+        "city": "Port Mariabury",
+        "state": "New Hampshire",
+        "zip": "71203"
+    },
+    "contact": {
+        "phone": "001-999-686-8601x0159",
+        "servicePhone": "800079070"
+    },
+    "birthday": "1930-09-12",
+    "ip": "49.123.117.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Wait industry mouth plant eight exactly hard list. Total deal remain system receive agreement company another. Long lot see. Own hope meet area.",
+        "bio": "Remember around know minute science. Vote possible next network few across maintain century."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
