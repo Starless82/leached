@@ -1,0 +1,25 @@
+{
+    "name": "Haley Williams",
+    "age": 90,
+    "address": {
+        "street": "Noble Spur",
+        "city": "Laurenshire",
+        "state": "Wyoming",
+        "zip": "43270"
+    },
+    "contact": {
+        "phone": "401.398.6831",
+        "servicePhone": "800984540"
+    },
+    "birthday": "1935-27-10",
+    "ip": "103.151.227.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Choose product generation son. Choose particular price black me nor think speech. National leave morning American behavior low focus.",
+        "bio": "Onto down forget up kid. Writer attorney available positive quality vote local."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
