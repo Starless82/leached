@@ -1,0 +1,25 @@
+{
+    "name": "Sara Delacruz",
+    "age": 8,
+    "address": {
+        "street": "Brian Square",
+        "city": "New Jasonburgh",
+        "state": "Virginia",
+        "zip": "42326"
+    },
+    "contact": {
+        "phone": "7676287800",
+        "servicePhone": "800034361"
+    },
+    "birthday": "2017-24-06",
+    "ip": "30.230.215.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Must wear dark sell. Nothing chance dinner ok hand side service. Too professor particular what green. Watch mouth night choose class get.\nYes early science condition what resource.",
+        "bio": "Serious window see and. Tv recently do huge effort follow. Large avoid assume agent product list still."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
