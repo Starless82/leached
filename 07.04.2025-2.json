@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Evans",
+    "age": 36,
+    "address": {
+        "street": "Jasmin Brook",
+        "city": "Briannashire",
+        "state": "Indiana",
+        "zip": "25596"
+    },
+    "contact": {
+        "phone": "825.957.7371x224",
+        "servicePhone": "800577180"
+    },
+    "birthday": "1989-15-12",
+    "ip": "216.171.93.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Figure difference boy room wall effort exist.\nRun need issue with beat. Foreign total production concern check well media.",
+        "bio": "Return realize brother hear later off.\nMovie unit organization. Same condition discover yourself film region wish court. From project leader manager again street sound."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
