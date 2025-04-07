@@ -1,0 +1,25 @@
+{
+    "name": "Michael Ashley",
+    "age": 103,
+    "address": {
+        "street": "Lamb Plaza",
+        "city": "Elizabethtown",
+        "state": "Maryland",
+        "zip": "11547"
+    },
+    "contact": {
+        "phone": "8184558206",
+        "servicePhone": "800975112"
+    },
+    "birthday": "1922-17-01",
+    "ip": "151.233.17.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Subject glass traditional personal audience Mrs however. Interview yourself population able name. Hear ball push store cost whose.",
+        "bio": "Peace perhaps see never good site opportunity fight. Country since option page single rise commercial.\nCenter purpose both quickly more. Community board bag. Reality parent return though truth tree."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
