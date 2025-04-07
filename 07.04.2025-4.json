@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Welch",
+    "age": 11,
+    "address": {
+        "street": "Jeremy Rest",
+        "city": "New Annaberg",
+        "state": "Missouri",
+        "zip": "39366"
+    },
+    "contact": {
+        "phone": "374.330.5725x0839",
+        "servicePhone": "800675288"
+    },
+    "birthday": "2014-05-06",
+    "ip": "106.148.4.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Risk course some hair result middle. Focus begin of draw vote not.\nSoon Mrs good present huge expect. Painting send upon many condition. Morning six blue forget ask look.",
+        "bio": "Later realize agency TV identify. Side claim cell.\nInvestment unit indeed test. Every arrive draw rise seat know include. Six ago north themselves scientist. Art voice radio body."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
