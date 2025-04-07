@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Johnson",
+    "age": 48,
+    "address": {
+        "street": "Lopez Plain",
+        "city": "Collinschester",
+        "state": "Kansas",
+        "zip": "61252"
+    },
+    "contact": {
+        "phone": "250-891-0379x825",
+        "servicePhone": "800904994"
+    },
+    "birthday": "1977-05-07",
+    "ip": "136.101.226.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Himself minute learn cultural election system rich something. Couple month free practice. Hit official down likely discussion hit run also.",
+        "bio": "Term year impact practice thing. Them a newspaper reduce brother major democratic sense.\nGeneration force behavior sister. Baby believe media accept. Name light quite along truth idea finish some."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
