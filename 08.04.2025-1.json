@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Cooper",
+    "age": 13,
+    "address": {
+        "street": "Christina Brooks",
+        "city": "Christopherbury",
+        "state": "Wisconsin",
+        "zip": "69991"
+    },
+    "contact": {
+        "phone": "(289)202-7366x39162",
+        "servicePhone": "800129300"
+    },
+    "birthday": "2012-11-05",
+    "ip": "20.7.212.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Last much walk ten mind focus. Likely character institution paper hundred analysis defense. Drive single travel everyone technology answer various series.",
+        "bio": "Skill outside peace purpose out chair fall. Hear last machine.\nFinancial Mr far main. Shoulder feel instead fire moment plan."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
