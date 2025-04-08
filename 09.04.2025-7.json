@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Scott",
+    "age": 104,
+    "address": {
+        "street": "Ricky Pass",
+        "city": "Wilsontown",
+        "state": "Florida",
+        "zip": "31279"
+    },
+    "contact": {
+        "phone": "(833)351-1054x2910",
+        "servicePhone": "800527105"
+    },
+    "birthday": "1921-08-01",
+    "ip": "151.154.132.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Professor but agency music. Her he action such pick.\nOpen religious friend when yes policy. Really south give way.\nNews culture hair decision open through structure. Pm enter rise nor.",
+        "bio": "Yard together significant. This purpose left nature impact people resource. Direction other expect.\nCompany similar behind away black Mr song. Go with see individual serious the."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
