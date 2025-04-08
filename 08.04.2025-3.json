@@ -1,0 +1,25 @@
+{
+    "name": "Kristina Davis",
+    "age": 19,
+    "address": {
+        "street": "Brian Extensions",
+        "city": "Garciafort",
+        "state": "Indiana",
+        "zip": "16664"
+    },
+    "contact": {
+        "phone": "(240)324-9877",
+        "servicePhone": "800675004"
+    },
+    "birthday": "2006-05-02",
+    "ip": "150.20.90.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Wall child some skin few high. Others out month show. Above listen already product force home.\nBreak fill now service high.",
+        "bio": "It billion again music from. Enter each start four. Identify research dream during. Attorney sometimes close expert life week gas everything."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
