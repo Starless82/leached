@@ -1,0 +1,25 @@
+{
+    "name": "Brittney Douglas",
+    "age": 49,
+    "address": {
+        "street": "Russo Valleys",
+        "city": "Tracytown",
+        "state": "Kentucky",
+        "zip": "33378"
+    },
+    "contact": {
+        "phone": "(801)331-6714x9104",
+        "servicePhone": "800970844"
+    },
+    "birthday": "1976-26-09",
+    "ip": "120.183.117.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Dream especially market challenge group center. Early know deal bag. Fast process ready thank last.\nFund go somebody goal. Turn young interest crime yes job. Raise argue food memory ability air.",
+        "bio": "Middle quality religious physical agency maybe front. Life about southern possible where high fund. Tend always crime kind magazine blue."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
