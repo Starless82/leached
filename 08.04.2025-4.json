@@ -1,0 +1,25 @@
+{
+    "name": "Pam Williams",
+    "age": 77,
+    "address": {
+        "street": "Darlene Well",
+        "city": "Port Noah",
+        "state": "Ohio",
+        "zip": "90460"
+    },
+    "contact": {
+        "phone": "001-772-459-8879x9840",
+        "servicePhone": "800239435"
+    },
+    "birthday": "1948-01-08",
+    "ip": "16.145.82.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Guy room heavy call Mr state. Writer worry hear fly far we. Or resource real seven.\nFire wind event beautiful. Onto international window happy fast.",
+        "bio": "Magazine officer less. Allow cup interesting.\nRadio country us where relate. Member speech debate body government.\nFeeling senior free focus role unit person. Then group response. State room glass."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
