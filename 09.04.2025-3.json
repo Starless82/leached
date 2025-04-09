@@ -1,0 +1,25 @@
+{
+    "name": "Charles Strong",
+    "age": 57,
+    "address": {
+        "street": "Rebecca Turnpike",
+        "city": "Barbaraport",
+        "state": "Nevada",
+        "zip": "24241"
+    },
+    "contact": {
+        "phone": "+1-962-465-2417x02589",
+        "servicePhone": "800998652"
+    },
+    "birthday": "1968-07-07",
+    "ip": "191.241.15.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Experience idea relationship. Science upon major likely room fight million. Concern price eat. In rock study change think clearly mouth.\nYourself writer owner space. Anyone weight too song.",
+        "bio": "Design unit reflect that coach staff. Total response goal. Trip decide color budget should around work. Who study point individual light media feel within."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
