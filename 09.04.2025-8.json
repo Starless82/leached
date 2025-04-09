@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Davis",
+    "age": 74,
+    "address": {
+        "street": "Hubbard Station",
+        "city": "North Kenneth",
+        "state": "Wyoming",
+        "zip": "31596"
+    },
+    "contact": {
+        "phone": "001-559-515-7379",
+        "servicePhone": "800698677"
+    },
+    "birthday": "1951-20-07",
+    "ip": "116.253.160.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Onto loss since close operation contain. Couple local good report management. Could he much such.\nOfficial how deal fire light. Road among true population. Cultural spring crime image.",
+        "bio": "Write stand suffer experience mind. Might sense magazine.\nTime image build police everyone wrong. Serious fine foot work where consumer. Future woman share site school then me."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
