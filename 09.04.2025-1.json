@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Jones",
+    "age": 12,
+    "address": {
+        "street": "Parsons Trafficway",
+        "city": "Fowlerfort",
+        "state": "Tennessee",
+        "zip": "48961"
+    },
+    "contact": {
+        "phone": "794.393.5052x0688",
+        "servicePhone": "800703086"
+    },
+    "birthday": "2013-14-09",
+    "ip": "144.229.191.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Miss know their century method summer region present.\nDaughter show second tend. Recently manage these town audience term these. Second less pattern.",
+        "bio": "Page happy lawyer capital gas necessary. Similar strategy what agree. View it environmental.\nEdge deal child establish firm ok. Take church here listen."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
