@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Arnold",
+    "age": 111,
+    "address": {
+        "street": "Armstrong Rapids",
+        "city": "Jamesburgh",
+        "state": "Iowa",
+        "zip": "56709"
+    },
+    "contact": {
+        "phone": "+1-352-484-0974x5160",
+        "servicePhone": "800429488"
+    },
+    "birthday": "1914-07-03",
+    "ip": "42.57.143.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Happy Congress ask find occur hard. Collection state away money decide. Us to area tonight room prevent.",
+        "bio": "Order by employee although light Mr. Use concern face describe sing mouth. Take Democrat able event."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
