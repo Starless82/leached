@@ -1,0 +1,25 @@
+{
+    "name": "Monica Arnold",
+    "age": 112,
+    "address": {
+        "street": "Wagner Ports",
+        "city": "Port Williamberg",
+        "state": "Delaware",
+        "zip": "77230"
+    },
+    "contact": {
+        "phone": "(944)571-5873x3584",
+        "servicePhone": "800528050"
+    },
+    "birthday": "1913-24-09",
+    "ip": "147.129.6.14",
+    "foo": "bar",
+    "profile": {
+        "about": "She must community entire stage wife really.\nSimply billion term again certainly arrive month research. Growth note reason. Capital expect rise.",
+        "bio": "Several stop physical. Present blood realize than.\nYeah receive indicate method others various. No often quite small. Leg home level partner boy concern. Budget various add capital arm seek use."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
