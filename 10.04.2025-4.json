@@ -1,0 +1,25 @@
+{
+    "name": "Olivia Moody",
+    "age": 65,
+    "address": {
+        "street": "Vasquez Trail",
+        "city": "South Josephland",
+        "state": "New Hampshire",
+        "zip": "92530"
+    },
+    "contact": {
+        "phone": "+1-484-663-4617",
+        "servicePhone": "800719687"
+    },
+    "birthday": "1960-11-03",
+    "ip": "56.117.34.42",
+    "foo": "bar",
+    "profile": {
+        "about": "She something group at you where. Shake those Democrat manage serious.\nWho international wear start. Beyond degree impact management thus cultural. Decade especially fish.",
+        "bio": "A so necessary sister watch assume feel. Summer cup worker main population only subject."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
