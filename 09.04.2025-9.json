@@ -1,0 +1,25 @@
+{
+    "name": "Erin Odonnell",
+    "age": 81,
+    "address": {
+        "street": "Jeffrey Fields",
+        "city": "West William",
+        "state": "Delaware",
+        "zip": "91683"
+    },
+    "contact": {
+        "phone": "001-631-324-2112x144",
+        "servicePhone": "800186453"
+    },
+    "birthday": "1944-11-03",
+    "ip": "203.116.171.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Wear about red similar.\nWorld respond treat live law deal. Line size these anything. Artist air store particular.\nParticipant above Republican can. A form letter kid sell despite.",
+        "bio": "Discuss seem series information mind city. Relationship card the father where data. Mouth rest situation detail smile trade."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
