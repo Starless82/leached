@@ -1,0 +1,25 @@
+{
+    "name": "Martin Rice",
+    "age": 51,
+    "address": {
+        "street": "Andrew Summit",
+        "city": "New Amanda",
+        "state": "Texas",
+        "zip": "13352"
+    },
+    "contact": {
+        "phone": "001-791-632-4087",
+        "servicePhone": "800192499"
+    },
+    "birthday": "1974-18-12",
+    "ip": "23.251.159.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Similar without officer according action what. Analysis industry standard win leg east central. Break center benefit their door national.",
+        "bio": "Case really big easy value point. Where mention give contain. Today say field marriage whole.\nSell sign economic step. Those south season military use."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
