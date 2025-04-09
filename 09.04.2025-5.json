@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Torres",
+    "age": 94,
+    "address": {
+        "street": "Johnson Hollow",
+        "city": "Humphreyton",
+        "state": "Illinois",
+        "zip": "36053"
+    },
+    "contact": {
+        "phone": "+1-525-691-2427x069",
+        "servicePhone": "800475077"
+    },
+    "birthday": "1931-02-11",
+    "ip": "10.5.191.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Whole million meet field. Mission thus tonight small upon decide. Mean and weight focus media thousand traditional fall.\nMeet face or despite institution process. Event score talk.",
+        "bio": "Surface various center quickly look our. Necessary voice later respond real another. Hotel sit build great something technology."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
