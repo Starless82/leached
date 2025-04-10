@@ -1,0 +1,25 @@
+{
+    "name": "Sara Johnson",
+    "age": 66,
+    "address": {
+        "street": "Mikayla Centers",
+        "city": "Lake Brooketon",
+        "state": "Arkansas",
+        "zip": "22909"
+    },
+    "contact": {
+        "phone": "001-634-907-7902",
+        "servicePhone": "800911481"
+    },
+    "birthday": "1959-08-03",
+    "ip": "149.227.0.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Speak little forward last. Reach chair show bank most daughter.\nPurpose degree federal. Eight worry front marriage among.",
+        "bio": "Risk simple pull though stand. Others west beyond away.\nProcess voice third church owner look. Church stuff son less car do serious. Lose poor fear."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
