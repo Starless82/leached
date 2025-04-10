@@ -1,0 +1,25 @@
+{
+    "name": "Steven Anderson",
+    "age": 29,
+    "address": {
+        "street": "Allison Plaza",
+        "city": "Amberport",
+        "state": "Georgia",
+        "zip": "60579"
+    },
+    "contact": {
+        "phone": "(468)854-0646",
+        "servicePhone": "800170392"
+    },
+    "birthday": "1996-22-01",
+    "ip": "42.123.157.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Around against gas however skill keep rise. Brother fact budget leader eat send their. Recognize east each weight film.",
+        "bio": "Management spend positive season. Happen majority dark seat figure. Leave rock story probably of relationship coach."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
