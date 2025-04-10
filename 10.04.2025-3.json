@@ -1,0 +1,25 @@
+{
+    "name": "Travis Allen",
+    "age": 16,
+    "address": {
+        "street": "Douglas Ports",
+        "city": "West Amber",
+        "state": "Nebraska",
+        "zip": "52410"
+    },
+    "contact": {
+        "phone": "9742483144",
+        "servicePhone": "800870337"
+    },
+    "birthday": "2009-13-10",
+    "ip": "169.6.183.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Around message recent do wish. Response Republican forward attorney money. West nor fly stuff.\nMeasure computer especially up on short full person. Account skill single as deep front.",
+        "bio": "Evidence bank cause teacher old amount.\nResearch company push image Mr message. Among blue total effect."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
