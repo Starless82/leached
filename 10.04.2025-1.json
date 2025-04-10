@@ -1,0 +1,25 @@
+{
+    "name": "Christina Martin",
+    "age": 97,
+    "address": {
+        "street": "Nancy Fort",
+        "city": "Lake Brianna",
+        "state": "Texas",
+        "zip": "21149"
+    },
+    "contact": {
+        "phone": "001-793-366-4000x242",
+        "servicePhone": "800300709"
+    },
+    "birthday": "1928-13-04",
+    "ip": "92.223.180.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Nearly lawyer now bit successful close from. Look measure pressure.\nMind tax treat anything send energy. Them money operation.",
+        "bio": "Several water exactly medical answer close. First condition lose author economy. Enough anything conference idea action."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
