@@ -1,0 +1,25 @@
+{
+    "name": "Jorge Chang",
+    "age": 103,
+    "address": {
+        "street": "Nathan Haven",
+        "city": "Omarmouth",
+        "state": "Virginia",
+        "zip": "09688"
+    },
+    "contact": {
+        "phone": "(505)283-3179x64790",
+        "servicePhone": "800821251"
+    },
+    "birthday": "1922-18-07",
+    "ip": "177.221.243.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Rule ok kid serious face industry. House national between pay card cultural key include. Indeed poor ask list.",
+        "bio": "Social tonight employee letter according. Training issue suggest nor one. Trade Congress wait person."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
