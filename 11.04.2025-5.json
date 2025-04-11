@@ -1,0 +1,25 @@
+{
+    "name": "Barbara Hardin",
+    "age": 71,
+    "address": {
+        "street": "Tanya Cove",
+        "city": "Lake Paulfurt",
+        "state": "Alaska",
+        "zip": "50596"
+    },
+    "contact": {
+        "phone": "(207)603-4008",
+        "servicePhone": "800032794"
+    },
+    "birthday": "1954-09-06",
+    "ip": "37.208.83.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Admit detail current marriage scene wonder. Trial garden later office show traditional instead water.\nLeg detail chance into act today. Appear blue magazine final north throughout network.",
+        "bio": "Middle country until experience big. President wait then. News home across candidate fly race interesting."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
