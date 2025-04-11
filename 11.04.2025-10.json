@@ -1,0 +1,25 @@
+{
+    "name": "Jeanette Robles MD",
+    "age": 10,
+    "address": {
+        "street": "Ronald Crossroad",
+        "city": "Leeshire",
+        "state": "Texas",
+        "zip": "30746"
+    },
+    "contact": {
+        "phone": "(502)979-5379x75328",
+        "servicePhone": "800537931"
+    },
+    "birthday": "2015-05-02",
+    "ip": "151.214.211.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Shoulder west involve economy writer why. Purpose industry which man character adult state son.",
+        "bio": "Summer sure continue. That standard project if. Campaign when glass example agree.\nThan though school different. Market prevent moment investment physical want."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
