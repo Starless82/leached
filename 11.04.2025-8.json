@@ -1,0 +1,25 @@
+{
+    "name": "Debra Jones",
+    "age": 80,
+    "address": {
+        "street": "Dennis Underpass",
+        "city": "Lake Elizabeth",
+        "state": "Texas",
+        "zip": "42594"
+    },
+    "contact": {
+        "phone": "273-524-5373x39886",
+        "servicePhone": "800346455"
+    },
+    "birthday": "1945-11-03",
+    "ip": "76.164.124.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Behind I give late.\nAudience close power health happen make city. Commercial recent while somebody.\nCongress story to notice popular perhaps several. Something despite true maybe learn see.",
+        "bio": "Plan type local shake reveal least politics. Land station allow both why report theory.\nCouple however degree he. Floor nation somebody. Record heavy start."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
