@@ -1,0 +1,25 @@
+{
+    "name": "Angie Whitehead",
+    "age": 90,
+    "address": {
+        "street": "Frye Fields",
+        "city": "Stoneland",
+        "state": "Kansas",
+        "zip": "70317"
+    },
+    "contact": {
+        "phone": "+1-792-945-3494",
+        "servicePhone": "800559421"
+    },
+    "birthday": "1935-04-07",
+    "ip": "171.14.70.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Interesting son learn son. Arrive up here. Any stop your herself theory talk.\nArt look week according simply himself project. Note stuff Republican ask free find sort PM.",
+        "bio": "Structure night or listen. Carry past activity successful any nation. Goal series environment care life design interview."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
