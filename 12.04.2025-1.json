@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Martinez",
+    "age": 7,
+    "address": {
+        "street": "Matthew Fork",
+        "city": "Port Cindy",
+        "state": "Nevada",
+        "zip": "37151"
+    },
+    "contact": {
+        "phone": "453.445.4347",
+        "servicePhone": "800032096"
+    },
+    "birthday": "2018-20-01",
+    "ip": "89.174.180.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Five career might sing. Deal great fill price style. Art without threat.\nFund week citizen alone resource per listen. Animal candidate wide form well seat. Hundred dinner light might door.",
+        "bio": "Specific ground color federal. Tough point body enter personal pick price. Natural kitchen building relate career person."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
