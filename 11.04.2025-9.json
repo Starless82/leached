@@ -1,0 +1,25 @@
+{
+    "name": "Allen Gray",
+    "age": 25,
+    "address": {
+        "street": "Sonya Circle",
+        "city": "Ballardmouth",
+        "state": "Montana",
+        "zip": "80052"
+    },
+    "contact": {
+        "phone": "+1-610-227-9682x79019",
+        "servicePhone": "800690877"
+    },
+    "birthday": "2000-05-05",
+    "ip": "78.33.22.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Explain rock human for market cause. Evidence if clearly anyone our rise. Capital huge attention be outside.",
+        "bio": "Then suddenly perhaps human wind under approach stay. Put source market. Although campaign at physical body cost entire."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
