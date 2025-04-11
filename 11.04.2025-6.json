@@ -1,0 +1,25 @@
+{
+    "name": "Megan Marsh",
+    "age": 50,
+    "address": {
+        "street": "Wu Viaduct",
+        "city": "New Anthonyland",
+        "state": "Pennsylvania",
+        "zip": "30300"
+    },
+    "contact": {
+        "phone": "440.300.6813x3495",
+        "servicePhone": "800388248"
+    },
+    "birthday": "1975-08-07",
+    "ip": "4.222.16.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Call out lead best. Them technology exist bring behavior describe.\nGarden term decide approach board. Out would run marriage service. Challenge those eight carry edge although place own.",
+        "bio": "Director mission analysis. Order building president three condition head.\nEat style hit service computer road. Author hold Congress rise hospital always."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
