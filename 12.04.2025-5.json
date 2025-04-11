@@ -1,0 +1,25 @@
+{
+    "name": "Monica English",
+    "age": 93,
+    "address": {
+        "street": "Lloyd Shore",
+        "city": "Shirleyside",
+        "state": "New Mexico",
+        "zip": "36784"
+    },
+    "contact": {
+        "phone": "(524)520-7530x53635",
+        "servicePhone": "800589128"
+    },
+    "birthday": "1932-20-09",
+    "ip": "86.253.45.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Interesting news only article. Couple American new cut. Provide dream yes drive themselves.\nAdmit task find admit easy such first word. Work field accept hard.",
+        "bio": "Soldier claim set arm pressure conference. Letter agency beyond question democratic. Maintain throw factor person thus."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
