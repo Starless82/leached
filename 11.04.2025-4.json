@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Meza",
+    "age": 61,
+    "address": {
+        "street": "Hanson Course",
+        "city": "Cookside",
+        "state": "Hawaii",
+        "zip": "55448"
+    },
+    "contact": {
+        "phone": "664.621.4839",
+        "servicePhone": "800126397"
+    },
+    "birthday": "1964-05-02",
+    "ip": "119.184.204.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Season common the million. Identify author discover camera. Attack or sing sense.\nCan wish enjoy among away. Believe himself under employee goal blue hit. Reflect sing choose clearly rate.",
+        "bio": "Various local to anything turn decide season. Work couple various never dream. Cover than note either.\nExecutive offer plant business hit impact generation."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
