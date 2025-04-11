@@ -1,0 +1,25 @@
+{
+    "name": "Jorge Chavez",
+    "age": 73,
+    "address": {
+        "street": "Kyle Islands",
+        "city": "Port Emily",
+        "state": "Massachusetts",
+        "zip": "13590"
+    },
+    "contact": {
+        "phone": "+1-950-337-3916",
+        "servicePhone": "800055911"
+    },
+    "birthday": "1952-16-01",
+    "ip": "80.13.196.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Book sing better role. Night lay office rest.\nView same even federal middle. Pretty remember specific group. Know until art.",
+        "bio": "Budget allow build fly risk. Enter product dark coach concern. Plant us inside claim.\nFive minute husband third. Image attention friend money. Use radio size."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
