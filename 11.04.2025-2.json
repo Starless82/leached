@@ -1,0 +1,25 @@
+{
+    "name": "Cassandra Thomas",
+    "age": 97,
+    "address": {
+        "street": "Lisa Burgs",
+        "city": "New Stephen",
+        "state": "Wisconsin",
+        "zip": "78325"
+    },
+    "contact": {
+        "phone": "509.482.8798",
+        "servicePhone": "800194982"
+    },
+    "birthday": "1928-03-10",
+    "ip": "194.233.191.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Garden radio important factor outside. Ever gas international land hospital during. Author lead little already because tree.",
+        "bio": "Born leader color movement because born health. Who party thousand total big woman."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
