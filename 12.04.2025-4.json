@@ -1,0 +1,25 @@
+{
+    "name": "Lori Huerta",
+    "age": 19,
+    "address": {
+        "street": "Grant Forks",
+        "city": "Port Michael",
+        "state": "Alaska",
+        "zip": "75920"
+    },
+    "contact": {
+        "phone": "992.844.3365",
+        "servicePhone": "800048517"
+    },
+    "birthday": "2006-08-10",
+    "ip": "110.140.158.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Office allow current. Should four national there evidence. Next why us face gas. House about before coach author.",
+        "bio": "Popular necessary candidate executive available.\nOfficial time skill teach pick last two experience. Head also training cup public story TV."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
