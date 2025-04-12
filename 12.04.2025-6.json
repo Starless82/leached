@@ -1,0 +1,25 @@
+{
+    "name": "Peggy Li",
+    "age": 33,
+    "address": {
+        "street": "Hannah Shore",
+        "city": "South Erica",
+        "state": "Ohio",
+        "zip": "56033"
+    },
+    "contact": {
+        "phone": "850.470.7931x86878",
+        "servicePhone": "800198369"
+    },
+    "birthday": "1992-19-09",
+    "ip": "2.184.49.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Defense effect claim price yeah. Throughout man national serve west activity. Manager successful purpose certain himself red whom.\nKid add sport mother current across.",
+        "bio": "Various compare cold relate side company especially. Same affect behavior support. You forget why identify establish."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
