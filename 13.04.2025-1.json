@@ -1,0 +1,25 @@
+{
+    "name": "Adam Woods",
+    "age": 49,
+    "address": {
+        "street": "Nicole Unions",
+        "city": "North Amanda",
+        "state": "Utah",
+        "zip": "56652"
+    },
+    "contact": {
+        "phone": "(640)852-7540",
+        "servicePhone": "800473309"
+    },
+    "birthday": "1976-22-03",
+    "ip": "180.240.128.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Effect act item organization manage. Top which certain level number society.\nSerious expert fall response mouth. Successful material blue education all. Cut college cause trip Mr bed movement.",
+        "bio": "Arm within and stop east compare wall. Second human discuss. Shoulder step more charge final not stock fast."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
