@@ -1,0 +1,25 @@
+{
+    "name": "Eddie Guerra",
+    "age": 72,
+    "address": {
+        "street": "Cohen Pines",
+        "city": "Garciaberg",
+        "state": "Maryland",
+        "zip": "26964"
+    },
+    "contact": {
+        "phone": "(307)628-5288x33288",
+        "servicePhone": "800523341"
+    },
+    "birthday": "1953-24-10",
+    "ip": "165.185.11.28",
+    "foo": "bar",
+    "profile": {
+        "about": "I body walk type mean quality piece that. Great bit wonder piece. Open after party sister evening enough me this.\nMagazine around drug quickly remain. American civil more behavior thousand yeah care.",
+        "bio": "Activity week probably teacher. Likely of evidence away condition series.\nSingle at approach whole. Service catch only perform. Read by arrive various."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
