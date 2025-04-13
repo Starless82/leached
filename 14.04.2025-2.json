@@ -1,0 +1,25 @@
+{
+    "name": "Eric Schmidt",
+    "age": 10,
+    "address": {
+        "street": "Webb Spring",
+        "city": "Leslieview",
+        "state": "New Hampshire",
+        "zip": "77537"
+    },
+    "contact": {
+        "phone": "461-747-4106",
+        "servicePhone": "800454693"
+    },
+    "birthday": "2015-14-06",
+    "ip": "78.229.233.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Attack attention training treatment result shake arrive. Spring so either goal condition of class. Seek realize beat hair without.",
+        "bio": "Even just what institution suddenly. Other wish amount laugh save one.\nBoard sound try week. Practice cut issue option family. Hospital east people then same challenge age."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
