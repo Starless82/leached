@@ -1,0 +1,25 @@
+{
+    "name": "Carlos Gutierrez",
+    "age": 27,
+    "address": {
+        "street": "Ronald Estate",
+        "city": "Brownshire",
+        "state": "Hawaii",
+        "zip": "97780"
+    },
+    "contact": {
+        "phone": "(756)335-7519x333",
+        "servicePhone": "800421664"
+    },
+    "birthday": "1998-16-02",
+    "ip": "103.196.34.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Attention seat environmental officer everybody culture. Social matter century. Thousand development great too turn item eat.",
+        "bio": "Including drive break yeah beyond yard eye concern. Minute word line model consider yes. Happen discover of table finish. Century interview relationship reduce line different."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
