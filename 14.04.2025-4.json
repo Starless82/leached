@@ -1,0 +1,25 @@
+{
+    "name": "Robert Barr",
+    "age": 13,
+    "address": {
+        "street": "Henderson Hollow",
+        "city": "Michaelville",
+        "state": "Massachusetts",
+        "zip": "77638"
+    },
+    "contact": {
+        "phone": "(892)792-2115x92315",
+        "servicePhone": "800859926"
+    },
+    "birthday": "2012-21-12",
+    "ip": "191.25.119.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Month mouth professional large involve. Responsibility record billion kitchen bed five almost. Bar blue return everyone military even experience.",
+        "bio": "Well be probably avoid hospital home. Agreement debate daughter will view material idea. Much run better third war.\nPolitics politics court. Top president left senior per."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
