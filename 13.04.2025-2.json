@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Lewis",
+    "age": 114,
+    "address": {
+        "street": "Schmidt Wells",
+        "city": "Port Jeremiah",
+        "state": "West Virginia",
+        "zip": "21626"
+    },
+    "contact": {
+        "phone": "666-268-7463",
+        "servicePhone": "800052813"
+    },
+    "birthday": "1911-24-02",
+    "ip": "4.73.160.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Lead break physical. Prevent public only within family strategy book. Item do safe again.",
+        "bio": "Do live another suffer we task. Likely morning daughter fire up."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
