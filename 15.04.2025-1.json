@@ -1,0 +1,25 @@
+{
+    "name": "Brandy Church",
+    "age": 99,
+    "address": {
+        "street": "Alex Shores",
+        "city": "Coxchester",
+        "state": "Missouri",
+        "zip": "28783"
+    },
+    "contact": {
+        "phone": "8208597920",
+        "servicePhone": "800169071"
+    },
+    "birthday": "1926-14-01",
+    "ip": "59.120.125.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Election rule stock vote bill our western.\nThemselves religious finish positive difficult. Theory tonight impact site three. Performance forget than never.",
+        "bio": "Quality section necessary. Cold account either represent.\nLow seem stock something on environmental. Campaign environment free hope north huge statement thing."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
