@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Gray",
+    "age": 60,
+    "address": {
+        "street": "Davis Lock",
+        "city": "South Carolineshire",
+        "state": "Washington",
+        "zip": "69217"
+    },
+    "contact": {
+        "phone": "001-827-297-3742x17008",
+        "servicePhone": "800702101"
+    },
+    "birthday": "1965-06-02",
+    "ip": "32.250.152.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Source third rich. Pull anything necessary treatment reflect admit. World create health sometimes little.\nYour bank argue describe. Support special pull but decision back.",
+        "bio": "Approach movement analysis reveal government. Western of fine opportunity shake wide discuss.\nOr off wind dinner. Bag deep customer determine as if not. Impact meet home past camera same."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
