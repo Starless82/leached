@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Nathan Leon IV",
+    "age": 93,
+    "address": {
+        "street": "Shelton Ridges",
+        "city": "Lawsonstad",
+        "state": "Ohio",
+        "zip": "20364"
+    },
+    "contact": {
+        "phone": "001-757-351-1111",
+        "servicePhone": "800032667"
+    },
+    "birthday": "1932-11-05",
+    "ip": "130.133.123.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Statement actually add quickly. Detail yard old seek will trouble majority security. Past movie whole surface listen account south.",
+        "bio": "Carry indicate however rather drop positive. Paper wrong feeling talk pull under.\nBuy usually read key. Fear yeah operation address."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
