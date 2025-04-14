@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Wright",
+    "age": 51,
+    "address": {
+        "street": "Jessica Center",
+        "city": "North Thomashaven",
+        "state": "Washington",
+        "zip": "78678"
+    },
+    "contact": {
+        "phone": "001-867-978-5200x2654",
+        "servicePhone": "800785992"
+    },
+    "birthday": "1974-07-02",
+    "ip": "166.117.28.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Fire well music dream pressure off model.\nMaybe eat at lot available part program debate. Body else well tend likely enjoy structure about.",
+        "bio": "Government visit front positive here challenge. Easy keep receive song people material."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
