@@ -1,0 +1,25 @@
+{
+    "name": "Bianca Frank",
+    "age": 35,
+    "address": {
+        "street": "Randy Station",
+        "city": "Matthewfort",
+        "state": "Kansas",
+        "zip": "42069"
+    },
+    "contact": {
+        "phone": "709-786-0104x5162",
+        "servicePhone": "800390612"
+    },
+    "birthday": "1990-25-01",
+    "ip": "201.81.129.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Idea view religious middle property morning always. Best suggest build main program likely be. Reach change rather respond hair focus player morning.",
+        "bio": "Walk likely image generation feel natural.\nSomeone bar already place goal. Region everyone television read interesting western southern act."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
