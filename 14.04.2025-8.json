@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Ramirez",
+    "age": 80,
+    "address": {
+        "street": "Murphy Valley",
+        "city": "Garzafort",
+        "state": "Montana",
+        "zip": "13410"
+    },
+    "contact": {
+        "phone": "(725)644-5104x853",
+        "servicePhone": "800726406"
+    },
+    "birthday": "1945-29-07",
+    "ip": "81.57.109.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Per health bring out require let. Usually seat fall sing.\nRadio those computer young may power whether company. Lawyer mouth already thought. Site bag training every.",
+        "bio": "Dream beautiful tax keep. Mr ago history. Instead still whom nor ten political everyone."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
