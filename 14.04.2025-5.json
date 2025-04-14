@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Roberts",
+    "age": 39,
+    "address": {
+        "street": "Danielle Crescent",
+        "city": "West Mikeborough",
+        "state": "Pennsylvania",
+        "zip": "71582"
+    },
+    "contact": {
+        "phone": "001-700-927-0525x8775",
+        "servicePhone": "800438187"
+    },
+    "birthday": "1986-13-01",
+    "ip": "150.67.6.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Subject word art anything with. Represent material development so learn school production decide. Whole process continue campaign soon nature moment.",
+        "bio": "Woman way well three might manager. Bad rise one management yard bill range.\nVoice hour friend visit. Despite adult rather type better know."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
