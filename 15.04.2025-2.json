@@ -1,0 +1,25 @@
+{
+    "name": "Adriana Gonzalez",
+    "age": 56,
+    "address": {
+        "street": "Williams Extensions",
+        "city": "South Lauraberg",
+        "state": "Illinois",
+        "zip": "49669"
+    },
+    "contact": {
+        "phone": "595-887-3449x1246",
+        "servicePhone": "800774416"
+    },
+    "birthday": "1969-17-04",
+    "ip": "206.185.100.195",
+    "foo": "bar",
+    "profile": {
+        "about": "General ago election bit mention. Thought attack street care employee partner.\nOn president church common process join health. Two western future population. Author know instead assume approach can.",
+        "bio": "Study me person project draw sort. Candidate morning network want memory because.\nSkin employee federal fly. Knowledge trip government guess agent professor. Nice similar cover customer where."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
