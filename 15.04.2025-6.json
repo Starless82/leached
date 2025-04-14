@@ -1,0 +1,25 @@
+{
+    "name": "Eric Mendoza",
+    "age": 21,
+    "address": {
+        "street": "Shelly Inlet",
+        "city": "New Theresaville",
+        "state": "Georgia",
+        "zip": "07564"
+    },
+    "contact": {
+        "phone": "001-448-263-4348",
+        "servicePhone": "800726063"
+    },
+    "birthday": "2004-12-12",
+    "ip": "82.139.213.9",
+    "foo": "bar",
+    "profile": {
+        "about": "House box parent. Standard lawyer food that prove door. Put democratic speak team.\nSo thus form those leave if. Detail fine oil president. West participant night.",
+        "bio": "Argue meet whether order else pick address. Provide choose main into tonight president big. Culture represent represent treat thank really game."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
