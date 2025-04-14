@@ -1,0 +1,25 @@
+{
+    "name": "Kaitlyn Smith",
+    "age": 62,
+    "address": {
+        "street": "Ellison Pines",
+        "city": "North Ashley",
+        "state": "New Hampshire",
+        "zip": "11319"
+    },
+    "contact": {
+        "phone": "(690)285-3355",
+        "servicePhone": "800844890"
+    },
+    "birthday": "1963-15-10",
+    "ip": "206.156.140.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation reason occur our. Let bar water teach perform. Each experience speech level successful small significant. Onto sport part late particular rise paper.",
+        "bio": "Not method threat pull game.\nReason century believe possible return process."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
