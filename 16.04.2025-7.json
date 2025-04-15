@@ -1,0 +1,25 @@
+{
+    "name": "Erika Adams",
+    "age": 104,
+    "address": {
+        "street": "Tammy Ridge",
+        "city": "West Michaelberg",
+        "state": "Kentucky",
+        "zip": "26255"
+    },
+    "contact": {
+        "phone": "859-953-2632",
+        "servicePhone": "800685630"
+    },
+    "birthday": "1921-05-05",
+    "ip": "178.4.0.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Into a nearly keep amount. Store plant front. Town because cut education whose company. Sell talk focus whose little focus.",
+        "bio": "Skin central compare seat. Throw current return bank including more send center.\nLaugh performance his positive step allow city lead. Plant be until alone. Whether wall pull strong establish protect."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
