@@ -1,0 +1,25 @@
+{
+    "name": "John Ramos",
+    "age": 19,
+    "address": {
+        "street": "Robert Cape",
+        "city": "New Theodoreborough",
+        "state": "Massachusetts",
+        "zip": "33499"
+    },
+    "contact": {
+        "phone": "001-393-934-7805",
+        "servicePhone": "800731304"
+    },
+    "birthday": "2006-28-03",
+    "ip": "93.168.5.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Customer choice last nature lose have. Local difference enough above return. Minute world develop end identify compare. Throughout even ok.",
+        "bio": "For benefit high learn politics with. Party trip hospital whether win message nation. Police art would song meeting growth claim.\nAlong skin industry even. Event detail cold thousand some grow."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
