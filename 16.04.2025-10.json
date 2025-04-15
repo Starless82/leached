@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Stuart",
+    "age": 71,
+    "address": {
+        "street": "Lopez Alley",
+        "city": "Lake Lisa",
+        "state": "Idaho",
+        "zip": "06342"
+    },
+    "contact": {
+        "phone": "+1-942-729-9019",
+        "servicePhone": "800281913"
+    },
+    "birthday": "1954-13-03",
+    "ip": "155.87.1.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Hear election paper news. Not really example serve. Detail stage south sing always term month majority.",
+        "bio": "Itself left less same be suddenly. Person often relationship.\nWrong expect later it each nation. Go walk fund travel treatment pay large actually."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
