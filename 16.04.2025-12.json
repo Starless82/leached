@@ -1,0 +1,25 @@
+{
+    "name": "Cheryl Mcdaniel",
+    "age": 94,
+    "address": {
+        "street": "Holly Springs",
+        "city": "Adamsburgh",
+        "state": "Alaska",
+        "zip": "82739"
+    },
+    "contact": {
+        "phone": "(340)246-7689x2316",
+        "servicePhone": "800626002"
+    },
+    "birthday": "1931-26-02",
+    "ip": "102.224.6.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Billion moment send environmental movement. Politics raise fire need. Challenge way question his cold oil.",
+        "bio": "Sell community phone. Spring trade enough leg Mrs music.\nTruth animal option she. Result apply institution authority. Painting run citizen opportunity."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
