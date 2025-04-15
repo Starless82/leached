@@ -1,0 +1,25 @@
+{
+    "name": "Robert Acosta",
+    "age": 24,
+    "address": {
+        "street": "Charles Extension",
+        "city": "Port Annatown",
+        "state": "Kansas",
+        "zip": "69200"
+    },
+    "contact": {
+        "phone": "+1-483-882-1380x519",
+        "servicePhone": "800200169"
+    },
+    "birthday": "2001-06-05",
+    "ip": "223.169.124.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Street action often world character myself travel. Everything sport once leader close. Produce save national.\nMind might ground give material image. Impact green star ability friend could capital.",
+        "bio": "Sit event side sing practice describe may shoulder. Live it light issue various education maintain. Allow true quite suggest investment meeting."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
