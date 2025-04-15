@@ -1,0 +1,25 @@
+{
+    "name": "Carmen Barrera",
+    "age": 33,
+    "address": {
+        "street": "William Mountains",
+        "city": "Russellburgh",
+        "state": "Delaware",
+        "zip": "53074"
+    },
+    "contact": {
+        "phone": "001-283-237-1278x555",
+        "servicePhone": "800778064"
+    },
+    "birthday": "1992-05-01",
+    "ip": "11.170.6.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Difficult you talk. His off often write.\nShake film often ask them authority. May ready hour foot thus. Chance majority government house find.",
+        "bio": "Everybody development must pay. Plant those add lay team. Senior result than until first color. North glass nice public south none free case."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
