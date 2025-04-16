@@ -1,0 +1,25 @@
+{
+    "name": "Dean Meadows",
+    "age": 3,
+    "address": {
+        "street": "Carlos River",
+        "city": "Evansland",
+        "state": "Nebraska",
+        "zip": "98061"
+    },
+    "contact": {
+        "phone": "(397)551-7476",
+        "servicePhone": "800739987"
+    },
+    "birthday": "2022-25-11",
+    "ip": "11.143.214.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Could same tell friend hair piece. Late can paper society name walk. Space finally throughout.\nAgency establish plan subject mean. Someone this scene argue night minute receive parent.",
+        "bio": "Among establish scene even serious car majority. Six own right end. Coach medical interview more loss.\nBook participant note its dark light factor. The practice whether small say."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
