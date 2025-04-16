@@ -1,0 +1,25 @@
+{
+    "name": "Justin Hall",
+    "age": 74,
+    "address": {
+        "street": "Rogers Ferry",
+        "city": "New Kimberly",
+        "state": "Utah",
+        "zip": "46092"
+    },
+    "contact": {
+        "phone": "7423235257",
+        "servicePhone": "800696920"
+    },
+    "birthday": "1951-23-08",
+    "ip": "107.9.121.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Radio girl feel situation whose. Very pay property often. Even whom view among character president blue.",
+        "bio": "Everything term born business who ok note. Wind then produce market open go.\nStructure unit establish statement find. Present enjoy child red more.\nCamera than right. Change statement hair."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
