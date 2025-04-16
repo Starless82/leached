@@ -1,0 +1,25 @@
+{
+    "name": "Duane Massey",
+    "age": 41,
+    "address": {
+        "street": "Kennedy Corner",
+        "city": "Hudsonstad",
+        "state": "Indiana",
+        "zip": "83569"
+    },
+    "contact": {
+        "phone": "2582081249",
+        "servicePhone": "800088768"
+    },
+    "birthday": "1984-22-12",
+    "ip": "41.115.42.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Century design recent among lay guy. Rich ground once school base.\nKitchen traditional stand employee million these goal. Model candidate image set.",
+        "bio": "Rise send medical involve describe. Already society address region ability my physical certainly."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
