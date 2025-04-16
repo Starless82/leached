@@ -1,0 +1,25 @@
+{
+    "name": "Lance Wilcox",
+    "age": 33,
+    "address": {
+        "street": "Nelson Park",
+        "city": "Stacychester",
+        "state": "Minnesota",
+        "zip": "38641"
+    },
+    "contact": {
+        "phone": "+1-352-691-5170x1257",
+        "servicePhone": "800918264"
+    },
+    "birthday": "1992-10-07",
+    "ip": "14.118.139.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Tough even boy even. Within person stuff through save drug friend.\nClear member lot return. Rule interview above increase. Produce wear give point high above.",
+        "bio": "Less organization lose raise he. Ahead stop catch dream peace piece owner. Great again first civil skin cut soldier."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
