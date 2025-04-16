@@ -1,0 +1,25 @@
+{
+    "name": "Jesse Brown",
+    "age": 52,
+    "address": {
+        "street": "Sweeney Spring",
+        "city": "North Jeanetteside",
+        "state": "Delaware",
+        "zip": "95784"
+    },
+    "contact": {
+        "phone": "916-960-7392x55343",
+        "servicePhone": "800120176"
+    },
+    "birthday": "1973-26-10",
+    "ip": "29.41.253.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Floor consider kind protect very water. Often hear grow give audience.\nAmong reason much growth. Event everyone national church line cause provide.",
+        "bio": "Window director address. Take argue mother until sit story raise.\nCampaign prevent edge guy process Republican physical. Put bill effect official."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
