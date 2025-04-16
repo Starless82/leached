@@ -1,0 +1,25 @@
+{
+    "name": "Wesley Gray",
+    "age": 23,
+    "address": {
+        "street": "Kathleen Street",
+        "city": "East Bruce",
+        "state": "North Carolina",
+        "zip": "66293"
+    },
+    "contact": {
+        "phone": "+1-644-648-9930x36022",
+        "servicePhone": "800513382"
+    },
+    "birthday": "2002-15-01",
+    "ip": "8.201.177.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Say in woman year owner.\nTeacher water guess ability. Protect fight wind wait begin situation wonder. Possible responsibility stage address now power view.",
+        "bio": "Play common exactly provide gun often and. Truth manager per thousand low bag popular."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
