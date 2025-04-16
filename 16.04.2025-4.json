@@ -1,0 +1,25 @@
+{
+    "name": "Gina Brown",
+    "age": 72,
+    "address": {
+        "street": "Francis Ways",
+        "city": "Krystalmouth",
+        "state": "Vermont",
+        "zip": "10355"
+    },
+    "contact": {
+        "phone": "843.970.6090x891",
+        "servicePhone": "800658157"
+    },
+    "birthday": "1953-06-12",
+    "ip": "58.151.151.174",
+    "foo": "bar",
+    "profile": {
+        "about": "One without bring position guy hard doctor. Total ready amount strategy argue.\nInvolve one simple this including without fine tonight. Real read speech lead hour tell. Police pretty include clearly.",
+        "bio": "Tonight also four experience.\nCareer myself hear develop.\nSmile increase number score model. Play develop investment attack draw.\nAuthority fill notice maintain base. Mouth book sense."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
