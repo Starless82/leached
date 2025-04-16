@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Hall",
+    "age": 91,
+    "address": {
+        "street": "Vargas Ridges",
+        "city": "Stephenmouth",
+        "state": "Arkansas",
+        "zip": "40042"
+    },
+    "contact": {
+        "phone": "+1-402-564-3579x20781",
+        "servicePhone": "800011698"
+    },
+    "birthday": "1934-28-04",
+    "ip": "93.146.5.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Community better structure realize not. Body western involve security think pass billion face. Station after purpose fish.\nFather staff catch look finally.",
+        "bio": "Per attention food full car. Friend nearly I new everyone view western. Computer finally reduce available."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
