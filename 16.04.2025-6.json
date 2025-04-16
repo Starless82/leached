@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Campbell",
+    "age": 78,
+    "address": {
+        "street": "Jerome Ranch",
+        "city": "South Adam",
+        "state": "Idaho",
+        "zip": "62571"
+    },
+    "contact": {
+        "phone": "912-256-0543",
+        "servicePhone": "800080569"
+    },
+    "birthday": "1947-24-07",
+    "ip": "89.139.73.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Possible from last help direction people. Court throw sound treatment commercial simply evening get. Decision training during million bank street.",
+        "bio": "Know rise produce bit lose. Machine market management keep. Range rich general billion true war.\nTax affect away above deep to computer. Law why red over type ever cost."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
