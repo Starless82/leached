@@ -1,0 +1,25 @@
+{
+    "name": "Corey Jones",
+    "age": 55,
+    "address": {
+        "street": "Katherine Centers",
+        "city": "West Gary",
+        "state": "Tennessee",
+        "zip": "17315"
+    },
+    "contact": {
+        "phone": "+1-792-795-0049x9963",
+        "servicePhone": "800656179"
+    },
+    "birthday": "1970-11-10",
+    "ip": "52.173.137.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Every push address large area. Sing mouth claim. Nature still response require land politics work.\nPay sport voice evening.\nHard mention develop. Watch east will manage past.",
+        "bio": "Middle key major my break safe reason. High though the themselves far leg heart. Watch positive meet card."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
