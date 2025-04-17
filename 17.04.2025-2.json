@@ -1,0 +1,25 @@
+{
+    "name": "John Ramirez",
+    "age": 96,
+    "address": {
+        "street": "Paul Shore",
+        "city": "Veronicaside",
+        "state": "Vermont",
+        "zip": "99033"
+    },
+    "contact": {
+        "phone": "(223)928-2617x95234",
+        "servicePhone": "800930949"
+    },
+    "birthday": "1929-21-02",
+    "ip": "2.76.143.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Remain again lot. Born investment entire human. Matter drive dinner discussion order level set.",
+        "bio": "Create reflect film world word. Those economy analysis keep money.\nPosition speak focus prevent common leg mention before. Wish heart purpose drive able quickly front."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
