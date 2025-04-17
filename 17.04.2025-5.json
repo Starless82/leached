@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Lewis",
+    "age": 16,
+    "address": {
+        "street": "Washington Villages",
+        "city": "East Scottside",
+        "state": "New Mexico",
+        "zip": "97833"
+    },
+    "contact": {
+        "phone": "+1-475-580-3961x14775",
+        "servicePhone": "800692466"
+    },
+    "birthday": "2009-05-11",
+    "ip": "115.62.158.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Staff paper which light who sell. As how magazine thousand next.\nRich economic place magazine bank. Remain box investment how thus center. Certainly half yes under tend already recently stay.",
+        "bio": "Final tax story partner. In myself yourself coach. Central capital air care.\nThey interest business right whole drug. Look nature short back."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
