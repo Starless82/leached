@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Miller",
+    "age": 23,
+    "address": {
+        "street": "Danielle Crossroad",
+        "city": "North Willie",
+        "state": "Kansas",
+        "zip": "57959"
+    },
+    "contact": {
+        "phone": "959.430.7220",
+        "servicePhone": "800950781"
+    },
+    "birthday": "2002-21-11",
+    "ip": "83.160.241.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Later here analysis others provide same. Piece home program behavior true billion too. Son white everything stop.\nCenter again college safe. However hand establish reduce recognize.",
+        "bio": "Series card ahead community manager other ago. Line understand strong by. Development boy particularly word majority least community.\nDiscussion wear others go. Religious action form."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
