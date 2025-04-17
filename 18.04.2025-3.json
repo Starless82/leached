@@ -1,0 +1,25 @@
+{
+    "name": "Robert Brown",
+    "age": 25,
+    "address": {
+        "street": "Ian Lane",
+        "city": "Martinezburgh",
+        "state": "Hawaii",
+        "zip": "71202"
+    },
+    "contact": {
+        "phone": "771-584-7370",
+        "servicePhone": "800161210"
+    },
+    "birthday": "2000-04-07",
+    "ip": "15.88.100.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Month eight owner standard available week. Couple agree within dinner must. Seek keep modern statement those.\nBut spend range probably hot serious. Free ask page near family next offer.",
+        "bio": "Structure collection interest chair large skill surface. Close ahead they able air.\nAudience million indeed ground surface health thought. Though receive true senior begin travel."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
