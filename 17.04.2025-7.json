@@ -1,0 +1,25 @@
+{
+    "name": "Karen Parker",
+    "age": 66,
+    "address": {
+        "street": "Copeland Divide",
+        "city": "East Christopher",
+        "state": "West Virginia",
+        "zip": "88322"
+    },
+    "contact": {
+        "phone": "473.322.1368",
+        "servicePhone": "800029208"
+    },
+    "birthday": "1959-10-04",
+    "ip": "151.171.104.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Court cover right eat us near. Board letter relate film also three. Mission almost guess.\nBase enjoy try ready issue. Civil beat also city. At hotel vote hotel worry institution wear.",
+        "bio": "Maintain while deal final situation. Game training poor thank. Writer himself read current. Friend share institution look thing."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
