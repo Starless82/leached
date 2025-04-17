@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Smith",
+    "age": 82,
+    "address": {
+        "street": "Nicole Trace",
+        "city": "North Susanborough",
+        "state": "New Mexico",
+        "zip": "65808"
+    },
+    "contact": {
+        "phone": "758-336-4527x59349",
+        "servicePhone": "800941820"
+    },
+    "birthday": "1943-02-06",
+    "ip": "170.230.8.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Card body own development start international apply late. Quickly bring site worry rather indeed.",
+        "bio": "Great case city dark.\nStructure who forward together play. Necessary reason fund left cold case nature."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
