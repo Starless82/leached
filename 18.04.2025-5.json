@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Sullivan",
+    "age": 55,
+    "address": {
+        "street": "Madison Tunnel",
+        "city": "Stronghaven",
+        "state": "Oklahoma",
+        "zip": "77211"
+    },
+    "contact": {
+        "phone": "001-289-241-8197x60904",
+        "servicePhone": "800180936"
+    },
+    "birthday": "1970-24-08",
+    "ip": "36.249.71.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Chance western the rock economic trial. Once art prevent much sign. Approach sell another lot its.",
+        "bio": "Win skin water interesting eat. West ground whatever goal.\nLess believe star red degree. Development mention series radio management. Ok enough out western improve establish know."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
