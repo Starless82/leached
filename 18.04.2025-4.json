@@ -1,0 +1,25 @@
+{
+    "name": "James Nelson",
+    "age": 0,
+    "address": {
+        "street": "Schmidt Mews",
+        "city": "Lake Wendyburgh",
+        "state": "New Jersey",
+        "zip": "82342"
+    },
+    "contact": {
+        "phone": "(524)613-0414x983",
+        "servicePhone": "800099862"
+    },
+    "birthday": "2025-21-08",
+    "ip": "82.191.74.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Term factor interesting account like style. Player thing sometimes.\nSoldier every choose place attention. Skill continue list pass religious wait identify response. Little true write.",
+        "bio": "Adult receive his medical administration make you later. Boy remain theory fund store bit thus. Range realize fish sister admit for on.\nItem laugh on decide chair. Style scientist camera action."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
