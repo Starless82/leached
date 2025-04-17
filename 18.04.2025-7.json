@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Duncan",
+    "age": 62,
+    "address": {
+        "street": "Michael Flats",
+        "city": "Patelside",
+        "state": "Louisiana",
+        "zip": "54787"
+    },
+    "contact": {
+        "phone": "+1-680-345-1464x23034",
+        "servicePhone": "800101992"
+    },
+    "birthday": "1963-18-11",
+    "ip": "18.49.144.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Military job however long near beyond. Area majority single husband ever on give.\nTraining argue assume table politics top also. Health off effort place wife more.",
+        "bio": "Party commercial cut. Bar age century low tough.\nFormer world outside tough. Leg guess speak decision property strategy. Reach Congress help detail."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
