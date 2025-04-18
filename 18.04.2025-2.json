@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Warren",
+    "age": 64,
+    "address": {
+        "street": "Romero Avenue",
+        "city": "West James",
+        "state": "Kentucky",
+        "zip": "84317"
+    },
+    "contact": {
+        "phone": "+1-750-438-1259x5691",
+        "servicePhone": "800463413"
+    },
+    "birthday": "1961-16-07",
+    "ip": "151.44.162.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Whole someone admit middle conference future. Top case road also later challenge success.\nNumber total ok social practice foot. Day so put listen south evening. Again these scientist man push.",
+        "bio": "Discussion lead story miss policy guy. Party front true upon according health money. Machine age dark rather bank card start tree."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
