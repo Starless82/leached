@@ -1,0 +1,25 @@
+{
+    "name": "Donna Jones",
+    "age": 58,
+    "address": {
+        "street": "Jeffrey Wells",
+        "city": "Robertland",
+        "state": "Kentucky",
+        "zip": "14561"
+    },
+    "contact": {
+        "phone": "+1-956-542-4861x795",
+        "servicePhone": "800427808"
+    },
+    "birthday": "1967-30-10",
+    "ip": "55.110.195.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Blood least interesting every none challenge college. Cut nothing test during third significant. Collection pick learn now I. True recognize who population.",
+        "bio": "Yet behavior set arm. Need agree good discuss statement. Skill avoid nature picture. Without goal because how hit billion.\nClearly although yet blue reveal law."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
