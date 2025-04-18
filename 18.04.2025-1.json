@@ -1,0 +1,25 @@
+{
+    "name": "Mark Jones",
+    "age": 7,
+    "address": {
+        "street": "Hill Terrace",
+        "city": "New Connie",
+        "state": "New Hampshire",
+        "zip": "93820"
+    },
+    "contact": {
+        "phone": "9282306054",
+        "servicePhone": "800502240"
+    },
+    "birthday": "2018-06-11",
+    "ip": "74.131.29.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Ever experience loss discuss two tend focus truth. Walk with technology concern she choice.\nWill day dog player. Story write cup executive here man network. Likely herself general sell sure true.",
+        "bio": "Buy either despite according. Create win year much number article. Black left course front one four network."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
