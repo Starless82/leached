@@ -1,0 +1,25 @@
+{
+    "name": "Ernest Stewart",
+    "age": 81,
+    "address": {
+        "street": "Carla Crest",
+        "city": "New Jeremiahland",
+        "state": "Kansas",
+        "zip": "08220"
+    },
+    "contact": {
+        "phone": "(555)675-0145x77624",
+        "servicePhone": "800175394"
+    },
+    "birthday": "1944-12-06",
+    "ip": "11.52.27.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Something for why five. Article natural exist gun successful.\nGun save quickly back administration whom.",
+        "bio": "Yard attorney ability. Role current reduce service. Difficult together say.\nHave chair white. Travel field until. Voice food forward then report catch reality. Foot carry one give."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
