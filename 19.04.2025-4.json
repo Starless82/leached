@@ -1,0 +1,25 @@
+{
+    "name": "James Collins",
+    "age": 60,
+    "address": {
+        "street": "Dean Mall",
+        "city": "Lake Morganmouth",
+        "state": "Arizona",
+        "zip": "01798"
+    },
+    "contact": {
+        "phone": "8535968352",
+        "servicePhone": "800126174"
+    },
+    "birthday": "1965-26-03",
+    "ip": "198.222.158.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Win break stand billion record alone she. Boy green again actually program.\nDrug pass worker month adult force. Maintain now activity market read street five. Certainly system law hundred.",
+        "bio": "Same commercial and three.\nTv spring listen night onto.\nInteresting generation door every late. Property mother professor without time. Commercial institution guy camera develop."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
