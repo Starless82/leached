@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Anderson",
+    "age": 115,
+    "address": {
+        "street": "Molina Circle",
+        "city": "Jillshire",
+        "state": "Utah",
+        "zip": "84356"
+    },
+    "contact": {
+        "phone": "(553)760-5263x0635",
+        "servicePhone": "800469820"
+    },
+    "birthday": "1910-05-04",
+    "ip": "110.86.227.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Pick husband sort they already. Upon every thought often.\nCause money offer hit reach. Last style hundred Congress positive network. Health change suffer. Us follow such everything community.",
+        "bio": "Yourself item race not until include better method. News high generation campaign determine that age. Cup key often democratic. Require service great loss later fall fine."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
