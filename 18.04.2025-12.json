@@ -1,0 +1,25 @@
+{
+    "name": "Jimmy Hughes",
+    "age": 18,
+    "address": {
+        "street": "Gary Branch",
+        "city": "Kramerport",
+        "state": "Nebraska",
+        "zip": "40992"
+    },
+    "contact": {
+        "phone": "001-933-979-3543x63504",
+        "servicePhone": "800293598"
+    },
+    "birthday": "2007-04-08",
+    "ip": "201.38.107.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Item board style international his growth.\nTop talk medical meeting data begin. Yeah individual part.",
+        "bio": "Congress effect fact most mission outside north store. Develop city out option real word. Though section paper economic anything guy three."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
