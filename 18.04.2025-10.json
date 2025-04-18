@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Harrington",
+    "age": 16,
+    "address": {
+        "street": "Erickson Knoll",
+        "city": "East Kennethburgh",
+        "state": "Washington",
+        "zip": "49410"
+    },
+    "contact": {
+        "phone": "001-860-265-4152x7020",
+        "servicePhone": "800298688"
+    },
+    "birthday": "2009-04-07",
+    "ip": "153.38.129.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Ahead character future each fill technology. Western example population enjoy and himself. Open TV rather this three baby hard.",
+        "bio": "Charge over yet source. Operation likely everything face. Mother onto top front.\nRepublican likely team past people security affect. Poor buy radio structure."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
