@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Stefanie Floyd MD",
+    "age": 64,
+    "address": {
+        "street": "Oliver Islands",
+        "city": "Tinaville",
+        "state": "Rhode Island",
+        "zip": "22430"
+    },
+    "contact": {
+        "phone": "+1-626-587-9954x880",
+        "servicePhone": "800695205"
+    },
+    "birthday": "1961-27-07",
+    "ip": "123.173.163.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Position foreign open. Education check agency crime ground. Stuff meeting trade suggest blue turn system.\nEnough weight into guy travel evidence. Upon front drop part.",
+        "bio": "Network thing class. Car animal who manage million police wonder. For ball church Congress tend. Government man goal player.\nWithout coach nor trip something woman opportunity."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
