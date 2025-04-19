@@ -1,0 +1,25 @@
+{
+    "name": "John Henderson",
+    "age": 95,
+    "address": {
+        "street": "Brian Fork",
+        "city": "Jamesland",
+        "state": "Missouri",
+        "zip": "89397"
+    },
+    "contact": {
+        "phone": "001-981-646-7477x4742",
+        "servicePhone": "800576931"
+    },
+    "birthday": "1930-26-09",
+    "ip": "14.157.170.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Identify discover care chance once left. Change whether everybody. Direction treatment some.\nCourse sometimes southern environmental when reduce.",
+        "bio": "Reach art thank age military. Gun site security break. Term common yeah throughout car."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
