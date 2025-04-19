@@ -1,0 +1,25 @@
+{
+    "name": "Monica Hebert",
+    "age": 56,
+    "address": {
+        "street": "Crawford Loaf",
+        "city": "Kelseyside",
+        "state": "Wisconsin",
+        "zip": "03366"
+    },
+    "contact": {
+        "phone": "7218434880",
+        "servicePhone": "800384041"
+    },
+    "birthday": "1969-15-03",
+    "ip": "59.133.60.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Particular mind impact improve very tend money. Early interview occur where. Near air term young himself ask admit.\nOften catch certainly book manage place tax painting. In control or nice bad act.",
+        "bio": "Audience what could look southern establish. Civil second as. Money price financial candidate improve."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
