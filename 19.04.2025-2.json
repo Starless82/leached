@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Thompson",
+    "age": 6,
+    "address": {
+        "street": "Parker Parks",
+        "city": "Lindsayfurt",
+        "state": "Nevada",
+        "zip": "60256"
+    },
+    "contact": {
+        "phone": "001-413-706-1589x937",
+        "servicePhone": "800824680"
+    },
+    "birthday": "2019-31-01",
+    "ip": "154.90.62.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Former consider up model animal. Bag can change that thing. Authority activity special current nearly boy nothing page.\nGoal three over wall. Senior second treatment member. Create car dog director.",
+        "bio": "Its data law nice commercial store. Great lawyer will after fish process set keep. Amount machine style sea. From answer debate officer lay hotel agree."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
