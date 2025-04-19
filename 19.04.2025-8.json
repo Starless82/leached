@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Graham",
+    "age": 34,
+    "address": {
+        "street": "Sean Street",
+        "city": "Brianside",
+        "state": "Nevada",
+        "zip": "13753"
+    },
+    "contact": {
+        "phone": "866-947-9821x3063",
+        "servicePhone": "800696356"
+    },
+    "birthday": "1991-17-04",
+    "ip": "119.176.134.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Very new may drive player first huge. Success almost could energy. Federal art anyone give apply.\nEvening education trip land response music. Sense tonight once serious. Cold best like.",
+        "bio": "American part never until need. Cup believe rich full mention government make who. Something exist one thus around. Clear action in capital."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
