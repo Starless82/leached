@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Price",
+    "age": 83,
+    "address": {
+        "street": "Burns River",
+        "city": "Hopkinsborough",
+        "state": "Nebraska",
+        "zip": "87657"
+    },
+    "contact": {
+        "phone": "001-339-336-6533x06771",
+        "servicePhone": "800053515"
+    },
+    "birthday": "1942-16-08",
+    "ip": "25.169.157.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Note example less manage.\nNew human national power simply. Service performance race.",
+        "bio": "Heart I plan. Politics form budget.\nGame decision third method position when. Truth prevent single like record tax. Well fight share focus doctor."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
