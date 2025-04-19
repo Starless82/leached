@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Wagner",
+    "age": 8,
+    "address": {
+        "street": "Alexander Motorway",
+        "city": "Port Stacey",
+        "state": "Utah",
+        "zip": "44585"
+    },
+    "contact": {
+        "phone": "(340)579-5368",
+        "servicePhone": "800590252"
+    },
+    "birthday": "2017-06-09",
+    "ip": "9.122.64.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Matter spend professional pattern threat. If table new son. Senior air tonight free.\nForm item skin three condition admit produce. Understand yes country national benefit structure next.",
+        "bio": "Toward including since impact big. Collection push edge hear. Live maybe worry television.\nCouple audience his room crime. Cover produce manager believe."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
