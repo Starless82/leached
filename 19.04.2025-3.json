@@ -1,0 +1,25 @@
+{
+    "name": "Brandon White",
+    "age": 85,
+    "address": {
+        "street": "Daniel Underpass",
+        "city": "West Adam",
+        "state": "New Mexico",
+        "zip": "75506"
+    },
+    "contact": {
+        "phone": "(339)668-1253x739",
+        "servicePhone": "800155724"
+    },
+    "birthday": "1940-03-02",
+    "ip": "36.241.225.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Movement admit sort above boy sometimes girl. Could everyone vote time. Including foot admit want.\nWorker account because. City marriage three may. That some spring yard require attorney cold.",
+        "bio": "They final keep left shake. Short we character doctor customer rule south. About admit list off.\nBetween get really tonight go. Instead argue every defense inside good."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
