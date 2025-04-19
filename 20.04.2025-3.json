@@ -1,0 +1,25 @@
+{
+    "name": "Todd Cochran",
+    "age": 54,
+    "address": {
+        "street": "Flores Burgs",
+        "city": "South Frank",
+        "state": "Texas",
+        "zip": "03180"
+    },
+    "contact": {
+        "phone": "+1-983-266-1339x52679",
+        "servicePhone": "800465230"
+    },
+    "birthday": "1971-17-11",
+    "ip": "98.245.177.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Still board behavior remain well message. Along herself use seven seek different could.\nPrepare go live miss. Player alone hold. Model notice join.",
+        "bio": "Attorney number city care medical time section. Chance million offer begin. Market arm find shake."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
