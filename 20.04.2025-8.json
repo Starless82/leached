@@ -1,0 +1,25 @@
+{
+    "name": "Shannon Russell",
+    "age": 38,
+    "address": {
+        "street": "Benjamin Mews",
+        "city": "New Jasmine",
+        "state": "South Carolina",
+        "zip": "79090"
+    },
+    "contact": {
+        "phone": "001-588-227-0953x784",
+        "servicePhone": "800807384"
+    },
+    "birthday": "1987-24-04",
+    "ip": "208.123.221.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Car its design range civil.\nFour energy wide art state when how. Significant boy maybe music model lot wife three. Similar poor school commercial pressure.",
+        "bio": "Too last social last argue. Begin myself table machine station. Necessary discover analysis tax style make. Present send special total specific different."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
