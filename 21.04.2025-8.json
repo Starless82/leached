@@ -1,0 +1,25 @@
+{
+    "name": "Paul Lang",
+    "age": 10,
+    "address": {
+        "street": "Jocelyn Trace",
+        "city": "East Susan",
+        "state": "Virginia",
+        "zip": "52873"
+    },
+    "contact": {
+        "phone": "+1-887-445-9744x4249",
+        "servicePhone": "800195497"
+    },
+    "birthday": "2015-13-06",
+    "ip": "134.160.173.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Second paper question board his industry religious rock. Try quite responsibility group person.",
+        "bio": "Structure president page bag. Hold house be avoid site."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
