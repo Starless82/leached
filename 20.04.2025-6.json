@@ -1,0 +1,25 @@
+{
+    "name": "Felicia Cook",
+    "age": 46,
+    "address": {
+        "street": "Patterson Meadows",
+        "city": "Ryanfurt",
+        "state": "Louisiana",
+        "zip": "19293"
+    },
+    "contact": {
+        "phone": "(927)255-8993x306",
+        "servicePhone": "800807857"
+    },
+    "birthday": "1979-29-11",
+    "ip": "152.140.18.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Almost forward light simply look difference. Product vote together Republican significant father. Environment within small everything impact.\nNot approach so ability movie budget.",
+        "bio": "Both magazine leg TV treat live.\nRun dinner behavior trip cause themselves whom. Section usually sport by issue bring. Contain become heavy what little on sure."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
