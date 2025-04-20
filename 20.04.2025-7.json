@@ -1,0 +1,25 @@
+{
+    "name": "Kathy Flores",
+    "age": 34,
+    "address": {
+        "street": "Howell Stream",
+        "city": "Stephanieside",
+        "state": "Minnesota",
+        "zip": "67267"
+    },
+    "contact": {
+        "phone": "957.476.1620x21481",
+        "servicePhone": "800672339"
+    },
+    "birthday": "1991-28-04",
+    "ip": "112.1.19.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation receive land billion. With pick space remember.\nArea if interesting lay so certainly lay. Wind toward address far fear side though. Recognize since hard clearly institution break.",
+        "bio": "Rule beyond condition. Point first with explain great value. Parent mouth summer argue.\nArticle pretty trade who recently. Summer eye character plan whose."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
