@@ -1,0 +1,25 @@
+{
+    "name": "Brooke Collins",
+    "age": 112,
+    "address": {
+        "street": "Scott Course",
+        "city": "East Barbaraton",
+        "state": "South Carolina",
+        "zip": "02663"
+    },
+    "contact": {
+        "phone": "001-937-998-5515",
+        "servicePhone": "800167518"
+    },
+    "birthday": "1913-30-10",
+    "ip": "181.161.48.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Push thank think candidate drop care claim memory. Peace since top break stay.\nShort share rather manage unit bank. Past near stand however bar skin.",
+        "bio": "Picture wrong or well report nearly degree step. Soon tend per.\nEast line specific. Finally left while heart.\nFuture trip either over. Rather or election half."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
