@@ -1,0 +1,25 @@
+{
+    "name": "Derek Harris",
+    "age": 20,
+    "address": {
+        "street": "Patricia Spur",
+        "city": "North Damon",
+        "state": "Arkansas",
+        "zip": "64660"
+    },
+    "contact": {
+        "phone": "+1-765-701-8209x570",
+        "servicePhone": "800742563"
+    },
+    "birthday": "2005-28-08",
+    "ip": "183.219.162.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Series book air another. Consumer soon five Congress hard next charge.\nInto parent many child leg summer. Understand prove likely. Interest coach color hot. Today close but ground.",
+        "bio": "Size make form detail discover themselves of. Glass necessary watch political. Single agent feel choose.\nThem author place meet. Red production everybody."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
