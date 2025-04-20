@@ -1,0 +1,25 @@
+{
+    "name": "Gerald Miller",
+    "age": 39,
+    "address": {
+        "street": "Osborne Corners",
+        "city": "Patrickport",
+        "state": "Alaska",
+        "zip": "32292"
+    },
+    "contact": {
+        "phone": "326.611.5832x708",
+        "servicePhone": "800487643"
+    },
+    "birthday": "1986-24-08",
+    "ip": "66.253.243.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Behavior heavy see ability foot during. Accept rock shoulder why. Argue stuff political model total account every.",
+        "bio": "Science property physical. Whose once song indeed realize court professor.\nSix throw over thank girl get imagine. Television store even raise movement. Available card bank smile choose little."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
