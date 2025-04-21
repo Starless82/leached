@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Gallagher",
+    "age": 89,
+    "address": {
+        "street": "Wilson Corner",
+        "city": "Jessicabury",
+        "state": "Maine",
+        "zip": "56161"
+    },
+    "contact": {
+        "phone": "680-353-4150x827",
+        "servicePhone": "800969624"
+    },
+    "birthday": "1936-16-02",
+    "ip": "70.115.144.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Fine show note doctor. When place growth ability.\nView pull former maintain letter similar. Democratic movement a television. Population who throughout training painting true.",
+        "bio": "Debate former within throughout buy mother. Catch training once style nice bill line. Effort in international involve heavy kind.\nInterest class series. Budget pressure wind keep score building hard."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
