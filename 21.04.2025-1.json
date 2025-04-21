@@ -1,0 +1,25 @@
+{
+    "name": "Chad Smith",
+    "age": 56,
+    "address": {
+        "street": "Tiffany Mount",
+        "city": "North Jonathan",
+        "state": "Tennessee",
+        "zip": "37694"
+    },
+    "contact": {
+        "phone": "(549)889-9327x43645",
+        "servicePhone": "800276236"
+    },
+    "birthday": "1969-22-11",
+    "ip": "183.142.178.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Reach history enjoy book against rule. Yourself opportunity item matter word despite determine. Ask big stay matter.",
+        "bio": "Good support thank home set east ask. Fast draw free practice phone data try. Marriage camera deep TV end man."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
