@@ -1,0 +1,25 @@
+{
+    "name": "Curtis Harris",
+    "age": 24,
+    "address": {
+        "street": "Smith Spur",
+        "city": "Leonardtown",
+        "state": "South Dakota",
+        "zip": "65887"
+    },
+    "contact": {
+        "phone": "269-346-0863x409",
+        "servicePhone": "800594209"
+    },
+    "birthday": "2001-16-09",
+    "ip": "160.114.37.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Good senior night result though month. Continue fund court trial.\nReturn hold myself college behind. Talk PM ability student. Imagine rate now west gun.",
+        "bio": "Until site foreign rather stuff enter serious special. Green himself bank do focus always nor. Increase mission your blue."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
