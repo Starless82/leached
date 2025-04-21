@@ -1,0 +1,25 @@
+{
+    "name": "Dominic Williams",
+    "age": 78,
+    "address": {
+        "street": "Smith Village",
+        "city": "East John",
+        "state": "North Dakota",
+        "zip": "97629"
+    },
+    "contact": {
+        "phone": "(418)243-5262",
+        "servicePhone": "800067765"
+    },
+    "birthday": "1947-25-08",
+    "ip": "59.26.191.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Dog as piece goal body happy. Wind around player pay person. Position score world. Issue set whom painting.",
+        "bio": "Dream none hand religious radio year court. Increase including class personal appear professional week save. Board option image support."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
