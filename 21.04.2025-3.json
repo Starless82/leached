@@ -1,0 +1,25 @@
+{
+    "name": "Mariah Crane DDS",
+    "age": 84,
+    "address": {
+        "street": "Warren Forge",
+        "city": "East Deniseview",
+        "state": "Connecticut",
+        "zip": "72002"
+    },
+    "contact": {
+        "phone": "(756)994-5837x9301",
+        "servicePhone": "800703803"
+    },
+    "birthday": "1941-15-02",
+    "ip": "87.0.170.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Skill particular hold rest. Increase change possible me industry top. Stop sign and number after company image.\nThan address movie power value tax yes. Couple prevent and yet others.",
+        "bio": "Newspaper deal kind this. Set above culture.\nElection thing lose environmental guy drive yet."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
