@@ -1,0 +1,25 @@
+{
+    "name": "Susan Daniel",
+    "age": 47,
+    "address": {
+        "street": "Gray Drives",
+        "city": "North Dale",
+        "state": "North Dakota",
+        "zip": "56693"
+    },
+    "contact": {
+        "phone": "979-235-5702x20823",
+        "servicePhone": "800487188"
+    },
+    "birthday": "1978-10-05",
+    "ip": "109.134.245.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Authority thousand paper live investment other. Piece education pull company. Court pattern remain support tax number.",
+        "bio": "Near a according visit region. Information many want here.\nFine actually fine market. Standard short establish. Ability fire eat tend."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
