@@ -1,0 +1,25 @@
+{
+    "name": "Richard Cruz",
+    "age": 74,
+    "address": {
+        "street": "Joshua Gateway",
+        "city": "Amandatown",
+        "state": "North Dakota",
+        "zip": "53979"
+    },
+    "contact": {
+        "phone": "849-816-9537x8575",
+        "servicePhone": "800075112"
+    },
+    "birthday": "1951-19-06",
+    "ip": "64.206.199.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Capital instead style audience until lay TV. Alone teach eat daughter will quality threat. Bag ago nation minute professional develop hard.",
+        "bio": "Treatment eye even under test popular total series. Receive specific happen important different list. Team animal you beautiful. Then since their into reason."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
