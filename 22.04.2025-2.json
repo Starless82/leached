@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Foster",
+    "age": 36,
+    "address": {
+        "street": "Ortiz Park",
+        "city": "West Alyssa",
+        "state": "Delaware",
+        "zip": "90954"
+    },
+    "contact": {
+        "phone": "890-247-5845x56328",
+        "servicePhone": "800795907"
+    },
+    "birthday": "1989-15-12",
+    "ip": "96.2.43.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Laugh deal with down research all avoid. Morning later thus actually other may still.\nFinal occur example bring hundred. Fear knowledge page about. Music less prove provide road.",
+        "bio": "Stay scene within data resource me. Difference board land professional cut.\nName wrong describe day TV unit. Simple skin term system window."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
