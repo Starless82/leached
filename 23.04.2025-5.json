@@ -1,0 +1,25 @@
+{
+    "name": "Debra Williams",
+    "age": 15,
+    "address": {
+        "street": "Gabriel Plains",
+        "city": "Crossmouth",
+        "state": "Missouri",
+        "zip": "26792"
+    },
+    "contact": {
+        "phone": "297-225-9974",
+        "servicePhone": "800577732"
+    },
+    "birthday": "2010-03-03",
+    "ip": "145.36.140.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Explain fear what before. Society degree note now lead.\nGrow half man I. Five federal put go appear me.",
+        "bio": "Since professor create resource industry. Any big suffer. Side station too magazine total garden."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
