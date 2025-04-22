@@ -1,0 +1,25 @@
+{
+    "name": "Nathaniel Hogan",
+    "age": 83,
+    "address": {
+        "street": "King Passage",
+        "city": "Hollyside",
+        "state": "Alabama",
+        "zip": "44802"
+    },
+    "contact": {
+        "phone": "+1-301-720-1142",
+        "servicePhone": "800773380"
+    },
+    "birthday": "1942-15-09",
+    "ip": "195.227.74.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Always whose if. Several eye which nothing. Training who poor rather. Size would something personal run task above.",
+        "bio": "Through begin actually wife where high catch lawyer. Manage bag establish. Performance Mrs whatever certain huge. Hard prepare talk cover read from food."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
