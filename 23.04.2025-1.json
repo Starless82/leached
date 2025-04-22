@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Cross",
+    "age": 35,
+    "address": {
+        "street": "Wilson Walks",
+        "city": "East Wanda",
+        "state": "Illinois",
+        "zip": "06972"
+    },
+    "contact": {
+        "phone": "+1-393-400-3403x61229",
+        "servicePhone": "800158034"
+    },
+    "birthday": "1990-24-05",
+    "ip": "114.172.212.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Better under own oil. Land such it country.\nMethod practice its respond group. Example vote peace either case sing. Cup six right standard push.",
+        "bio": "Cost music north already sister wind. Issue discover southern mind design.\nWindow lose claim hospital dream. Say probably choose describe his factor."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
