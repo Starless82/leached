@@ -1,0 +1,25 @@
+{
+    "name": "Amy Allen",
+    "age": 65,
+    "address": {
+        "street": "Henderson Mill",
+        "city": "Marcusshire",
+        "state": "Idaho",
+        "zip": "41284"
+    },
+    "contact": {
+        "phone": "+1-487-204-5257x15203",
+        "servicePhone": "800298772"
+    },
+    "birthday": "1960-14-10",
+    "ip": "222.7.70.82",
+    "foo": "bar",
+    "profile": {
+        "about": "But consider opportunity. Organization report use artist know dark without miss.\nOption view rise space. Something southern charge civil. Could same sea recent.",
+        "bio": "Friend dream happy skill certainly. Through anyone across however reduce.\nWhom note until. Best adult various manager lot song I company. Dog treat watch also focus."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
