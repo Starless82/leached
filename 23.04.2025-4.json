@@ -1,0 +1,25 @@
+{
+    "name": "Jeanne Scott",
+    "age": 97,
+    "address": {
+        "street": "Patricia Ports",
+        "city": "Isabellaberg",
+        "state": "Florida",
+        "zip": "67375"
+    },
+    "contact": {
+        "phone": "9676010180",
+        "servicePhone": "800137360"
+    },
+    "birthday": "1928-29-08",
+    "ip": "13.92.122.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Democratic everybody air just focus hundred. Lose beautiful ask fine. Quite those respond good compare throw answer seven.",
+        "bio": "Nice thought education fire. Guess pretty their follow without record author hundred. Finish stand work else remember table budget meeting."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
