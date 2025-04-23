@@ -1,0 +1,25 @@
+{
+    "name": "Glenda Freeman",
+    "age": 95,
+    "address": {
+        "street": "Andrea Motorway",
+        "city": "West Devin",
+        "state": "Maryland",
+        "zip": "24535"
+    },
+    "contact": {
+        "phone": "+1-544-651-0184x777",
+        "servicePhone": "800581401"
+    },
+    "birthday": "1930-02-05",
+    "ip": "78.194.75.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Effect woman news benefit each.\nTeam deal ground already later fly finally. Officer interview support life rather try player.",
+        "bio": "Ground dog again church that. They police prepare. Rise ground throw pattern bag forget.\nCase relate front strategy clearly. Vote crime attention economy budget. General speak type speech state."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
