@@ -1,0 +1,25 @@
+{
+    "name": "Andres Taylor",
+    "age": 113,
+    "address": {
+        "street": "Becky Inlet",
+        "city": "Mariachester",
+        "state": "Alabama",
+        "zip": "44748"
+    },
+    "contact": {
+        "phone": "+1-391-518-2175x3874",
+        "servicePhone": "800603046"
+    },
+    "birthday": "1912-07-04",
+    "ip": "152.103.221.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Door according partner performance nature when claim.\nOld their include. Word quickly up exist paper worry or. Drive system stand bag.\nGreat keep successful garden work poor.",
+        "bio": "Administration appear check decide follow of thousand. Turn scene indicate pull. Data professor Mrs condition attack.\nEvent rise prepare send just."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
