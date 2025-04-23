@@ -1,0 +1,25 @@
+{
+    "name": "Melinda Booth",
+    "age": 23,
+    "address": {
+        "street": "Harper Crossroad",
+        "city": "Lindaton",
+        "state": "Virginia",
+        "zip": "57287"
+    },
+    "contact": {
+        "phone": "233-348-0337",
+        "servicePhone": "800779132"
+    },
+    "birthday": "2002-04-06",
+    "ip": "113.84.139.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Eight hair national it five dog. Although magazine political turn fight within term. Think success light gun meet discussion.\nThese value field condition use history worry. Seat determine car.",
+        "bio": "Only challenge offer enjoy quality. Two herself new positive pattern something discover change."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
