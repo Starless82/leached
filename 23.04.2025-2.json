@@ -1,0 +1,25 @@
+{
+    "name": "Michael Butler",
+    "age": 8,
+    "address": {
+        "street": "Mitchell Glen",
+        "city": "Christopherside",
+        "state": "Idaho",
+        "zip": "40949"
+    },
+    "contact": {
+        "phone": "(919)722-2981x15479",
+        "servicePhone": "800880861"
+    },
+    "birthday": "2017-17-04",
+    "ip": "101.173.244.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Go role system suggest cut everybody. One office page manage professor adult can.\nFinally product reality allow challenge brother. Read value election grow number.",
+        "bio": "Easy first almost third idea. South wind hold month score others in. Agree red student company final then difference what."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
