@@ -1,0 +1,25 @@
+{
+    "name": "Reginald Smith",
+    "age": 98,
+    "address": {
+        "street": "Wendy Centers",
+        "city": "Bellstad",
+        "state": "Vermont",
+        "zip": "73359"
+    },
+    "contact": {
+        "phone": "(852)337-2391",
+        "servicePhone": "800429824"
+    },
+    "birthday": "1927-08-04",
+    "ip": "80.2.222.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Sea pressure minute service strategy. She range source director industry whose. My whether sister sport employee.\nAnimal treat former off condition. Drug general for.",
+        "bio": "Save manage dark garden walk in. Like southern respond to education.\nCold other production there music. Serve use strategy church however."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
