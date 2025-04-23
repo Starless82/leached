@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Smith",
+    "age": 105,
+    "address": {
+        "street": "Flowers Stream",
+        "city": "New Kennethburgh",
+        "state": "Nebraska",
+        "zip": "37080"
+    },
+    "contact": {
+        "phone": "918-920-1028x6533",
+        "servicePhone": "800290842"
+    },
+    "birthday": "1920-25-06",
+    "ip": "209.44.220.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Usually military peace he state growth. Black southern reveal road. Head up film over take seven. Report than where throw.",
+        "bio": "Soon try actually since letter forget. Administration economy customer war general teach. One manager pass daughter over argue."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
