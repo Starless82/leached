@@ -1,0 +1,25 @@
+{
+    "name": "Lance Greene",
+    "age": 113,
+    "address": {
+        "street": "Church Creek",
+        "city": "South Heather",
+        "state": "New Hampshire",
+        "zip": "72334"
+    },
+    "contact": {
+        "phone": "647-891-8104",
+        "servicePhone": "800224392"
+    },
+    "birthday": "1912-18-12",
+    "ip": "4.97.77.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Image thing notice in suddenly seek. Her matter discussion. Give value southern support drug past most.\nLawyer save check. Degree live three actually push.",
+        "bio": "Begin lose gun address own speech war eye. Operation throw note join. Member moment support camera move necessary.\nSkill manage edge quality."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
