@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Villanueva",
+    "age": 18,
+    "address": {
+        "street": "David Underpass",
+        "city": "Lake Noah",
+        "state": "Florida",
+        "zip": "57630"
+    },
+    "contact": {
+        "phone": "001-567-952-0512",
+        "servicePhone": "800834918"
+    },
+    "birthday": "2007-12-04",
+    "ip": "169.153.176.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Usually woman something outside. Owner fly event mean reach black note. Billion throw piece public sign open begin.\nFight people animal mind job Republican. Team law technology research enough lose.",
+        "bio": "Short watch card. Activity artist everybody stand. Opportunity girl prove like church lawyer.\nPoint recent threat course. Discover dark land last reason. Single interesting local tend him behavior."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
