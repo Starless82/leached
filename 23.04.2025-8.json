@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Faulkner",
+    "age": 11,
+    "address": {
+        "street": "Callahan Loop",
+        "city": "Villegasmouth",
+        "state": "Maryland",
+        "zip": "13646"
+    },
+    "contact": {
+        "phone": "(412)833-2326x025",
+        "servicePhone": "800930782"
+    },
+    "birthday": "2014-26-10",
+    "ip": "24.224.9.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Here consumer including police civil message according speech. Investment care guy hot huge.\nWhile particularly red remember. Possible give form security above whose. Look carry wall act.",
+        "bio": "Share stuff born young me then. Safe less direction bad organization whatever happen.\nCenter view south art question cultural."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
