@@ -1,0 +1,25 @@
+{
+    "name": "Erik Mcdonald",
+    "age": 7,
+    "address": {
+        "street": "Carter Drive",
+        "city": "Huangside",
+        "state": "Alaska",
+        "zip": "86444"
+    },
+    "contact": {
+        "phone": "329.650.0638",
+        "servicePhone": "800845830"
+    },
+    "birthday": "2018-06-11",
+    "ip": "69.152.64.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Friend may answer nation.\nWhether than contain public. Economic nor popular mention themselves next stage part.",
+        "bio": "Occur arrive painting attorney entire newspaper money candidate. Young national as foreign. Avoid somebody usually drop sure still bring."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
