@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Wood",
+    "age": 27,
+    "address": {
+        "street": "Ashley Glens",
+        "city": "Carpenterberg",
+        "state": "Iowa",
+        "zip": "89775"
+    },
+    "contact": {
+        "phone": "245.623.7445x408",
+        "servicePhone": "800723439"
+    },
+    "birthday": "1998-18-07",
+    "ip": "148.142.232.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Himself fine east blood rich. Mention floor near mean wait stock. Themselves huge light me.\nMarket others tonight business whole. Drive day leg father south. Simple drive consumer yard recognize.",
+        "bio": "Exactly clearly save. Rather phone question commercial garden woman. Short couple hour see.\nAdd go push all field whatever image. No personal month already individual wrong."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
