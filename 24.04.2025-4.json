@@ -1,0 +1,25 @@
+{
+    "name": "John King",
+    "age": 57,
+    "address": {
+        "street": "Matthew Fields",
+        "city": "Thorntonborough",
+        "state": "Nebraska",
+        "zip": "50445"
+    },
+    "contact": {
+        "phone": "807.470.8478x19905",
+        "servicePhone": "800766974"
+    },
+    "birthday": "1968-15-02",
+    "ip": "160.246.33.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Church red your then. Factor successful police various.\nVisit wish behavior federal. Attention stay a size happy action. Hear from rich same buy understand.",
+        "bio": "Close citizen so require hair race. Oil news study top serious sing.\nWhen if thank seek. Toward step full medical crime. Economy between identify quickly cut allow my financial."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
