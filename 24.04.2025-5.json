@@ -1,0 +1,25 @@
+{
+    "name": "Kristina Martin",
+    "age": 66,
+    "address": {
+        "street": "Anthony Divide",
+        "city": "Muellerstad",
+        "state": "Vermont",
+        "zip": "62575"
+    },
+    "contact": {
+        "phone": "997.976.4147",
+        "servicePhone": "800660602"
+    },
+    "birthday": "1959-05-04",
+    "ip": "222.84.17.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Bring score card well clear at in may. Idea important reason reality. Kitchen trouble specific property but.",
+        "bio": "Affect table month again understand section consumer. Mean social yeah tell yet reality personal tax.\nTask discover cut cost eight summer ask attack. Production for prove artist continue race."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
