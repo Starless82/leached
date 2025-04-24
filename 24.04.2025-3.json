@@ -1,0 +1,25 @@
+{
+    "name": "Paul Sanchez",
+    "age": 39,
+    "address": {
+        "street": "Angelica Plain",
+        "city": "East Bryan",
+        "state": "North Carolina",
+        "zip": "01315"
+    },
+    "contact": {
+        "phone": "001-585-711-0580x83231",
+        "servicePhone": "800048578"
+    },
+    "birthday": "1986-13-12",
+    "ip": "74.172.103.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Music test last there fight around. Administration manage too necessary maintain reflect.",
+        "bio": "Set move another economy every issue maybe.\nProve approach college poor or. Way economic author into single what.\nOut spring analysis style. Authority camera page yard."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
