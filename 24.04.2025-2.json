@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Calhoun",
+    "age": 5,
+    "address": {
+        "street": "Griffith Points",
+        "city": "New Shannonmouth",
+        "state": "Kentucky",
+        "zip": "07228"
+    },
+    "contact": {
+        "phone": "647-569-5621x6658",
+        "servicePhone": "800447432"
+    },
+    "birthday": "2020-30-05",
+    "ip": "44.140.225.74",
+    "foo": "bar",
+    "profile": {
+        "about": "High lot choose well six pull. Third understand land art yes. All scientist ahead recently series. Our drop clearly evidence look.",
+        "bio": "Behind if voice money. Offer media hold rock reach. Social value debate number."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
