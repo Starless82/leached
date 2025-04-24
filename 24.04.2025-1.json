@@ -1,0 +1,25 @@
+{
+    "name": "Kendra Williamson",
+    "age": 62,
+    "address": {
+        "street": "Johnson Unions",
+        "city": "New Lorraine",
+        "state": "Florida",
+        "zip": "46323"
+    },
+    "contact": {
+        "phone": "(412)903-0906",
+        "servicePhone": "800068418"
+    },
+    "birthday": "1963-30-10",
+    "ip": "130.17.86.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Animal without little listen. From open business risk Mrs.\nGeneral push risk good guess seat listen. Firm cause plant friend consumer. Color able concern discover Congress first window.",
+        "bio": "Doctor admit involve section turn. Maybe three art expect such us trial. Write grow light agreement attention."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
