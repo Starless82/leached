@@ -1,0 +1,25 @@
+{
+    "name": "Angelica Allison",
+    "age": 114,
+    "address": {
+        "street": "Sutton Manors",
+        "city": "East Jamesshire",
+        "state": "Maryland",
+        "zip": "40685"
+    },
+    "contact": {
+        "phone": "001-282-829-5768x06812",
+        "servicePhone": "800137078"
+    },
+    "birthday": "1911-08-02",
+    "ip": "173.64.172.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Too affect consumer party since according. Tonight trip life. Bit particular certain ten bar.",
+        "bio": "Free all talk the whole after. Hospital outside second reality available bag."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
