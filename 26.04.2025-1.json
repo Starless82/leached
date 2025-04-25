@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Harris",
+    "age": 42,
+    "address": {
+        "street": "Carr Island",
+        "city": "Keithmouth",
+        "state": "Indiana",
+        "zip": "40057"
+    },
+    "contact": {
+        "phone": "956.354.2028x67310",
+        "servicePhone": "800882747"
+    },
+    "birthday": "1983-13-11",
+    "ip": "212.156.79.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Stay ball Mrs society others two air case. Fish resource never method. It discussion court model Republican film nor.",
+        "bio": "Mother buy sit. Dinner life news heavy. Ahead adult book hot shoulder suddenly.\nGrow reflect data decision. Institution kid meet analysis."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
