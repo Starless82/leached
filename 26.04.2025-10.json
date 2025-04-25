@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Zhang",
+    "age": 20,
+    "address": {
+        "street": "Hartman Falls",
+        "city": "Collinsfort",
+        "state": "West Virginia",
+        "zip": "32102"
+    },
+    "contact": {
+        "phone": "585-457-4134x25655",
+        "servicePhone": "800755402"
+    },
+    "birthday": "2005-14-09",
+    "ip": "67.214.232.42",
+    "foo": "bar",
+    "profile": {
+        "about": "While test program speech. Spend traditional number experience floor. Raise not successful figure thousand detail.",
+        "bio": "Structure charge big seven. Few simple knowledge help although serious tree power.\nConcern keep expert kitchen idea certain. Thought perform policy listen small brother. Open keep certain more."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
