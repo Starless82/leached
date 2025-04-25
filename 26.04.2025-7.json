@@ -1,0 +1,25 @@
+{
+    "name": "Gina Norton",
+    "age": 41,
+    "address": {
+        "street": "Jackson Spurs",
+        "city": "Greenemouth",
+        "state": "Connecticut",
+        "zip": "55984"
+    },
+    "contact": {
+        "phone": "+1-614-689-8189x420",
+        "servicePhone": "800508696"
+    },
+    "birthday": "1984-05-01",
+    "ip": "78.193.238.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Attention wide rise.\nMagazine clear Mr side central also.\nOccur adult here strong task. Establish wait minute memory we painting prevent smile.",
+        "bio": "Reality she man have green condition white. Stuff care teacher mouth star important song. Name evidence Mr life policy could near."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
