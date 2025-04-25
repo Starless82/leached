@@ -1,0 +1,25 @@
+{
+    "name": "Penny White",
+    "age": 72,
+    "address": {
+        "street": "Lucas Inlet",
+        "city": "Lake James",
+        "state": "North Carolina",
+        "zip": "86071"
+    },
+    "contact": {
+        "phone": "861.811.0082x253",
+        "servicePhone": "800993146"
+    },
+    "birthday": "1953-07-10",
+    "ip": "64.248.1.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Majority raise see kid process all hear lose. Finally join end. Here although particular sort interview.\nDiscussion add find themselves speech fight. Remain or chance occur person off its red.",
+        "bio": "Cell about security time Mr PM although seat. Parent seem suddenly he perhaps. Focus audience perhaps billion issue all rise.\nNice often week contain ground second some."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
