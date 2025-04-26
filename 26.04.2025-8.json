@@ -1,0 +1,25 @@
+{
+    "name": "Chris Ellis",
+    "age": 14,
+    "address": {
+        "street": "Garcia Heights",
+        "city": "Davidburgh",
+        "state": "Missouri",
+        "zip": "99509"
+    },
+    "contact": {
+        "phone": "+1-707-305-0022x611",
+        "servicePhone": "800229225"
+    },
+    "birthday": "2011-12-07",
+    "ip": "136.159.151.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Politics treatment focus treatment smile benefit. Way yes dog ready president sense middle. Fight until determine.\nThroughout chair century do. Citizen base city sound. Interview all nor it exist.",
+        "bio": "Entire again military break set. Begin phone structure management kid season development. Anyone hundred citizen look executive black."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
