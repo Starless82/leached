@@ -1,0 +1,25 @@
+{
+    "name": "Daryl Zuniga",
+    "age": 85,
+    "address": {
+        "street": "Garcia Ridges",
+        "city": "North Jo",
+        "state": "Maine",
+        "zip": "53880"
+    },
+    "contact": {
+        "phone": "(396)541-9329",
+        "servicePhone": "800350345"
+    },
+    "birthday": "1940-09-12",
+    "ip": "22.30.68.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Follow although same allow remember say consider some. Process question development those must minute remember.\nFeel citizen wait seem close. Win ability herself street far any hit.",
+        "bio": "Minute budget on government administration treat. Stay economy argue prevent candidate rather reflect.\nPopulation no energy wall. Less pass between moment. Tree first so sell television."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
