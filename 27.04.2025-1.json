@@ -1,0 +1,25 @@
+{
+    "name": "Marc Greene",
+    "age": 42,
+    "address": {
+        "street": "David Isle",
+        "city": "Codyfort",
+        "state": "Louisiana",
+        "zip": "54902"
+    },
+    "contact": {
+        "phone": "001-630-856-7083",
+        "servicePhone": "800170786"
+    },
+    "birthday": "1983-15-02",
+    "ip": "119.226.107.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Detail garden might defense financial. Place body owner discussion wrong.\nOpen stand individual vote.",
+        "bio": "Include either rather peace stuff. General truth everybody hand brother figure. Improve relate test.\nDemocrat agent wife walk financial last. Money among shake decision family anything."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
