@@ -1,0 +1,25 @@
+{
+    "name": "Jason Kerr",
+    "age": 53,
+    "address": {
+        "street": "Clark Summit",
+        "city": "North Tanya",
+        "state": "New Jersey",
+        "zip": "82377"
+    },
+    "contact": {
+        "phone": "992.924.5509",
+        "servicePhone": "800806170"
+    },
+    "birthday": "1972-12-03",
+    "ip": "182.145.11.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Rate those skill that one future lose. So single success rest up contain girl blue. Less set player go off rock. Win national soldier chair one.",
+        "bio": "Shake process lose prove research total. Moment politics to list big fly.\nLeg herself radio see. Car put population other his improve something recent."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
