@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Martin",
+    "age": 13,
+    "address": {
+        "street": "Miller Heights",
+        "city": "Campbellshire",
+        "state": "Virginia",
+        "zip": "61672"
+    },
+    "contact": {
+        "phone": "+1-660-313-9556x9983",
+        "servicePhone": "800995015"
+    },
+    "birthday": "2012-30-08",
+    "ip": "206.175.238.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Wife age him travel there exist likely relationship. Hard young economy notice author focus easy I.\nSeven area force this. High theory west give. Quality by general idea of quality run.",
+        "bio": "Position dream manage. Road source thank type agency.\nActivity debate interest every notice. Industry enter suggest consumer vote director effort. Several mention information."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
