@@ -1,0 +1,25 @@
+{
+    "name": "Sherry Bradley",
+    "age": 33,
+    "address": {
+        "street": "Freeman Cove",
+        "city": "New Coltonmouth",
+        "state": "Wisconsin",
+        "zip": "67005"
+    },
+    "contact": {
+        "phone": "(376)575-3263x74048",
+        "servicePhone": "800681101"
+    },
+    "birthday": "1992-28-03",
+    "ip": "22.184.96.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Purpose over budget candidate card bar summer. Find along nation.",
+        "bio": "Week peace though right do deep free. Trial ten tax agree theory agree anything.\nAdmit soldier crime recent.\nEnjoy already pretty. Exist teacher trial stand country. Person fish town six crime."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
