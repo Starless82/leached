@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Nelson",
+    "age": 82,
+    "address": {
+        "street": "Ian Flat",
+        "city": "Lake Steven",
+        "state": "South Dakota",
+        "zip": "03963"
+    },
+    "contact": {
+        "phone": "857.409.8757x741",
+        "servicePhone": "800183394"
+    },
+    "birthday": "1943-28-03",
+    "ip": "39.15.68.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Popular deep opportunity strategy. Really between marriage wind. Sound sell baby time including.\nHear difference late experience our. Themselves actually research everyone military keep.",
+        "bio": "Heart discussion school activity writer. Customer join out develop lose.\nCustomer entire deep bank name. Interview special interview certainly recent know."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
