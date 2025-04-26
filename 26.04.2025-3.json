@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Savage",
+    "age": 95,
+    "address": {
+        "street": "Craig Walks",
+        "city": "Karatown",
+        "state": "Connecticut",
+        "zip": "30782"
+    },
+    "contact": {
+        "phone": "001-839-981-4711x2510",
+        "servicePhone": "800268023"
+    },
+    "birthday": "1930-22-09",
+    "ip": "85.98.197.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Piece true piece today occur think. Dark establish buy natural individual large. We after nice least kid evidence value sit. Join partner about about really against.",
+        "bio": "Community television economic but stage Congress. Exactly grow father.\nBut wait firm growth director around manage. Could term happy particular serve particular against."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
