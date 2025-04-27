@@ -1,0 +1,25 @@
+{
+    "name": "Justin Schaefer",
+    "age": 60,
+    "address": {
+        "street": "Roth Mount",
+        "city": "East Jerrychester",
+        "state": "Nebraska",
+        "zip": "58589"
+    },
+    "contact": {
+        "phone": "+1-778-896-3941x91766",
+        "servicePhone": "800951943"
+    },
+    "birthday": "1965-28-11",
+    "ip": "28.13.75.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Direction federal maintain physical store.\nBelieve thus event during stuff. Amount effort car yard TV relate include piece.",
+        "bio": "Information item wide little. Development type expect. Drive federal visit herself could research.\nThrow no firm natural despite out sort."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
