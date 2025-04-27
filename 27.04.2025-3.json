@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Wilson",
+    "age": 51,
+    "address": {
+        "street": "Richardson Grove",
+        "city": "Dickersonborough",
+        "state": "Washington",
+        "zip": "49163"
+    },
+    "contact": {
+        "phone": "001-712-942-6882",
+        "servicePhone": "800712196"
+    },
+    "birthday": "1974-24-08",
+    "ip": "200.194.184.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Program pattern talk radio who. Produce outside bit class region. Pay full occur sell.\nDeal body prepare huge. Glass parent look beyond.",
+        "bio": "Tax memory commercial couple which mention use who. Score despite national discover edge under accept produce."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
