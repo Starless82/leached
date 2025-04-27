@@ -1,0 +1,25 @@
+{
+    "name": "Edward Carter",
+    "age": 20,
+    "address": {
+        "street": "Kimberly Via",
+        "city": "New Charles",
+        "state": "North Dakota",
+        "zip": "78954"
+    },
+    "contact": {
+        "phone": "(852)712-4001x03980",
+        "servicePhone": "800757315"
+    },
+    "birthday": "2005-31-03",
+    "ip": "51.199.120.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Interest dinner more plant. Fine yourself evening economy professional not could. Wear game interesting suddenly.",
+        "bio": "Thousand force common happen range. Product fall very worker hour church.\nDemocratic firm employee. Edge later mention."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
