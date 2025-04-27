@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Ruiz",
+    "age": 67,
+    "address": {
+        "street": "Ruiz Center",
+        "city": "Lake Kevin",
+        "state": "West Virginia",
+        "zip": "50037"
+    },
+    "contact": {
+        "phone": "(354)875-2834x2589",
+        "servicePhone": "800369746"
+    },
+    "birthday": "1958-06-06",
+    "ip": "120.34.90.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Population wife gas sing. Process eat play catch change ready wonder American. As woman front case coach.",
+        "bio": "Plant woman affect level general open I. Director visit study fire station task would. Society especially bit issue rule audience. Send they help sit various.\nLead hair new. Much walk part."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
