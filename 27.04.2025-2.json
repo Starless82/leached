@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline House",
+    "age": 51,
+    "address": {
+        "street": "Baker Turnpike",
+        "city": "New Crystal",
+        "state": "Missouri",
+        "zip": "29638"
+    },
+    "contact": {
+        "phone": "5889922535",
+        "servicePhone": "800802305"
+    },
+    "birthday": "1974-17-02",
+    "ip": "212.253.239.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Word conference factor find more. Case much look.\nLevel gun consumer. Easy single food arrive car. With around cultural painting.\nHelp population wife book recognize reality line.",
+        "bio": "Economic often range issue. Food around sure job.\nThing current point smile. Technology feeling wife certainly. Soldier local compare good wife look."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
