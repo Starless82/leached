@@ -1,0 +1,25 @@
+{
+    "name": "Penny Anthony",
+    "age": 109,
+    "address": {
+        "street": "Manuel Fall",
+        "city": "Cochranland",
+        "state": "Wyoming",
+        "zip": "30313"
+    },
+    "contact": {
+        "phone": "(337)548-7862x397",
+        "servicePhone": "800997056"
+    },
+    "birthday": "1916-11-12",
+    "ip": "13.39.157.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Culture learn close start. Majority option occur probably professional stop responsibility.\nSpecific medical book international arm. Tree cut full relationship. Person meeting security.",
+        "bio": "Issue career run hand lead pressure share. Too none behavior serve guess. Order defense ability instead product behind beat skin. Response hot we hospital along bed."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
