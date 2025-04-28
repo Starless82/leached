@@ -1,0 +1,25 @@
+{
+    "name": "Laura Williams",
+    "age": 58,
+    "address": {
+        "street": "Scott Flats",
+        "city": "North Barbara",
+        "state": "Louisiana",
+        "zip": "04278"
+    },
+    "contact": {
+        "phone": "621-657-8095x420",
+        "servicePhone": "800054421"
+    },
+    "birthday": "1967-18-03",
+    "ip": "179.131.109.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Act action office need. Husband usually development believe drug attention. Often save else production. From choice reach work interview.",
+        "bio": "Country at stop I water report.\nHot spring its month home. Tonight shake interview fight modern head. Move teach establish measure cause address."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
