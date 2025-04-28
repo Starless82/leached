@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Jeremy Gonzalez",
+    "age": 78,
+    "address": {
+        "street": "Austin Circles",
+        "city": "Johnsonshire",
+        "state": "Iowa",
+        "zip": "81171"
+    },
+    "contact": {
+        "phone": "001-350-779-0409x358",
+        "servicePhone": "800617416"
+    },
+    "birthday": "1947-17-01",
+    "ip": "179.12.174.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Road simple establish piece party reflect. Pressure recently direction third attorney.",
+        "bio": "Behavior off sport treat pull program expect. Thank agree continue film lay important necessary. Successful open follow body their every start."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
