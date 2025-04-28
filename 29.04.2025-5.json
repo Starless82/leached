@@ -1,0 +1,25 @@
+{
+    "name": "Andre Perez",
+    "age": 8,
+    "address": {
+        "street": "Nicholas Forest",
+        "city": "Moralesview",
+        "state": "New Mexico",
+        "zip": "26191"
+    },
+    "contact": {
+        "phone": "+1-258-716-0920",
+        "servicePhone": "800527930"
+    },
+    "birthday": "2017-21-05",
+    "ip": "204.183.223.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Response ahead take something wait figure day wonder.\nDesign television manage film ball state late. Must big investment effort eat. Ground unit produce nearly you cost material.",
+        "bio": "Trade project career who also region national. Wonder wrong hour cause.\nForce drug finally wife prove hard. Pattern allow among us."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
