@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Rodriguez",
+    "age": 15,
+    "address": {
+        "street": "Lewis Street",
+        "city": "East Debra",
+        "state": "North Dakota",
+        "zip": "79430"
+    },
+    "contact": {
+        "phone": "+1-616-452-0638x7648",
+        "servicePhone": "800275205"
+    },
+    "birthday": "2010-13-03",
+    "ip": "96.252.155.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Southern whole interest. Fill and material apply approach happy.\nRelate value Mr mouth car particularly wrong. Understand use into maybe grow only.",
+        "bio": "This hundred Mrs age law."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
