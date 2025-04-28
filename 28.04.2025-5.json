@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Campbell",
+    "age": 61,
+    "address": {
+        "street": "Jones Tunnel",
+        "city": "South Eric",
+        "state": "Minnesota",
+        "zip": "02254"
+    },
+    "contact": {
+        "phone": "508-316-4479x66963",
+        "servicePhone": "800285421"
+    },
+    "birthday": "1964-01-08",
+    "ip": "156.227.93.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Will law since. Later not material school phone. Open look give summer.\nTwo above learn because staff project. High market claim consider medical court.",
+        "bio": "So well soon. Evening cause avoid affect significant old.\nOil short per my task help economy policy. According production guess night cost exist."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
