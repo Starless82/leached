@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Ramos",
+    "age": 17,
+    "address": {
+        "street": "Elliott Prairie",
+        "city": "North Kenneth",
+        "state": "Tennessee",
+        "zip": "02178"
+    },
+    "contact": {
+        "phone": "+1-546-392-4910x981",
+        "servicePhone": "800043570"
+    },
+    "birthday": "2008-08-02",
+    "ip": "47.180.92.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Evening tree play at research. Peace Mrs over cell between door treatment.\nCharacter bit attack fall loss let. But describe almost edge. Ability fire expert risk medical food debate.",
+        "bio": "Media take forward well five baby and way. For huge himself eye green popular. Himself pressure age student machine."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
