@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Kim",
+    "age": 96,
+    "address": {
+        "street": "Sarah Vista",
+        "city": "East Gina",
+        "state": "Colorado",
+        "zip": "00643"
+    },
+    "contact": {
+        "phone": "001-716-664-3526x38556",
+        "servicePhone": "800461506"
+    },
+    "birthday": "1929-05-04",
+    "ip": "111.198.101.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Water either church might this. Pull alone during level fine. Break major expert usually itself time check.\nThus throw size million recognize pretty sea.\nCost for front actually free.",
+        "bio": "Fish born sort. Onto early sort time dream.\nFood administration throughout memory debate concern. Event reason while their. Magazine rise sell simply year memory cell."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
