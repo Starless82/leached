@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Pacheco",
+    "age": 105,
+    "address": {
+        "street": "Joshua Court",
+        "city": "Davidmouth",
+        "state": "Arizona",
+        "zip": "88617"
+    },
+    "contact": {
+        "phone": "001-336-830-6138",
+        "servicePhone": "800747547"
+    },
+    "birthday": "1920-05-04",
+    "ip": "58.175.199.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Dark world newspaper choose its. Fine soldier because plan production build yet. Leg value design mother.",
+        "bio": "Sit rest hundred notice.\nMe economic guess majority stay well. Sing series whether work statement recent individual. Someone responsibility mean point central."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
