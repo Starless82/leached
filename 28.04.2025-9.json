@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Rose",
+    "age": 74,
+    "address": {
+        "street": "Summers Island",
+        "city": "Lake Karentown",
+        "state": "New Hampshire",
+        "zip": "09282"
+    },
+    "contact": {
+        "phone": "(242)736-9316",
+        "servicePhone": "800148330"
+    },
+    "birthday": "1951-10-10",
+    "ip": "93.24.117.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Actually term time. Series safe can interview. Nice particular affect miss get service decide.\nWriter project doctor example Congress government scene. Visit also data author.",
+        "bio": "Director game wall sound ten call might. Either hot technology important fund ten air. Effect positive anyone possible.\nTough ok must tell trip book. Make film many policy."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
