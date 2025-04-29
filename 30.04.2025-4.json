@@ -1,0 +1,25 @@
+{
+    "name": "Jaime Reynolds DDS",
+    "age": 8,
+    "address": {
+        "street": "Juan Mount",
+        "city": "Esparzaville",
+        "state": "North Dakota",
+        "zip": "90453"
+    },
+    "contact": {
+        "phone": "570-903-5105",
+        "servicePhone": "800285169"
+    },
+    "birthday": "2017-24-03",
+    "ip": "210.201.1.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Huge design consider. Color person address.\nDegree on enough.\nSingle until career building. Necessary themselves leg music.\nSeason official member must sing say do.",
+        "bio": "Full forward somebody same vote any market.\nPoint soldier anyone recent. Game education half matter garden.\nSame large interview field become peace. Language soldier event think court billion town."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
