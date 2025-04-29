@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Johnson",
+    "age": 33,
+    "address": {
+        "street": "Jones Freeway",
+        "city": "Sabrinashire",
+        "state": "Arizona",
+        "zip": "74451"
+    },
+    "contact": {
+        "phone": "6812864538",
+        "servicePhone": "800901754"
+    },
+    "birthday": "1992-17-10",
+    "ip": "158.162.161.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Politics free total several blood similar. Score suddenly home.\nMove campaign let. Miss ever all table what drug. Everybody late speech president.",
+        "bio": "Account senior maintain collection. From how instead man protect relationship character.\nCitizen yard increase true check adult piece. Visit wall day rest whether behavior most."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
