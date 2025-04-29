@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Evans",
+    "age": 81,
+    "address": {
+        "street": "Vargas Meadow",
+        "city": "Katiemouth",
+        "state": "Georgia",
+        "zip": "95228"
+    },
+    "contact": {
+        "phone": "438.747.3637",
+        "servicePhone": "800404126"
+    },
+    "birthday": "1944-09-07",
+    "ip": "53.50.56.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Quite military professor write wrong home blood. Difference sign similar. Top none return American whom beautiful. Stand capital sense environmental plant stand.",
+        "bio": "Level college natural staff standard she could. Growth quite on mother staff natural. Father black view win bill out opportunity floor."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
