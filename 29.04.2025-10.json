@@ -1,0 +1,25 @@
+{
+    "name": "Laura Shelton",
+    "age": 28,
+    "address": {
+        "street": "Morris Rapid",
+        "city": "Johnsonland",
+        "state": "Alabama",
+        "zip": "77696"
+    },
+    "contact": {
+        "phone": "401.309.0013x8294",
+        "servicePhone": "800710661"
+    },
+    "birthday": "1997-01-09",
+    "ip": "140.80.110.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Their society next. Property discussion people nature second probably. Any opportunity young a sure.",
+        "bio": "Challenge blood almost us believe difference indeed you. Second her expect anyone."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
