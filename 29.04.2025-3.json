@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Morgan",
+    "age": 25,
+    "address": {
+        "street": "Peters Fields",
+        "city": "North Jade",
+        "state": "New York",
+        "zip": "74969"
+    },
+    "contact": {
+        "phone": "803.458.3159x5874",
+        "servicePhone": "800486085"
+    },
+    "birthday": "2000-21-02",
+    "ip": "88.114.127.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Past thousand lead office information. Option simple forward per poor research also. Point station industry cultural those.",
+        "bio": "Prepare law own country view you husband clearly. Material interest certainly offer three.\nReally partner coach end. Difficult pick thank well.\nWith listen bad. Build security film land."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
