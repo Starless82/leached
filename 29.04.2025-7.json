@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Schmidt",
+    "age": 53,
+    "address": {
+        "street": "Lee Spurs",
+        "city": "Pateltown",
+        "state": "Texas",
+        "zip": "96087"
+    },
+    "contact": {
+        "phone": "703-656-9245",
+        "servicePhone": "800950146"
+    },
+    "birthday": "1972-05-01",
+    "ip": "195.251.146.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Throw sort boy across increase.\nRule care city man. Early sometimes couple.\nRise around customer decade both operation set. Control either sense positive and see game.",
+        "bio": "House more mind know. Hand just center.\nMore debate table start single might. Method true few.\nSchool third painting. Day ahead market crime election each must."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
