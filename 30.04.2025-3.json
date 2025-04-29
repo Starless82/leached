@@ -1,0 +1,25 @@
+{
+    "name": "Christine Herrera",
+    "age": 74,
+    "address": {
+        "street": "Christopher Mission",
+        "city": "North Susan",
+        "state": "Minnesota",
+        "zip": "26463"
+    },
+    "contact": {
+        "phone": "001-504-939-1064x215",
+        "servicePhone": "800145055"
+    },
+    "birthday": "1951-18-12",
+    "ip": "107.65.181.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Measure early anyone kid serve serve.\nSometimes marriage tree. Task item become occur before.\nEffort heavy possible floor other enjoy. Line forward meet. At blood sort us protect anything sometimes.",
+        "bio": "Just kid child positive. Pattern human who from address partner blood. Campaign report send.\nEach five design hold. Brother why almost should both."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
