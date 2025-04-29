@@ -1,0 +1,25 @@
+{
+    "name": "Tabitha Parker",
+    "age": 4,
+    "address": {
+        "street": "Zachary Extensions",
+        "city": "Josephhaven",
+        "state": "Oregon",
+        "zip": "73440"
+    },
+    "contact": {
+        "phone": "001-745-317-7167",
+        "servicePhone": "800859910"
+    },
+    "birthday": "2021-20-09",
+    "ip": "45.31.60.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Industry single figure fight compare leg how. Walk machine force visit authority recent fall western. Article away will.\nLaugh when natural figure. Fall choose put with society.",
+        "bio": "Team matter bag. Spring across how especially public.\nLearn meet low necessary against and effort. Large reach leader choice."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
