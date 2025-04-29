@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Hardy",
+    "age": 59,
+    "address": {
+        "street": "Reed Lakes",
+        "city": "West Donna",
+        "state": "Nevada",
+        "zip": "31335"
+    },
+    "contact": {
+        "phone": "+1-618-865-4814",
+        "servicePhone": "800682237"
+    },
+    "birthday": "1966-18-02",
+    "ip": "214.26.154.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Subject work arrive matter. Tend break our evening. Stage cup it nor our picture. Blood together cell.\nGovernment develop strategy action. Relationship north stand dream.",
+        "bio": "Through matter dream for rise. Fear cold note bag begin.\nAgent ask he campaign."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
