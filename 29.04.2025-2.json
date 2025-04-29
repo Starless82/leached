@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Crawford",
+    "age": 56,
+    "address": {
+        "street": "Small Station",
+        "city": "East Nicholas",
+        "state": "Oregon",
+        "zip": "06499"
+    },
+    "contact": {
+        "phone": "211.574.4688x25342",
+        "servicePhone": "800900856"
+    },
+    "birthday": "1969-04-09",
+    "ip": "122.98.166.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Hold how yes administration. Little picture see music throughout apply.\nNorth top operation series. Plant off girl relate available improve. Small interesting thank establish role along visit thus.",
+        "bio": "Wear tend our job today.\nOn produce black feeling. Seem life early medical reflect college develop oil."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
