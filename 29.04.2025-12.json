@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Bullock",
+    "age": 35,
+    "address": {
+        "street": "Ralph Freeway",
+        "city": "Sethton",
+        "state": "Kentucky",
+        "zip": "03456"
+    },
+    "contact": {
+        "phone": "(207)956-3361",
+        "servicePhone": "800053869"
+    },
+    "birthday": "1990-25-10",
+    "ip": "49.157.75.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Very other win security. None go expect too recognize.\nInclude create understand central key. Understand face test play while allow. Let doctor enjoy space old.",
+        "bio": "Meet dark program but. Health soon your your.\nYoung newspaper model return recently late poor. Animal perform store practice modern right."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
