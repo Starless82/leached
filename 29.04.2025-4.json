@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Cochran",
+    "age": 67,
+    "address": {
+        "street": "Ronald Estates",
+        "city": "Lake Peter",
+        "state": "Alabama",
+        "zip": "22365"
+    },
+    "contact": {
+        "phone": "001-748-462-1817x16823",
+        "servicePhone": "800077787"
+    },
+    "birthday": "1958-28-08",
+    "ip": "220.116.9.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Must two act control begin than serious. Public final our quite. Message use knowledge on himself none among.",
+        "bio": "Control you have exactly prepare possible realize. Next campaign from color.\nSecond difference trade blue mind station wife indicate. Successful else either degree special trouble law above."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
