@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Rodriguez",
+    "age": 30,
+    "address": {
+        "street": "Morrow Walks",
+        "city": "West Michael",
+        "state": "New Mexico",
+        "zip": "76755"
+    },
+    "contact": {
+        "phone": "538-881-7178",
+        "servicePhone": "800960955"
+    },
+    "birthday": "1995-13-05",
+    "ip": "16.68.5.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Campaign lay age bar adult. See serve let suffer together draw. Machine school likely.\nEasy base identify. Food city affect another if policy your.",
+        "bio": "Professional crime little expect team. Since build religious create real shoulder reach. Fight environment direction nearly."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
