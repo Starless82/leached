@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Buck",
+    "age": 57,
+    "address": {
+        "street": "Eric Village",
+        "city": "East Elaine",
+        "state": "Kentucky",
+        "zip": "96981"
+    },
+    "contact": {
+        "phone": "001-412-612-6300",
+        "servicePhone": "800853135"
+    },
+    "birthday": "1968-21-12",
+    "ip": "9.13.105.149",
+    "foo": "bar",
+    "profile": {
+        "about": "All risk war understand. Might medical position go shake month court. Find leader Congress voice again tell option.\nNotice run require thing nor. Central interview blood and.",
+        "bio": "Point anything force across financial. Clearly than here current thought after fund. Organization window pass present away.\nCold author class speak scientist defense woman contain. Enter either goal."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
