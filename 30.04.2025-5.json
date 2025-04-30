@@ -1,0 +1,25 @@
+{
+    "name": "Caroline Soto",
+    "age": 21,
+    "address": {
+        "street": "Tucker View",
+        "city": "Jenniferhaven",
+        "state": "South Carolina",
+        "zip": "91396"
+    },
+    "contact": {
+        "phone": "+1-928-308-1091x50822",
+        "servicePhone": "800173239"
+    },
+    "birthday": "2004-05-09",
+    "ip": "3.41.55.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Operation thus listen card field him us fish. Against marriage blood total sell goal.",
+        "bio": "Rock wonder work morning prevent leg. Just establish poor provide in."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
