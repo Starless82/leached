@@ -1,0 +1,25 @@
+{
+    "name": "Theresa Watson DDS",
+    "age": 57,
+    "address": {
+        "street": "Kylie Heights",
+        "city": "Hillside",
+        "state": "Illinois",
+        "zip": "51342"
+    },
+    "contact": {
+        "phone": "495-804-7923x0615",
+        "servicePhone": "800781767"
+    },
+    "birthday": "1968-26-07",
+    "ip": "210.162.21.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Together visit rather history.\nInside section rule instead finish threat. Low vote true recognize serve. All everything return place indeed save whatever.",
+        "bio": "Decide stock break shake marriage indeed under. Drop section pull able final. Information lead order."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
