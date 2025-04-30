@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Chapman",
+    "age": 58,
+    "address": {
+        "street": "Dickerson Freeway",
+        "city": "Janemouth",
+        "state": "Wisconsin",
+        "zip": "63118"
+    },
+    "contact": {
+        "phone": "(240)764-0784x30281",
+        "servicePhone": "800244987"
+    },
+    "birthday": "1967-25-05",
+    "ip": "196.130.12.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Store manager better total western. Dream parent feel finish western fire student. Month nearly car chance security something note after.",
+        "bio": "Agency good garden deep would single music. Because modern place group somebody beat drive. Score feeling respond far central.\nEdge call crime phone. Choose report how fly. Often fall likely."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
