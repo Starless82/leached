@@ -1,0 +1,25 @@
+{
+    "name": "David Howe",
+    "age": 2,
+    "address": {
+        "street": "Eric Fort",
+        "city": "North Terri",
+        "state": "Washington",
+        "zip": "47212"
+    },
+    "contact": {
+        "phone": "841-661-3993x88921",
+        "servicePhone": "800159107"
+    },
+    "birthday": "2023-19-06",
+    "ip": "12.26.87.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Smile of eye law late century. Employee back each religious. Ready final news blood friend when.",
+        "bio": "Economy great seek drug camera new stand. Contain draw source apply as. Cold traditional radio while phone. Station stock give computer mean sit movie."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
