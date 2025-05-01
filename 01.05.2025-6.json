@@ -1,0 +1,25 @@
+{
+    "name": "Jesse Anderson MD",
+    "age": 38,
+    "address": {
+        "street": "Meza Vista",
+        "city": "West Kevin",
+        "state": "Maryland",
+        "zip": "61050"
+    },
+    "contact": {
+        "phone": "565-693-5173x49907",
+        "servicePhone": "800445724"
+    },
+    "birthday": "1987-28-09",
+    "ip": "190.128.224.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Impact determine image. Yourself rule ever best area heavy. Scene account detail economic hand. Day threat action involve sort certain article despite.",
+        "bio": "Vote light first man national federal. Show note worker attention just chance tend author. Stay early itself would."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
