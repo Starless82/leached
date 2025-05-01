@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Carter",
+    "age": 50,
+    "address": {
+        "street": "Miller Brooks",
+        "city": "North Sherry",
+        "state": "Pennsylvania",
+        "zip": "81863"
+    },
+    "contact": {
+        "phone": "794-447-2592x1315",
+        "servicePhone": "800069771"
+    },
+    "birthday": "1975-05-06",
+    "ip": "206.40.228.70",
+    "foo": "bar",
+    "profile": {
+        "about": "He her ten back. Dog adult scene human. Strategy form get hot off.",
+        "bio": "Difference month lawyer type pay party miss. One attorney suddenly forward son."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
