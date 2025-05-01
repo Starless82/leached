@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Mercer",
+    "age": 9,
+    "address": {
+        "street": "Rebecca Grove",
+        "city": "South Benjaminchester",
+        "state": "Nebraska",
+        "zip": "34589"
+    },
+    "contact": {
+        "phone": "565.424.0127x0809",
+        "servicePhone": "800654912"
+    },
+    "birthday": "2016-16-07",
+    "ip": "67.2.33.87",
+    "foo": "bar",
+    "profile": {
+        "about": "West near Mrs list professional provide. Collection record measure north. Food development high security.",
+        "bio": "How part model much glass here particular. Right executive me law. Nearly though action provide hold."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
