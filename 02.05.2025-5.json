@@ -1,0 +1,25 @@
+{
+    "name": "Bianca Leblanc",
+    "age": 81,
+    "address": {
+        "street": "Williams Flat",
+        "city": "South Jennifermouth",
+        "state": "Tennessee",
+        "zip": "56926"
+    },
+    "contact": {
+        "phone": "996.645.8381x791",
+        "servicePhone": "800455713"
+    },
+    "birthday": "1944-17-12",
+    "ip": "56.222.72.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Response together cost reveal. Institution relate some less now pretty market. Real picture available the.",
+        "bio": "East goal director. Race year fire news place. Join dinner world rich.\nSeries cover example stand all card administration. Throughout program carry Mr child movie least population."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
