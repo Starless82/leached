@@ -1,0 +1,25 @@
+{
+    "name": "John Williams",
+    "age": 16,
+    "address": {
+        "street": "Alvarado Squares",
+        "city": "Lopezville",
+        "state": "New Jersey",
+        "zip": "49521"
+    },
+    "contact": {
+        "phone": "(504)800-0731x700",
+        "servicePhone": "800446356"
+    },
+    "birthday": "2009-31-12",
+    "ip": "22.163.230.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Adult stand although usually so role lay. Ahead brother option audience include.\nCareer learn blood mention safe ball. Foot direction even as quickly rest.",
+        "bio": "Natural total interview right hair section. Area seat but hear owner. Job thousand will always center."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
