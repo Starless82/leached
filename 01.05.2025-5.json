@@ -1,0 +1,25 @@
+{
+    "name": "Janet Scott",
+    "age": 18,
+    "address": {
+        "street": "Sean Circles",
+        "city": "Port Codyview",
+        "state": "Iowa",
+        "zip": "55486"
+    },
+    "contact": {
+        "phone": "6004456706",
+        "servicePhone": "800981984"
+    },
+    "birthday": "2007-26-12",
+    "ip": "129.94.236.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Boy author move newspaper practice resource party. Use before experience three. Whom line increase money really test across. Seven hair though class blood son.",
+        "bio": "Model stay next every fund board bank. Simple consumer make level or. Nature line hospital quite.\nTelevision religious fear. Town reveal toward guess."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
