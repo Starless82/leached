@@ -1,0 +1,25 @@
+{
+    "name": "Jason Lewis",
+    "age": 109,
+    "address": {
+        "street": "Duncan Mill",
+        "city": "Brownfurt",
+        "state": "Kentucky",
+        "zip": "43366"
+    },
+    "contact": {
+        "phone": "(957)312-4167",
+        "servicePhone": "800327826"
+    },
+    "birthday": "1916-25-11",
+    "ip": "65.227.237.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Do concern subject live stop. Investment new many cover section huge. Current wait participant president Republican soldier spend.\nCapital here cultural she.",
+        "bio": "Rest simply purpose learn past. Option land board charge do. Recently race stay. Put join edge treat."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
