@@ -1,0 +1,25 @@
+{
+    "name": "Erica Henderson",
+    "age": 87,
+    "address": {
+        "street": "Brianna Roads",
+        "city": "Wallaceville",
+        "state": "Connecticut",
+        "zip": "28740"
+    },
+    "contact": {
+        "phone": "+1-706-409-8059",
+        "servicePhone": "800860605"
+    },
+    "birthday": "1938-11-07",
+    "ip": "146.63.103.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Receive provide hour team into station my upon. Drive nor despite food hour. Contain difference term half over.",
+        "bio": "Because without somebody TV resource. Floor whatever security. Close business check threat anyone space relationship treatment."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
