@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Mcconnell",
+    "age": 47,
+    "address": {
+        "street": "Oconnor Pines",
+        "city": "Suzanneside",
+        "state": "Georgia",
+        "zip": "08183"
+    },
+    "contact": {
+        "phone": "001-249-244-3486x3059",
+        "servicePhone": "800904684"
+    },
+    "birthday": "1978-24-05",
+    "ip": "54.205.194.65",
+    "foo": "bar",
+    "profile": {
+        "about": "West voice do lawyer with drug. Congress by build let drop.\nClearly or indeed away. Watch through water none writer food thus officer. There explain nearly glass try.",
+        "bio": "Thank receive price other choose. Yet across no call similar ready. Water program sister mention carry.\nThousand tax fast. Him meet direction lot anything commercial moment. Bar him four but soldier."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
