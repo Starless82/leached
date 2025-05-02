@@ -1,0 +1,25 @@
+{
+    "name": "Brian Soto",
+    "age": 7,
+    "address": {
+        "street": "Ayala Harbor",
+        "city": "Jayborough",
+        "state": "Nebraska",
+        "zip": "59369"
+    },
+    "contact": {
+        "phone": "349.726.7273",
+        "servicePhone": "800425432"
+    },
+    "birthday": "2018-06-10",
+    "ip": "37.133.124.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Hold yes across provide author. Doctor marriage wish city meeting adult example.",
+        "bio": "Body bring least. Town song morning.\nSay chance audience agency political include. Coach page would. Stand position property skill reason.\nNo kitchen have ready race. Trade property same probably."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
