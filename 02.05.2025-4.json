@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Hess",
+    "age": 19,
+    "address": {
+        "street": "Phillips Run",
+        "city": "East Christopher",
+        "state": "California",
+        "zip": "81804"
+    },
+    "contact": {
+        "phone": "(693)212-8671",
+        "servicePhone": "800491857"
+    },
+    "birthday": "2006-20-11",
+    "ip": "54.174.114.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Half while ability pressure article poor window. Blue probably amount theory matter.\nReach see road lawyer improve over. Role every tend similar home consumer owner name.",
+        "bio": "Effort rise within my mission Congress wall. Bring minute season should ahead miss level."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
