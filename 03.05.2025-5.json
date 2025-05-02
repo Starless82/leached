@@ -1,0 +1,25 @@
+{
+    "name": "Allison Lopez",
+    "age": 20,
+    "address": {
+        "street": "Smith Port",
+        "city": "West Scott",
+        "state": "Connecticut",
+        "zip": "83386"
+    },
+    "contact": {
+        "phone": "799.868.4875x7663",
+        "servicePhone": "800588369"
+    },
+    "birthday": "2005-01-03",
+    "ip": "142.190.174.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Large positive art western. Professional land avoid discussion different risk situation ball. Majority hear again show meet.",
+        "bio": "Board happy million rest later able election. Language say but PM. Mind standard crime strong leader language."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
