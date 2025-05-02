@@ -1,0 +1,25 @@
+{
+    "name": "Carlos Sloan",
+    "age": 111,
+    "address": {
+        "street": "King Spur",
+        "city": "Cookborough",
+        "state": "Tennessee",
+        "zip": "21250"
+    },
+    "contact": {
+        "phone": "372-881-9526",
+        "servicePhone": "800689336"
+    },
+    "birthday": "1914-12-03",
+    "ip": "200.255.95.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Politics without night note political. Determine arrive friend can out ahead guy subject. Spend expert almost evening.",
+        "bio": "Church general other politics authority eat add. Nature floor cold ahead share thought throw."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
