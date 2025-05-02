@@ -1,0 +1,25 @@
+{
+    "name": "Richard Mccoy",
+    "age": 101,
+    "address": {
+        "street": "Brown Views",
+        "city": "New Carrie",
+        "state": "Kentucky",
+        "zip": "37747"
+    },
+    "contact": {
+        "phone": "839-293-9795x77913",
+        "servicePhone": "800154544"
+    },
+    "birthday": "1924-08-08",
+    "ip": "141.58.160.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Employee past official audience strong. Tree past wish speech drive different alone.",
+        "bio": "Wonder mind senior eat. Itself body old ball most fall.\nSouth worry safe edge American stop at."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
