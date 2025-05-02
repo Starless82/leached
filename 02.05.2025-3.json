@@ -1,0 +1,25 @@
+{
+    "name": "Steven Anderson",
+    "age": 51,
+    "address": {
+        "street": "Douglas Harbor",
+        "city": "North Troyfort",
+        "state": "North Carolina",
+        "zip": "81346"
+    },
+    "contact": {
+        "phone": "(266)346-0487x47445",
+        "servicePhone": "800260684"
+    },
+    "birthday": "1974-03-08",
+    "ip": "75.101.211.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Method senior international top top.\nCampaign hundred her fact take result. Somebody indeed great put possible such.",
+        "bio": "Choice window network week interesting only. Official while score team record charge. Window front determine avoid kid they.\nNothing now employee Republican. Hold worry left lose someone exist month."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
