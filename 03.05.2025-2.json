@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Sanchez",
+    "age": 20,
+    "address": {
+        "street": "Lucas Flat",
+        "city": "Anthonyton",
+        "state": "Arkansas",
+        "zip": "52445"
+    },
+    "contact": {
+        "phone": "+1-737-229-7846x219",
+        "servicePhone": "800293271"
+    },
+    "birthday": "2005-16-08",
+    "ip": "49.216.95.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Image teach clear eight investment let. Wide eye prevent affect ability hard.\nWould black fill pressure majority should almost. Its hand dream star church. Mouth arrive until among.",
+        "bio": "Day maintain skill rich. Challenge remain on sport.\nCase serious over imagine once public. Fine break finally discussion fire light. Bag town financial drug price.\nSign American all war opportunity."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
