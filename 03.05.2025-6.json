@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Green",
+    "age": 52,
+    "address": {
+        "street": "Townsend Ridges",
+        "city": "Castilloville",
+        "state": "Washington",
+        "zip": "85808"
+    },
+    "contact": {
+        "phone": "(523)227-3213",
+        "servicePhone": "800391406"
+    },
+    "birthday": "1973-05-06",
+    "ip": "155.175.136.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Production relationship law power claim meeting. Piece risk ball leg behind. Human conference inside example product. Actually child win much discuss month quality sport.",
+        "bio": "Spend impact on everyone share dream area. Walk action some around final thus. Democrat loss line society no opportunity.\nHere if perhaps stuff treat clearly. Something its popular arm."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
