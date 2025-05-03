@@ -1,0 +1,25 @@
+{
+    "name": "Maurice Yates",
+    "age": 63,
+    "address": {
+        "street": "Higgins Extensions",
+        "city": "East Johnnyborough",
+        "state": "Louisiana",
+        "zip": "92653"
+    },
+    "contact": {
+        "phone": "780.716.4464x859",
+        "servicePhone": "800355868"
+    },
+    "birthday": "1962-22-02",
+    "ip": "24.108.198.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Yet trip morning without pull nation. Company morning beautiful actually look these score. Lose describe forward simple investment certainly organization. Mr itself carry gun billion hot.",
+        "bio": "Magazine personal leg himself. Fear fine cell author view."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
