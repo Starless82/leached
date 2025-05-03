@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Kennedy",
+    "age": 32,
+    "address": {
+        "street": "John Brook",
+        "city": "Melanieview",
+        "state": "Kansas",
+        "zip": "28425"
+    },
+    "contact": {
+        "phone": "668.773.9502x3119",
+        "servicePhone": "800494110"
+    },
+    "birthday": "1993-22-07",
+    "ip": "1.149.90.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Create area team the deal. Although by reality deal describe.",
+        "bio": "Give instead food she within wife. Admit south play of individual listen.\nBuy civil maintain open good west."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
