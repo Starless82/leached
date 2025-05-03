@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Lee",
+    "age": 28,
+    "address": {
+        "street": "Gregory Canyon",
+        "city": "South Scott",
+        "state": "Massachusetts",
+        "zip": "91765"
+    },
+    "contact": {
+        "phone": "001-209-563-8240x479",
+        "servicePhone": "800966508"
+    },
+    "birthday": "1997-18-04",
+    "ip": "201.61.47.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Indeed society because yeah. Dinner cover himself.\nKnowledge indeed agree prove compare east bad open. Yet shoulder amount put arrive. Administration southern me impact mention college group.",
+        "bio": "Nothing coach point commercial. Hope anything program. Act vote include statement computer hit.\nVisit nearly bill question go. Agent impact behind. Doctor exactly improve too."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
