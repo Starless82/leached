@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Johnson",
+    "age": 92,
+    "address": {
+        "street": "Anthony Crossing",
+        "city": "Mollyberg",
+        "state": "Oklahoma",
+        "zip": "15083"
+    },
+    "contact": {
+        "phone": "(959)456-5224x4205",
+        "servicePhone": "800029868"
+    },
+    "birthday": "1933-25-10",
+    "ip": "103.192.116.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Then service girl letter push central. Feel music hear American sport any inside. Result bag some draw experience.",
+        "bio": "Lay recognize two prevent.\nLittle western art management conference turn boy. Own significant approach ago news most."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
