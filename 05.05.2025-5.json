@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Griffin",
+    "age": 47,
+    "address": {
+        "street": "Smith Creek",
+        "city": "North Michaelton",
+        "state": "Missouri",
+        "zip": "68943"
+    },
+    "contact": {
+        "phone": "+1-844-768-0748x62183",
+        "servicePhone": "800972211"
+    },
+    "birthday": "1978-04-08",
+    "ip": "150.74.216.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Method teacher rather first back example despite. Nature news number people market.\nGun late want. Light hit whether pass.",
+        "bio": "Report phone though bad fill likely. Way hot success baby season. Financial some control sport above alone.\nProfessor something join mind law.\nInterest quickly half medical."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
