@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Hansen",
+    "age": 115,
+    "address": {
+        "street": "Mills Circles",
+        "city": "New Robertland",
+        "state": "Kentucky",
+        "zip": "85896"
+    },
+    "contact": {
+        "phone": "3638489633",
+        "servicePhone": "800816503"
+    },
+    "birthday": "1910-01-12",
+    "ip": "96.142.160.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Conference natural even whether. Follow care stop animal remember.\nCarry study summer draw themselves catch.",
+        "bio": "Single city person court idea administration. Inside wife computer deal benefit continue."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
