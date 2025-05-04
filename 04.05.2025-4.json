@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Garcia",
+    "age": 85,
+    "address": {
+        "street": "Jack Ranch",
+        "city": "Port Williamfurt",
+        "state": "Hawaii",
+        "zip": "29418"
+    },
+    "contact": {
+        "phone": "828-259-8546x781",
+        "servicePhone": "800858952"
+    },
+    "birthday": "1940-19-11",
+    "ip": "103.233.143.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Article effort before charge alone. Suffer point edge above.\nAffect fact summer office nation enough. Kind throw agency seek beat report question.",
+        "bio": "Perform that science attention tree. Break common rest coach little. Always happy offer.\nEnvironment wonder word order Congress conference remain. Exactly family law Republican perhaps tough."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
