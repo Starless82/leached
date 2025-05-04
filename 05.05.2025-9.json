@@ -1,0 +1,25 @@
+{
+    "name": "James Bonilla",
+    "age": 73,
+    "address": {
+        "street": "Randall Curve",
+        "city": "Port Andrea",
+        "state": "Michigan",
+        "zip": "97717"
+    },
+    "contact": {
+        "phone": "+1-338-785-0008x1782",
+        "servicePhone": "800098069"
+    },
+    "birthday": "1952-14-12",
+    "ip": "200.47.172.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Doctor out organization town perhaps. Option rise up administration what information away. Mind provide heavy add reality.",
+        "bio": "Challenge will civil. Reach develop treat important.\nSystem could then. Hear song them space billion.\nNo fear visit try radio. Green walk still account threat else."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
