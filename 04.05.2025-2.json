@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Cole",
+    "age": 62,
+    "address": {
+        "street": "Foster Island",
+        "city": "East Matthew",
+        "state": "Arizona",
+        "zip": "77505"
+    },
+    "contact": {
+        "phone": "+1-751-647-4356x25586",
+        "servicePhone": "800060656"
+    },
+    "birthday": "1963-23-05",
+    "ip": "169.180.57.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Edge home every none. Rate source land paper everyone treat nation. Nothing capital age TV pay.\nSing walk room never research record goal. Low improve alone respond miss Mr.",
+        "bio": "Television mind most dark. Machine agree soldier magazine throw since at. Mention our situation eight everyone.\nUnit try wrong attack happy upon Mrs. Late ok style than image doctor cultural."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
