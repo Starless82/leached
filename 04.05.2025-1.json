@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Long",
+    "age": 17,
+    "address": {
+        "street": "Tommy Heights",
+        "city": "Lake Crystalville",
+        "state": "Massachusetts",
+        "zip": "13542"
+    },
+    "contact": {
+        "phone": "(852)943-6434x8703",
+        "servicePhone": "800935466"
+    },
+    "birthday": "2008-12-08",
+    "ip": "149.154.221.69",
+    "foo": "bar",
+    "profile": {
+        "about": "New mind stay car yard important student. Pick stage yeah history anything paper. Affect be own every country write hour.",
+        "bio": "Court wall imagine throughout project. Increase upon stand specific. The manager peace police strategy condition north."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
