@@ -1,0 +1,25 @@
+{
+    "name": "Tyler Hodge",
+    "age": 51,
+    "address": {
+        "street": "Oneill Courts",
+        "city": "Elizabethshire",
+        "state": "Alabama",
+        "zip": "88091"
+    },
+    "contact": {
+        "phone": "001-588-391-4955",
+        "servicePhone": "800436557"
+    },
+    "birthday": "1974-13-01",
+    "ip": "189.98.17.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Different serve industry attack north compare very. Stay once glass hard according individual mention. Require fear whole structure.",
+        "bio": "Reflect car employee sort. Subject others bed partner never respond friend.\nSpace industry within machine ever sometimes.\nIssue list treatment green. Shake hold affect finish admit always energy."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
