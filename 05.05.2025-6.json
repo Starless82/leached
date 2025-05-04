@@ -1,0 +1,25 @@
+{
+    "name": "William Campbell",
+    "age": 92,
+    "address": {
+        "street": "Michele Lane",
+        "city": "Bakershire",
+        "state": "Kansas",
+        "zip": "09230"
+    },
+    "contact": {
+        "phone": "001-959-973-0772x1639",
+        "servicePhone": "800779065"
+    },
+    "birthday": "1933-04-08",
+    "ip": "123.144.147.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Benefit after oil look. How lot radio. Through toward people form.\nMoney case outside process available relationship change.\nFoot home age answer tell. Shake ability throw wide rich together husband.",
+        "bio": "Any seat local admit cultural world. Television nothing purpose accept anyone few nice. World speak meet each any almost."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
