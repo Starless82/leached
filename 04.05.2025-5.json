@@ -1,0 +1,25 @@
+{
+    "name": "Mary Johnson",
+    "age": 3,
+    "address": {
+        "street": "Meyers Cape",
+        "city": "South Nicholaston",
+        "state": "Iowa",
+        "zip": "38244"
+    },
+    "contact": {
+        "phone": "450.971.2791",
+        "servicePhone": "800189772"
+    },
+    "birthday": "2022-11-09",
+    "ip": "7.94.159.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Woman wife senior stay democratic official. Sea movie pattern general. Car can Mrs consider girl the entire.",
+        "bio": "Whether ask wife with red early boy. Both range trial will state. Dinner believe senior week."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
