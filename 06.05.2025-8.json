@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Henry",
+    "age": 43,
+    "address": {
+        "street": "William Radial",
+        "city": "North Audrey",
+        "state": "Oklahoma",
+        "zip": "78548"
+    },
+    "contact": {
+        "phone": "+1-958-607-4439",
+        "servicePhone": "800296873"
+    },
+    "birthday": "1982-11-07",
+    "ip": "179.69.59.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Listen argue each site. Avoid language rise sit most learn. Will TV party shoulder.\nCut tough while former son. Fly enter prove behavior face range.",
+        "bio": "Brother single sister reason report. To trial cup project. Reduce president recently challenge.\nHim box bit show resource. Idea hard explain. Focus reflect environment push."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
