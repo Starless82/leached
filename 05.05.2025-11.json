@@ -1,0 +1,25 @@
+{
+    "name": "Brian Nguyen Jr.",
+    "age": 11,
+    "address": {
+        "street": "Moore Mission",
+        "city": "Olivershire",
+        "state": "North Carolina",
+        "zip": "87738"
+    },
+    "contact": {
+        "phone": "867-221-8627",
+        "servicePhone": "800036355"
+    },
+    "birthday": "2014-07-03",
+    "ip": "104.209.30.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Environment compare add employee article. Skin I least remember wonder money woman someone.\nWithin summer fish clearly they public. Let almost fill color grow.",
+        "bio": "Instead degree reduce. Before support term world authority voice six score. Officer that east so authority dark pass."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
