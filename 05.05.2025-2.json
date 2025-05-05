@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Brown",
+    "age": 68,
+    "address": {
+        "street": "Emma Lodge",
+        "city": "Martinland",
+        "state": "Colorado",
+        "zip": "43244"
+    },
+    "contact": {
+        "phone": "+1-938-287-2663x102",
+        "servicePhone": "800476949"
+    },
+    "birthday": "1957-27-04",
+    "ip": "138.108.165.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Us right show table sit hope. Six prepare low attack friend physical power.\nGeneral mission million.",
+        "bio": "Push fear mouth rest real local near. Whatever choice against some. Author court from authority guy.\nMission oil out would life. Discuss eye sort reduce million four now eye."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
