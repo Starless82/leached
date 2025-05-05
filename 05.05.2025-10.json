@@ -1,0 +1,25 @@
+{
+    "name": "David Thomas",
+    "age": 112,
+    "address": {
+        "street": "Kristen Parkways",
+        "city": "Parsonsview",
+        "state": "Delaware",
+        "zip": "33184"
+    },
+    "contact": {
+        "phone": "544-426-1819",
+        "servicePhone": "800027354"
+    },
+    "birthday": "1913-12-11",
+    "ip": "45.93.18.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Hold possible discussion crime former tonight also. Shoulder sure time ask possible now away. Forget nation the development figure.",
+        "bio": "Middle report hospital ability arrive whether. Language personal day word fund first friend. Car operation perhaps friend case. Young which senior wonder real.\nFast sea than something his."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
