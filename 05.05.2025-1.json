@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Powell",
+    "age": 13,
+    "address": {
+        "street": "Cain Expressway",
+        "city": "Lake Matthewborough",
+        "state": "Connecticut",
+        "zip": "84130"
+    },
+    "contact": {
+        "phone": "954.548.7952x5333",
+        "servicePhone": "800484516"
+    },
+    "birthday": "2012-26-10",
+    "ip": "51.40.57.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Generation leave nation kind doctor. Reality reach leader car seven industry must.\nCover on southern this. Government soon thing operation every group.",
+        "bio": "Relate church good foot improve. Alone maybe picture wrong see east. Star know you offer. First run improve item."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
