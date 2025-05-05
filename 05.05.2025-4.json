@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Garrison",
+    "age": 103,
+    "address": {
+        "street": "Andrew Canyon",
+        "city": "Port Mary",
+        "state": "New Mexico",
+        "zip": "99232"
+    },
+    "contact": {
+        "phone": "+1-909-854-0914",
+        "servicePhone": "800499416"
+    },
+    "birthday": "1922-15-03",
+    "ip": "118.205.22.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Have receive attack minute discussion bank. Any green not reflect also behavior wide. Occur police attack check game hear. Benefit save range.",
+        "bio": "Upon bill argue race money all.\nNone design walk series bank prevent item. Future staff more base cover worker. Travel including lose but size reflect common. Brother seem summer event goal."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
