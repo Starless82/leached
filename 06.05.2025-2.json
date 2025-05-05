@@ -1,0 +1,25 @@
+{
+    "name": "Robert Powell",
+    "age": 45,
+    "address": {
+        "street": "Colton Ranch",
+        "city": "Lake Jeffreystad",
+        "state": "South Dakota",
+        "zip": "98132"
+    },
+    "contact": {
+        "phone": "349-577-6794x041",
+        "servicePhone": "800365834"
+    },
+    "birthday": "1980-25-09",
+    "ip": "10.49.177.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Quickly modern game could to collection.\nIts other game large remain begin race issue. Number southern car woman mouth late.",
+        "bio": "Item example a know interesting. Available short step law grow.\nFollow general generation think give size. Add ground pay something none."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
