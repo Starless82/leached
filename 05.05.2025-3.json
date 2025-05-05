@@ -1,0 +1,25 @@
+{
+    "name": "Rose Anderson",
+    "age": 59,
+    "address": {
+        "street": "Osborn Circles",
+        "city": "South Alexandraview",
+        "state": "Minnesota",
+        "zip": "56155"
+    },
+    "contact": {
+        "phone": "+1-831-446-2758",
+        "servicePhone": "800894966"
+    },
+    "birthday": "1966-07-12",
+    "ip": "36.34.254.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Catch fire season catch community. Apply public seat move level trouble. Forward guess soldier be piece.\nGrowth stuff she including factor store tend. Finish expect more painting car.",
+        "bio": "Tax clear market pattern attack Democrat build. Cup successful street similar. Crime outside five.\nMe week care.\nAbout check at try. Support leave industry energy."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
