@@ -1,0 +1,25 @@
+{
+    "name": "Kelsey Parsons",
+    "age": 96,
+    "address": {
+        "street": "Mcdonald Plaza",
+        "city": "South Raymondmouth",
+        "state": "Virginia",
+        "zip": "68669"
+    },
+    "contact": {
+        "phone": "289-504-9853x964",
+        "servicePhone": "800155669"
+    },
+    "birthday": "1929-16-10",
+    "ip": "76.17.200.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Those just face. Establish Congress throw name class discuss head. Billion weight everything difference little these.",
+        "bio": "Goal would step. Simple early space identify manager meeting.\nEdge marriage tonight never as run. Offer ok marriage follow bring plant."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
