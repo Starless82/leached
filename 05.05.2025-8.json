@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Carlson",
+    "age": 113,
+    "address": {
+        "street": "Justin Inlet",
+        "city": "Josephton",
+        "state": "Kentucky",
+        "zip": "83119"
+    },
+    "contact": {
+        "phone": "001-992-767-5903x876",
+        "servicePhone": "800765435"
+    },
+    "birthday": "1912-17-05",
+    "ip": "186.169.21.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Enough nation commercial let live thank. Trip shoulder church institution alone authority later. Week church weight book.",
+        "bio": "Radio let agency phone artist training. Soon car agent prepare green name.\nOf mind old hospital herself establish person. Arm fill change particularly."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
