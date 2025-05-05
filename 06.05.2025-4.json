@@ -1,0 +1,25 @@
+{
+    "name": "Beverly Pierce",
+    "age": 44,
+    "address": {
+        "street": "Rachael Views",
+        "city": "Manningland",
+        "state": "California",
+        "zip": "42929"
+    },
+    "contact": {
+        "phone": "001-269-629-9041x621",
+        "servicePhone": "800769507"
+    },
+    "birthday": "1981-06-11",
+    "ip": "111.187.41.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Strong shake bank inside receive light boy move. Can later magazine heart popular finally turn nothing. A fast dinner pick what there.",
+        "bio": "Heart yes dark long commercial. Public poor true open room official. Rest feeling enter along property section west."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
