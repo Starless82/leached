@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Murphy",
+    "age": 25,
+    "address": {
+        "street": "Barnes Greens",
+        "city": "Lisaborough",
+        "state": "Indiana",
+        "zip": "02456"
+    },
+    "contact": {
+        "phone": "(846)358-9742x1097",
+        "servicePhone": "800188039"
+    },
+    "birthday": "2000-12-06",
+    "ip": "49.181.73.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Choice discussion position sense. Enough idea available chair. Number baby cold many tree. Future option big six woman him.",
+        "bio": "Election his system collection itself example. Amount these modern could Republican next work.\nRead clear while fine."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
