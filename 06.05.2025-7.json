@@ -1,0 +1,25 @@
+{
+    "name": "George Barnes",
+    "age": 34,
+    "address": {
+        "street": "Williams Forks",
+        "city": "New Sierratown",
+        "state": "Florida",
+        "zip": "18091"
+    },
+    "contact": {
+        "phone": "3243644864",
+        "servicePhone": "800576024"
+    },
+    "birthday": "1991-27-03",
+    "ip": "123.163.213.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Film matter budget image teacher industry they stay. Information help sister may pattern general town project.",
+        "bio": "Point soldier raise force win network. Behind spring financial bed. Administration commercial catch great imagine language animal.\nSix wait on onto top. Though surface debate most here he."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
