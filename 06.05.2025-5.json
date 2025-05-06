@@ -1,0 +1,25 @@
+{
+    "name": "James Rodriguez",
+    "age": 50,
+    "address": {
+        "street": "Kristine Trafficway",
+        "city": "Port Nancy",
+        "state": "Virginia",
+        "zip": "56303"
+    },
+    "contact": {
+        "phone": "471.928.0029x078",
+        "servicePhone": "800284485"
+    },
+    "birthday": "1975-02-01",
+    "ip": "55.87.31.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Often course heart a cup grow. Medical performance rule know morning. Education write protect good government step according.",
+        "bio": "Accept energy building see huge. Fall how offer require visit. Rather candidate cost result cell."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
