@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Garcia",
+    "age": 81,
+    "address": {
+        "street": "Scott Village",
+        "city": "Tinamouth",
+        "state": "New Jersey",
+        "zip": "65357"
+    },
+    "contact": {
+        "phone": "(979)648-0695",
+        "servicePhone": "800280198"
+    },
+    "birthday": "1944-21-09",
+    "ip": "123.219.28.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Rise production since spring start. Author question special hundred fall partner campaign single. Trial style science sit like. Fall provide trouble always number sea.",
+        "bio": "Man arrive population gas help skin.\nFoot more suddenly best. You tell range billion modern gun security. Maintain believe use finish weight. Its could director western."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
