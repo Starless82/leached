@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Orr",
+    "age": 26,
+    "address": {
+        "street": "Alicia Islands",
+        "city": "Lake Sharonmouth",
+        "state": "Arkansas",
+        "zip": "86188"
+    },
+    "contact": {
+        "phone": "(798)387-9439x99632",
+        "servicePhone": "800487171"
+    },
+    "birthday": "1999-18-10",
+    "ip": "123.213.40.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Item over now down and. Bag drop fast research always.\nRecent Congress pull growth attack adult TV kid. Onto far else stand admit war glass.",
+        "bio": "Price to stuff. Despite outside method big there agree against. Hair myself play fish simply lot she."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
