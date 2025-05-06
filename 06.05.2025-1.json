@@ -1,0 +1,25 @@
+{
+    "name": "Raymond Hoover",
+    "age": 27,
+    "address": {
+        "street": "Woods Tunnel",
+        "city": "East Joshua",
+        "state": "Wyoming",
+        "zip": "16667"
+    },
+    "contact": {
+        "phone": "+1-550-690-0719x1739",
+        "servicePhone": "800145323"
+    },
+    "birthday": "1998-15-12",
+    "ip": "197.114.173.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Brother modern whatever school professional company. Win whether work air. These listen civil consider create bill bank.\nLeg hear prepare allow interest interesting. Could check live others.",
+        "bio": "Just indeed military member big father check. Despite body benefit computer owner build.\nSkin economy within product write past watch. Send area owner role."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
