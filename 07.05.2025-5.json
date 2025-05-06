@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Lewis",
+    "age": 43,
+    "address": {
+        "street": "Ruiz Divide",
+        "city": "Allenland",
+        "state": "Vermont",
+        "zip": "49206"
+    },
+    "contact": {
+        "phone": "001-700-837-2279x923",
+        "servicePhone": "800955542"
+    },
+    "birthday": "1982-23-05",
+    "ip": "26.119.137.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Stuff field fall six computer central scientist participant. More enter crime use which left how. Service series every true forget at.",
+        "bio": "Threat without read arrive memory worker. Have area offer operation always protect huge affect. Want policy dog social power. Similar itself hard where amount."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
