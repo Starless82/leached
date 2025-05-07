@@ -1,0 +1,25 @@
+{
+    "name": "Nichole Pineda",
+    "age": 63,
+    "address": {
+        "street": "Jacob Greens",
+        "city": "Taraside",
+        "state": "North Dakota",
+        "zip": "29747"
+    },
+    "contact": {
+        "phone": "978.234.3126x5519",
+        "servicePhone": "800252063"
+    },
+    "birthday": "1962-11-12",
+    "ip": "60.211.53.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Season break season mission traditional reduce. There social film plant. Receive tonight meeting benefit dog. President his I machine majority wife hard.",
+        "bio": "Pay high car certainly task set. Science material fire play color himself. Nature they key each nothing officer.\nStation under finish can out. Sit PM his win campaign future win reveal."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
