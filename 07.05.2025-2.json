@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Horn",
+    "age": 1,
+    "address": {
+        "street": "Joseph Rest",
+        "city": "Danielbury",
+        "state": "Alabama",
+        "zip": "67732"
+    },
+    "contact": {
+        "phone": "001-903-935-4711",
+        "servicePhone": "800997979"
+    },
+    "birthday": "2024-21-10",
+    "ip": "220.251.222.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Represent traditional toward detail.\nRed clear research father line month.\nBest onto left. White officer conference floor.\nSix season early they often. Must too against sure.",
+        "bio": "Production discussion ever discuss. Process organization investment clear. Use conference strong remain clear."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
