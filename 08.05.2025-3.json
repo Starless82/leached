@@ -1,0 +1,25 @@
+{
+    "name": "April Perez",
+    "age": 46,
+    "address": {
+        "street": "Stephen Lights",
+        "city": "Sheilamouth",
+        "state": "Oregon",
+        "zip": "56668"
+    },
+    "contact": {
+        "phone": "+1-786-894-1820x6197",
+        "servicePhone": "800507627"
+    },
+    "birthday": "1979-12-06",
+    "ip": "129.239.120.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Base person teach. Cause leave agreement concern these loss area. Fear now part gas fear should little.\nBuilding cold record natural policy life mission sell. Energy church explain.",
+        "bio": "Executive sign charge. For need manage science determine give forget these."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
