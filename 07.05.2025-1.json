@@ -1,0 +1,25 @@
+{
+    "name": "Diana Michael",
+    "age": 12,
+    "address": {
+        "street": "Wolfe Mountain",
+        "city": "Frankberg",
+        "state": "Mississippi",
+        "zip": "19253"
+    },
+    "contact": {
+        "phone": "001-250-613-2032x404",
+        "servicePhone": "800940450"
+    },
+    "birthday": "2013-17-05",
+    "ip": "2.214.140.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Whole stock himself resource idea. Certain enough name receive. Lot career nice break any might. Forget from sometimes leader world policy send.",
+        "bio": "Eat use possible. Yard even trip mention clear rise.\nCase they gas tough finally. Similar first reality require."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
