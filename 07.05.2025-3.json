@@ -1,0 +1,25 @@
+{
+    "name": "Chase Morgan",
+    "age": 28,
+    "address": {
+        "street": "Gutierrez Divide",
+        "city": "North Suzanne",
+        "state": "Kansas",
+        "zip": "96486"
+    },
+    "contact": {
+        "phone": "001-302-986-8687x3377",
+        "servicePhone": "800158672"
+    },
+    "birthday": "1997-20-10",
+    "ip": "124.144.70.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Challenge various environmental back just suggest. Very training mean enjoy security son card movie.\nGive special far itself responsibility let state within. Who animal sort ball.",
+        "bio": "Heart road dinner amount office. Hundred mouth travel issue manage lay ahead today. Me number this whom important."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
