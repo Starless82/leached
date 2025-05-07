@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Moran",
+    "age": 23,
+    "address": {
+        "street": "Daniel Viaduct",
+        "city": "Riverahaven",
+        "state": "Iowa",
+        "zip": "71643"
+    },
+    "contact": {
+        "phone": "+1-320-386-0270",
+        "servicePhone": "800013563"
+    },
+    "birthday": "2002-27-02",
+    "ip": "124.18.245.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Population machine stage television. Themselves evidence including space early miss. Land remember different worry spend.",
+        "bio": "Wall suffer according large data. Measure clearly rest early sing also.\nRecord however process skill need. Agreement free suggest benefit seek religious radio about. Smile near single our police."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
