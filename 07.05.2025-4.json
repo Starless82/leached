@@ -1,0 +1,25 @@
+{
+    "name": "Mr. David Rowland",
+    "age": 26,
+    "address": {
+        "street": "Cory Union",
+        "city": "Craigville",
+        "state": "Kentucky",
+        "zip": "75971"
+    },
+    "contact": {
+        "phone": "001-641-409-9387x755",
+        "servicePhone": "800082128"
+    },
+    "birthday": "1999-06-09",
+    "ip": "65.5.216.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Talk enter level military born year late. Clearly though why rate represent whole drug. Owner organization top allow or. Figure economic wind capital drive have marriage.",
+        "bio": "Note appear course several picture support plan. Per some reason three. Up whole realize environment.\nLoss industry important production. Fast general think billion."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
