@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Murphy",
+    "age": 33,
+    "address": {
+        "street": "Donald Prairie",
+        "city": "West Rita",
+        "state": "Maryland",
+        "zip": "55770"
+    },
+    "contact": {
+        "phone": "001-353-413-9201x4941",
+        "servicePhone": "800541818"
+    },
+    "birthday": "1992-25-03",
+    "ip": "88.37.35.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Other nothing discussion start. Professional old through main.\nIndustry fall when sure improve. Concern fight fight improve. Me upon along it surface number of.",
+        "bio": "Very woman understand middle manage one. Sort production fact material stock who. Law store son build affect."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
