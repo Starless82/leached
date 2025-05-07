@@ -1,0 +1,25 @@
+{
+    "name": "Denise Reilly",
+    "age": 33,
+    "address": {
+        "street": "Karen Port",
+        "city": "North Juanberg",
+        "state": "New Jersey",
+        "zip": "77615"
+    },
+    "contact": {
+        "phone": "001-512-560-0987x20042",
+        "servicePhone": "800484233"
+    },
+    "birthday": "1992-11-05",
+    "ip": "188.173.43.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Mouth pattern others affect. Sure bar across debate modern. Even cut community sound later decade.\nHundred book condition view even who. These model you card loss feeling free.",
+        "bio": "Actually show as. Behavior serious identify cover try whether glass.\nSometimes person game class discuss. Film democratic key daughter.\nEnergy factor billion."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
