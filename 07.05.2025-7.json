@@ -1,0 +1,25 @@
+{
+    "name": "Kara Gamble",
+    "age": 37,
+    "address": {
+        "street": "Hanson Forest",
+        "city": "Nicolechester",
+        "state": "North Dakota",
+        "zip": "42174"
+    },
+    "contact": {
+        "phone": "+1-734-978-1334x8174",
+        "servicePhone": "800536880"
+    },
+    "birthday": "1988-13-02",
+    "ip": "49.26.218.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Between fight view. Organization either road west reach wonder suddenly require. Reflect be heart discussion school. Page budget research talk eat theory single.",
+        "bio": "Top myself wear subject service thank officer. Ready hair candidate yourself long.\nWide whom such around fill. Born true however and. Respond leave fast."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
