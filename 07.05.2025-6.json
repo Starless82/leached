@@ -1,0 +1,25 @@
+{
+    "name": "Joel Robinson",
+    "age": 90,
+    "address": {
+        "street": "Marshall Ranch",
+        "city": "South Marymouth",
+        "state": "Nevada",
+        "zip": "82308"
+    },
+    "contact": {
+        "phone": "(548)310-1594x539",
+        "servicePhone": "800302242"
+    },
+    "birthday": "1935-12-02",
+    "ip": "192.4.40.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Gas attention behavior then. Medical value technology. Girl either behavior recognize.\nDeep hold hold cut. Tv nice heavy entire her TV.",
+        "bio": "Partner your medical their yet more. New moment civil table meet a cup. Expect good wall letter home own remember."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
