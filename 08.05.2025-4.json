@@ -1,0 +1,25 @@
+{
+    "name": "Laura Jones",
+    "age": 37,
+    "address": {
+        "street": "Miller Stravenue",
+        "city": "Griffinhaven",
+        "state": "Delaware",
+        "zip": "18230"
+    },
+    "contact": {
+        "phone": "+1-581-965-8628",
+        "servicePhone": "800775014"
+    },
+    "birthday": "1988-22-03",
+    "ip": "75.15.90.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Discussion real himself wait enter none cup. Director camera experience seem hundred out. Myself ten campaign risk structure.",
+        "bio": "Theory president between car meeting try. Short glass future education set perform environmental.\nMr positive decade something. Leave support event herself green message."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
