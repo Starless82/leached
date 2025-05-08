@@ -1,0 +1,25 @@
+{
+    "name": "John Cochran",
+    "age": 32,
+    "address": {
+        "street": "Walker Isle",
+        "city": "Port Zacharyport",
+        "state": "Colorado",
+        "zip": "50523"
+    },
+    "contact": {
+        "phone": "5244312268",
+        "servicePhone": "800220572"
+    },
+    "birthday": "1993-05-08",
+    "ip": "187.114.255.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Serious perhaps herself notice kind many increase. Direction radio represent somebody billion.\nMinute summer begin doctor. Actually college walk military already.\nHotel present year public of.",
+        "bio": "Debate focus music market which number trial. State out vote perhaps since direction tonight friend. Church professional myself catch like his place."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
