@@ -1,0 +1,25 @@
+{
+    "name": "Miss Jennifer George",
+    "age": 91,
+    "address": {
+        "street": "Brown Road",
+        "city": "Webbchester",
+        "state": "Ohio",
+        "zip": "80612"
+    },
+    "contact": {
+        "phone": "(945)716-4956",
+        "servicePhone": "800027904"
+    },
+    "birthday": "1934-19-02",
+    "ip": "175.92.205.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Edge director agreement conference hot. Create society player. Effort present others treatment thousand beautiful. Large doctor their but middle firm wear majority.",
+        "bio": "Myself eight summer. Money wear page month doctor.\nTrue yourself whatever produce half such. Southern month everything break week. Particularly team answer sing road. Test like student agreement."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
