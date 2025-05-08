@@ -1,0 +1,25 @@
+{
+    "name": "Brad Hayden",
+    "age": 88,
+    "address": {
+        "street": "Palmer Ferry",
+        "city": "Jonathanport",
+        "state": "Michigan",
+        "zip": "28707"
+    },
+    "contact": {
+        "phone": "(951)589-5018x876",
+        "servicePhone": "800649501"
+    },
+    "birthday": "1937-23-08",
+    "ip": "91.232.189.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Summer billion whatever once large. Quite artist test such already remember artist.",
+        "bio": "Forget his I memory bit world.\nOne protect less sell. Activity statement sport lot left try whatever. Right trial single.\nTable real factor. Condition skin chair rock national your."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
