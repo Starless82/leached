@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Welch",
+    "age": 101,
+    "address": {
+        "street": "Phillips Prairie",
+        "city": "West Annaberg",
+        "state": "Wisconsin",
+        "zip": "35377"
+    },
+    "contact": {
+        "phone": "001-424-750-9458",
+        "servicePhone": "800188801"
+    },
+    "birthday": "1924-23-08",
+    "ip": "129.196.30.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Case require type. Standard friend final box second. Marriage thus democratic century rather professional. Poor join behavior industry condition center when.",
+        "bio": "Foot southern drive world speech method more. Gun available stage keep think painting interesting. Gas edge fire job expert represent write."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
