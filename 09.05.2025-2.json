@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Burton",
+    "age": 56,
+    "address": {
+        "street": "Robert Estates",
+        "city": "Coleville",
+        "state": "Virginia",
+        "zip": "31758"
+    },
+    "contact": {
+        "phone": "963-747-9162",
+        "servicePhone": "800276143"
+    },
+    "birthday": "1969-09-10",
+    "ip": "149.129.163.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Beat page material. Huge daughter experience from. Create radio support late will occur game.\nGo agency attention two least floor. Management recent day nothing improve Republican state.",
+        "bio": "Require business six. Task sell role than man attack choice.\nMother concern follow real read. Four course marriage perhaps program like. Answer available already carry statement."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
