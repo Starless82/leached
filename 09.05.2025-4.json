@@ -1,0 +1,25 @@
+{
+    "name": "Drew West",
+    "age": 110,
+    "address": {
+        "street": "Jeffrey Lakes",
+        "city": "Klineberg",
+        "state": "South Dakota",
+        "zip": "95418"
+    },
+    "contact": {
+        "phone": "(262)321-5043x2606",
+        "servicePhone": "800590700"
+    },
+    "birthday": "1915-05-11",
+    "ip": "116.202.220.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Hundred source carry voice mind chair. While middle movie create standard religious sometimes.\nThrow school speak different blood might night cut. Message spring radio thought thing himself.",
+        "bio": "Fine pressure suggest attention. Street sound role.\nHair interview conference mean four alone.\nOn study wear. Reflect stuff north network. Senior relate city run yard they."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
