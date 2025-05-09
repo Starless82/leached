@@ -1,0 +1,25 @@
+{
+    "name": "Kristen Little",
+    "age": 64,
+    "address": {
+        "street": "Martinez Freeway",
+        "city": "Port Monica",
+        "state": "Mississippi",
+        "zip": "25554"
+    },
+    "contact": {
+        "phone": "658.920.9267x49241",
+        "servicePhone": "800737011"
+    },
+    "birthday": "1961-19-08",
+    "ip": "55.243.144.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Life those performance explain. Do stay anyone blue sense soldier. Relationship must class policy.\nEconomic next recognize any kid. Physical entire have use among tree. Crime blue experience like.",
+        "bio": "Public morning even speech. Military big stage science worry. Loss name adult while assume where.\nPolitics produce piece its. On report trade some standard."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
