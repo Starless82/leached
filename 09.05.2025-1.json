@@ -1,0 +1,25 @@
+{
+    "name": "Mikayla Robertson",
+    "age": 10,
+    "address": {
+        "street": "Silva Lock",
+        "city": "Lake Biancaport",
+        "state": "Minnesota",
+        "zip": "41407"
+    },
+    "contact": {
+        "phone": "(677)566-6116x779",
+        "servicePhone": "800183676"
+    },
+    "birthday": "2015-07-06",
+    "ip": "197.33.6.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Tv time beyond along major trial meet. Bit good fly wrong. Case new but.\nPage television official card. Care get art. Leader certainly oil. Account step military blue book series.",
+        "bio": "Up already own business whose crime work. Bill arrive opportunity magazine. Western do popular moment until decide answer."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
