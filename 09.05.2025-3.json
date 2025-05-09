@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Solis",
+    "age": 18,
+    "address": {
+        "street": "Jones Causeway",
+        "city": "Deborahchester",
+        "state": "North Dakota",
+        "zip": "10880"
+    },
+    "contact": {
+        "phone": "(571)679-9329x01419",
+        "servicePhone": "800773061"
+    },
+    "birthday": "2007-19-04",
+    "ip": "94.55.193.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Population pattern teach. Less send leave heavy. Receive if goal fire turn she time.\nCompare bill soon white. Scientist window tree management physical no.",
+        "bio": "Easy identify before. Car visit magazine him trade. Your remain upon new.\nGuy eye certain low history. Chair success relationship approach some apply why there."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
