@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Moore",
+    "age": 42,
+    "address": {
+        "street": "Valencia Springs",
+        "city": "North Davidville",
+        "state": "Alaska",
+        "zip": "85209"
+    },
+    "contact": {
+        "phone": "001-302-452-8755x23844",
+        "servicePhone": "800221224"
+    },
+    "birthday": "1983-26-08",
+    "ip": "23.123.2.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Compare visit clear involve thus until standard. Want win base most certainly head. Manager collection though court.\nRealize miss ever here because nothing college. Rate style add often.",
+        "bio": "Technology minute station sing. Election design degree former piece should future.\nPainting agent candidate however matter. Reflect affect wait writer administration large."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
