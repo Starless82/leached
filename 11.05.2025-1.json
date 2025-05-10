@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Taylor",
+    "age": 66,
+    "address": {
+        "street": "Jonathan Radial",
+        "city": "Hessberg",
+        "state": "West Virginia",
+        "zip": "10119"
+    },
+    "contact": {
+        "phone": "001-744-294-8480x7222",
+        "servicePhone": "800747391"
+    },
+    "birthday": "1959-24-08",
+    "ip": "29.37.84.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Painting well my. Benefit shake responsibility. Understand none church central firm.",
+        "bio": "Beyond success pay along special will head. Thing cultural full order item. Smile tough clearly discuss leg.\nOption open than month but music reason."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
