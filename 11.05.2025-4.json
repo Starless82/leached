@@ -1,0 +1,25 @@
+{
+    "name": "Susan Brewer",
+    "age": 18,
+    "address": {
+        "street": "Roy Tunnel",
+        "city": "Rodriguezview",
+        "state": "California",
+        "zip": "22947"
+    },
+    "contact": {
+        "phone": "603-927-8814x9373",
+        "servicePhone": "800601697"
+    },
+    "birthday": "2007-20-10",
+    "ip": "53.14.144.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Fire away why more against choice. Value rock suggest itself people.\nCrime money hundred letter property present life. Thought itself throughout he respond lead.",
+        "bio": "Ability training let pull. Much court business customer senior should evening house.\nEnjoy seem term certain page sell. Any morning decision clear. Of audience let boy."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
