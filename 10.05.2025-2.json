@@ -1,0 +1,25 @@
+{
+    "name": "Veronica Brown",
+    "age": 110,
+    "address": {
+        "street": "Karen Club",
+        "city": "New Kathleen",
+        "state": "Florida",
+        "zip": "04372"
+    },
+    "contact": {
+        "phone": "+1-712-952-9436x54672",
+        "servicePhone": "800838120"
+    },
+    "birthday": "1915-25-05",
+    "ip": "116.24.33.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Special eye civil social possible. Nothing give and. Population culture hospital someone capital financial operation.",
+        "bio": "Throughout outside under real much performance. Difficult time medical final physical."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
