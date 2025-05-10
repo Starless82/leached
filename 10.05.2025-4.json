@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Orr",
+    "age": 82,
+    "address": {
+        "street": "Pamela Spring",
+        "city": "New Cory",
+        "state": "Alaska",
+        "zip": "61043"
+    },
+    "contact": {
+        "phone": "2262008500",
+        "servicePhone": "800888985"
+    },
+    "birthday": "1943-20-06",
+    "ip": "116.135.30.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Arrive federal cultural under summer indeed. Five specific improve no boy other couple.\nHot to my commercial. Stage minute century face above difficult. Station common notice itself industry finally.",
+        "bio": "Talk thousand least season specific. Require trouble TV kitchen attorney. Suggest network east vote attack election agency rise."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
