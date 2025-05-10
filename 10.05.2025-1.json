@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Cantu",
+    "age": 93,
+    "address": {
+        "street": "Harrison Camp",
+        "city": "Howardberg",
+        "state": "North Carolina",
+        "zip": "60477"
+    },
+    "contact": {
+        "phone": "+1-384-233-6337x3102",
+        "servicePhone": "800410132"
+    },
+    "birthday": "1932-19-10",
+    "ip": "211.130.75.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Risk that she tend. Material else could laugh must who series. Story because street office.",
+        "bio": "Piece collection drive phone similar. Miss industry expert better either standard sea.\nCheck term nice imagine full. Which get value before full full."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
