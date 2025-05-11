@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Moore",
+    "age": 113,
+    "address": {
+        "street": "Fuentes Court",
+        "city": "New Karina",
+        "state": "Mississippi",
+        "zip": "73927"
+    },
+    "contact": {
+        "phone": "+1-438-747-6116",
+        "servicePhone": "800316121"
+    },
+    "birthday": "1912-17-07",
+    "ip": "175.114.172.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Support foot can black. Rather somebody space sign trip blue. Mean religious wind really two less first. Program first stuff child.",
+        "bio": "Your performance likely have. Material effect kitchen woman indicate rock everyone. If you claim billion improve consumer end safe.\nOnto beat practice skill her. Rate become three career."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
