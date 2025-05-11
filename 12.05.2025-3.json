@@ -1,0 +1,25 @@
+{
+    "name": "Edward Garrett",
+    "age": 83,
+    "address": {
+        "street": "Bradford Isle",
+        "city": "East Scottbury",
+        "state": "Mississippi",
+        "zip": "83797"
+    },
+    "contact": {
+        "phone": "001-341-668-7274x0588",
+        "servicePhone": "800950531"
+    },
+    "birthday": "1942-02-10",
+    "ip": "65.0.58.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Else rest now west item person defense. Other sing chair such themselves pretty need.\nDifficult small always environmental. Bed white report agent ten article.",
+        "bio": "Feel song any research area argue should. Production since conference public loss trial arm.\nAllow think institution. Loss seat man later decide during there."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
