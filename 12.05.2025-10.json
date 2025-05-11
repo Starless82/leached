@@ -1,0 +1,25 @@
+{
+    "name": "John Miller",
+    "age": 72,
+    "address": {
+        "street": "Lopez Grove",
+        "city": "Port Mikayla",
+        "state": "Idaho",
+        "zip": "34208"
+    },
+    "contact": {
+        "phone": "8223527116",
+        "servicePhone": "800814027"
+    },
+    "birthday": "1953-06-12",
+    "ip": "67.127.240.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Energy despite mind general. Partner information nature safe window art later. Boy international lay star over.",
+        "bio": "Thus stay strong heavy shoulder. Race lead our television prove."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
