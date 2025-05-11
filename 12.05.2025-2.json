@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Munoz",
+    "age": 68,
+    "address": {
+        "street": "Joseph Plains",
+        "city": "East Katherine",
+        "state": "Washington",
+        "zip": "76621"
+    },
+    "contact": {
+        "phone": "348.977.3474x8449",
+        "servicePhone": "800418321"
+    },
+    "birthday": "1957-26-06",
+    "ip": "111.149.209.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Another begin cost a book central.\nHerself stop degree him social.\nStandard reduce happen keep girl PM in. Daughter turn accept raise. Finish process western report letter response.",
+        "bio": "Everybody education choose fly traditional a. Voice whole turn best like much minute.\nWin whatever throughout financial job increase science. Thus surface owner hope yes form."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
