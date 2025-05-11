@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Moran",
+    "age": 76,
+    "address": {
+        "street": "Nicole View",
+        "city": "South Anthonyshire",
+        "state": "Montana",
+        "zip": "69463"
+    },
+    "contact": {
+        "phone": "(572)623-4745x2993",
+        "servicePhone": "800835609"
+    },
+    "birthday": "1949-07-04",
+    "ip": "193.67.11.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Wrong several several out. Prevent especially red trouble participant old she.\nSeries water car very. Whether director parent poor good.",
+        "bio": "Best effect must power police only. Sing stay despite administration reality water case. Sell relationship only chair."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
