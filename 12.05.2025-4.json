@@ -1,0 +1,25 @@
+{
+    "name": "Destiny Mccarty",
+    "age": 102,
+    "address": {
+        "street": "Sparks Spur",
+        "city": "Morrisshire",
+        "state": "Vermont",
+        "zip": "98325"
+    },
+    "contact": {
+        "phone": "(456)510-8988",
+        "servicePhone": "800799313"
+    },
+    "birthday": "1923-25-07",
+    "ip": "95.212.70.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Though center attack establish. Next themselves choose popular address standard choice.",
+        "bio": "Computer example front assume. Pm place during local you. Model quickly along heart miss a."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
