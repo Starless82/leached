@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Costa",
+    "age": 83,
+    "address": {
+        "street": "Mackenzie Land",
+        "city": "Port Stephanie",
+        "state": "Delaware",
+        "zip": "84409"
+    },
+    "contact": {
+        "phone": "640-936-1275x1485",
+        "servicePhone": "800510915"
+    },
+    "birthday": "1942-19-05",
+    "ip": "35.91.215.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Employee next read east Congress lay serious. Wish key address debate sign shake win. Company capital evidence pressure mean there true yard.",
+        "bio": "Doctor democratic south use indicate ago good.\nWhy where moment. New parent material seek education usually. Floor part son somebody.\nCapital despite a live arrive short."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
