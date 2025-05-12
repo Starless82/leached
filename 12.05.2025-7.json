@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Miller",
+    "age": 99,
+    "address": {
+        "street": "Paula Lights",
+        "city": "Port Sonyabury",
+        "state": "Wisconsin",
+        "zip": "54638"
+    },
+    "contact": {
+        "phone": "696.318.6697x8120",
+        "servicePhone": "800796950"
+    },
+    "birthday": "1926-16-04",
+    "ip": "160.160.57.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Teach possible common opportunity instead.\nRead standard though determine page team allow. Win imagine develop always.",
+        "bio": "Through feel drive long half. Open early firm late able night. Cover not world arrive tough choice right.\nExample may past cultural important. Every another happen heavy put feel four."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
