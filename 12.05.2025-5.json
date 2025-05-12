@@ -1,0 +1,25 @@
+{
+    "name": "Katie Rose",
+    "age": 9,
+    "address": {
+        "street": "Gerald Parkways",
+        "city": "Hicksland",
+        "state": "Delaware",
+        "zip": "33850"
+    },
+    "contact": {
+        "phone": "493.477.1367",
+        "servicePhone": "800577292"
+    },
+    "birthday": "2016-30-01",
+    "ip": "90.191.240.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Bad buy sea cost interest. Role must action visit down after arrive scene.\nEnter physical central or. Although you voice there sit system left.",
+        "bio": "Age style about indicate mouth able. State result face hour thousand."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
