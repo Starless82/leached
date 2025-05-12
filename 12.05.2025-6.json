@@ -1,0 +1,25 @@
+{
+    "name": "Lucas Green",
+    "age": 109,
+    "address": {
+        "street": "Hernandez Run",
+        "city": "Ritterfurt",
+        "state": "New Hampshire",
+        "zip": "77697"
+    },
+    "contact": {
+        "phone": "(772)926-0237",
+        "servicePhone": "800891632"
+    },
+    "birthday": "1916-19-07",
+    "ip": "83.223.30.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Improve remember ready. Do issue opportunity single local author.\nOil official our building year industry. Degree pattern people be. Relationship first past along there.",
+        "bio": "Final be by technology. Color down before.\nFly policy return make keep these sometimes wife. Perform whether before stuff."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
