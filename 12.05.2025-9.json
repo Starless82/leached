@@ -1,0 +1,25 @@
+{
+    "name": "Brian Schwartz",
+    "age": 24,
+    "address": {
+        "street": "Leah Loop",
+        "city": "East Jennifer",
+        "state": "New York",
+        "zip": "08594"
+    },
+    "contact": {
+        "phone": "345-568-9878x3304",
+        "servicePhone": "800250161"
+    },
+    "birthday": "2001-10-09",
+    "ip": "44.147.239.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Agree air senior off. Dark style recently either police few. Wonder great house now order. Conference not city.\nThreat former special poor which yeah. Respond themselves accept decade sure five.",
+        "bio": "Any shoulder do watch appear level green. Feeling sit nation name light. Hear specific really hair good product. Performance hit wonder run pretty black consider."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
