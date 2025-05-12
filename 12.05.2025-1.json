@@ -1,0 +1,25 @@
+{
+    "name": "James Waller",
+    "age": 101,
+    "address": {
+        "street": "Morrison Lodge",
+        "city": "West Tracey",
+        "state": "Illinois",
+        "zip": "46146"
+    },
+    "contact": {
+        "phone": "(879)439-6772",
+        "servicePhone": "800438827"
+    },
+    "birthday": "1924-20-02",
+    "ip": "20.134.73.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Hotel site Mr build popular. Force staff whole land. Amount material movement market lot suffer.\nIdea color of southern unit piece travel. Use just third case nice work.",
+        "bio": "Wait measure common. Economic attorney project book show discussion cell north. Heavy should others lay all.\nPopular question feel begin debate. Certainly make leader thank newspaper city."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
