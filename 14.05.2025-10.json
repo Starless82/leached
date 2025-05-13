@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Porter",
+    "age": 39,
+    "address": {
+        "street": "Eileen Fort",
+        "city": "South Devonmouth",
+        "state": "Nevada",
+        "zip": "78522"
+    },
+    "contact": {
+        "phone": "001-694-440-0504x65215",
+        "servicePhone": "800480790"
+    },
+    "birthday": "1986-06-10",
+    "ip": "203.246.253.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Probably population catch child evidence subject. Check eight question stand. Add factor team leave member month piece.",
+        "bio": "Plant mouth focus for body good. Back fine my dream.\nPrice side available hospital lay. Few less between officer half evening.\nJoin require despite song husband. To Mrs red."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
