@@ -1,0 +1,25 @@
+{
+    "name": "Henry Walker",
+    "age": 97,
+    "address": {
+        "street": "Williams Avenue",
+        "city": "Barnettborough",
+        "state": "Idaho",
+        "zip": "00810"
+    },
+    "contact": {
+        "phone": "989-940-5502",
+        "servicePhone": "800655345"
+    },
+    "birthday": "1928-19-08",
+    "ip": "1.116.88.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Increase drop mission time. Six natural determine design. Since can magazine night.\nPm catch along reflect else top onto call. Federal she note save realize list.",
+        "bio": "Certainly something to week push state. Agree night story democratic great picture.\nInside true end manage. Who professor painting can.\nThere would ten lawyer would. Address carry cold quality."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
