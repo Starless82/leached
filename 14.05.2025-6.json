@@ -1,0 +1,25 @@
+{
+    "name": "Heather Farmer",
+    "age": 34,
+    "address": {
+        "street": "Moore River",
+        "city": "Lake Royville",
+        "state": "California",
+        "zip": "98665"
+    },
+    "contact": {
+        "phone": "(704)228-9133x010",
+        "servicePhone": "800680505"
+    },
+    "birthday": "1991-23-11",
+    "ip": "135.118.106.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Watch such pull. Billion pattern return serve.\nPolice threat maintain benefit night car minute. Card pull leader economic fish west.",
+        "bio": "At watch sign she style civil. Goal sense least situation. When adult article middle occur sometimes myself.\nOfficer cause song TV economy relate. Benefit campaign man study late approach bit."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
