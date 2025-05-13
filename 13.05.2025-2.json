@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Fuller",
+    "age": 36,
+    "address": {
+        "street": "Kathryn Plaza",
+        "city": "Hillstad",
+        "state": "Iowa",
+        "zip": "47297"
+    },
+    "contact": {
+        "phone": "001-626-289-6378x48137",
+        "servicePhone": "800734393"
+    },
+    "birthday": "1989-01-02",
+    "ip": "99.160.115.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Bag candidate part serve. According place side interest fear hear. Chance camera still present job hot physical.\nMiss realize film line. Natural field admit culture.",
+        "bio": "Certain work house plant actually not police performance. Money catch recognize left card pressure office. Door bar region speech create."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
