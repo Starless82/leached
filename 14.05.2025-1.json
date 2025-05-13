@@ -1,0 +1,25 @@
+{
+    "name": "Meagan Stein",
+    "age": 49,
+    "address": {
+        "street": "Denise Shoals",
+        "city": "South Jeremyville",
+        "state": "West Virginia",
+        "zip": "32300"
+    },
+    "contact": {
+        "phone": "247-224-2184",
+        "servicePhone": "800589396"
+    },
+    "birthday": "1976-27-08",
+    "ip": "135.149.189.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Number system hear film pattern nation budget. Animal apply who seven. Here situation well resource important show. Nature learn eat fast pressure image.",
+        "bio": "Mouth surface receive already. Speech car well spring. Tough two speech point himself manager."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
