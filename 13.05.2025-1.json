@@ -1,0 +1,25 @@
+{
+    "name": "Dennis Nunez",
+    "age": 89,
+    "address": {
+        "street": "David Ville",
+        "city": "Hornemouth",
+        "state": "Alabama",
+        "zip": "77954"
+    },
+    "contact": {
+        "phone": "923-645-4113x627",
+        "servicePhone": "800407126"
+    },
+    "birthday": "1936-15-02",
+    "ip": "34.107.142.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Who range we strategy into. Career surface country continue occur simple rock. Its change material nor fly letter. In without character.",
+        "bio": "Project once quite message itself particularly room. Officer tough increase.\nCareer fly happen. That mention option everybody ground bit reflect."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
