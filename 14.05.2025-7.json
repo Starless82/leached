@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Green",
+    "age": 30,
+    "address": {
+        "street": "Lee Spring",
+        "city": "East Mindyfort",
+        "state": "Massachusetts",
+        "zip": "36397"
+    },
+    "contact": {
+        "phone": "(880)420-7737x169",
+        "servicePhone": "800413065"
+    },
+    "birthday": "1995-29-12",
+    "ip": "38.190.50.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Quickly million school American. Side young maintain tonight fine. Reality glass white item significant half region.",
+        "bio": "For yard position situation. Base special market keep parent notice foreign. Standard him ask election alone itself visit.\nIt such although discuss approach need star."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
