@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Crawford",
+    "age": 47,
+    "address": {
+        "street": "Price Track",
+        "city": "West Adamport",
+        "state": "South Carolina",
+        "zip": "93881"
+    },
+    "contact": {
+        "phone": "450.436.5623",
+        "servicePhone": "800693966"
+    },
+    "birthday": "1978-04-02",
+    "ip": "166.11.185.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Leave ago wind others receive continue finish. Board significant describe energy.\nQuality behind receive mission continue. True especially large onto reality order.",
+        "bio": "Defense movement soon enjoy theory prepare. Best good small boy. Health performance shake drop drug generation put through. Education need stock many everything above no then."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
