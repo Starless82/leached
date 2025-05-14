@@ -1,0 +1,25 @@
+{
+    "name": "Steven Luna",
+    "age": 36,
+    "address": {
+        "street": "Holly Mall",
+        "city": "Mariahport",
+        "state": "Idaho",
+        "zip": "42393"
+    },
+    "contact": {
+        "phone": "001-541-905-0203x4174",
+        "servicePhone": "800610368"
+    },
+    "birthday": "1989-19-12",
+    "ip": "170.138.194.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Since model hour put attorney step anything.\nCourse write away method together notice design. Administration democratic dream difficult go social. New name traditional its age democratic.",
+        "bio": "From determine standard call arrive really.\nRange better begin do. Far participant possible.\nWind market perhaps west term site. Catch part minute second."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
