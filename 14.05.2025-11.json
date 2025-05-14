@@ -1,0 +1,25 @@
+{
+    "name": "Dylan Ross",
+    "age": 69,
+    "address": {
+        "street": "Joseph Camp",
+        "city": "New Carlos",
+        "state": "South Dakota",
+        "zip": "36230"
+    },
+    "contact": {
+        "phone": "+1-723-263-3502",
+        "servicePhone": "800861363"
+    },
+    "birthday": "1956-02-04",
+    "ip": "68.2.185.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Prevent final son there charge. Six grow growth catch option you usually. Development just brother face.",
+        "bio": "Fall two threat. Tree staff about religious talk. Traditional for audience hand. Group lead not heart teach certain."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
