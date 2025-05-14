@@ -1,0 +1,25 @@
+{
+    "name": "Alexandra Caldwell",
+    "age": 104,
+    "address": {
+        "street": "Brown Roads",
+        "city": "Richardside",
+        "state": "Illinois",
+        "zip": "14851"
+    },
+    "contact": {
+        "phone": "(775)882-2276x7003",
+        "servicePhone": "800978777"
+    },
+    "birthday": "1921-01-01",
+    "ip": "16.130.1.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Account road film could rule type decide. Care operation sound account president mind. Baby anything early his across through hit record.",
+        "bio": "Too past light read edge. Newspaper mention wide sit modern necessary.\nOil any human knowledge factor. Think Mrs quite reveal performance fact."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
