@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Davis",
+    "age": 77,
+    "address": {
+        "street": "Ramirez Trace",
+        "city": "Guerreroburgh",
+        "state": "Nevada",
+        "zip": "21196"
+    },
+    "contact": {
+        "phone": "(311)764-2543x64584",
+        "servicePhone": "800706909"
+    },
+    "birthday": "1948-16-09",
+    "ip": "92.164.205.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Middle after design south single talk. Likely property teach election here speech light detail.",
+        "bio": "Us family speak enough Mrs in anything. Before middle ground company.\nBall production anyone difficult. Subject her speech affect plan development yourself."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
