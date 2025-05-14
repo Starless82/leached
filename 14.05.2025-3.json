@@ -1,0 +1,25 @@
+{
+    "name": "Christina Howard",
+    "age": 61,
+    "address": {
+        "street": "Weber Street",
+        "city": "Lake Edwinview",
+        "state": "Iowa",
+        "zip": "18758"
+    },
+    "contact": {
+        "phone": "(508)651-4094x87728",
+        "servicePhone": "800235452"
+    },
+    "birthday": "1964-31-12",
+    "ip": "190.139.200.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Music card project many eight natural until. Light pretty race or that close. Standard red who star interview commercial.",
+        "bio": "Mission increase miss recent job yeah. I improve claim thus personal show. Doctor return right several.\nSo treatment partner worker free image Mrs. Around security consumer physical here."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
