@@ -1,0 +1,25 @@
+{
+    "name": "Maurice Myers",
+    "age": 73,
+    "address": {
+        "street": "John Inlet",
+        "city": "New Kelly",
+        "state": "Wyoming",
+        "zip": "40808"
+    },
+    "contact": {
+        "phone": "259.942.2010",
+        "servicePhone": "800831974"
+    },
+    "birthday": "1952-21-09",
+    "ip": "132.129.164.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Everyone hair action on including customer. City check hot.\nLawyer appear dark entire similar whom hand.",
+        "bio": "Particular drive price capital although me position expect. Rich whole stuff product break.\nUnit simple it your vote person none piece. Method truth opportunity water."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
