@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Holt",
+    "age": 15,
+    "address": {
+        "street": "Rhodes Canyon",
+        "city": "New Ronald",
+        "state": "Ohio",
+        "zip": "03543"
+    },
+    "contact": {
+        "phone": "001-875-799-7006",
+        "servicePhone": "800193865"
+    },
+    "birthday": "2010-08-11",
+    "ip": "163.58.147.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Idea through coach special certainly offer agree. While save measure well water myself imagine ahead. Glass at window current technology represent today.",
+        "bio": "Put she strategy foreign thing. Prove great realize strategy. Within lead writer. Bit instead join guess."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
