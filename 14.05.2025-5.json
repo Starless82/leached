@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Hoover DDS",
+    "age": 58,
+    "address": {
+        "street": "Allison Way",
+        "city": "Traceyville",
+        "state": "Michigan",
+        "zip": "00617"
+    },
+    "contact": {
+        "phone": "001-299-672-6986x151",
+        "servicePhone": "800759553"
+    },
+    "birthday": "1967-21-05",
+    "ip": "167.150.165.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Start physical top factor newspaper. Forget travel forward must important.\nPoor mind reduce issue. World anyone our determine. Choice game mouth seem upon place.",
+        "bio": "Laugh plan personal above they cultural. Tv yard simply. Consider some must head front should former.\nAlways should seat this. Whether bring cut. Might officer together health free let relationship."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
