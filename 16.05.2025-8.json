@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Christian",
+    "age": 49,
+    "address": {
+        "street": "Cunningham Neck",
+        "city": "Huberport",
+        "state": "Washington",
+        "zip": "93700"
+    },
+    "contact": {
+        "phone": "(726)392-1338",
+        "servicePhone": "800795988"
+    },
+    "birthday": "1976-14-05",
+    "ip": "151.61.191.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Make direction north put. Measure tax ok pretty.\nDesign than education newspaper. Way need mother ok sit purpose foot environment. Card view cultural half.",
+        "bio": "Debate loss listen boy cause. Former until specific do friend situation fight especially. Often audience himself buy seek industry able.\nLoss poor out speech weight."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
