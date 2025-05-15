@@ -1,0 +1,25 @@
+{
+    "name": "Joanne Mosley",
+    "age": 107,
+    "address": {
+        "street": "Michael Landing",
+        "city": "New Erica",
+        "state": "Colorado",
+        "zip": "45944"
+    },
+    "contact": {
+        "phone": "001-581-562-1843x57315",
+        "servicePhone": "800450587"
+    },
+    "birthday": "1918-10-12",
+    "ip": "54.122.172.20",
+    "foo": "bar",
+    "profile": {
+        "about": "For attention even management possible summer every. Could hospital ahead card.\nSoldier certain myself scientist. Young loss himself prove beyond election.",
+        "bio": "Something hand exactly cause. Size daughter particular heart cell seven couple.\nConcern reflect may. Maybe option ok even."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
