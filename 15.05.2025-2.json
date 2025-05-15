@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Jones",
+    "age": 110,
+    "address": {
+        "street": "Sutton Pine",
+        "city": "Lake Ashleyborough",
+        "state": "South Carolina",
+        "zip": "85629"
+    },
+    "contact": {
+        "phone": "(444)573-7134x04231",
+        "servicePhone": "800797805"
+    },
+    "birthday": "1915-18-09",
+    "ip": "32.190.55.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Nice nature think bar. High well recent big develop. Soldier technology create actually exist finish vote decision.\nAct theory cause try add man. Pressure road community why fear many.",
+        "bio": "Activity how son building even financial. Dream reality investment least. Magazine building hospital rate again.\nInternational through sell hit. Position ground most side work theory news."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
