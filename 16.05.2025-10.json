@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Brown",
+    "age": 24,
+    "address": {
+        "street": "Stone Squares",
+        "city": "South Christianmouth",
+        "state": "South Dakota",
+        "zip": "00821"
+    },
+    "contact": {
+        "phone": "854-968-4334x03024",
+        "servicePhone": "800729754"
+    },
+    "birthday": "2001-20-02",
+    "ip": "91.254.217.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Adult almost these nice share. When product every special least.\nRealize its huge head. Fine forget right recently tonight. Walk player option bill camera wear.",
+        "bio": "Anyone fear education effort participant plan area pass. Five note news officer information. Individual day home TV north international."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
