@@ -1,0 +1,25 @@
+{
+    "name": "Charles Turner",
+    "age": 113,
+    "address": {
+        "street": "Green Harbors",
+        "city": "Bethhaven",
+        "state": "Louisiana",
+        "zip": "49995"
+    },
+    "contact": {
+        "phone": "671.714.1672x8343",
+        "servicePhone": "800783984"
+    },
+    "birthday": "1912-11-08",
+    "ip": "132.145.238.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Now husband thought. Arrive growth expert adult. Of whatever kid let spring.",
+        "bio": "Do because song less let. Newspaper nature together individual trouble. Power old recognize.\nRelationship success reflect bar law. Sign difficult of."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
