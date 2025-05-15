@@ -1,0 +1,25 @@
+{
+    "name": "Tara Smith",
+    "age": 26,
+    "address": {
+        "street": "Allison Divide",
+        "city": "Port Lisa",
+        "state": "Kansas",
+        "zip": "58640"
+    },
+    "contact": {
+        "phone": "(263)998-0014x39071",
+        "servicePhone": "800605134"
+    },
+    "birthday": "1999-16-01",
+    "ip": "4.145.21.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Manager spring dinner you however stand. Hope pick talk paper few interview.\nPersonal kind traditional development. Ball alone amount year small fund bag. Later positive race plan able go.",
+        "bio": "Include decision risk leg laugh. Degree add agreement drive really tree.\nCall film baby enjoy always. Cell industry huge future necessary enjoy."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
