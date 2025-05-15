@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Roberts DDS",
+    "age": 13,
+    "address": {
+        "street": "Barnes Trail",
+        "city": "Littlefurt",
+        "state": "Delaware",
+        "zip": "91700"
+    },
+    "contact": {
+        "phone": "753.535.9873x8567",
+        "servicePhone": "800354660"
+    },
+    "birthday": "2012-16-07",
+    "ip": "21.146.53.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Heavy forward personal at boy mouth describe trip. Fly after necessary result difference. Level toward into way three.\nLawyer be sometimes party need.",
+        "bio": "Her idea save strong. Home throw chair loss all evening outside.\nExpect assume company.\nWrong author plant visit. Exist month air the. Article make need beautiful down choice second."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
