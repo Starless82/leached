@@ -1,0 +1,25 @@
+{
+    "name": "Randy Johnston",
+    "age": 90,
+    "address": {
+        "street": "King Radial",
+        "city": "South Lori",
+        "state": "Mississippi",
+        "zip": "59660"
+    },
+    "contact": {
+        "phone": "680.523.8440x1207",
+        "servicePhone": "800139667"
+    },
+    "birthday": "1935-07-10",
+    "ip": "37.13.75.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Fill feel group change town here. Building over economy news. Happy else see during example of.",
+        "bio": "Table gun only town least still of. Fall various city rise dream. Growth there boy fall.\nSure type visit nation. Require low hospital your. Answer do situation fly force hundred become."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
