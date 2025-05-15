@@ -1,0 +1,25 @@
+{
+    "name": "Amber Ray",
+    "age": 53,
+    "address": {
+        "street": "Mcdowell Cliffs",
+        "city": "South Denise",
+        "state": "Oregon",
+        "zip": "27272"
+    },
+    "contact": {
+        "phone": "522-992-0433",
+        "servicePhone": "800361479"
+    },
+    "birthday": "1972-30-01",
+    "ip": "146.197.227.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Police represent least. Suddenly top usually organization strategy stuff TV. Lot miss any evening.\nToward season small form part. Individual general long federal not. Tough guy hundred couple.",
+        "bio": "Officer actually reach stop race herself cup. Any enough someone long car."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
