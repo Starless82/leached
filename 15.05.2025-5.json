@@ -1,0 +1,25 @@
+{
+    "name": "Betty Dawson",
+    "age": 26,
+    "address": {
+        "street": "Bradley Courts",
+        "city": "East Johnchester",
+        "state": "North Carolina",
+        "zip": "09205"
+    },
+    "contact": {
+        "phone": "211.994.8692",
+        "servicePhone": "800259453"
+    },
+    "birthday": "1999-12-03",
+    "ip": "165.245.39.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Step behind answer impact onto character.\nCourt treatment perform worker much bar. Indeed join discover increase position. Quality decision far federal. Each affect bill glass she through thing.",
+        "bio": "Lose add might large cost attorney. He drive hand quality. Wall take benefit cell physical woman.\nBetween hotel debate."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
