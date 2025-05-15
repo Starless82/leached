@@ -1,0 +1,25 @@
+{
+    "name": "Tina Boyle",
+    "age": 19,
+    "address": {
+        "street": "Russell Inlet",
+        "city": "East Martha",
+        "state": "Indiana",
+        "zip": "52548"
+    },
+    "contact": {
+        "phone": "7146389768",
+        "servicePhone": "800780380"
+    },
+    "birthday": "2006-19-03",
+    "ip": "2.221.169.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Computer news stage for maybe executive require. Trial modern drop method or popular. Authority situation one follow.",
+        "bio": "Guy issue center understand once beyond. Turn only where give truth growth environmental. Anything street detail free bed beat perform."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
