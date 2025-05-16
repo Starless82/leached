@@ -1,0 +1,25 @@
+{
+    "name": "Larry Mendez",
+    "age": 13,
+    "address": {
+        "street": "Steven Club",
+        "city": "Allenstad",
+        "state": "Massachusetts",
+        "zip": "60131"
+    },
+    "contact": {
+        "phone": "(763)781-1056x0992",
+        "servicePhone": "800390954"
+    },
+    "birthday": "2012-25-03",
+    "ip": "208.67.113.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Two newspaper above everybody evening instead with. Ball treatment per often culture cell.\nCampaign civil long simply. Buy might that relate which against happen long.",
+        "bio": "Management lose thought oil fear get character before. Public article its role experience relate.\nSuffer avoid cover debate person learn important. Health authority woman lead sort although resource."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
