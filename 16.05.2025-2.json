@@ -1,0 +1,25 @@
+{
+    "name": "Denise Brown",
+    "age": 26,
+    "address": {
+        "street": "Dean Village",
+        "city": "Maysport",
+        "state": "Idaho",
+        "zip": "06800"
+    },
+    "contact": {
+        "phone": "(662)883-1394x94223",
+        "servicePhone": "800923897"
+    },
+    "birthday": "1999-20-03",
+    "ip": "164.206.35.67",
+    "foo": "bar",
+    "profile": {
+        "about": "American use ground system quite large finish citizen. Only beautiful bill name right back voice structure.",
+        "bio": "Tough game center parent somebody member. Myself recently rule friend one table. Leave century yard between win."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
