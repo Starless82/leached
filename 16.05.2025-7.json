@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Whitaker",
+    "age": 52,
+    "address": {
+        "street": "Corey Island",
+        "city": "Johnbury",
+        "state": "South Carolina",
+        "zip": "09039"
+    },
+    "contact": {
+        "phone": "(665)510-8297",
+        "servicePhone": "800806004"
+    },
+    "birthday": "1973-23-11",
+    "ip": "56.1.233.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Do involve market turn indicate. Environment hospital agent buy class live draw. Art drug arm cultural management him clearly history.",
+        "bio": "Here evening same team leg. Writer knowledge smile family. After give think civil design.\nMorning everyone report. Another season money power visit soldier black. Free smile baby sister."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
