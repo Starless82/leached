@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Jennings",
+    "age": 61,
+    "address": {
+        "street": "Gordon Trafficway",
+        "city": "Susanside",
+        "state": "Maine",
+        "zip": "32580"
+    },
+    "contact": {
+        "phone": "+1-671-755-4520",
+        "servicePhone": "800720069"
+    },
+    "birthday": "1964-25-08",
+    "ip": "155.173.213.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Suggest number pick night off. Drop school open day. Agency information central administration end bill effect.",
+        "bio": "Most majority discussion suddenly suffer. Rate red claim late statement challenge like. Sometimes once movie push plant answer."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
