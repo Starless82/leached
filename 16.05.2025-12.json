@@ -1,0 +1,25 @@
+{
+    "name": "Erin Brown",
+    "age": 109,
+    "address": {
+        "street": "Mclaughlin Mission",
+        "city": "Port Garrett",
+        "state": "Pennsylvania",
+        "zip": "47757"
+    },
+    "contact": {
+        "phone": "842-638-7938x269",
+        "servicePhone": "800701880"
+    },
+    "birthday": "1916-16-09",
+    "ip": "56.13.164.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Either marriage hand summer community. Admit his structure like sing.\nConsider customer whose great thing most TV blood. Yourself full game available entire.",
+        "bio": "Eight until PM agency. Scientist this of. Woman language south significant yourself identify first."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
