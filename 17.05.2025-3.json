@@ -1,0 +1,25 @@
+{
+    "name": "Cathy Hanna",
+    "age": 8,
+    "address": {
+        "street": "Gonzalez Flats",
+        "city": "North Bradley",
+        "state": "North Dakota",
+        "zip": "15679"
+    },
+    "contact": {
+        "phone": "+1-386-958-4869x5753",
+        "servicePhone": "800517597"
+    },
+    "birthday": "2017-10-01",
+    "ip": "59.47.10.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Receive arrive performance three market. Gas place performance wear actually pretty. Pretty new mother quality west.\nTax dark recent history film.",
+        "bio": "Work build interview. Scene travel social good.\nNothing us bed order activity much agent before. White fast future marriage upon party.\nTraditional group different because energy cause agent."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
