@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Miller",
+    "age": 83,
+    "address": {
+        "street": "Ronald Mount",
+        "city": "Evansburgh",
+        "state": "Washington",
+        "zip": "85673"
+    },
+    "contact": {
+        "phone": "001-821-244-2400",
+        "servicePhone": "800276405"
+    },
+    "birthday": "1942-25-03",
+    "ip": "76.83.221.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Over door attack five in up always. Enough career media against.",
+        "bio": "Situation cold nothing what. Imagine treat bill bill strong interest value. And choice structure mind artist raise door."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
