@@ -1,0 +1,25 @@
+{
+    "name": "Gerald Huynh",
+    "age": 8,
+    "address": {
+        "street": "Christian Ports",
+        "city": "Daniellefurt",
+        "state": "Montana",
+        "zip": "50819"
+    },
+    "contact": {
+        "phone": "001-558-309-0532x966",
+        "servicePhone": "800582459"
+    },
+    "birthday": "2017-31-12",
+    "ip": "96.231.173.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Itself remember morning out over.\nFind measure wife win issue student happy. Shake challenge ahead choose study education name. Effort girl though degree fear although create.",
+        "bio": "Easy dream democratic board star heavy. Ask radio contain environmental office response. Should lose region plan face until.\nInstead just air cultural new although democratic. Model hotel study."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
