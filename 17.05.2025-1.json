@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Moore",
+    "age": 105,
+    "address": {
+        "street": "Stewart Turnpike",
+        "city": "North Kevinton",
+        "state": "Washington",
+        "zip": "34830"
+    },
+    "contact": {
+        "phone": "+1-592-924-1729x753",
+        "servicePhone": "800996363"
+    },
+    "birthday": "1920-27-02",
+    "ip": "35.38.10.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Door avoid check. Trial teacher believe. Ability discuss rest professional.",
+        "bio": "Board finally join city under work expect. Happy carry hit also different. Involve around myself character black.\nComputer marriage pick answer improve. Although help hospital operation us."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
