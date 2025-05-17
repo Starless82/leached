@@ -1,0 +1,25 @@
+{
+    "name": "Jim Nelson",
+    "age": 70,
+    "address": {
+        "street": "Michael Manor",
+        "city": "Hayleychester",
+        "state": "Florida",
+        "zip": "31996"
+    },
+    "contact": {
+        "phone": "+1-650-326-6900x91831",
+        "servicePhone": "800662187"
+    },
+    "birthday": "1955-01-02",
+    "ip": "83.2.243.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Top focus spend. Could material save.\nAhead thought simply ball season score. Professor major plant since citizen. Race power receive song not include ago.",
+        "bio": "Other a head speech such. Entire black seven. Conference newspaper radio anything be very myself."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
