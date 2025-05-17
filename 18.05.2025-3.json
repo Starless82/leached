@@ -1,0 +1,25 @@
+{
+    "name": "John Johnson",
+    "age": 37,
+    "address": {
+        "street": "Nelson Village",
+        "city": "Lake Justinshire",
+        "state": "Massachusetts",
+        "zip": "25323"
+    },
+    "contact": {
+        "phone": "+1-412-303-2680x99731",
+        "servicePhone": "800598431"
+    },
+    "birthday": "1988-07-06",
+    "ip": "16.150.115.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Open successful pull throw. Probably during then begin student Mrs. Beyond necessary education center development side. Top hundred fast.",
+        "bio": "Analysis power five position line someone. Could office tonight blood any often.\nAlong allow property travel TV myself. View focus serious miss. Seven last piece leader series heavy price."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
