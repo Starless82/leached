@@ -1,0 +1,25 @@
+{
+    "name": "Linda Bennett",
+    "age": 53,
+    "address": {
+        "street": "Robert Pines",
+        "city": "Natashafurt",
+        "state": "Kentucky",
+        "zip": "60544"
+    },
+    "contact": {
+        "phone": "9623594901",
+        "servicePhone": "800913515"
+    },
+    "birthday": "1972-23-07",
+    "ip": "10.122.10.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation old make meet. Stuff catch area usually news. Special single their heart with simple.\nEvery lay couple focus bank. Report respond learn outside window.",
+        "bio": "Coach option single age on crime with history.\nPrevent stock build on. Song give maintain yard. Easy American long either."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
