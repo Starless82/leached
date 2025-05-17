@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Woods",
+    "age": 43,
+    "address": {
+        "street": "Erika Streets",
+        "city": "Port James",
+        "state": "Arkansas",
+        "zip": "75870"
+    },
+    "contact": {
+        "phone": "001-517-718-8086x99567",
+        "servicePhone": "800911131"
+    },
+    "birthday": "1982-08-10",
+    "ip": "9.238.117.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Blood western series. Per prove truth suffer.\nAlthough guess its only it allow man sometimes. Act project follow course sign. Often for performance imagine change shake white.",
+        "bio": "Event toward pass improve for tough watch. Talk next stock shake relate international man hour. Interview recently research bar grow find."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
