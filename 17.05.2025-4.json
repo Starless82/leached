@@ -1,0 +1,25 @@
+{
+    "name": "Ana Williams",
+    "age": 107,
+    "address": {
+        "street": "Carter Orchard",
+        "city": "Anthonyview",
+        "state": "Oregon",
+        "zip": "53331"
+    },
+    "contact": {
+        "phone": "843.766.2656x965",
+        "servicePhone": "800556282"
+    },
+    "birthday": "1918-01-10",
+    "ip": "99.101.160.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Action together simple after including. Threat table eat quickly. President natural attention leg pretty color process serve.",
+        "bio": "Ask pretty page up. Appear last other walk learn interest.\nNatural like group democratic deep election.\nName use follow nature policy interest morning."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
