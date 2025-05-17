@@ -1,0 +1,25 @@
+{
+    "name": "April Morgan",
+    "age": 39,
+    "address": {
+        "street": "Berger Village",
+        "city": "New Jefferymouth",
+        "state": "North Dakota",
+        "zip": "41322"
+    },
+    "contact": {
+        "phone": "001-922-615-8580x740",
+        "servicePhone": "800030614"
+    },
+    "birthday": "1986-13-06",
+    "ip": "181.128.244.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Mother leg she arrive must.\nWind painting already team trade a difficult. Choose environmental maintain whose answer anyone but. Care may cover today skill.",
+        "bio": "Hear well and. Television order dog bar TV responsibility.\nChair be admit build few. Under he option computer."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
