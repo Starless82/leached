@@ -1,0 +1,25 @@
+{
+    "name": "Robin Stanley",
+    "age": 101,
+    "address": {
+        "street": "William Inlet",
+        "city": "South Julie",
+        "state": "Colorado",
+        "zip": "77150"
+    },
+    "contact": {
+        "phone": "+1-466-247-2248x2749",
+        "servicePhone": "800113965"
+    },
+    "birthday": "1924-14-04",
+    "ip": "80.245.201.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Treatment always scientist maybe rock six. Small power ok Democrat material. Respond evening nice source skill.\nMajor three food. Base deep thank trade history.",
+        "bio": "Establish commercial need hard analysis. Born those cell goal near thought.\nService message admit little body time world."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
