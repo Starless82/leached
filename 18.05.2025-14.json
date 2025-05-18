@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Barton",
+    "age": 94,
+    "address": {
+        "street": "Salas Crescent",
+        "city": "Jacksonville",
+        "state": "Colorado",
+        "zip": "02828"
+    },
+    "contact": {
+        "phone": "630.862.1168",
+        "servicePhone": "800032145"
+    },
+    "birthday": "1931-29-04",
+    "ip": "200.18.7.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Item then still guy get we cut. Interesting offer respond throw environmental major. Defense customer recent mother degree model foreign admit.",
+        "bio": "Rest these history scene tend notice. Wide gun left song live director.\nApproach involve marriage final listen we mother. Throw notice worker. Throughout human ground law industry."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
