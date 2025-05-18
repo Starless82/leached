@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Gonzales",
+    "age": 100,
+    "address": {
+        "street": "Tami Mews",
+        "city": "Leemouth",
+        "state": "Colorado",
+        "zip": "73308"
+    },
+    "contact": {
+        "phone": "941.576.9491",
+        "servicePhone": "800082057"
+    },
+    "birthday": "1925-01-08",
+    "ip": "142.114.231.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Artist couple word word close sing. Green church watch hair.\nRespond ready believe away. Modern include position fire rather partner lay. Congress nation human person challenge.",
+        "bio": "Other animal away purpose treatment two education. Concern say part bill mouth fine red. Bar sea player care. Lot best poor dog affect both year."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
