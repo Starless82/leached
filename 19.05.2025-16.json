@@ -1,0 +1,25 @@
+{
+    "name": "Lori Garcia",
+    "age": 83,
+    "address": {
+        "street": "Johnson Plaza",
+        "city": "Lake Andrew",
+        "state": "Michigan",
+        "zip": "06514"
+    },
+    "contact": {
+        "phone": "001-383-873-0565x6527",
+        "servicePhone": "800506691"
+    },
+    "birthday": "1942-07-12",
+    "ip": "5.152.117.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Movie decide bit push look. Son PM just.",
+        "bio": "Leader energy serve adult series local claim. Full picture would. Force buy under season. Happy record ground."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
