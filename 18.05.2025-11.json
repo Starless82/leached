@@ -1,0 +1,25 @@
+{
+    "name": "Jill Martinez",
+    "age": 114,
+    "address": {
+        "street": "Brad Divide",
+        "city": "Larsontown",
+        "state": "Kansas",
+        "zip": "73609"
+    },
+    "contact": {
+        "phone": "621.721.5591x43058",
+        "servicePhone": "800063872"
+    },
+    "birthday": "1911-08-03",
+    "ip": "108.244.21.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Minute town figure quality together new. Realize fall several better defense huge law. Record ok prove learn everything pretty wonder.\nStart now use new ahead place. Produce detail mission him south.",
+        "bio": "Trial beautiful meeting decade save. Officer choose lead environmental.\nSuch suggest business represent. Mrs upon able forget. Their yourself produce picture rise manage major."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
