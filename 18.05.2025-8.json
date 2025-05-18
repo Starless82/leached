@@ -1,0 +1,25 @@
+{
+    "name": "Brooke Weaver",
+    "age": 26,
+    "address": {
+        "street": "Garcia Port",
+        "city": "Jaclyntown",
+        "state": "Hawaii",
+        "zip": "29050"
+    },
+    "contact": {
+        "phone": "+1-856-491-8020x637",
+        "servicePhone": "800820710"
+    },
+    "birthday": "1999-16-09",
+    "ip": "74.255.239.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Letter world car official laugh economic Democrat more. Important go face thus animal this music economic. Those bag any itself paper region yourself.",
+        "bio": "Try support prove plant goal for. Out contain good. Evening score give inside.\nModel half traditional organization. Themselves civil total western include sit."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
