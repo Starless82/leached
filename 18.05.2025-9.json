@@ -1,0 +1,25 @@
+{
+    "name": "Edwin Joyce",
+    "age": 62,
+    "address": {
+        "street": "Donald Lodge",
+        "city": "East Jacksonmouth",
+        "state": "South Carolina",
+        "zip": "57033"
+    },
+    "contact": {
+        "phone": "716.702.3321",
+        "servicePhone": "800303974"
+    },
+    "birthday": "1963-23-04",
+    "ip": "84.77.179.123",
+    "foo": "bar",
+    "profile": {
+        "about": "End kind thousand seven father miss enjoy some. Four study class view above out.\nCity size industry challenge it skill.\nBuy development agreement. Activity investment view item they.",
+        "bio": "Yes mission letter rest coach TV structure describe. Foreign member focus other light church check. Total identify play other forward."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
