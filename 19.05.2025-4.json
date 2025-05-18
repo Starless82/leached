@@ -1,0 +1,25 @@
+{
+    "name": "Antonio Flynn",
+    "age": 41,
+    "address": {
+        "street": "Christina Ranch",
+        "city": "Cobbfort",
+        "state": "New Hampshire",
+        "zip": "13285"
+    },
+    "contact": {
+        "phone": "+1-837-639-7849x6496",
+        "servicePhone": "800869701"
+    },
+    "birthday": "1984-11-01",
+    "ip": "198.104.72.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Along both enough child small current. Exactly home speech own answer defense picture show.\nTake ever election recognize. Join figure base will later stuff.",
+        "bio": "South spring successful only stand subject culture.\nRequire reduce book. Down behavior hit Mr out or inside.\nTrouble arrive age television."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
