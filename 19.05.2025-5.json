@@ -1,0 +1,25 @@
+{
+    "name": "Jose Ramirez",
+    "age": 44,
+    "address": {
+        "street": "Laura Union",
+        "city": "Tuckerberg",
+        "state": "Michigan",
+        "zip": "89759"
+    },
+    "contact": {
+        "phone": "001-390-781-7967x90810",
+        "servicePhone": "800630459"
+    },
+    "birthday": "1981-14-11",
+    "ip": "166.180.167.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Table free though ground entire trouble. Population evidence candidate others worry medical. Watch coach fight a sea determine public.",
+        "bio": "Act identify Republican event meet artist. Mr laugh drive sort pattern however between. Stop success cut move people help skin ok."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
