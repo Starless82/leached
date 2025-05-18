@@ -1,0 +1,25 @@
+{
+    "name": "Clayton Johnson",
+    "age": 9,
+    "address": {
+        "street": "Michael Hill",
+        "city": "Jamieside",
+        "state": "Arkansas",
+        "zip": "59862"
+    },
+    "contact": {
+        "phone": "+1-770-391-3810x76751",
+        "servicePhone": "800986405"
+    },
+    "birthday": "2016-04-09",
+    "ip": "75.101.107.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Lawyer total all traditional national. Society just drug nothing key little movement company. Could group run.",
+        "bio": "Student stand dinner they candidate. Town drug affect task development me.\nLive respond first charge agency. Per against individual father owner star church. Consumer fire probably."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
