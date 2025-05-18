@@ -1,0 +1,25 @@
+{
+    "name": "Sean Chen",
+    "age": 71,
+    "address": {
+        "street": "Phillips Garden",
+        "city": "Port Ryan",
+        "state": "Minnesota",
+        "zip": "05610"
+    },
+    "contact": {
+        "phone": "942.820.5070",
+        "servicePhone": "800402416"
+    },
+    "birthday": "1954-17-02",
+    "ip": "8.181.95.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Interesting hospital site.\nGround mean plan cut when five. Admit more read several help join across.\nSell measure citizen anyone fact tax. Night painting major activity continue.",
+        "bio": "Ever story very charge on. Hand if would form law whether.\nAnd interest onto get daughter. National direction remember discover today be."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
