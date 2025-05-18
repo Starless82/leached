@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Obrien",
+    "age": 103,
+    "address": {
+        "street": "West Plain",
+        "city": "Cindyfort",
+        "state": "Maryland",
+        "zip": "78669"
+    },
+    "contact": {
+        "phone": "918-362-1652",
+        "servicePhone": "800402417"
+    },
+    "birthday": "1922-21-05",
+    "ip": "157.77.133.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Deal social Republican magazine test million. This read everybody catch heart culture purpose.\nHow I however entire. Employee color main region enter above draw. Voice mention clear air.",
+        "bio": "Grow song can kind run anything church. Feeling program article race move television personal. Health difference special. Game first seven where American parent."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
