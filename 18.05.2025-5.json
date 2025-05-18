@@ -1,0 +1,25 @@
+{
+    "name": "Chad Daniels",
+    "age": 10,
+    "address": {
+        "street": "Henderson Tunnel",
+        "city": "South Benjamin",
+        "state": "New Mexico",
+        "zip": "25073"
+    },
+    "contact": {
+        "phone": "+1-685-973-2146",
+        "servicePhone": "800602767"
+    },
+    "birthday": "2015-10-05",
+    "ip": "139.137.115.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Hour exactly worker instead son perhaps bank few. Develop TV wish imagine be.\nTrouble center fast common. Act control sometimes artist measure kind support.",
+        "bio": "Nice democratic rest shoulder maybe boy. Wait least including already level know task. No small true.\nOne administration him amount. Rate through something future."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
