@@ -1,0 +1,25 @@
+{
+    "name": "John Eaton",
+    "age": 71,
+    "address": {
+        "street": "Reid Valleys",
+        "city": "Tylerview",
+        "state": "Connecticut",
+        "zip": "08467"
+    },
+    "contact": {
+        "phone": "001-904-767-0913x223",
+        "servicePhone": "800170268"
+    },
+    "birthday": "1954-22-03",
+    "ip": "95.154.107.240",
+    "foo": "bar",
+    "profile": {
+        "about": "They year change under than blood. Law beautiful teach produce. Some new Republican better speech social.\nMedia century very act. Long resource nature explain like protect find.",
+        "bio": "Dinner investment young card back. Piece option key. Learn federal air lead nor.\nMedia right son game.\nNeed sell her might card oil realize."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
