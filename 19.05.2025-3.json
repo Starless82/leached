@@ -1,0 +1,25 @@
+{
+    "name": "Vincent Taylor",
+    "age": 92,
+    "address": {
+        "street": "Stacy Brooks",
+        "city": "Michaelchester",
+        "state": "Wisconsin",
+        "zip": "46794"
+    },
+    "contact": {
+        "phone": "569.745.8089",
+        "servicePhone": "800269736"
+    },
+    "birthday": "1933-19-09",
+    "ip": "119.46.0.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Put product early reveal. Win already white heart media eat. Order argue according. Good throughout authority remain stock ten president.",
+        "bio": "Teach be improve star quality clear. State long their international common more his student. Leader difficult push learn speak low seek.\nAlone information actually past late."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
