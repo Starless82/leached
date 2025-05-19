@@ -1,0 +1,25 @@
+{
+    "name": "Cathy Parker",
+    "age": 78,
+    "address": {
+        "street": "James Cape",
+        "city": "Tammyfurt",
+        "state": "Rhode Island",
+        "zip": "62933"
+    },
+    "contact": {
+        "phone": "001-277-231-2603x228",
+        "servicePhone": "800271923"
+    },
+    "birthday": "1947-15-12",
+    "ip": "125.119.243.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Of grow open common her. Machine point use. Reason answer police special approach hundred.",
+        "bio": "Air speech sea worry itself both task. Ready home pull become show. Admit no skin plan."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
