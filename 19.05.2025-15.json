@@ -1,0 +1,25 @@
+{
+    "name": "Steven Lopez",
+    "age": 24,
+    "address": {
+        "street": "Lisa Trace",
+        "city": "Johnsonshire",
+        "state": "Wyoming",
+        "zip": "29060"
+    },
+    "contact": {
+        "phone": "691.889.4543",
+        "servicePhone": "800118173"
+    },
+    "birthday": "2001-08-01",
+    "ip": "55.2.97.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Smile respond development think probably mission family. Look office pay theory concern expect body. Age cost eight.\nMedia color either back issue. Real wall significant dark.",
+        "bio": "Property star rate theory leg particularly. Single specific involve trade memory.\nRepublican realize energy theory stand traditional. Drop career accept space."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
