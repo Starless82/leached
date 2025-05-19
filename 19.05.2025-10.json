@@ -1,0 +1,25 @@
+{
+    "name": "Jeffery Jones",
+    "age": 85,
+    "address": {
+        "street": "Raymond Garden",
+        "city": "Schmidtview",
+        "state": "Georgia",
+        "zip": "86384"
+    },
+    "contact": {
+        "phone": "714.961.2823",
+        "servicePhone": "800769219"
+    },
+    "birthday": "1940-07-12",
+    "ip": "169.134.84.182",
+    "foo": "bar",
+    "profile": {
+        "about": "How early center analysis dark. Analysis student policy.",
+        "bio": "Among land world how treatment beat final rather. Thank big level can everyone training him scientist. Do focus few involve."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
