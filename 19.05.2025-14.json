@@ -1,0 +1,25 @@
+{
+    "name": "Jeffery Mitchell",
+    "age": 1,
+    "address": {
+        "street": "Carpenter Ville",
+        "city": "Lake Rodneyshire",
+        "state": "Arkansas",
+        "zip": "86778"
+    },
+    "contact": {
+        "phone": "001-418-221-2488",
+        "servicePhone": "800603597"
+    },
+    "birthday": "2024-27-12",
+    "ip": "213.125.235.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Mission hair right. Truth no heart theory population so. International number body public.\nHe well once section but political.",
+        "bio": "Mention hot national pressure deal thing. Who group see member speak institution far boy. Although mention central wife law sell where care. Fly look you statement boy ever bed."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
