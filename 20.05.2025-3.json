@@ -1,0 +1,25 @@
+{
+    "name": "Tyler Mcbride",
+    "age": 62,
+    "address": {
+        "street": "Gray Crossing",
+        "city": "Ryanton",
+        "state": "New York",
+        "zip": "66027"
+    },
+    "contact": {
+        "phone": "506.896.0207",
+        "servicePhone": "800250371"
+    },
+    "birthday": "1963-28-12",
+    "ip": "223.183.70.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Technology style trial family. Discussion eye try debate but.\nInstitution police every ten. Laugh design head. Her mention audience focus.",
+        "bio": "Bit imagine both. Blood consider field weight buy.\nFront century cause American act collection cut tough. Read series pattern south card family."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
