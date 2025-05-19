@@ -1,0 +1,25 @@
+{
+    "name": "Jody Mcclure",
+    "age": 92,
+    "address": {
+        "street": "Cassandra Brook",
+        "city": "South Joshuaville",
+        "state": "Nebraska",
+        "zip": "73758"
+    },
+    "contact": {
+        "phone": "671.647.0517x563",
+        "servicePhone": "800423197"
+    },
+    "birthday": "1933-07-09",
+    "ip": "205.243.89.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Involve what now itself page. See speak get beautiful. Seat yeah PM example.\nReal road instead see future enjoy PM else. Realize quality hand network concern note.",
+        "bio": "About back campaign data whom. Bad traditional administration general much others. Support detail bill understand much page information. Two agree worker eye hair her."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
