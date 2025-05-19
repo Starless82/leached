@@ -1,0 +1,25 @@
+{
+    "name": "William Levy",
+    "age": 1,
+    "address": {
+        "street": "Clark Springs",
+        "city": "Austinshire",
+        "state": "Kansas",
+        "zip": "25990"
+    },
+    "contact": {
+        "phone": "904-573-2497x289",
+        "servicePhone": "800782710"
+    },
+    "birthday": "2024-03-09",
+    "ip": "209.216.168.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Week reality teach chance TV he drug. Chair ago eat message. Statement stuff nation eight create part popular right. Church think management bed key follow.",
+        "bio": "Fill voice experience them cultural loss these. Above trial avoid author.\nSerious business finally use democratic drive with. Rather despite real and Mrs rule."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
