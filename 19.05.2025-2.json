@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Ramirez",
+    "age": 107,
+    "address": {
+        "street": "Chad Estates",
+        "city": "Lake Catherineshire",
+        "state": "Nebraska",
+        "zip": "77277"
+    },
+    "contact": {
+        "phone": "2155189102",
+        "servicePhone": "800628276"
+    },
+    "birthday": "1918-27-11",
+    "ip": "122.129.227.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Poor democratic have citizen develop. Note unit drive particular look. Nothing various animal appear your operation affect.\nClaim agreement become film. Government top among drop front summer movie.",
+        "bio": "Toward so future difficult analysis. Hospital writer fight heavy protect organization also fine. Though magazine each vote structure region. System kid husband."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
