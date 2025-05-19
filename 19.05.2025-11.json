@@ -1,0 +1,25 @@
+{
+    "name": "Norman Butler",
+    "age": 26,
+    "address": {
+        "street": "Harper Underpass",
+        "city": "South Patriciastad",
+        "state": "New Jersey",
+        "zip": "56010"
+    },
+    "contact": {
+        "phone": "7716655457",
+        "servicePhone": "800008777"
+    },
+    "birthday": "1999-27-01",
+    "ip": "25.245.247.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Mrs career interview way administration deal. Shoulder democratic of administration somebody radio. Close account fund since meet.",
+        "bio": "Trial field hope world purpose seek almost. Tree assume hundred catch toward letter brother. Small American agreement book. Poor east specific same world explain entire hotel.\nGun fine public."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
