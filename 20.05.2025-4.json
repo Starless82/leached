@@ -1,0 +1,25 @@
+{
+    "name": "John Reed",
+    "age": 101,
+    "address": {
+        "street": "Jonathan Pass",
+        "city": "Port Alexandershire",
+        "state": "Maryland",
+        "zip": "26313"
+    },
+    "contact": {
+        "phone": "001-943-330-0485x934",
+        "servicePhone": "800027583"
+    },
+    "birthday": "1924-17-06",
+    "ip": "13.6.81.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Word will hard. Six assume must idea determine policy west. Behind ever feel.\nPhysical opportunity tell reason far himself. Purpose when end edge standard court.",
+        "bio": "Try side civil receive ahead new big hot. Line number sing second window front present.\nConsumer kid one particular. Off three test community scientist. Else fund single air book why push."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
