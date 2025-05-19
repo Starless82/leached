@@ -1,0 +1,25 @@
+{
+    "name": "Susan Hanson",
+    "age": 52,
+    "address": {
+        "street": "Hernandez Views",
+        "city": "New Wesleyfort",
+        "state": "Illinois",
+        "zip": "09464"
+    },
+    "contact": {
+        "phone": "001-588-705-8131x367",
+        "servicePhone": "800185337"
+    },
+    "birthday": "1973-13-12",
+    "ip": "108.250.177.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Include accept maintain. Understand edge try them hotel first employee. Put remember concern measure.\nFact wind not loss skin surface wonder. Decide civil usually often believe president project.",
+        "bio": "Else morning industry nothing could home since. Option any hand first radio cut we. Family candidate group wish green at central."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
