@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Gonzalez",
+    "age": 38,
+    "address": {
+        "street": "Anderson Pine",
+        "city": "Annaville",
+        "state": "Kentucky",
+        "zip": "11874"
+    },
+    "contact": {
+        "phone": "+1-707-541-6463x9566",
+        "servicePhone": "800654516"
+    },
+    "birthday": "1987-09-10",
+    "ip": "31.20.235.15",
+    "foo": "bar",
+    "profile": {
+        "about": "For move need compare partner huge resource. Responsibility buy necessary test reach risk.\nTrouble instead too. Memory sing simple TV peace.",
+        "bio": "Two herself reach much. Music statement huge floor garden. Middle these difficult use matter.\nEach get or key. Possible clearly provide. Enough maybe exactly stay picture important."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
