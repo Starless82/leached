@@ -1,0 +1,25 @@
+{
+    "name": "Amy Phelps",
+    "age": 62,
+    "address": {
+        "street": "Bonnie Branch",
+        "city": "South Juliebury",
+        "state": "Washington",
+        "zip": "30245"
+    },
+    "contact": {
+        "phone": "330-971-7607",
+        "servicePhone": "800608330"
+    },
+    "birthday": "1963-15-10",
+    "ip": "203.81.211.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Huge stay base suddenly whether.\nGreat bed work performance already. Old foot town all another really. Account list authority speech win not four life.",
+        "bio": "Suddenly buy indeed next night identify. Poor example occur other represent future.\nLanguage recent this sing after kind. Main represent everything. Society various evening affect guess."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
