@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Hughes",
+    "age": 47,
+    "address": {
+        "street": "Fischer Islands",
+        "city": "North Christian",
+        "state": "Wyoming",
+        "zip": "23073"
+    },
+    "contact": {
+        "phone": "(217)730-7774x05040",
+        "servicePhone": "800653540"
+    },
+    "birthday": "1978-05-01",
+    "ip": "223.31.79.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Speech same in over and whom often. Those medical war executive skill.\nTreatment anything low. Enter deal participant ball themselves maintain make.",
+        "bio": "Ability sound safe month. Body too toward four interesting camera defense amount.\nResource leg positive amount popular executive his."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
