@@ -1,0 +1,25 @@
+{
+    "name": "Richard Fuller",
+    "age": 67,
+    "address": {
+        "street": "Kyle Brooks",
+        "city": "North Matthew",
+        "state": "Missouri",
+        "zip": "57423"
+    },
+    "contact": {
+        "phone": "(355)285-2101",
+        "servicePhone": "800980475"
+    },
+    "birthday": "1958-04-05",
+    "ip": "38.7.207.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Yes customer force notice administration maybe. List tree hard chair indeed. Focus few school east ground lot source well.",
+        "bio": "Drop others chance big order. Law science stay politics if growth. Teacher score once hundred network heart voice lot. South various expert wife somebody site ever south."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
