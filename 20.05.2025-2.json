@@ -1,0 +1,25 @@
+{
+    "name": "Steven Jackson",
+    "age": 21,
+    "address": {
+        "street": "Alvarez Unions",
+        "city": "New Sarahshire",
+        "state": "Arizona",
+        "zip": "94756"
+    },
+    "contact": {
+        "phone": "307-424-5850x940",
+        "servicePhone": "800520093"
+    },
+    "birthday": "2004-06-10",
+    "ip": "151.241.126.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Take section property daughter either knowledge happen. Method community expert ten two six couple. Ball cut well now tend fall close.",
+        "bio": "Today long gas carry use hair.\nLose good himself pay. Cell event market star medical."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
