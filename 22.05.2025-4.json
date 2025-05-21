@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Richards",
+    "age": 44,
+    "address": {
+        "street": "Lewis Mall",
+        "city": "Meganmouth",
+        "state": "Mississippi",
+        "zip": "12421"
+    },
+    "contact": {
+        "phone": "(907)974-7073",
+        "servicePhone": "800509041"
+    },
+    "birthday": "1981-09-05",
+    "ip": "42.75.181.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Position article week figure international. Better arm someone news. Southern similar read decision near.",
+        "bio": "Very perform western specific south near western. During first work dog.\nAllow evidence less book suggest produce. Night language some us right break. Break interesting you apply pattern bit send."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
