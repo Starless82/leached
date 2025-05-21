@@ -1,0 +1,25 @@
+{
+    "name": "Shelley Smith",
+    "age": 60,
+    "address": {
+        "street": "Nguyen Ways",
+        "city": "Toddfort",
+        "state": "Kentucky",
+        "zip": "27773"
+    },
+    "contact": {
+        "phone": "847-890-0848x949",
+        "servicePhone": "800898845"
+    },
+    "birthday": "1965-07-10",
+    "ip": "16.192.168.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Measure story tonight remain ability. Look would short hand. Big method drug.\nForget interview standard family. Spend work thousand stand. Public drug me social around build.",
+        "bio": "Ten address attorney work break usually. Type remember could picture nearly how red. Culture when week standard manage community."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
