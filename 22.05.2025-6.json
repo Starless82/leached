@@ -1,0 +1,25 @@
+{
+    "name": "Judith Davis",
+    "age": 95,
+    "address": {
+        "street": "Sanchez Green",
+        "city": "East Stephen",
+        "state": "Vermont",
+        "zip": "05332"
+    },
+    "contact": {
+        "phone": "2685814985",
+        "servicePhone": "800817823"
+    },
+    "birthday": "1930-27-08",
+    "ip": "45.79.98.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Edge produce hold effort.\nWrong west game leader view treat. With near friend PM election region sure.\nIndicate around drop once skill break make. For customer dog send buy player management.",
+        "bio": "Near reach this risk just gun. Development ok box drug. Raise across possible address conference. Civil force her important."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
