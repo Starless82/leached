@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Ruiz",
+    "age": 20,
+    "address": {
+        "street": "Andrea Loop",
+        "city": "Williamton",
+        "state": "North Dakota",
+        "zip": "30807"
+    },
+    "contact": {
+        "phone": "5726016599",
+        "servicePhone": "800466595"
+    },
+    "birthday": "2005-06-08",
+    "ip": "160.84.67.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Land figure myself attack skin rule. Year notice hour child. Grow generation bit know Congress point national.",
+        "bio": "Plan wall board environmental customer part media himself. Crime value a.\nShoulder into within from stop door message. Surface else laugh school win listen bar."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
