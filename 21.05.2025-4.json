@@ -1,0 +1,25 @@
+{
+    "name": "Donald Barnett",
+    "age": 48,
+    "address": {
+        "street": "Smith Well",
+        "city": "Jessicastad",
+        "state": "Connecticut",
+        "zip": "76246"
+    },
+    "contact": {
+        "phone": "713.555.3618x17355",
+        "servicePhone": "800665598"
+    },
+    "birthday": "1977-25-11",
+    "ip": "85.157.50.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Increase magazine part power. Character statement remember. Speak network price perform meet herself let become.\nStill off institution authority Mrs present.",
+        "bio": "Set watch through value however how. Policy quickly my enjoy. Rate service politics.\nOut yard get ball true drop. Painting degree father cause candidate standard professional."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
