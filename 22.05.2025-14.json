@@ -1,0 +1,25 @@
+{
+    "name": "Scott Ramos",
+    "age": 14,
+    "address": {
+        "street": "Kristina Hollow",
+        "city": "North Jillian",
+        "state": "Idaho",
+        "zip": "52699"
+    },
+    "contact": {
+        "phone": "+1-323-275-5758",
+        "servicePhone": "800192688"
+    },
+    "birthday": "2011-15-11",
+    "ip": "94.33.47.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Democrat this should increase anyone paper mind. First child present.\nRelate market different player nor could. Where fund against firm need information. Democratic manager every.",
+        "bio": "Former general road director type. Later guess through century trade concern leg.\nTonight not bill computer see series teach. Arrive environmental eight thus.\nIndustry often wear happen."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
