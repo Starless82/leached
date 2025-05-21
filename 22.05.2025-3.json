@@ -1,0 +1,25 @@
+{
+    "name": "Jose Wheeler",
+    "age": 68,
+    "address": {
+        "street": "Terri Heights",
+        "city": "Kyleville",
+        "state": "Minnesota",
+        "zip": "25756"
+    },
+    "contact": {
+        "phone": "4662395337",
+        "servicePhone": "800156132"
+    },
+    "birthday": "1957-09-09",
+    "ip": "9.86.34.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Gas without seem process science. Practice these during animal maintain thank them.",
+        "bio": "Set especially board away probably major eat. Recognize itself hand decision half."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
