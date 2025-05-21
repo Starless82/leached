@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Peterson",
+    "age": 7,
+    "address": {
+        "street": "Erik Cliffs",
+        "city": "Sarahport",
+        "state": "Ohio",
+        "zip": "82973"
+    },
+    "contact": {
+        "phone": "(735)531-7206x3017",
+        "servicePhone": "800018377"
+    },
+    "birthday": "2018-08-01",
+    "ip": "180.122.254.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Whom thus gas. Staff ask enjoy music test. Identify same majority day garden despite speak.\nDevelopment summer present real resource our way. Worry tax resource section particularly.",
+        "bio": "Spring various structure score sound. Main cup various enough them play choose still."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
