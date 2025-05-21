@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Shaw",
+    "age": 33,
+    "address": {
+        "street": "Lindsey Row",
+        "city": "Phillipsfurt",
+        "state": "Pennsylvania",
+        "zip": "66420"
+    },
+    "contact": {
+        "phone": "(303)877-7076",
+        "servicePhone": "800245405"
+    },
+    "birthday": "1992-07-11",
+    "ip": "110.240.23.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Reach quickly hand hot build we. Understand sing not month concern dinner collection.",
+        "bio": "Light matter walk take bag election. Ask also compare. Billion movie interesting mention result in miss.\nOnce policy resource fight believe executive sit.\nHear upon inside seven."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
