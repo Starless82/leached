@@ -1,0 +1,25 @@
+{
+    "name": "Rhonda Moreno",
+    "age": 103,
+    "address": {
+        "street": "Charles Heights",
+        "city": "Bauerton",
+        "state": "Washington",
+        "zip": "32303"
+    },
+    "contact": {
+        "phone": "406.432.7629",
+        "servicePhone": "800047481"
+    },
+    "birthday": "1922-31-03",
+    "ip": "124.127.109.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Per brother color. Around almost data. Recent voice fill baby specific.",
+        "bio": "Political my concern writer she responsibility collection. Stand product indeed activity cut heavy nice. Exactly understand treatment smile politics."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
