@@ -1,0 +1,25 @@
+{
+    "name": "David Johnson",
+    "age": 20,
+    "address": {
+        "street": "Alyssa Underpass",
+        "city": "East Misty",
+        "state": "Utah",
+        "zip": "56688"
+    },
+    "contact": {
+        "phone": "001-675-647-1835",
+        "servicePhone": "800947640"
+    },
+    "birthday": "2005-24-04",
+    "ip": "61.2.168.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Important four thus pretty voice. Trial grow woman.\nWar another civil television. Reality put grow would.",
+        "bio": "Oil operation pass.\nWhom despite culture class. Feel nice field. Resource religious plant door side different food.\nElse trip morning whatever land group I."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
