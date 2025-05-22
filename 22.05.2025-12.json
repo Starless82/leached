@@ -1,0 +1,25 @@
+{
+    "name": "Sara Gaines MD",
+    "age": 59,
+    "address": {
+        "street": "Anthony Ways",
+        "city": "Kylefurt",
+        "state": "Iowa",
+        "zip": "39118"
+    },
+    "contact": {
+        "phone": "(639)777-0532x671",
+        "servicePhone": "800790155"
+    },
+    "birthday": "1966-13-03",
+    "ip": "63.36.108.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Phone blood economy somebody paper wonder technology. Every magazine among defense sport sell sister.\nHot spring seem land could room. Strategy often thus Mr key along.",
+        "bio": "Ready as number various money. Home record responsibility. Tree the decision model doctor moment.\nKeep name despite later few. Human along particularly admit final."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
