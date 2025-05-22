@@ -1,0 +1,25 @@
+{
+    "name": "Christina Lewis",
+    "age": 33,
+    "address": {
+        "street": "Morales Cape",
+        "city": "Tonyport",
+        "state": "Kansas",
+        "zip": "65026"
+    },
+    "contact": {
+        "phone": "(364)203-7306x99367",
+        "servicePhone": "800010629"
+    },
+    "birthday": "1992-03-02",
+    "ip": "156.178.170.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Fire paper because certainly analysis. Education sure simple soldier or.\nEntire put good that. Institution usually will several account. Scene growth meet month player top start.",
+        "bio": "Today sure sit return season person.\nSeem budget city receive everything account. Much public option continue consider however whether."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
