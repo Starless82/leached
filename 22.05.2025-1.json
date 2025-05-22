@@ -1,0 +1,25 @@
+{
+    "name": "Edward Weeks",
+    "age": 62,
+    "address": {
+        "street": "Anna Flat",
+        "city": "West Adamtown",
+        "state": "Connecticut",
+        "zip": "24374"
+    },
+    "contact": {
+        "phone": "(889)346-8006",
+        "servicePhone": "800256577"
+    },
+    "birthday": "1963-05-07",
+    "ip": "124.118.151.20",
+    "foo": "bar",
+    "profile": {
+        "about": "People relate the stay per. Bring federal others by. Career north arm character clear step kitchen.",
+        "bio": "Like professional institution others almost. Above charge look teacher agency become sea.\nPull production word mission actually. Morning suggest but soon meet high condition."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
