@@ -1,0 +1,25 @@
+{
+    "name": "Breanna Lane",
+    "age": 52,
+    "address": {
+        "street": "Holmes Route",
+        "city": "East Eduardoshire",
+        "state": "Mississippi",
+        "zip": "38991"
+    },
+    "contact": {
+        "phone": "518.346.8183x731",
+        "servicePhone": "800849034"
+    },
+    "birthday": "1973-03-09",
+    "ip": "180.135.119.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Almost environment available body onto. Television something buy across matter ability rule meet. Term strong response tax catch stock.",
+        "bio": "Send voice grow area less dream role. Family nice middle shoulder pay manager.\nDespite employee fear exist specific eye. Rock increase food total."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
