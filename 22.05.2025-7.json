@@ -1,0 +1,25 @@
+{
+    "name": "Michele Hill",
+    "age": 88,
+    "address": {
+        "street": "Hays Island",
+        "city": "Lawsontown",
+        "state": "Iowa",
+        "zip": "21372"
+    },
+    "contact": {
+        "phone": "+1-667-496-1364",
+        "servicePhone": "800454592"
+    },
+    "birthday": "1937-18-02",
+    "ip": "50.254.236.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Through number gas lot paper avoid. Mouth she cold today. Money spend at draw artist hand anything.\nJust new of drug attack personal need. Current field growth. Which address our hundred.",
+        "bio": "Purpose system speech deal travel. Woman bar stand determine way break performance. Or grow eight police education.\nMorning remember pick return. Wrong despite leave audience."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
