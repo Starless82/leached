@@ -1,0 +1,25 @@
+{
+    "name": "April Benton",
+    "age": 65,
+    "address": {
+        "street": "Kristine Club",
+        "city": "Carrollshire",
+        "state": "Indiana",
+        "zip": "94949"
+    },
+    "contact": {
+        "phone": "734.363.2123",
+        "servicePhone": "800737871"
+    },
+    "birthday": "1960-08-03",
+    "ip": "220.12.213.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Cold treat major commercial. Someone series reflect. House occur form reduce.\nLast dream water. Well anyone necessary course her nor.",
+        "bio": "Develop writer office enjoy. Stock enough still idea foreign half.\nPurpose record election experience maintain. Nice win find."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
