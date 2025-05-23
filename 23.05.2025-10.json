@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Pierce",
+    "age": 26,
+    "address": {
+        "street": "Michael Village",
+        "city": "Shepherdtown",
+        "state": "California",
+        "zip": "03826"
+    },
+    "contact": {
+        "phone": "4067556728",
+        "servicePhone": "800586583"
+    },
+    "birthday": "1999-13-06",
+    "ip": "199.212.66.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Discover physical practice wide rate she team. Cover choice star place guy. Than fear inside or police what.\nAccept owner coach at animal course. Take yourself product.",
+        "bio": "Fast agree left maybe begin speech this traditional. Game especially main nearly. Author night strategy low include.\nTerm exactly true. Season everybody cultural activity. Often social agent serve."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
