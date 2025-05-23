@@ -1,0 +1,25 @@
+{
+    "name": "Margaret Berg",
+    "age": 105,
+    "address": {
+        "street": "Jason Burg",
+        "city": "New Kara",
+        "state": "Wisconsin",
+        "zip": "53305"
+    },
+    "contact": {
+        "phone": "+1-949-980-9369x3815",
+        "servicePhone": "800924381"
+    },
+    "birthday": "1920-16-07",
+    "ip": "87.142.138.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Face sport then minute enjoy citizen consumer. Section today have continue. Either note Mrs heavy of activity budget hour.\nAccording television these act. Participant enter he range play.",
+        "bio": "Situation other get generation for network. Draw easy music head.\nNews sense worker. Quite need customer our wide bill. Real likely also direction military south."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
