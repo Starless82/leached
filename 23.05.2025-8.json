@@ -1,0 +1,25 @@
+{
+    "name": "Craig Jones",
+    "age": 55,
+    "address": {
+        "street": "Jones Hills",
+        "city": "North Brittany",
+        "state": "New Jersey",
+        "zip": "34028"
+    },
+    "contact": {
+        "phone": "978-575-5835x88237",
+        "servicePhone": "800158734"
+    },
+    "birthday": "1970-19-11",
+    "ip": "212.66.43.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Somebody art teacher interest. Pick course lawyer decision thus friend. Material road administration sure. Notice heart discover medical of.\nRun international table meeting arrive.",
+        "bio": "Meeting perform all media. Over author none theory hope book quickly word. Argue crime return sign hard.\nTake energy specific yeah. Image father speech son. Concern line civil total offer."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
