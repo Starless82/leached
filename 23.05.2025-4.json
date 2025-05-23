@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Odonnell",
+    "age": 29,
+    "address": {
+        "street": "Ronald Estates",
+        "city": "East John",
+        "state": "New Jersey",
+        "zip": "11178"
+    },
+    "contact": {
+        "phone": "001-947-280-3202",
+        "servicePhone": "800065550"
+    },
+    "birthday": "1996-15-06",
+    "ip": "116.85.144.9",
+    "foo": "bar",
+    "profile": {
+        "about": "The where man arrive. New movie image. Military report thus art feel sound begin. Throughout man especially public trial.",
+        "bio": "Large director piece cost technology where quality focus. National management base computer.\nValue late moment."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
