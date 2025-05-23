@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Brown",
+    "age": 55,
+    "address": {
+        "street": "Thomas Fork",
+        "city": "West Jordan",
+        "state": "Delaware",
+        "zip": "06921"
+    },
+    "contact": {
+        "phone": "(986)246-6577x45893",
+        "servicePhone": "800822647"
+    },
+    "birthday": "1970-21-01",
+    "ip": "192.38.117.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Only really brother past wear if.\nElse as computer begin customer former anything. Clear perhaps wish still smile out.",
+        "bio": "Base something inside address open. Market for its marriage area line. Instead player should most itself hope color."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
