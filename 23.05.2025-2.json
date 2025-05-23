@@ -1,0 +1,25 @@
+{
+    "name": "David Welch",
+    "age": 107,
+    "address": {
+        "street": "Gonzalez Causeway",
+        "city": "West Douglasberg",
+        "state": "Montana",
+        "zip": "95382"
+    },
+    "contact": {
+        "phone": "818.440.9298x7207",
+        "servicePhone": "800826380"
+    },
+    "birthday": "1918-23-12",
+    "ip": "220.123.239.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Look and ground either skin. Note current very a.\nForget figure source animal. Lot development require attack stand fish health exactly. Evening join building candidate structure author.",
+        "bio": "Responsibility agree part drug. Point history fly throughout worker look. Go focus heart care police pretty.\nSon themselves item mention."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
