@@ -1,0 +1,25 @@
+{
+    "name": "Allen Shah DDS",
+    "age": 49,
+    "address": {
+        "street": "Hicks Branch",
+        "city": "New Rebecca",
+        "state": "Oklahoma",
+        "zip": "75005"
+    },
+    "contact": {
+        "phone": "+1-873-794-4997x93923",
+        "servicePhone": "800327759"
+    },
+    "birthday": "1976-03-09",
+    "ip": "16.7.218.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Anything establish understand drop plant factor choice. Order century fear force reflect draw water.\nEarly western cup miss begin. Career which democratic other social onto.",
+        "bio": "Audience under order task who green. Want factor show receive finish. Lot evidence available tree of."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
