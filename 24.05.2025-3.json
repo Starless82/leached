@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Huang",
+    "age": 28,
+    "address": {
+        "street": "Kimberly Field",
+        "city": "Brianberg",
+        "state": "Minnesota",
+        "zip": "93138"
+    },
+    "contact": {
+        "phone": "+1-828-487-5369",
+        "servicePhone": "800820931"
+    },
+    "birthday": "1997-19-07",
+    "ip": "180.104.239.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Responsibility bed enjoy time tend.\nPersonal history seat economy throw international. Support professor set oil husband support.",
+        "bio": "Blue technology discuss every street left best. Available hair meet dinner population indeed."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
