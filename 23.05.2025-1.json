@@ -1,0 +1,25 @@
+{
+    "name": "Andre Thornton",
+    "age": 58,
+    "address": {
+        "street": "Cindy Common",
+        "city": "North Carlos",
+        "state": "Connecticut",
+        "zip": "73383"
+    },
+    "contact": {
+        "phone": "441-456-7417x42851",
+        "servicePhone": "800523991"
+    },
+    "birthday": "1967-15-05",
+    "ip": "22.138.11.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Space history third stock training. Word maybe son agency.\nFall pull part whatever care feel wonder send. Team staff class knowledge. For trial become available hit piece old Congress.",
+        "bio": "Rest chance upon situation benefit state ready during.\nOrganization hot fire guy future action easy."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
