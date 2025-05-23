@@ -1,0 +1,25 @@
+{
+    "name": "David Lane",
+    "age": 67,
+    "address": {
+        "street": "Kirby Courts",
+        "city": "Joshuafurt",
+        "state": "Maryland",
+        "zip": "51781"
+    },
+    "contact": {
+        "phone": "+1-743-632-8052",
+        "servicePhone": "800617901"
+    },
+    "birthday": "1958-05-05",
+    "ip": "150.32.240.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Spring human draw. Firm analysis star look.\nMajor him mean everyone action.",
+        "bio": "Chair call main late. Give happen beyond minute quickly. Condition deep series agency when."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
