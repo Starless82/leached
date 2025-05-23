@@ -1,0 +1,25 @@
+{
+    "name": "Mason Williams",
+    "age": 114,
+    "address": {
+        "street": "Samuel Mount",
+        "city": "Wagnershire",
+        "state": "Michigan",
+        "zip": "35395"
+    },
+    "contact": {
+        "phone": "+1-747-802-5067x1654",
+        "servicePhone": "800757159"
+    },
+    "birthday": "1911-01-01",
+    "ip": "75.110.202.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Oil cold range various writer. Building team light weight believe perform account standard.\nNot again kid. Pattern subject ten pick issue. Discuss pressure thing for opportunity toward fear.",
+        "bio": "Measure wait respond whole story. Rest east produce suddenly line. Theory time themselves."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
