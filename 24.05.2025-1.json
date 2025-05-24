@@ -1,0 +1,25 @@
+{
+    "name": "Gary Harris",
+    "age": 81,
+    "address": {
+        "street": "Valerie Tunnel",
+        "city": "Amberville",
+        "state": "Kentucky",
+        "zip": "67769"
+    },
+    "contact": {
+        "phone": "001-649-884-3951",
+        "servicePhone": "800834600"
+    },
+    "birthday": "1944-05-11",
+    "ip": "80.254.228.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Key study administration generation job everything.\nDoctor quickly see structure fill fact. Move ability event determine truth game like.",
+        "bio": "Space face degree feel inside job. Major wrong edge consider court hand program firm."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
