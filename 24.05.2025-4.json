@@ -1,0 +1,25 @@
+{
+    "name": "Sherry Jackson",
+    "age": 24,
+    "address": {
+        "street": "Black Junction",
+        "city": "Kimchester",
+        "state": "Washington",
+        "zip": "94219"
+    },
+    "contact": {
+        "phone": "001-364-973-6227x582",
+        "servicePhone": "800314018"
+    },
+    "birthday": "2001-29-04",
+    "ip": "131.2.27.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Anyone wish official a world stuff be. Be husband yard rock high we race.\nPass major financial drive. Truth newspaper market work inside reflect. Agreement tell citizen government ask than news.",
+        "bio": "Position ready past issue international week. Democratic send pretty real beautiful at. Hard magazine travel my station."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
