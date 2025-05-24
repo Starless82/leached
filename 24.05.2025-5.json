@@ -1,0 +1,25 @@
+{
+    "name": "Renee Campbell",
+    "age": 19,
+    "address": {
+        "street": "Gray Corners",
+        "city": "Burnettburgh",
+        "state": "Nevada",
+        "zip": "85245"
+    },
+    "contact": {
+        "phone": "001-981-408-6707x76084",
+        "servicePhone": "800382107"
+    },
+    "birthday": "2006-12-09",
+    "ip": "67.89.146.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Cultural clear during maybe might. Our individual guess use whether put election.\nOver every federal read. Economy campaign yet civil. Staff eight population religious modern.",
+        "bio": "Listen direction window share. Organization find money admit head party.\nHappy follow quickly stay."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
