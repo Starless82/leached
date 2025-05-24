@@ -1,0 +1,25 @@
+{
+    "name": "Gerald Brown",
+    "age": 60,
+    "address": {
+        "street": "Haley Fork",
+        "city": "East Charles",
+        "state": "New Hampshire",
+        "zip": "60059"
+    },
+    "contact": {
+        "phone": "834-255-9970x0677",
+        "servicePhone": "800459270"
+    },
+    "birthday": "1965-25-08",
+    "ip": "47.239.143.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Test chance line stage. Should talk project. Though tree matter stage owner.",
+        "bio": "Give feeling become evening manage. Girl expect fight quickly example wear recently spring. Family order amount campaign imagine fine."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
