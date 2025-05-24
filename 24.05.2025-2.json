@@ -1,0 +1,25 @@
+{
+    "name": "James Bautista",
+    "age": 76,
+    "address": {
+        "street": "Nelson Tunnel",
+        "city": "Nelsonport",
+        "state": "Vermont",
+        "zip": "77167"
+    },
+    "contact": {
+        "phone": "636.974.0258x058",
+        "servicePhone": "800258654"
+    },
+    "birthday": "1949-16-10",
+    "ip": "220.133.176.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Environment charge rise her. Despite information season.\nMusic ground budget hit herself. Simply fine pattern wear radio.",
+        "bio": "Water produce hotel ahead approach even. Probably last form car eight six. It improve himself take floor. Summer wonder to question."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
