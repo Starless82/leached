@@ -1,0 +1,25 @@
+{
+    "name": "Eddie Ritter",
+    "age": 87,
+    "address": {
+        "street": "Christopher Shores",
+        "city": "Ryanchester",
+        "state": "Oklahoma",
+        "zip": "04814"
+    },
+    "contact": {
+        "phone": "202.848.9209x350",
+        "servicePhone": "800715192"
+    },
+    "birthday": "1938-12-12",
+    "ip": "107.37.206.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Fire consider simple watch arrive must suggest. During leader difficult.\nDetermine but indicate know move. Wish able bar.",
+        "bio": "Among model look amount man. Gun my art Republican follow treatment few hold.\nDinner other smile. Management offer feeling beautiful. Star Republican strategy easy maybe agree."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
