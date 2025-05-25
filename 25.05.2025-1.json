@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Johnson",
+    "age": 1,
+    "address": {
+        "street": "Smith Passage",
+        "city": "Michaelton",
+        "state": "Illinois",
+        "zip": "11555"
+    },
+    "contact": {
+        "phone": "(632)254-9108x6644",
+        "servicePhone": "800728513"
+    },
+    "birthday": "2024-27-03",
+    "ip": "57.141.210.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Pattern science ok film. Anyone eye statement lose across bank miss. Edge husband yeah support.",
+        "bio": "Quality worker high woman. Travel evidence manager painting entire game them company. Interview bank quickly time million able."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
