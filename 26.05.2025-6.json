@@ -1,0 +1,25 @@
+{
+    "name": "Justin May",
+    "age": 82,
+    "address": {
+        "street": "Olivia Orchard",
+        "city": "Port Laura",
+        "state": "Texas",
+        "zip": "76268"
+    },
+    "contact": {
+        "phone": "856-942-8367",
+        "servicePhone": "800355721"
+    },
+    "birthday": "1943-18-10",
+    "ip": "141.49.200.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Strategy finish great design with across morning establish. Plan evidence conference miss performance might themselves role. My right record smile however tree meeting.",
+        "bio": "Kind job call movie set create direction. Answer response issue floor assume reason theory. Station say price.\nThousand name effort through."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
