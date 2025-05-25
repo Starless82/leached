@@ -1,0 +1,25 @@
+{
+    "name": "Darrell Johnson",
+    "age": 8,
+    "address": {
+        "street": "Clayton Crest",
+        "city": "New Jonathonfort",
+        "state": "Delaware",
+        "zip": "85983"
+    },
+    "contact": {
+        "phone": "4092641745",
+        "servicePhone": "800674255"
+    },
+    "birthday": "2017-25-06",
+    "ip": "138.246.209.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Without stuff at market yard. Next government pull arrive never example reason leader.\nScore consider dark.",
+        "bio": "Rate bill successful recent call. Interest item just provide general. Now east themselves ago."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
