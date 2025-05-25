@@ -1,0 +1,25 @@
+{
+    "name": "Brian Sosa",
+    "age": 47,
+    "address": {
+        "street": "Donald View",
+        "city": "Christianchester",
+        "state": "Tennessee",
+        "zip": "77101"
+    },
+    "contact": {
+        "phone": "+1-805-684-7023x9565",
+        "servicePhone": "800907256"
+    },
+    "birthday": "1978-18-08",
+    "ip": "162.47.69.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Give way person move many act rich. Together walk adult concern table majority down. Over four during here. Event from black team friend.\nTerm scene once action. Almost system writer enough free.",
+        "bio": "Yourself gun where effect whatever. Fish task theory bill who. Professor today generation result stage close throw."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
