@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Frank Thompson",
+    "age": 84,
+    "address": {
+        "street": "Hernandez Lock",
+        "city": "Port Margaretview",
+        "state": "Georgia",
+        "zip": "65164"
+    },
+    "contact": {
+        "phone": "+1-291-520-2231x638",
+        "servicePhone": "800940688"
+    },
+    "birthday": "1941-21-09",
+    "ip": "222.217.114.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Bill seem choose deal. Certainly class soldier peace.\nSame involve method foot. Check foreign animal test western also.",
+        "bio": "Top hear their nation crime employee on. Both defense increase power current."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
