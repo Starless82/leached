@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Lucas",
+    "age": 49,
+    "address": {
+        "street": "Roberson Lodge",
+        "city": "Lake Katrina",
+        "state": "Georgia",
+        "zip": "72851"
+    },
+    "contact": {
+        "phone": "(451)804-7171",
+        "servicePhone": "800539088"
+    },
+    "birthday": "1976-04-09",
+    "ip": "184.0.251.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Product still month look. Company guess sense mother leader determine. Cause appear politics teacher memory involve professional. Give about lot manager.",
+        "bio": "Strategy audience probably laugh. Father practice spring evidence majority especially discussion.\nChange scene break surface explain community other TV. South Republican ever."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
