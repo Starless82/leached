@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Mcconnell",
+    "age": 62,
+    "address": {
+        "street": "Hunter Springs",
+        "city": "Thompsonside",
+        "state": "South Dakota",
+        "zip": "98182"
+    },
+    "contact": {
+        "phone": "(384)470-6886x66856",
+        "servicePhone": "800453447"
+    },
+    "birthday": "1963-30-08",
+    "ip": "52.116.158.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Billion present officer those seven who. Next several step detail.",
+        "bio": "Trouble resource later make produce how. Put according push form final. Yeah situation treat career.\nWithout product himself away expert talk. Dark bit pretty father make."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
