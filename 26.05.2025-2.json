@@ -1,0 +1,25 @@
+{
+    "name": "Joyce Young",
+    "age": 100,
+    "address": {
+        "street": "Haney Court",
+        "city": "North Stephenshire",
+        "state": "Mississippi",
+        "zip": "20294"
+    },
+    "contact": {
+        "phone": "7642663771",
+        "servicePhone": "800468335"
+    },
+    "birthday": "1925-14-09",
+    "ip": "216.22.77.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Kid catch determine reach. Thing significant friend.",
+        "bio": "Way area prepare race everybody radio. Wear president player population. White mouth former may world plan light challenge."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
