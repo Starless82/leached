@@ -1,0 +1,25 @@
+{
+    "name": "Heather Little",
+    "age": 49,
+    "address": {
+        "street": "Arthur Islands",
+        "city": "North Sarah",
+        "state": "New Hampshire",
+        "zip": "18085"
+    },
+    "contact": {
+        "phone": "886.421.3480x473",
+        "servicePhone": "800939597"
+    },
+    "birthday": "1976-24-02",
+    "ip": "140.20.148.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Finish others mind standard. Fact environment summer person.\nClose control same figure statement quite shoulder. Dream chair chair big.",
+        "bio": "Take enjoy identify strategy pick but. Front bill data young.\nWorker film he every friend since. Watch offer heavy step."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
