@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Burgess",
+    "age": 64,
+    "address": {
+        "street": "Lopez Land",
+        "city": "North Gary",
+        "state": "New Hampshire",
+        "zip": "01753"
+    },
+    "contact": {
+        "phone": "326.820.1872",
+        "servicePhone": "800533023"
+    },
+    "birthday": "1961-18-01",
+    "ip": "32.158.150.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Listen ability kind study add.\nRepresent could cut begin may baby. During bit season wait address.",
+        "bio": "Behind hospital their guess. Responsibility hand whatever that within walk. Ball until personal response.\nSome serious star girl Republican employee myself. Happy north seem board field."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
