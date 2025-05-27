@@ -1,0 +1,25 @@
+{
+    "name": "Deborah Ray",
+    "age": 6,
+    "address": {
+        "street": "Brown Tunnel",
+        "city": "Stephenfort",
+        "state": "Alaska",
+        "zip": "93852"
+    },
+    "contact": {
+        "phone": "747.776.5334x13576",
+        "servicePhone": "800101872"
+    },
+    "birthday": "2019-12-07",
+    "ip": "95.168.9.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Want tax war. Inside eye issue focus born whole each. Recently if design chair phone certain staff.",
+        "bio": "Theory yourself owner be enough student spend.\nSpecific born look true list thus. Pm space hospital about at station. Attorney office try situation."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
