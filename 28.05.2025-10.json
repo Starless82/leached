@@ -1,0 +1,25 @@
+{
+    "name": "Michael Wallace",
+    "age": 21,
+    "address": {
+        "street": "Brittany Light",
+        "city": "West Jeremy",
+        "state": "Arizona",
+        "zip": "59717"
+    },
+    "contact": {
+        "phone": "001-378-200-3415x364",
+        "servicePhone": "800029389"
+    },
+    "birthday": "2004-08-06",
+    "ip": "61.245.38.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Big available visit matter process night. Three author social chance alone traditional certainly. Class research true medical positive hair. Commercial law he.",
+        "bio": "Be fast drive walk. Nice save account simply activity thus.\nNearly lot exactly admit full traditional. West management yourself focus guess four."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
