@@ -1,0 +1,25 @@
+{
+    "name": "Walter Mccullough",
+    "age": 4,
+    "address": {
+        "street": "Ward Tunnel",
+        "city": "East David",
+        "state": "Missouri",
+        "zip": "13321"
+    },
+    "contact": {
+        "phone": "+1-489-697-0849",
+        "servicePhone": "800781869"
+    },
+    "birthday": "2021-19-04",
+    "ip": "24.220.137.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Specific reveal situation stage interesting. Per artist finally scientist hospital.\nName story leg too. Cost interesting across able list hotel.",
+        "bio": "Certain attack address anyone including.\nCapital rise weight far teach project animal. Magazine business attorney west. Police partner school could industry understand voice."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
