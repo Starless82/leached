@@ -1,0 +1,25 @@
+{
+    "name": "Amber Rowland",
+    "age": 61,
+    "address": {
+        "street": "Silva Junction",
+        "city": "Nicholasbury",
+        "state": "Utah",
+        "zip": "05365"
+    },
+    "contact": {
+        "phone": "528.622.0041",
+        "servicePhone": "800460086"
+    },
+    "birthday": "1964-05-07",
+    "ip": "145.32.77.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Magazine coach indeed cut war tell. Total language per listen modern stop point. Also capital what car choose.\nWithin because alone ask stage. Available view management. See allow discussion police.",
+        "bio": "Soon far eight her particular exactly. Provide goal stop. Training instead doctor rate painting which night."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
