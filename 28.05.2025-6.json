@@ -1,0 +1,25 @@
+{
+    "name": "David Gonzalez",
+    "age": 11,
+    "address": {
+        "street": "Vaughn Street",
+        "city": "New James",
+        "state": "Maryland",
+        "zip": "28849"
+    },
+    "contact": {
+        "phone": "001-798-533-6138",
+        "servicePhone": "800801579"
+    },
+    "birthday": "2014-22-10",
+    "ip": "152.8.128.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Imagine task allow close. Church particularly firm price above interesting difference. Relate two must she far.\nTonight line impact. Throughout size summer almost thank.",
+        "bio": "Director black today enter once. Later media would. Level with accept ground throw.\nStand often until enter. Reality collection bed home end."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
