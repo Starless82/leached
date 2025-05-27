@@ -1,0 +1,25 @@
+{
+    "name": "Manuel Perez",
+    "age": 23,
+    "address": {
+        "street": "Jonathan Passage",
+        "city": "Alexburgh",
+        "state": "Oregon",
+        "zip": "72179"
+    },
+    "contact": {
+        "phone": "001-247-850-1623x7628",
+        "servicePhone": "800316631"
+    },
+    "birthday": "2002-04-12",
+    "ip": "93.12.103.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Make successful provide tell when certain though. Face catch customer no surface suggest. Anyone doctor force pressure game few dark.",
+        "bio": "Culture social city no number. Mrs worry case risk enough story can. Speak generation friend his debate.\nMiss eye them number. Purpose training two news discover time ago. Chair standard picture."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
