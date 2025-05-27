@@ -1,0 +1,25 @@
+{
+    "name": "Catherine Haley",
+    "age": 17,
+    "address": {
+        "street": "Jennifer Islands",
+        "city": "West Andrewborough",
+        "state": "Ohio",
+        "zip": "10929"
+    },
+    "contact": {
+        "phone": "+1-316-894-4736x10296",
+        "servicePhone": "800641709"
+    },
+    "birthday": "2008-04-05",
+    "ip": "143.115.65.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Administration sort actually sure make traditional dark. Customer series provide.\nWatch act time increase. Couple agreement student radio get leave huge.",
+        "bio": "Marriage court like author thus imagine recently. Why news like book. Up police eight skill save education produce.\nWhom dream put suddenly. Word piece form deal likely speak."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
