@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Walker",
+    "age": 62,
+    "address": {
+        "street": "Vega Rue",
+        "city": "Lake Crystalburgh",
+        "state": "Iowa",
+        "zip": "80595"
+    },
+    "contact": {
+        "phone": "211-999-5543",
+        "servicePhone": "800218420"
+    },
+    "birthday": "1963-22-10",
+    "ip": "17.120.103.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Training scientist stand bit produce quite discuss. Test beautiful beat politics one amount pressure culture. Read almost arm pressure.",
+        "bio": "However good ball opportunity. Imagine oil ready to camera floor popular. Future positive likely concern list bring woman."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
