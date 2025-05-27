@@ -1,0 +1,25 @@
+{
+    "name": "Scott Dean",
+    "age": 70,
+    "address": {
+        "street": "Brown Freeway",
+        "city": "Benjaminstad",
+        "state": "North Carolina",
+        "zip": "45052"
+    },
+    "contact": {
+        "phone": "001-475-714-3632x90465",
+        "servicePhone": "800157760"
+    },
+    "birthday": "1955-23-12",
+    "ip": "222.233.35.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Though trip a president. Here raise walk happen statement value top.\nThree stop effect year in. Leave itself oil finish another so like. Understand whatever dark.",
+        "bio": "Where thus almost. Ahead artist close write.\nPrevent sea member night. Program sea plan fact debate consider also."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
