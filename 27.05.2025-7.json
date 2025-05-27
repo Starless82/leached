@@ -1,0 +1,25 @@
+{
+    "name": "Diana Rowe",
+    "age": 110,
+    "address": {
+        "street": "Davis Bypass",
+        "city": "Jamesmouth",
+        "state": "Maryland",
+        "zip": "61457"
+    },
+    "contact": {
+        "phone": "372-456-1856x699",
+        "servicePhone": "800172013"
+    },
+    "birthday": "1915-18-05",
+    "ip": "93.85.140.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Spend say position news indeed. College why office reason statement job million nation.\nMy ground authority employee. Receive listen yes data side great full.",
+        "bio": "Human special determine however only worker.\nExplain letter market. Care describe first join will.\nHistory man lose statement material need quality. Identify challenge look."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
