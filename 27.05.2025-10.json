@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Gonzales",
+    "age": 87,
+    "address": {
+        "street": "Daniel Terrace",
+        "city": "New Christopher",
+        "state": "Florida",
+        "zip": "19032"
+    },
+    "contact": {
+        "phone": "(351)748-0978",
+        "servicePhone": "800273388"
+    },
+    "birthday": "1938-18-10",
+    "ip": "148.227.202.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Population more work pattern Mrs player design. Another same you nice law style role. Lot local kitchen race article look center cold.",
+        "bio": "West song station peace turn machine especially level. Few concern life foreign growth worker network.\nCut loss attack kid stay scene article."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
