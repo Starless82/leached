@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Page",
+    "age": 74,
+    "address": {
+        "street": "King Haven",
+        "city": "Robertchester",
+        "state": "Wyoming",
+        "zip": "09176"
+    },
+    "contact": {
+        "phone": "734.869.4877x0040",
+        "servicePhone": "800206106"
+    },
+    "birthday": "1951-12-12",
+    "ip": "50.212.113.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Chair never often young least condition. Everyone ability sea hotel national. Officer contain college yard laugh although discuss bad.",
+        "bio": "Room scene check because cover.\nFar fight bring young available behind. Establish put attack he well. Industry not hundred leader increase language."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
