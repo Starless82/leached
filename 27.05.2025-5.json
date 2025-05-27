@@ -1,0 +1,25 @@
+{
+    "name": "Katrina Young",
+    "age": 53,
+    "address": {
+        "street": "Matthew Isle",
+        "city": "Jessefort",
+        "state": "North Dakota",
+        "zip": "64969"
+    },
+    "contact": {
+        "phone": "682-322-7982x5349",
+        "servicePhone": "800333673"
+    },
+    "birthday": "1972-09-02",
+    "ip": "146.173.181.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Station still population unit student provide. Machine color interesting anyone manage world. Themselves certain product character reduce voice.",
+        "bio": "Chance since always buy. Prevent country baby however past provide bed. Between most catch several time any.\nStart project table teacher. Necessary help degree."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
