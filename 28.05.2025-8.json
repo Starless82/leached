@@ -1,0 +1,25 @@
+{
+    "name": "Brent Jones",
+    "age": 53,
+    "address": {
+        "street": "Smith Way",
+        "city": "Mariahaven",
+        "state": "South Carolina",
+        "zip": "31330"
+    },
+    "contact": {
+        "phone": "487-677-3935x81077",
+        "servicePhone": "800355210"
+    },
+    "birthday": "1972-28-12",
+    "ip": "95.59.137.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Piece clearly life then. Measure find middle add meet everyone fund. Body let night democratic.",
+        "bio": "Agree it only. Dream consider claim than matter still threat.\nWe rule several close. Woman really area both. Environmental light radio either financial."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
