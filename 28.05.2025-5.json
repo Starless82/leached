@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Robbins",
+    "age": 63,
+    "address": {
+        "street": "Hendrix Vista",
+        "city": "North Kathy",
+        "state": "Kansas",
+        "zip": "65544"
+    },
+    "contact": {
+        "phone": "+1-571-923-1838",
+        "servicePhone": "800219495"
+    },
+    "birthday": "1962-15-12",
+    "ip": "157.190.199.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Notice year management approach dark. Agree middle nor early form. Hand throw night week agent.",
+        "bio": "City point than per authority evening. Customer color current court.\nInteresting fly its yard. Might ok store finally."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
