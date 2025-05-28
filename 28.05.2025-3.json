@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Davis",
+    "age": 79,
+    "address": {
+        "street": "Justin Plain",
+        "city": "Lake Dakotabury",
+        "state": "Arkansas",
+        "zip": "25534"
+    },
+    "contact": {
+        "phone": "(201)487-4427x031",
+        "servicePhone": "800901770"
+    },
+    "birthday": "1946-20-01",
+    "ip": "56.209.108.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Western recognize stuff law. Cup choose listen executive. Debate military you beautiful.\nDegree term activity laugh. Fine lose discuss population. Themselves western company.",
+        "bio": "Relate its change certainly view approach choose. It friend option product present knowledge main. Possible see though color probably stage good."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
