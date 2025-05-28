@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Smith DVM",
+    "age": 98,
+    "address": {
+        "street": "Laura Branch",
+        "city": "Velasquezmouth",
+        "state": "Michigan",
+        "zip": "61551"
+    },
+    "contact": {
+        "phone": "750-806-6283x40065",
+        "servicePhone": "800555819"
+    },
+    "birthday": "1927-06-04",
+    "ip": "94.39.161.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Notice may wife start. History carry find maintain who buy but.\nHealth yourself happen. Life should week yet prevent hundred.",
+        "bio": "Toward simply question feel job bed person. Among recognize picture control both compare sit."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
