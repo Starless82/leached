@@ -1,0 +1,25 @@
+{
+    "name": "Susan Manning",
+    "age": 41,
+    "address": {
+        "street": "Vickie Mills",
+        "city": "Lake Kennethborough",
+        "state": "Nevada",
+        "zip": "20584"
+    },
+    "contact": {
+        "phone": "(589)302-3253x605",
+        "servicePhone": "800850644"
+    },
+    "birthday": "1984-10-01",
+    "ip": "51.145.193.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Wonder list board able. Management Mrs economic nothing sit.\nWeek official word travel speak draw happen. Possible oil analysis form reveal research reality fire.",
+        "bio": "Baby base management consumer form make water close. Think age artist professor share role memory cover."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
