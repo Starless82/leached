@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Glenn",
+    "age": 90,
+    "address": {
+        "street": "Paul Heights",
+        "city": "Villegasburgh",
+        "state": "Ohio",
+        "zip": "24526"
+    },
+    "contact": {
+        "phone": "746.874.6333x3514",
+        "servicePhone": "800900664"
+    },
+    "birthday": "1935-10-05",
+    "ip": "83.153.186.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Game authority democratic culture former. Throughout picture difficult various apply think. Security hospital realize they interest.\nSeek hear whatever collection if. Third today have everything.",
+        "bio": "Use movement put beat traditional within seek include. Young PM blue central. Light single series place ground Mr nation industry."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
