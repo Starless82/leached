@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Wilson",
+    "age": 108,
+    "address": {
+        "street": "James Port",
+        "city": "East Suzannebury",
+        "state": "Pennsylvania",
+        "zip": "21612"
+    },
+    "contact": {
+        "phone": "989.598.5503",
+        "servicePhone": "800406608"
+    },
+    "birthday": "1917-27-08",
+    "ip": "221.110.208.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Toward dark science key child put actually. Concern night year popular treat value. Their history boy since ago begin.",
+        "bio": "Behavior your type per main exist. Fact film wait great for by."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
