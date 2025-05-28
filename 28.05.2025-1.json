@@ -1,0 +1,25 @@
+{
+    "name": "Martin Simmons",
+    "age": 92,
+    "address": {
+        "street": "Shannon Hollow",
+        "city": "Jacobview",
+        "state": "Washington",
+        "zip": "86328"
+    },
+    "contact": {
+        "phone": "+1-761-406-3706",
+        "servicePhone": "800891076"
+    },
+    "birthday": "1933-25-09",
+    "ip": "111.165.64.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Seven hear whatever need animal continue garden. Draw science attention suddenly carry cultural wonder.",
+        "bio": "Imagine administration wife value hold wear. Short rather grow citizen.\nHand environmental rule song five others. Do inside every poor way history."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
