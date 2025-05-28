@@ -1,0 +1,25 @@
+{
+    "name": "Alexandria Lamb",
+    "age": 55,
+    "address": {
+        "street": "Carmen Extension",
+        "city": "Port Elizabeth",
+        "state": "Nevada",
+        "zip": "12992"
+    },
+    "contact": {
+        "phone": "(522)475-3753",
+        "servicePhone": "800309092"
+    },
+    "birthday": "1970-11-12",
+    "ip": "47.28.85.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Reflect control call hard win cold.\nCamera pretty at also. Cover positive surface result after live. Pull leave opportunity land.",
+        "bio": "Our parent create face entire. Perhaps beautiful to quite fall social.\nWrite single source building let part. Buy nice forward race someone law."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
