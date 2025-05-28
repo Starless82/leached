@@ -1,0 +1,25 @@
+{
+    "name": "Tyler Odom",
+    "age": 92,
+    "address": {
+        "street": "Eric Inlet",
+        "city": "Jenniferfort",
+        "state": "Georgia",
+        "zip": "57294"
+    },
+    "contact": {
+        "phone": "001-743-464-9543x9284",
+        "servicePhone": "800207651"
+    },
+    "birthday": "1933-02-09",
+    "ip": "214.177.46.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Find finally rock others sea air treat. Military term never late wrong there.\nAble item body easy real different voice. Left force both call heart direction.",
+        "bio": "Herself grow agree set fine serve. Front true discussion their much traditional dog."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
