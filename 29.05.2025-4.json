@@ -1,0 +1,25 @@
+{
+    "name": "Tina George",
+    "age": 105,
+    "address": {
+        "street": "Griffin Ways",
+        "city": "Kennedyton",
+        "state": "Florida",
+        "zip": "50867"
+    },
+    "contact": {
+        "phone": "282-412-9555x7007",
+        "servicePhone": "800333692"
+    },
+    "birthday": "1920-22-10",
+    "ip": "129.155.222.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Night music return whole. That citizen teach performance school campaign agreement. Cold thing base economy make operation century. Then south sit send last.",
+        "bio": "About recognize high vote sing world. Level spend begin coach.\nDaughter finish later politics. Whole their he song party goal guess."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
