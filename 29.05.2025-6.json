@@ -1,0 +1,25 @@
+{
+    "name": "Antonio Juarez",
+    "age": 3,
+    "address": {
+        "street": "Miranda Street",
+        "city": "Kingtown",
+        "state": "Minnesota",
+        "zip": "26973"
+    },
+    "contact": {
+        "phone": "908-745-9925",
+        "servicePhone": "800427067"
+    },
+    "birthday": "2022-01-04",
+    "ip": "36.239.149.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Court music enjoy strategy man join.\nTest radio close. Machine two deep government across class knowledge value. Consider actually man management prevent always.",
+        "bio": "Night operation fish beyond him. Wrong through marriage because.\nInstitution board clear including though. Difficult large leader decision its leader. Safe I for standard statement machine beyond."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
