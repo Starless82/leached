@@ -1,0 +1,25 @@
+{
+    "name": "Gary Perkins",
+    "age": 101,
+    "address": {
+        "street": "Williams Pike",
+        "city": "Williamsfort",
+        "state": "North Dakota",
+        "zip": "16166"
+    },
+    "contact": {
+        "phone": "+1-275-920-7283x07352",
+        "servicePhone": "800526119"
+    },
+    "birthday": "1924-08-09",
+    "ip": "211.56.123.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Very three many play establish. Impact money meeting body. Soon election chair bit.",
+        "bio": "Morning truth spend above. Wind church yeah writer myself. Low seven visit want story simple people."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
