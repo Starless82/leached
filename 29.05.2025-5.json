@@ -1,0 +1,25 @@
+{
+    "name": "Sherri Robbins",
+    "age": 21,
+    "address": {
+        "street": "Tucker Court",
+        "city": "Hollandview",
+        "state": "North Dakota",
+        "zip": "74793"
+    },
+    "contact": {
+        "phone": "469.258.6417x58732",
+        "servicePhone": "800674140"
+    },
+    "birthday": "2004-08-06",
+    "ip": "103.197.188.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Idea already show Democrat force these. Official discuss issue operation watch.\nCamera per gun despite summer entire myself. Our task onto care need.",
+        "bio": "Community professor treatment tree. Ball page way return born. Gas major near whom car.\nIssue recent investment thing perform. Rule history north discussion drop crime."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
