@@ -1,0 +1,25 @@
+{
+    "name": "Jasmin Keith",
+    "age": 46,
+    "address": {
+        "street": "Lauren Locks",
+        "city": "East Thomas",
+        "state": "Iowa",
+        "zip": "24346"
+    },
+    "contact": {
+        "phone": "325-617-9621x3332",
+        "servicePhone": "800451175"
+    },
+    "birthday": "1979-18-12",
+    "ip": "38.79.49.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Religious clearly defense. Recognize again us director type nearly company.\nBusiness rich experience grow join. Recently various apply apply local amount we. Hour affect forget consider national.",
+        "bio": "Appear start piece approach around under accept. Into position need leg. Contain land late reduce."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
