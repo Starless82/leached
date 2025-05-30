@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Charles",
+    "age": 18,
+    "address": {
+        "street": "Barbara Plain",
+        "city": "West Vanessaview",
+        "state": "Maryland",
+        "zip": "28753"
+    },
+    "contact": {
+        "phone": "318-283-5792",
+        "servicePhone": "800910148"
+    },
+    "birthday": "2007-26-10",
+    "ip": "161.224.93.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Star design kitchen reality. Enjoy off success meeting player.\nPush factor benefit not too. Better air special from appear speech.",
+        "bio": "Production early remain capital claim ability. Ok stay more. Small involve other arm because light.\nAgainst set live city exactly. Visit region however training your sign."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
