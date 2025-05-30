@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Wilson",
+    "age": 56,
+    "address": {
+        "street": "Ricky Center",
+        "city": "Cruzchester",
+        "state": "Pennsylvania",
+        "zip": "53972"
+    },
+    "contact": {
+        "phone": "551-839-9788",
+        "servicePhone": "800360543"
+    },
+    "birthday": "1969-26-03",
+    "ip": "145.148.8.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Analysis forward alone career. Outside inside nature network century give.\nScore leader view individual again start. Piece week writer perhaps. Beat third figure window might seat.",
+        "bio": "Reason detail cover interview. Rise wait you mission play.\nCover itself find certainly type. Office create answer result."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
