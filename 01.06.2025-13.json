@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Robles",
+    "age": 16,
+    "address": {
+        "street": "Andrew Isle",
+        "city": "North Laurenborough",
+        "state": "Indiana",
+        "zip": "84620"
+    },
+    "contact": {
+        "phone": "679-909-9670",
+        "servicePhone": "800862871"
+    },
+    "birthday": "2009-20-04",
+    "ip": "187.78.166.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Such they mind wrong anyone decade opportunity. Left risk shoulder end discuss mouth.\nAgreement return both they loss cup.",
+        "bio": "Seem less activity at staff.\nExample draw evidence want place.\nMillion relationship vote along way doctor decade. Attack whether check fall."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
