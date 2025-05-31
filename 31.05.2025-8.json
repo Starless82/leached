@@ -1,0 +1,25 @@
+{
+    "name": "Maureen Moore",
+    "age": 35,
+    "address": {
+        "street": "Sandra Freeway",
+        "city": "Port Thomas",
+        "state": "Rhode Island",
+        "zip": "20357"
+    },
+    "contact": {
+        "phone": "(683)872-5174",
+        "servicePhone": "800106664"
+    },
+    "birthday": "1990-09-10",
+    "ip": "194.215.115.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Growth contain animal experience program. Report ten case key southern plan. Similar black responsibility hot provide three hear.",
+        "bio": "Painting reality say result. Visit treatment member daughter together form avoid.\nSafe receive member language far. Present industry ball yourself."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
