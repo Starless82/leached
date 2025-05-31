@@ -1,0 +1,25 @@
+{
+    "name": "James Ramirez",
+    "age": 49,
+    "address": {
+        "street": "Washington Trace",
+        "city": "Danielland",
+        "state": "New York",
+        "zip": "23868"
+    },
+    "contact": {
+        "phone": "809-247-0895x33754",
+        "servicePhone": "800449247"
+    },
+    "birthday": "1976-24-04",
+    "ip": "67.239.208.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Near pull method soldier car huge test. Relate turn true prevent step woman provide.\nWord worry sea woman across win. Tv performance language any west region north. Early west until defense could.",
+        "bio": "Then fact modern which career direction end. Drug business science foot treatment. Share get attack single fear."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
