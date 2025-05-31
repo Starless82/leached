@@ -1,0 +1,25 @@
+{
+    "name": "Austin Barnes",
+    "age": 74,
+    "address": {
+        "street": "Faith Greens",
+        "city": "Lake Jennaport",
+        "state": "Colorado",
+        "zip": "25482"
+    },
+    "contact": {
+        "phone": "001-704-588-8378x28576",
+        "servicePhone": "800817808"
+    },
+    "birthday": "1951-10-07",
+    "ip": "140.24.143.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Last effort myself quickly quite then. Traditional suggest yeah box rock nice. Raise company there ask.\nSmall lead nice treat floor tax sea. Garden course mother perform though.",
+        "bio": "Strong attack line admit great team natural yeah. Skill at light manager trade might run.\nReligious together listen executive claim short right. Past conference plant."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
