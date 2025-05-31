@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Lloyd",
+    "age": 60,
+    "address": {
+        "street": "Steven Keys",
+        "city": "North Carlos",
+        "state": "South Carolina",
+        "zip": "11929"
+    },
+    "contact": {
+        "phone": "001-632-341-4765x473",
+        "servicePhone": "800869123"
+    },
+    "birthday": "1965-26-10",
+    "ip": "41.175.113.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Usually than thing simply. Of baby explain think argue.",
+        "bio": "Floor onto know contain left set stay national. Back you more with Mrs reach adult. Doctor space sea east wait much experience candidate."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
