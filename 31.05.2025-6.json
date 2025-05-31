@@ -1,0 +1,25 @@
+{
+    "name": "Sherry Cook",
+    "age": 72,
+    "address": {
+        "street": "Gina Vista",
+        "city": "Cynthiamouth",
+        "state": "Minnesota",
+        "zip": "02281"
+    },
+    "contact": {
+        "phone": "(423)843-0734x565",
+        "servicePhone": "800704018"
+    },
+    "birthday": "1953-17-08",
+    "ip": "55.239.151.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Author black short home scientist listen fast fire. Pick for pick pay. Address until development past.\nParticular moment employee down south could. Particular onto stuff theory get call next.",
+        "bio": "Catch film quality third write mouth. Able voice my scientist book.\nToward away line pick then nothing stay. Apply bed worry knowledge."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
