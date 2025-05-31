@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Watson",
+    "age": 84,
+    "address": {
+        "street": "Daniel Curve",
+        "city": "Shanehaven",
+        "state": "Michigan",
+        "zip": "21788"
+    },
+    "contact": {
+        "phone": "703.624.6944x47765",
+        "servicePhone": "800221804"
+    },
+    "birthday": "1941-14-01",
+    "ip": "136.166.17.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Future never space yourself. Across plan government order billion stuff.\nPass job garden positive too author position. Mouth up arrive vote fire its. Cup charge choice response that.",
+        "bio": "Wish find rate once. Media toward smile church. Middle decade common almost science guy first. Action get sense thing."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
