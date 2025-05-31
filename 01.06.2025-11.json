@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Phillips",
+    "age": 77,
+    "address": {
+        "street": "Adam Highway",
+        "city": "North Kathrynfurt",
+        "state": "Louisiana",
+        "zip": "01330"
+    },
+    "contact": {
+        "phone": "001-717-826-5923x810",
+        "servicePhone": "800210778"
+    },
+    "birthday": "1948-15-07",
+    "ip": "144.207.138.67",
+    "foo": "bar",
+    "profile": {
+        "about": "After me least source pull. Born front where.\nBudget poor over meeting themselves military choice. As serve know maintain agent instead organization. Box staff group state suffer these.",
+        "bio": "In five in financial guess sport. Support relate dream forget all. Capital accept market exist task.\nWorld heavy land all. Push mind woman stock decide. Father somebody movie."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
