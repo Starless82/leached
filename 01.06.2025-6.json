@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Hernandez",
+    "age": 4,
+    "address": {
+        "street": "Summer Ranch",
+        "city": "Michaelville",
+        "state": "New Jersey",
+        "zip": "32143"
+    },
+    "contact": {
+        "phone": "452.257.3439x21198",
+        "servicePhone": "800826314"
+    },
+    "birthday": "2021-29-06",
+    "ip": "108.222.111.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Will eight answer church course painting. Already smile build hear live figure. Find international thought several change.\nArt sell language born begin shoulder good ahead.",
+        "bio": "Admit cultural develop morning fund offer Congress society. Thing property difficult expect wonder result day."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
