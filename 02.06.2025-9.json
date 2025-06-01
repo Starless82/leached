@@ -1,0 +1,25 @@
+{
+    "name": "Vanessa Allen",
+    "age": 112,
+    "address": {
+        "street": "Antonio Fork",
+        "city": "Port Marieburgh",
+        "state": "California",
+        "zip": "55531"
+    },
+    "contact": {
+        "phone": "780-226-8257x8691",
+        "servicePhone": "800073620"
+    },
+    "birthday": "1913-20-06",
+    "ip": "183.252.148.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Especially bad business Mr. Development arrive five almost leg. Population figure who try.\nFirst land police Mr. Rise never want window health.\nProduce if treat enough drive. Allow back suggest.",
+        "bio": "Family will smile interest public respond mission agent. Interview purpose defense.\nDecision seat film big water street grow. Mouth society sit must brother world. Whole study laugh institution pay."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
