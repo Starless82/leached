@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Brown",
+    "age": 63,
+    "address": {
+        "street": "Brandon Extensions",
+        "city": "Benjaminmouth",
+        "state": "Iowa",
+        "zip": "11015"
+    },
+    "contact": {
+        "phone": "276-507-1016x77802",
+        "servicePhone": "800993548"
+    },
+    "birthday": "1962-17-05",
+    "ip": "125.131.243.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Situation yet together. Strong pretty such wrong. Another amount economic hotel star quite everyone.\nNewspaper sister exactly pattern. Support pay who notice. Above professor edge somebody.",
+        "bio": "Chance commercial together adult feeling offer. Provide above so idea top final certain. Sign billion I list quite alone but history."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
