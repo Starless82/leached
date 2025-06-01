@@ -1,0 +1,25 @@
+{
+    "name": "Loretta Krause",
+    "age": 104,
+    "address": {
+        "street": "Nicole Plain",
+        "city": "Johnsonville",
+        "state": "Montana",
+        "zip": "33570"
+    },
+    "contact": {
+        "phone": "7689892568",
+        "servicePhone": "800435610"
+    },
+    "birthday": "1921-27-12",
+    "ip": "33.143.204.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Thank approach under. Know whom behind western until investment.\nDay hospital her though. Natural carry share maybe back.\nThank successful assume evening far production.",
+        "bio": "Generation my research field west deep. How statement young each spend company manage.\nAdministration democratic sit whom team. Ready participant address animal establish city recent challenge."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
