@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Jenkins",
+    "age": 63,
+    "address": {
+        "street": "Jenkins Fields",
+        "city": "Russomouth",
+        "state": "Wisconsin",
+        "zip": "73575"
+    },
+    "contact": {
+        "phone": "822.536.3683",
+        "servicePhone": "800834421"
+    },
+    "birthday": "1962-11-09",
+    "ip": "181.9.104.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Soon energy suddenly conference half. Floor trade nothing form lot myself foot long. Action company contain give get our professor. Great serve detail popular.",
+        "bio": "Accept party respond see we father add campaign. Break bring many surface production.\nThing black even effect need whole process language. Last thank personal remain task usually other."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
