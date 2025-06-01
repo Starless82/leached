@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Rodgers",
+    "age": 106,
+    "address": {
+        "street": "Shepard Corner",
+        "city": "Lake Kennethton",
+        "state": "New Hampshire",
+        "zip": "26690"
+    },
+    "contact": {
+        "phone": "001-477-933-1958x177",
+        "servicePhone": "800014321"
+    },
+    "birthday": "1919-20-03",
+    "ip": "183.185.119.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Political window fly body sometimes sport heavy few. Man respond happy technology nation.",
+        "bio": "Know section especially defense send fill music add. Her style citizen once investment what.\nHow risk care speech focus. View free film rock.\nStock final beyond like wall bring pressure director."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
