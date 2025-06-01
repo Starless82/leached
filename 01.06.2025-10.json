@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Davidson",
+    "age": 89,
+    "address": {
+        "street": "Destiny Club",
+        "city": "Jonesshire",
+        "state": "Maine",
+        "zip": "48058"
+    },
+    "contact": {
+        "phone": "728-846-0920",
+        "servicePhone": "800923997"
+    },
+    "birthday": "1936-03-01",
+    "ip": "15.124.194.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Hear age imagine affect check bank billion. Action throughout computer less although behavior real.\nProduction free approach measure prevent simple. Six brother north approach. Man sign past reduce.",
+        "bio": "Soon start wrong site perform window old.\nSpace from space picture hit technology always be. Room type part else accept interest."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
