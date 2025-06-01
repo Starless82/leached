@@ -1,0 +1,25 @@
+{
+    "name": "Justin Li",
+    "age": 54,
+    "address": {
+        "street": "Flores Views",
+        "city": "North Carlside",
+        "state": "Virginia",
+        "zip": "94211"
+    },
+    "contact": {
+        "phone": "852-222-2474x5935",
+        "servicePhone": "800846930"
+    },
+    "birthday": "1971-12-02",
+    "ip": "162.161.141.186",
+    "foo": "bar",
+    "profile": {
+        "about": "True imagine rest system ever box. Front scene social less. Face thing walk commercial.\nThere condition seven. Wife situation improve less. Theory sister seek toward sort risk.",
+        "bio": "Cultural great art camera leg song. Forget growth smile still give role.\nRecent military behavior moment culture catch state. They single allow number a trip strong."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
