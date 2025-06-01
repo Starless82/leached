@@ -1,0 +1,25 @@
+{
+    "name": "David Johnson",
+    "age": 109,
+    "address": {
+        "street": "English Hollow",
+        "city": "South Robertstad",
+        "state": "Minnesota",
+        "zip": "38794"
+    },
+    "contact": {
+        "phone": "948-637-3995x3879",
+        "servicePhone": "800234267"
+    },
+    "birthday": "1916-10-03",
+    "ip": "28.170.8.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Under nor piece outside expert what movement. Use really instead experience test later. Current exactly training close these American.",
+        "bio": "American current direction near arrive. Friend Democrat under no move TV.\nTravel cover method political. Than wait guess couple. Control area music fine foreign seat."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
