@@ -1,0 +1,25 @@
+{
+    "name": "April Becker",
+    "age": 80,
+    "address": {
+        "street": "John Station",
+        "city": "New Kyleberg",
+        "state": "New York",
+        "zip": "16088"
+    },
+    "contact": {
+        "phone": "+1-725-358-7092",
+        "servicePhone": "800779138"
+    },
+    "birthday": "1945-09-02",
+    "ip": "167.143.45.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Charge not you believe. Later better ago nice language.\nQuality movie act. Make thousand other.\nSo senior else we. Contain free nor not Congress market floor.",
+        "bio": "Check anything price.\nEight hair glass most one very. Affect less phone though mention goal.\nYear seven war a bar along nearly front. Product ahead always."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
