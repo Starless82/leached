@@ -1,0 +1,25 @@
+{
+    "name": "Chris Wilson DDS",
+    "age": 20,
+    "address": {
+        "street": "Cassandra Corners",
+        "city": "Lake Stephen",
+        "state": "Kansas",
+        "zip": "56912"
+    },
+    "contact": {
+        "phone": "581.562.0943",
+        "servicePhone": "800059759"
+    },
+    "birthday": "2005-09-07",
+    "ip": "90.131.125.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Spring describe meet candidate apply.\nLetter high account specific. Car might maintain beautiful only.\nInclude pick because with tax. Main show stuff many occur. Task various give.",
+        "bio": "Matter tonight young wind never degree both product.\nArm also between executive western stand. Pressure throw bill people. Against leave this true goal."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
