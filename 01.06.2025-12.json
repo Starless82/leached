@@ -1,0 +1,25 @@
+{
+    "name": "Javier Hernandez",
+    "age": 48,
+    "address": {
+        "street": "Reed Harbors",
+        "city": "Murphyland",
+        "state": "Kentucky",
+        "zip": "45166"
+    },
+    "contact": {
+        "phone": "323.511.3861",
+        "servicePhone": "800873942"
+    },
+    "birthday": "1977-05-07",
+    "ip": "141.183.95.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Indeed practice save find between send. Reason increase black theory relationship tough.",
+        "bio": "Person soon matter his other time. Decision between mind way what. My understand mission these surface. Respond another build ready beat west."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
