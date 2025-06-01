@@ -1,0 +1,25 @@
+{
+    "name": "Michael Brooks",
+    "age": 92,
+    "address": {
+        "street": "Emily Ramp",
+        "city": "Christiebury",
+        "state": "Rhode Island",
+        "zip": "35700"
+    },
+    "contact": {
+        "phone": "514-415-2622x1566",
+        "servicePhone": "800776281"
+    },
+    "birthday": "1933-23-12",
+    "ip": "83.230.71.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Suddenly partner indicate thousand. Tend step again. Each article director score. Especially painting similar whole early possible.",
+        "bio": "Political agree professor federal decision. Much start now win it friend. Face amount visit product follow plant.\nSimply kid name. Huge me civil artist."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
