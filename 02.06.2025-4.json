@@ -1,0 +1,25 @@
+{
+    "name": "Justin Ramirez",
+    "age": 71,
+    "address": {
+        "street": "Miller Walk",
+        "city": "Shannonland",
+        "state": "Maine",
+        "zip": "62957"
+    },
+    "contact": {
+        "phone": "475-799-7690x459",
+        "servicePhone": "800417492"
+    },
+    "birthday": "1954-03-07",
+    "ip": "190.86.222.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Make city though our. Beautiful east whole ten western agent. Line door man operation individual station.",
+        "bio": "Beat weight let loss beat investment. Technology take heart month cold. Ahead however over can city.\nParticular our PM maybe. Bad food home. Back consumer age bill certain speech statement seem."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
