@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Rodriguez",
+    "age": 77,
+    "address": {
+        "street": "Anderson Common",
+        "city": "Davidville",
+        "state": "New Mexico",
+        "zip": "21087"
+    },
+    "contact": {
+        "phone": "478.232.8608x066",
+        "servicePhone": "800090505"
+    },
+    "birthday": "1948-23-11",
+    "ip": "149.239.145.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Guess leave wish dog president. Senior perhaps interesting sea really course recognize.",
+        "bio": "Morning wall under audience believe street. Hear use reduce argue laugh how.\nDecide best feeling. Space into party board.\nDetermine medical me both main career. Whole rate else how especially."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
