@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Jenkins MD",
+    "age": 2,
+    "address": {
+        "street": "Johnson Isle",
+        "city": "East Scottfort",
+        "state": "Wisconsin",
+        "zip": "23746"
+    },
+    "contact": {
+        "phone": "(739)598-3488x04846",
+        "servicePhone": "800406458"
+    },
+    "birthday": "2023-25-11",
+    "ip": "149.112.146.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Traditional stuff discussion hand. Since particularly performance they.",
+        "bio": "Would remain example each check.\nLanguage develop push student suggest thank finally. Cost find on still. Themselves fear buy political."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
