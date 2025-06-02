@@ -1,0 +1,25 @@
+{
+    "name": "Mary Graham",
+    "age": 33,
+    "address": {
+        "street": "Heather Fords",
+        "city": "West Cassandrafurt",
+        "state": "Maine",
+        "zip": "89125"
+    },
+    "contact": {
+        "phone": "6825306085",
+        "servicePhone": "800192682"
+    },
+    "birthday": "1992-01-06",
+    "ip": "59.145.144.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Personal range middle strategy machine third. Whole spend beyond enter.\nOnce before then wind learn he record. Student network dog bad.",
+        "bio": "Paper rich organization throw can only. Citizen far activity road score short discuss. Approach bag down marriage body news them."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
