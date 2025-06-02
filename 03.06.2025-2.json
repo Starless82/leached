@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Thomas",
+    "age": 63,
+    "address": {
+        "street": "Moore Orchard",
+        "city": "South Ashleyhaven",
+        "state": "Utah",
+        "zip": "44769"
+    },
+    "contact": {
+        "phone": "294-456-6893x51617",
+        "servicePhone": "800955742"
+    },
+    "birthday": "1962-27-10",
+    "ip": "99.100.133.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Reality pressure change. You respond rather kitchen.",
+        "bio": "Guy research plant with. Way hard face lawyer everybody air authority represent. Concern already hot.\nDream she hope never. Politics cause single new.\nMethod sport music professor home."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
