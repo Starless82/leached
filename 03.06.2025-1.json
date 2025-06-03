@@ -1,0 +1,25 @@
+{
+    "name": "John Brennan",
+    "age": 43,
+    "address": {
+        "street": "Mccormick Valley",
+        "city": "Lake Sally",
+        "state": "Wyoming",
+        "zip": "13184"
+    },
+    "contact": {
+        "phone": "960.770.1550",
+        "servicePhone": "800760254"
+    },
+    "birthday": "1982-29-06",
+    "ip": "148.92.93.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Education want know program city peace. Including use piece ok son heavy network. Benefit turn war.",
+        "bio": "Couple especially realize teach. Adult full large former interest."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
