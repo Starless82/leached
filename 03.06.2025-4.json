@@ -1,0 +1,25 @@
+{
+    "name": "Carol Williams",
+    "age": 64,
+    "address": {
+        "street": "Warren Squares",
+        "city": "Morganfort",
+        "state": "Vermont",
+        "zip": "01020"
+    },
+    "contact": {
+        "phone": "+1-354-942-0572",
+        "servicePhone": "800339694"
+    },
+    "birthday": "1961-03-07",
+    "ip": "145.216.49.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Value sell account.\nAlso southern each few let marriage. Article big officer assume I yard quite teach. Everything everybody certain help choice good.",
+        "bio": "Lot day no seek woman. Thank talk magazine still final show summer. Almost from could argue."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
