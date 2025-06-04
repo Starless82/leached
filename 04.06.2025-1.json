@@ -1,0 +1,25 @@
+{
+    "name": "Angela Coleman",
+    "age": 88,
+    "address": {
+        "street": "Soto Villages",
+        "city": "Davidbury",
+        "state": "Maryland",
+        "zip": "25824"
+    },
+    "contact": {
+        "phone": "8442757110",
+        "servicePhone": "800557842"
+    },
+    "birthday": "1937-23-09",
+    "ip": "84.176.143.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Environmental year require show.\nEvent voice picture into. Paper smile subject why what.\nWish miss imagine future customer. Job card improve true chance best husband. Reality live generation source.",
+        "bio": "Over number less word opportunity almost. Series probably visit have only be."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
