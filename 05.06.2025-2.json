@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Lee",
+    "age": 49,
+    "address": {
+        "street": "Olson Heights",
+        "city": "Chavezborough",
+        "state": "Maine",
+        "zip": "50903"
+    },
+    "contact": {
+        "phone": "+1-537-325-2907x886",
+        "servicePhone": "800478626"
+    },
+    "birthday": "1976-22-03",
+    "ip": "198.140.225.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Then impact answer sit television task national. True everything fund management this.",
+        "bio": "Best very cold almost national effect without. Scene career two decide physical PM."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
