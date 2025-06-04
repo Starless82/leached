@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Kelly",
+    "age": 11,
+    "address": {
+        "street": "Patrick Court",
+        "city": "Lake David",
+        "state": "Nebraska",
+        "zip": "41433"
+    },
+    "contact": {
+        "phone": "284-504-3174",
+        "servicePhone": "800795620"
+    },
+    "birthday": "2014-16-03",
+    "ip": "101.76.144.26",
+    "foo": "bar",
+    "profile": {
+        "about": "If well individual various share others. Republican thousand build the especially item. Energy east gun personal system term. Tough choose clearly speech point decade.",
+        "bio": "Way learn radio whether anything. Force much goal majority offer nice quickly.\nLast role series car shake discussion. End determine goal car. Why ten two record nice own."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
