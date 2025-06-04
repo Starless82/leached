@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Gordon",
+    "age": 101,
+    "address": {
+        "street": "Rogers Groves",
+        "city": "Howardview",
+        "state": "West Virginia",
+        "zip": "88733"
+    },
+    "contact": {
+        "phone": "(803)519-5784",
+        "servicePhone": "800781487"
+    },
+    "birthday": "1924-20-08",
+    "ip": "190.133.222.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Radio gun want skin. Sense throw material each wind nor occur from.\nVote more south.\nCourse need hit lawyer.",
+        "bio": "System writer hard eye nation however beyond.\nEffect home hand fight common there part. Mother cause expert everybody stay model. Evening deal dinner."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
