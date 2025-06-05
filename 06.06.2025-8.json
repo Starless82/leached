@@ -1,0 +1,25 @@
+{
+    "name": "Alexa Benitez",
+    "age": 98,
+    "address": {
+        "street": "Smith Trafficway",
+        "city": "Brownberg",
+        "state": "Louisiana",
+        "zip": "94384"
+    },
+    "contact": {
+        "phone": "+1-552-756-7303",
+        "servicePhone": "800465666"
+    },
+    "birthday": "1927-07-09",
+    "ip": "189.136.53.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Project source environment camera listen resource party top. Mr sell thing black no sure day.\nLaugh friend degree doctor. Material pressure very push.",
+        "bio": "Newspaper possible sport prevent bag child difficult. Nor standard model happy."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
