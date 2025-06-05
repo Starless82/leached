@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Williams",
+    "age": 100,
+    "address": {
+        "street": "Olson Tunnel",
+        "city": "East Dannystad",
+        "state": "Texas",
+        "zip": "40272"
+    },
+    "contact": {
+        "phone": "(363)625-3095",
+        "servicePhone": "800604821"
+    },
+    "birthday": "1925-20-01",
+    "ip": "72.112.70.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Arm both player like from list particularly. Toward wish give television similar.",
+        "bio": "Thus team federal window easy. Sister three personal suggest.\nDirection upon others. Suddenly movement now. Can some carry compare."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
