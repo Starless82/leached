@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Marsh",
+    "age": 58,
+    "address": {
+        "street": "Megan Court",
+        "city": "Reesestad",
+        "state": "North Dakota",
+        "zip": "87150"
+    },
+    "contact": {
+        "phone": "302.589.4496x555",
+        "servicePhone": "800929233"
+    },
+    "birthday": "1967-28-05",
+    "ip": "56.191.191.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Stock officer include treatment light. Continue old look next very.\nKnow process policy outside pass if yard.",
+        "bio": "Thousand once position center. Spring night fear one conference organization simply. Type lay realize pick interest would. Close blood mention by life talk."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
