@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Gomez",
+    "age": 44,
+    "address": {
+        "street": "Melanie Walks",
+        "city": "Jacksonside",
+        "state": "Nebraska",
+        "zip": "80420"
+    },
+    "contact": {
+        "phone": "310-359-5953",
+        "servicePhone": "800040067"
+    },
+    "birthday": "1981-26-05",
+    "ip": "124.53.194.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Through any cut. News out different customer professor choice. Imagine land allow finish.\nFast participant body from support.\nExample else three individual floor feel. About realize issue finally.",
+        "bio": "Talk boy write computer protect. Which suddenly write let town fear parent. Between season girl admit commercial deal likely. Two send under.\nNational evening establish behavior. Finally out skin."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
