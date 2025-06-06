@@ -1,0 +1,25 @@
+{
+    "name": "Amy Walker",
+    "age": 7,
+    "address": {
+        "street": "Jimmy Spurs",
+        "city": "Bowmanburgh",
+        "state": "West Virginia",
+        "zip": "93702"
+    },
+    "contact": {
+        "phone": "395.474.3548",
+        "servicePhone": "800482724"
+    },
+    "birthday": "2018-12-07",
+    "ip": "87.198.61.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Either through light movement factor human among. Down analysis safe character.\nPossible rise employee friend. That sister by responsibility.",
+        "bio": "See strong skill audience put wait. Job enjoy think present here none space.\nNone state together idea. How last might others foot drive. Art throw know measure choice site."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
