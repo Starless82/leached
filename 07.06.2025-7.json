@@ -1,0 +1,25 @@
+{
+    "name": "Jill Taylor",
+    "age": 82,
+    "address": {
+        "street": "Todd Land",
+        "city": "Lake Belinda",
+        "state": "Colorado",
+        "zip": "72318"
+    },
+    "contact": {
+        "phone": "(542)994-1968",
+        "servicePhone": "800210643"
+    },
+    "birthday": "1943-08-10",
+    "ip": "58.80.35.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Popular actually add body heart author amount look. Song as build too section language. Build follow nation interesting conference lawyer. Collection together main happy.",
+        "bio": "Push information through member. Court necessary future plant animal.\nPoint build accept middle increase throw every tonight. Issue wide whole home."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
