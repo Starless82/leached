@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Stafford",
+    "age": 79,
+    "address": {
+        "street": "Daniel Orchard",
+        "city": "Ashleymouth",
+        "state": "Connecticut",
+        "zip": "86228"
+    },
+    "contact": {
+        "phone": "523-317-0324x17691",
+        "servicePhone": "800882708"
+    },
+    "birthday": "1946-08-09",
+    "ip": "97.15.45.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Attack sometimes expect protect. Pm woman research than.\nAble bag money bar floor. Which number half total. Become company office standard glass rich.",
+        "bio": "Remain heavy level while coach tree add.\nHim blood local get act easy look. Event result public.\nLast case treat nice. Must both region movie field gun.\nFront choose human assume similar."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
