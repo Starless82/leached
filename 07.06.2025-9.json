@@ -1,0 +1,25 @@
+{
+    "name": "Evelyn Thompson",
+    "age": 85,
+    "address": {
+        "street": "Maria Vista",
+        "city": "West Ryanshire",
+        "state": "Oklahoma",
+        "zip": "59163"
+    },
+    "contact": {
+        "phone": "748.811.0926x314",
+        "servicePhone": "800248669"
+    },
+    "birthday": "1940-24-01",
+    "ip": "187.14.169.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Project interest well soon activity. Three mouth experience opportunity teach herself their wall. Task difference factor purpose.",
+        "bio": "Ten old live guy miss person. Down hotel certainly eye amount. A simple much Republican for understand."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
