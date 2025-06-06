@@ -1,0 +1,25 @@
+{
+    "name": "Robert Carter",
+    "age": 5,
+    "address": {
+        "street": "Casey Rest",
+        "city": "New Jillburgh",
+        "state": "Kentucky",
+        "zip": "84122"
+    },
+    "contact": {
+        "phone": "(439)566-0956x651",
+        "servicePhone": "800469299"
+    },
+    "birthday": "2020-21-10",
+    "ip": "81.40.191.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Congress outside real. Year hand size I fine herself. Question current two prove seem culture. Church animal business society else star.",
+        "bio": "One party professional sister include institution front worry. Return situation total city."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
