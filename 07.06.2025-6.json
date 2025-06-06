@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Aguirre",
+    "age": 106,
+    "address": {
+        "street": "Peters Isle",
+        "city": "Nicholaschester",
+        "state": "Ohio",
+        "zip": "60061"
+    },
+    "contact": {
+        "phone": "517-430-3072x400",
+        "servicePhone": "800981411"
+    },
+    "birthday": "1919-22-05",
+    "ip": "213.23.253.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Market Democrat relate.\nNeed middle perform put. Short southern be simple citizen thing.\nForget body sense food sit agreement. Life rate stuff fish partner and language.",
+        "bio": "Two back recently activity hope. Region college trade shoulder ever seek must.\nManage number join evidence heavy. Computer consumer rock standard her whole season."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
