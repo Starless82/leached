@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Smith",
+    "age": 62,
+    "address": {
+        "street": "Jermaine Flat",
+        "city": "Lake Michael",
+        "state": "Arkansas",
+        "zip": "07421"
+    },
+    "contact": {
+        "phone": "(337)240-7298x2310",
+        "servicePhone": "800927869"
+    },
+    "birthday": "1963-02-01",
+    "ip": "110.28.108.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Laugh force fight recognize production list learn. Four could quality interview. Owner clear hold project method without.\nDetermine home thus page past. Condition for yourself eye him.",
+        "bio": "Eat agree popular tree place week. Recent home him compare. Hand dog part."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
