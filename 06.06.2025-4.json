@@ -1,0 +1,25 @@
+{
+    "name": "Dominique Salinas",
+    "age": 22,
+    "address": {
+        "street": "Weber Wall",
+        "city": "Conradland",
+        "state": "Pennsylvania",
+        "zip": "17355"
+    },
+    "contact": {
+        "phone": "(802)733-7191",
+        "servicePhone": "800191880"
+    },
+    "birthday": "2003-08-10",
+    "ip": "42.190.207.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Employee task keep miss face. Care realize who book rate effect crime recognize. Protect bad whose fact. Trouble bill blue billion.",
+        "bio": "Card watch writer into. White quality economic drop get Congress.\nArea among ever option wife. Build see her whom rather born write."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
