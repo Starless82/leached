@@ -1,0 +1,25 @@
+{
+    "name": "Michael Brown",
+    "age": 5,
+    "address": {
+        "street": "Wilkins Circle",
+        "city": "Woodardborough",
+        "state": "North Dakota",
+        "zip": "61565"
+    },
+    "contact": {
+        "phone": "2183536379",
+        "servicePhone": "800376277"
+    },
+    "birthday": "2020-31-03",
+    "ip": "8.1.45.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Plan several sister whether painting per clearly little. Fund data prove offer skill.\nPull south behavior recognize management theory. State marriage yet care course college.",
+        "bio": "Bar do race professional room.\nLaugh popular property top democratic.\nLive gas effort official generation. Skin effect option exist."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
