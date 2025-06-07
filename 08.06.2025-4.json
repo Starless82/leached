@@ -1,0 +1,25 @@
+{
+    "name": "Amber Adams",
+    "age": 2,
+    "address": {
+        "street": "Walters Cove",
+        "city": "Lake Williambury",
+        "state": "Tennessee",
+        "zip": "95689"
+    },
+    "contact": {
+        "phone": "+1-461-812-9788x0897",
+        "servicePhone": "800012826"
+    },
+    "birthday": "2023-20-03",
+    "ip": "77.160.131.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Name open every article thousand. Modern feeling run television site these. Growth follow finally level.",
+        "bio": "Age job six scene speech. Claim or offer now perhaps store try attack. Cell trouble whether huge example.\nChoose within other piece forget claim. Way and financial million whose add account."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
