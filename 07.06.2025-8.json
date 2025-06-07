@@ -1,0 +1,25 @@
+{
+    "name": "Paul White",
+    "age": 76,
+    "address": {
+        "street": "Andre Fall",
+        "city": "Fletcherchester",
+        "state": "Nevada",
+        "zip": "84328"
+    },
+    "contact": {
+        "phone": "3588157840",
+        "servicePhone": "800901767"
+    },
+    "birthday": "1949-05-03",
+    "ip": "179.227.123.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Still recognize statement remain population else born. Human popular central close order down material eight. Officer knowledge on even close center sure.",
+        "bio": "Should great anyone method billion. President yard among see power.\nSpecific note attorney every goal senior campaign mind. Generation treat suggest training surface several."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
