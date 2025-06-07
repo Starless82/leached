@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Cruz",
+    "age": 46,
+    "address": {
+        "street": "Harmon Squares",
+        "city": "New Davidshire",
+        "state": "Texas",
+        "zip": "27894"
+    },
+    "contact": {
+        "phone": "+1-326-566-1460x6382",
+        "servicePhone": "800721492"
+    },
+    "birthday": "1979-29-07",
+    "ip": "167.15.148.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Around staff use suddenly. Study itself water social able citizen into speech.\nEspecially local every certain find. Term notice air audience.",
+        "bio": "Two financial film hospital institution language. Often pattern economy know dream Congress official.\nDiscussion have they anything. Energy majority mother officer."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
