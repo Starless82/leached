@@ -1,0 +1,25 @@
+{
+    "name": "Susan Tate",
+    "age": 45,
+    "address": {
+        "street": "Perez Prairie",
+        "city": "Lake Tammy",
+        "state": "Kentucky",
+        "zip": "02855"
+    },
+    "contact": {
+        "phone": "(976)572-5920",
+        "servicePhone": "800122308"
+    },
+    "birthday": "1980-08-05",
+    "ip": "162.167.19.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Area throughout term quite station increase. Away send magazine perhaps stand. Carry executive protect field.\nOur film nearly attention network. Phone own worry on. Manager tonight green.",
+        "bio": "Sure make hit ready instead clearly there. Fund section strong term."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
