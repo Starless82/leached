@@ -1,0 +1,25 @@
+{
+    "name": "Mary Maldonado",
+    "age": 51,
+    "address": {
+        "street": "Justin Road",
+        "city": "East Douglasland",
+        "state": "Kansas",
+        "zip": "79783"
+    },
+    "contact": {
+        "phone": "4233509078",
+        "servicePhone": "800071128"
+    },
+    "birthday": "1974-29-08",
+    "ip": "69.32.76.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Use person machine. Not she individual along cut center life.\nShare black consumer public usually method less sport.\nForm season difficult without take social. If remain growth list establish.",
+        "bio": "Natural prevent condition poor wear. Knowledge research rest interview. Scene recent other item."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
