@@ -1,0 +1,25 @@
+{
+    "name": "Bonnie Thomas",
+    "age": 93,
+    "address": {
+        "street": "Eric Vista",
+        "city": "New Deborahstad",
+        "state": "New Hampshire",
+        "zip": "54394"
+    },
+    "contact": {
+        "phone": "001-994-450-6352x2333",
+        "servicePhone": "800416330"
+    },
+    "birthday": "1932-15-07",
+    "ip": "107.53.85.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Laugh meet yet thus oil friend. According discussion provide investment.\nMean charge structure protect trade decade. Officer note exist save.",
+        "bio": "Program decision other feel task them language. Claim manager ready positive husband ever toward.\nOption during make machine value car. Thank perform western prove hope.\nNote answer prepare marriage."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
