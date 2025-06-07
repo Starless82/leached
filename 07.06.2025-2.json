@@ -1,0 +1,25 @@
+{
+    "name": "Donald Graham",
+    "age": 68,
+    "address": {
+        "street": "Leonard Ridges",
+        "city": "East Paul",
+        "state": "Massachusetts",
+        "zip": "33325"
+    },
+    "contact": {
+        "phone": "(408)379-9851x6424",
+        "servicePhone": "800947947"
+    },
+    "birthday": "1957-10-01",
+    "ip": "10.58.69.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Establish media local detail skill seat none. Kitchen change little candidate.",
+        "bio": "Notice nature drug however and everyone share right. Style type west simply course. Within leave blood small."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
