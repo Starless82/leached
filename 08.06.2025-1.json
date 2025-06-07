@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Brooks",
+    "age": 101,
+    "address": {
+        "street": "Richard Square",
+        "city": "East Tammy",
+        "state": "Wyoming",
+        "zip": "30835"
+    },
+    "contact": {
+        "phone": "823-780-8643",
+        "servicePhone": "800454703"
+    },
+    "birthday": "1924-21-12",
+    "ip": "90.38.52.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Simple career want task. May help look purpose. Beat artist strong toward safe unit. Nearly two sport ask.\nAlready threat beat serve. Require even rich daughter. Official form director simply test.",
+        "bio": "Mind brother sell property plan rest. Traditional history determine large fill become himself. Daughter difficult act him major.\nAccept animal occur agency enter. Line will trip night."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
