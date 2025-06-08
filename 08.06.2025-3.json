@@ -1,0 +1,25 @@
+{
+    "name": "Nathaniel Moses",
+    "age": 0,
+    "address": {
+        "street": "Erickson Ferry",
+        "city": "Ryanbury",
+        "state": "Illinois",
+        "zip": "96763"
+    },
+    "contact": {
+        "phone": "001-776-586-4555x674",
+        "servicePhone": "800711997"
+    },
+    "birthday": "2025-13-04",
+    "ip": "126.109.91.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Full garden whole exist.\nIts but base couple author drop herself. Yeah him garden ten of probably. Drive most unit nature for painting popular.",
+        "bio": "Social everyone natural gas involve. Consider support customer. Laugh where age official word generation. Cut lawyer role."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
