@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Allen",
+    "age": 57,
+    "address": {
+        "street": "Nathan Streets",
+        "city": "Greerborough",
+        "state": "New York",
+        "zip": "12782"
+    },
+    "contact": {
+        "phone": "448-646-8399x313",
+        "servicePhone": "800871597"
+    },
+    "birthday": "1968-08-10",
+    "ip": "75.235.206.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Bed street central thousand concern. Step seek important five boy.\nCarry should whom spend many. Left network financial.",
+        "bio": "Tax skin west over. A pressure indeed rule. Foot my down when beautiful no hit."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
