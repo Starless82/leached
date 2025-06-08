@@ -1,0 +1,25 @@
+{
+    "name": "Randy Molina",
+    "age": 30,
+    "address": {
+        "street": "Jackson Forks",
+        "city": "Marshmouth",
+        "state": "Georgia",
+        "zip": "86502"
+    },
+    "contact": {
+        "phone": "816.558.7371",
+        "servicePhone": "800248772"
+    },
+    "birthday": "1995-17-10",
+    "ip": "104.238.39.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Audience reduce next ahead next actually road. Force down participant material full technology form. Laugh baby become area recognize.",
+        "bio": "Political mission involve involve enough admit help. Anything as marriage public social movement.\nHeavy phone keep term individual peace. Author feeling human base test sound."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
