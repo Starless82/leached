@@ -1,0 +1,25 @@
+{
+    "name": "Catherine Key",
+    "age": 100,
+    "address": {
+        "street": "Richmond Station",
+        "city": "Port Seanchester",
+        "state": "Washington",
+        "zip": "16373"
+    },
+    "contact": {
+        "phone": "286.802.3108x09691",
+        "servicePhone": "800900352"
+    },
+    "birthday": "1925-04-07",
+    "ip": "190.154.41.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Itself report positive you. Heart line environment product. Republican contain wide table job factor.",
+        "bio": "Game individual their agent.\nCultural mention recently tree skill fire. According alone bed physical allow man along."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
