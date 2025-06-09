@@ -1,0 +1,25 @@
+{
+    "name": "Valerie Gutierrez",
+    "age": 2,
+    "address": {
+        "street": "Pearson Circles",
+        "city": "Melissachester",
+        "state": "Illinois",
+        "zip": "36681"
+    },
+    "contact": {
+        "phone": "+1-810-250-2820x413",
+        "servicePhone": "800698375"
+    },
+    "birthday": "2023-22-06",
+    "ip": "40.130.34.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Indicate animal ten civil machine among focus probably. So beautiful set. Ago resource say product thousand.\nCulture behavior staff what story. Society every cover camera enough.",
+        "bio": "Event company until in medical discover film. Ago available most meet day. Month seek ahead effort.\nOne open tend community century charge. Ability return least event time grow."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
