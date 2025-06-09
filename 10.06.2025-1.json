@@ -1,0 +1,25 @@
+{
+    "name": "Ms. Tricia Chandler",
+    "age": 30,
+    "address": {
+        "street": "Kathryn Port",
+        "city": "Ramirezville",
+        "state": "Oklahoma",
+        "zip": "18375"
+    },
+    "contact": {
+        "phone": "(349)686-6866x8589",
+        "servicePhone": "800074817"
+    },
+    "birthday": "1995-30-03",
+    "ip": "130.50.205.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Hear section boy you. Policy could remember artist within poor. Good per perform huge media require end kid.\nTurn trouble thing sister. Rule smile activity five. He reveal stock especially.",
+        "bio": "Its cover shake heavy figure. Easy hot throw important. Everybody message decision party manage tax."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
