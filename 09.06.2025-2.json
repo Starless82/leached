@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Carson",
+    "age": 91,
+    "address": {
+        "street": "Christian Springs",
+        "city": "West Jack",
+        "state": "Maryland",
+        "zip": "37681"
+    },
+    "contact": {
+        "phone": "(700)549-3483x79606",
+        "servicePhone": "800469903"
+    },
+    "birthday": "1934-25-09",
+    "ip": "72.99.69.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Themselves establish pick. Woman strategy hand out.\nFive receive property country. Manager time present somebody. By land summer difference.",
+        "bio": "With talk final risk sit. Than contain body several. Newspaper choose statement official.\nDrop and determine ball they. Mr hold leader will still who lose. Space nothing commercial."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
