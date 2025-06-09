@@ -1,0 +1,25 @@
+{
+    "name": "Michael White",
+    "age": 51,
+    "address": {
+        "street": "Hall Green",
+        "city": "Lake Joshuaside",
+        "state": "Nevada",
+        "zip": "98187"
+    },
+    "contact": {
+        "phone": "(324)511-1712",
+        "servicePhone": "800745731"
+    },
+    "birthday": "1974-29-07",
+    "ip": "117.163.112.37",
+    "foo": "bar",
+    "profile": {
+        "about": "When like news finish audience read make arrive. Available each bag allow policy toward.",
+        "bio": "Interesting structure person list. Staff soon difference rest. Road which north without defense speak hour."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
