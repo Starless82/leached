@@ -1,0 +1,25 @@
+{
+    "name": "Chelsey Johnson",
+    "age": 47,
+    "address": {
+        "street": "David Light",
+        "city": "New Brettmouth",
+        "state": "Colorado",
+        "zip": "18196"
+    },
+    "contact": {
+        "phone": "881-925-7944",
+        "servicePhone": "800105753"
+    },
+    "birthday": "1978-07-11",
+    "ip": "6.174.214.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Film body positive town. Season rather before and computer here. Church majority visit act force.\nTogether while garden analysis them morning indeed. Adult author cut.",
+        "bio": "Approach middle analysis there trip article fire person. Manager leg order act someone. Out administration yeah."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
