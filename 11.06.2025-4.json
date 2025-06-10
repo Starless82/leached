@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Moreno",
+    "age": 40,
+    "address": {
+        "street": "Hatfield Burgs",
+        "city": "Port Victoria",
+        "state": "West Virginia",
+        "zip": "04181"
+    },
+    "contact": {
+        "phone": "9948984033",
+        "servicePhone": "800460874"
+    },
+    "birthday": "1985-12-05",
+    "ip": "20.250.250.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Bill center reality him man control. Increase since agent improve clear factor forward expect.\nLead under they idea yet design. Give continue their general.",
+        "bio": "Become all piece. Despite admit rock Republican argue. Could enjoy take us game.\nExist anyone police tough. Thank crime all trip executive bar. Good assume Democrat east drop make. Put top grow."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
