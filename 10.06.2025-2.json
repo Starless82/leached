@@ -1,0 +1,25 @@
+{
+    "name": "Paul Garcia",
+    "age": 41,
+    "address": {
+        "street": "Jessica Drive",
+        "city": "Rodriguezville",
+        "state": "Vermont",
+        "zip": "62493"
+    },
+    "contact": {
+        "phone": "(264)771-7118",
+        "servicePhone": "800446641"
+    },
+    "birthday": "1984-27-03",
+    "ip": "156.244.133.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Smile interview focus arrive child simply. Candidate include our them represent.\nMatter world ever ok door citizen still time. Wind learn condition front. Whose partner specific.",
+        "bio": "Early history various. Long explain suddenly surface above. Happy bring system conference.\nParticularly around everything.\nWhy ask like. North later finish explain improve. Toward agree camera."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
