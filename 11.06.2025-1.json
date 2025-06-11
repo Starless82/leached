@@ -1,0 +1,25 @@
+{
+    "name": "Michael Meza",
+    "age": 49,
+    "address": {
+        "street": "Wiggins Burgs",
+        "city": "Robertton",
+        "state": "Kansas",
+        "zip": "84040"
+    },
+    "contact": {
+        "phone": "848-716-7616",
+        "servicePhone": "800417319"
+    },
+    "birthday": "1976-08-09",
+    "ip": "34.212.138.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Manage market way when.\nAlone far one might. Will certainly include represent message. Set voice none send add.\nLight financial next war. Century but plant seek.",
+        "bio": "Carry always knowledge one agency recently herself. May plan art he. Government run movie mother candidate get house of."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
