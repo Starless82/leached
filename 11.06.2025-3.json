@@ -1,0 +1,25 @@
+{
+    "name": "Mark Raymond",
+    "age": 59,
+    "address": {
+        "street": "Adam Point",
+        "city": "Kurtside",
+        "state": "Delaware",
+        "zip": "25287"
+    },
+    "contact": {
+        "phone": "(378)566-7014x3651",
+        "servicePhone": "800707250"
+    },
+    "birthday": "1966-18-02",
+    "ip": "71.17.23.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Next peace then go people middle reason. Cost statement pretty again culture.\nCentral partner environmental cultural collection save. Magazine house some end.",
+        "bio": "Large call reason administration. If they step according sea. Something thank everyone.\nSystem material respond event article consumer. Whom between bed. Own price woman policy play."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
