@@ -1,0 +1,25 @@
+{
+    "name": "Michael Friedman",
+    "age": 100,
+    "address": {
+        "street": "Rodgers Light",
+        "city": "Andersonport",
+        "state": "Florida",
+        "zip": "23048"
+    },
+    "contact": {
+        "phone": "+1-283-842-1719x12971",
+        "servicePhone": "800814755"
+    },
+    "birthday": "1925-02-10",
+    "ip": "89.100.199.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Choose note strategy dinner. Partner strategy write.\nMarket house visit current. Technology if agency power agreement approach bring.",
+        "bio": "Seven tree drop likely compare past adult. Agree adult almost name suffer. City drive party event. Attention develop born music.\nOpen do poor minute past in. Course you tax and second character."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
