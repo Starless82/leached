@@ -1,0 +1,25 @@
+{
+    "name": "Kristen Larsen",
+    "age": 35,
+    "address": {
+        "street": "Diaz Viaduct",
+        "city": "Castillofort",
+        "state": "Iowa",
+        "zip": "85122"
+    },
+    "contact": {
+        "phone": "(849)455-5314x16384",
+        "servicePhone": "800691463"
+    },
+    "birthday": "1990-21-12",
+    "ip": "135.156.41.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Building every especially forget value four education off. Week at detail policy realize.",
+        "bio": "Clearly expert campaign it someone throughout speak. Article leg start. Behavior nature hard."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
