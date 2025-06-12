@@ -1,0 +1,25 @@
+{
+    "name": "Eric Jennings",
+    "age": 11,
+    "address": {
+        "street": "Alan Plain",
+        "city": "East Timothy",
+        "state": "Maine",
+        "zip": "95821"
+    },
+    "contact": {
+        "phone": "001-577-419-6621x6168",
+        "servicePhone": "800325397"
+    },
+    "birthday": "2014-28-02",
+    "ip": "116.81.93.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Across seek per direction especially color foreign. Less stuff my. Young follow inside eye. Seven contain sometimes early generation.",
+        "bio": "Simply investment nearly security identify. Any time challenge environmental add beautiful population.\nCard bag suddenly. Dog season never city rather."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
