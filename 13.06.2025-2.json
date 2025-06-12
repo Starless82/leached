@@ -1,0 +1,25 @@
+{
+    "name": "Jesse Weaver",
+    "age": 79,
+    "address": {
+        "street": "Donna Lock",
+        "city": "Rodriguezchester",
+        "state": "Pennsylvania",
+        "zip": "48036"
+    },
+    "contact": {
+        "phone": "001-251-837-8295x8236",
+        "servicePhone": "800520291"
+    },
+    "birthday": "1946-05-11",
+    "ip": "9.163.12.249",
+    "foo": "bar",
+    "profile": {
+        "about": "They arm accept serve tonight. Director defense fill environment.\nYard blood how order. Impact some recent strong. Later help letter instead.",
+        "bio": "Scene close card history wrong budget. Serve image traditional business their form worker. Check sport each special television hope."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
