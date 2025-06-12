@@ -1,0 +1,25 @@
+{
+    "name": "Charles Thompson",
+    "age": 104,
+    "address": {
+        "street": "Kim Ports",
+        "city": "South Jennifer",
+        "state": "South Carolina",
+        "zip": "91473"
+    },
+    "contact": {
+        "phone": "217.351.4278",
+        "servicePhone": "800958900"
+    },
+    "birthday": "1921-26-03",
+    "ip": "182.160.49.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Most American outside. Try focus company speech face though.",
+        "bio": "Woman friend health or lawyer. Perform authority American. Offer join opportunity success.\nWrite require population but actually. Partner Republican write chance."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
