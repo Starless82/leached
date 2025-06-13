@@ -1,0 +1,25 @@
+{
+    "name": "Gloria Martinez",
+    "age": 6,
+    "address": {
+        "street": "Anthony Squares",
+        "city": "Lake Bryanbury",
+        "state": "Maryland",
+        "zip": "36747"
+    },
+    "contact": {
+        "phone": "(801)783-5271",
+        "servicePhone": "800874847"
+    },
+    "birthday": "2019-11-09",
+    "ip": "197.16.112.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Much ground address behavior baby. Sometimes election subject policy.",
+        "bio": "Rule bed feeling serve major. Special others modern Mr rather stuff near forward.\nAct suddenly describe government. Miss throw everyone guy."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
