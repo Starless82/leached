@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Dixon",
+    "age": 90,
+    "address": {
+        "street": "Cobb Throughway",
+        "city": "North Chaseview",
+        "state": "Virginia",
+        "zip": "12389"
+    },
+    "contact": {
+        "phone": "001-863-576-7540x360",
+        "servicePhone": "800869117"
+    },
+    "birthday": "1935-27-03",
+    "ip": "180.106.222.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Yeah probably yard hear third business. Second yeah evidence exactly card sing. Rest despite measure near.",
+        "bio": "Fund statement memory process mention. Outside herself four financial teach side. Second environmental with.\nAllow hope meet. Simply task society discover result former yourself."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
