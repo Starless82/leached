@@ -1,0 +1,25 @@
+{
+    "name": "Robert Dickson",
+    "age": 47,
+    "address": {
+        "street": "Jennifer Mills",
+        "city": "Mitchellfurt",
+        "state": "Nebraska",
+        "zip": "72922"
+    },
+    "contact": {
+        "phone": "(546)406-0161x28942",
+        "servicePhone": "800697705"
+    },
+    "birthday": "1978-01-02",
+    "ip": "122.128.215.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Travel wind land. Most American hospital recognize. Style laugh do food economic teach bill.\nEverything start money million.",
+        "bio": "Their garden memory find open others executive. Traditional control policy past certainly fill.\nChair build camera major. Point rich production. Drug early standard."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
