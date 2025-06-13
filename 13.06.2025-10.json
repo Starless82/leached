@@ -1,0 +1,25 @@
+{
+    "name": "Jenny Yang",
+    "age": 16,
+    "address": {
+        "street": "Jacqueline Stravenue",
+        "city": "West Donald",
+        "state": "Wisconsin",
+        "zip": "40093"
+    },
+    "contact": {
+        "phone": "491.799.8644",
+        "servicePhone": "800444694"
+    },
+    "birthday": "2009-01-12",
+    "ip": "58.130.133.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Mouth cultural project without strong. Evening report success east deep. Whether figure above education together market.",
+        "bio": "Network feel take. Standard pressure travel authority here.\nSecond argue north hand. Take wind summer various option when. Citizen worker actually both either."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
