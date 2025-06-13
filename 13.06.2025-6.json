@@ -1,0 +1,25 @@
+{
+    "name": "Alison Wells",
+    "age": 85,
+    "address": {
+        "street": "Barbara Canyon",
+        "city": "Cannonland",
+        "state": "Nevada",
+        "zip": "82448"
+    },
+    "contact": {
+        "phone": "535.286.8310",
+        "servicePhone": "800187487"
+    },
+    "birthday": "1940-07-09",
+    "ip": "44.212.41.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Task bank perform western night. Pay cut ten item. Single hope kitchen involve protect million.",
+        "bio": "Fill your language. Music lead public support country.\nNation point consider explain. Down and benefit director detail president opportunity. Dog party theory unit for cost house."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
