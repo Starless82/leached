@@ -1,0 +1,25 @@
+{
+    "name": "Maria Martinez",
+    "age": 105,
+    "address": {
+        "street": "Cox Village",
+        "city": "Wellston",
+        "state": "Massachusetts",
+        "zip": "71310"
+    },
+    "contact": {
+        "phone": "988.593.2721",
+        "servicePhone": "800616202"
+    },
+    "birthday": "1920-28-09",
+    "ip": "12.33.14.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Place feeling baby seven letter product. Race save common together policy edge every.\nSure just without each clearly television. Defense issue building seven from garden vote southern.",
+        "bio": "Heavy safe water practice attack time national. Free these effort final religious address. Rise interesting kind medical today third American."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
