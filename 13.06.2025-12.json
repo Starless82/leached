@@ -1,0 +1,25 @@
+{
+    "name": "Gail Moran",
+    "age": 106,
+    "address": {
+        "street": "Hansen Viaduct",
+        "city": "Moralesmouth",
+        "state": "Tennessee",
+        "zip": "48016"
+    },
+    "contact": {
+        "phone": "001-476-211-9191",
+        "servicePhone": "800783045"
+    },
+    "birthday": "1919-13-05",
+    "ip": "89.83.143.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Population interesting important husband development. Behind reveal lay reflect class government note gas.",
+        "bio": "Education any letter source majority. Food discuss thank certainly miss government. Speech film choose deep.\nJoin they majority step. Experience certainly president during value."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
