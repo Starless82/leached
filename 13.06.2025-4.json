@@ -1,0 +1,25 @@
+{
+    "name": "Robert Giles",
+    "age": 81,
+    "address": {
+        "street": "Samuel Mission",
+        "city": "Lake Stephen",
+        "state": "North Carolina",
+        "zip": "27555"
+    },
+    "contact": {
+        "phone": "872.445.0626",
+        "servicePhone": "800751984"
+    },
+    "birthday": "1944-03-03",
+    "ip": "149.234.112.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Official person shake reflect pick table. Player once along language.\nBecome part perform PM even people represent attention.",
+        "bio": "Rich pattern detail food age could. Body participant street important president various.\nColor five detail worry yard. Hit left finish ok trip same."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
