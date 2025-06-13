@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Torres",
+    "age": 107,
+    "address": {
+        "street": "Jay Fall",
+        "city": "New Jorgebury",
+        "state": "Pennsylvania",
+        "zip": "27860"
+    },
+    "contact": {
+        "phone": "(558)711-8428",
+        "servicePhone": "800916488"
+    },
+    "birthday": "1918-10-08",
+    "ip": "97.166.63.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Include interview exactly here not. Response project action case season statement. Attack summer later major black. Need always go fine.",
+        "bio": "Describe position report employee reduce need. I church speech space vote else degree peace. Weight image agree establish third hand people."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
