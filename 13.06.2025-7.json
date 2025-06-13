@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan May",
+    "age": 64,
+    "address": {
+        "street": "Ramos Brook",
+        "city": "North Joshuatown",
+        "state": "Wyoming",
+        "zip": "04960"
+    },
+    "contact": {
+        "phone": "(270)734-7073x95965",
+        "servicePhone": "800396841"
+    },
+    "birthday": "1961-31-07",
+    "ip": "11.172.36.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Big never line half.\nClear build seem much present specific. Among red character defense pull ago record space. Dog arrive call dinner decision thus.",
+        "bio": "Four within thousand analysis mind. Must successful series budget page somebody in. Despite task voice him life area. Minute wait give will reduce."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
