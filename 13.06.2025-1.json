@@ -1,0 +1,25 @@
+{
+    "name": "Scott Webb",
+    "age": 16,
+    "address": {
+        "street": "Laura Plains",
+        "city": "Wademouth",
+        "state": "Michigan",
+        "zip": "42000"
+    },
+    "contact": {
+        "phone": "+1-521-507-8547",
+        "servicePhone": "800695356"
+    },
+    "birthday": "2009-16-06",
+    "ip": "91.22.118.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Question performance although something price sort. Arrive hot face lead instead. Health dream father produce name good.\nMorning stage music build or. Day rich article social write amount.",
+        "bio": "With movie manager. Idea every American talk.\nThat peace agreement change. None drug consider little oil. Take similar per require prevent."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
