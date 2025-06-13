@@ -1,0 +1,25 @@
+{
+    "name": "Kristy Smith",
+    "age": 85,
+    "address": {
+        "street": "Miller Summit",
+        "city": "Howardshire",
+        "state": "South Carolina",
+        "zip": "67036"
+    },
+    "contact": {
+        "phone": "(869)585-7872",
+        "servicePhone": "800561068"
+    },
+    "birthday": "1940-07-04",
+    "ip": "43.244.181.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Race room road score. One but last institution eye board low.\nThem fund write ball sound offer reality. Card reach woman goal church face. Somebody half she hope two.",
+        "bio": "Floor particular old customer whatever second real. Head deal receive focus.\nMemory group well boy air either southern. Include stuff produce event bag."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
