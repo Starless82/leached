@@ -1,0 +1,25 @@
+{
+    "name": "Gabriel Smith",
+    "age": 48,
+    "address": {
+        "street": "Sharp Villages",
+        "city": "Lake Jennifer",
+        "state": "Utah",
+        "zip": "38412"
+    },
+    "contact": {
+        "phone": "361.289.6067",
+        "servicePhone": "800286083"
+    },
+    "birthday": "1977-14-10",
+    "ip": "29.184.104.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Long simply onto upon subject smile wife. Hot see bit look.\nBody produce beat air born century economy. Bad relationship nothing control similar soon. How theory special meet.",
+        "bio": "Understand defense outside event. Maintain war spend. Lose every system hope everyone growth wide.\nOff recently someone quite. Wish minute stand work site whose news."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
