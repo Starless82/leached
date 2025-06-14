@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Moore",
+    "age": 62,
+    "address": {
+        "street": "Steven Crossroad",
+        "city": "East Jeremy",
+        "state": "Indiana",
+        "zip": "96017"
+    },
+    "contact": {
+        "phone": "759.870.2433x54083",
+        "servicePhone": "800026053"
+    },
+    "birthday": "1963-17-06",
+    "ip": "195.88.98.23",
+    "foo": "bar",
+    "profile": {
+        "about": "If window tend society resource stand. Already he talk moment final collection.\nPresident thank hotel space production. Social yes wrong and two seven huge. Card prepare ground away wall story.",
+        "bio": "Identify local unit different minute. Simply training brother quality try community discuss create. Culture daughter recognize these."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
