@@ -1,0 +1,25 @@
+{
+    "name": "Casey Bell",
+    "age": 5,
+    "address": {
+        "street": "David Hill",
+        "city": "Elizabethborough",
+        "state": "Wisconsin",
+        "zip": "92942"
+    },
+    "contact": {
+        "phone": "8437793837",
+        "servicePhone": "800110228"
+    },
+    "birthday": "2020-08-08",
+    "ip": "22.49.142.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Amount pressure employee data toward. Member sort less machine end people.\nBoy tell chair sit Congress act executive. Far win lead body economy central. Rise large college reach half board arm.",
+        "bio": "Writer million step not. Entire effect during.\nEntire five mind government. Here nearly enter bag. Address expect chair.\nLook hold mission window. Establish store buy arm same."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
