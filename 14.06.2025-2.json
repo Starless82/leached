@@ -1,0 +1,25 @@
+{
+    "name": "Monica Becker",
+    "age": 88,
+    "address": {
+        "street": "Patricia Creek",
+        "city": "East Jonathonborough",
+        "state": "Vermont",
+        "zip": "71304"
+    },
+    "contact": {
+        "phone": "416.544.8100x05157",
+        "servicePhone": "800658975"
+    },
+    "birthday": "1937-17-06",
+    "ip": "41.34.132.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Kid strategy this direction wrong voice. Approach quickly need another citizen pressure war.",
+        "bio": "Look model pressure foreign. Join your choice development job eight purpose morning."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
