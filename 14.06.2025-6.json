@@ -1,0 +1,25 @@
+{
+    "name": "Heather Ramos",
+    "age": 79,
+    "address": {
+        "street": "Thomas Ferry",
+        "city": "South Steve",
+        "state": "Massachusetts",
+        "zip": "17944"
+    },
+    "contact": {
+        "phone": "(635)624-3386",
+        "servicePhone": "800095888"
+    },
+    "birthday": "1946-15-07",
+    "ip": "58.88.72.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Center move purpose cut relate PM. To international possible team defense. Pick its effect process.\nStore really good pretty me miss. Part control writer few.",
+        "bio": "Main cover crime morning throw. Behind news choice old far month. Red form deep standard.\nReligious goal accept property. Deal agree choice believe education how. Method customer city federal."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
