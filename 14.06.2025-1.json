@@ -1,0 +1,25 @@
+{
+    "name": "David Beltran",
+    "age": 115,
+    "address": {
+        "street": "Davis Lights",
+        "city": "North Christopherbury",
+        "state": "California",
+        "zip": "09931"
+    },
+    "contact": {
+        "phone": "524.286.2835x42927",
+        "servicePhone": "800567745"
+    },
+    "birthday": "1910-07-10",
+    "ip": "145.207.0.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Yet somebody simple run. Ok pretty ever.\nRoom effort rather particularly. Former free while eat she huge. Always young team wear exist at.",
+        "bio": "Hotel easy prevent marriage society. Available pull account dinner better heart gun. Fish soldier half coach purpose year later beautiful."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
