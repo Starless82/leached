@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Thomas",
+    "age": 12,
+    "address": {
+        "street": "Diaz Ridge",
+        "city": "Rochachester",
+        "state": "Delaware",
+        "zip": "79763"
+    },
+    "contact": {
+        "phone": "001-860-347-3390x052",
+        "servicePhone": "800584435"
+    },
+    "birthday": "2013-24-06",
+    "ip": "13.80.23.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Media catch team myself though describe if. Each without most ability. Need matter history Republican prove.",
+        "bio": "Style drive no guy my. Film total if shoulder always star thank.\nAmount lose wonder small than thought real. Evening light key woman board one and. Congress into employee gas remember."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
