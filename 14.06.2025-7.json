@@ -1,0 +1,25 @@
+{
+    "name": "Allison Jones",
+    "age": 58,
+    "address": {
+        "street": "Simmons Plains",
+        "city": "North Ralphchester",
+        "state": "Wyoming",
+        "zip": "01134"
+    },
+    "contact": {
+        "phone": "307-420-3698",
+        "servicePhone": "800044526"
+    },
+    "birthday": "1967-16-02",
+    "ip": "161.104.185.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Spring once rather state quality series organization. Somebody field safe happy.\nEdge herself gas the. Care discussion gas.",
+        "bio": "Nature occur time behavior response you.\nBody star so those fish raise. Another power mean week. See bar start party ten ability.\nSituation someone after age. View hair decide best stuff or."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
