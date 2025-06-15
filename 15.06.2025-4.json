@@ -1,0 +1,25 @@
+{
+    "name": "Cheryl Howard",
+    "age": 68,
+    "address": {
+        "street": "Burgess Walks",
+        "city": "Taylortown",
+        "state": "Vermont",
+        "zip": "56115"
+    },
+    "contact": {
+        "phone": "001-792-748-7312x534",
+        "servicePhone": "800864155"
+    },
+    "birthday": "1957-16-01",
+    "ip": "137.213.184.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Toward free health business PM assume both. Thousand use policy fly eye particular sign. Surface range education participant.",
+        "bio": "Would reflect factor with task that. Reach pull price start eat. Run believe me mention.\nFish deal story science itself church nation lay. Could determine cost pass eat read. High some employee help."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
