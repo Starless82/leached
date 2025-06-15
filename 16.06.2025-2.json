@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Jimenez MD",
+    "age": 38,
+    "address": {
+        "street": "Richardson Crossroad",
+        "city": "Port Julie",
+        "state": "Indiana",
+        "zip": "05921"
+    },
+    "contact": {
+        "phone": "4407987652",
+        "servicePhone": "800766496"
+    },
+    "birthday": "1987-21-02",
+    "ip": "193.148.176.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Avoid mind my area tonight let yet nor. Foot analysis see room. Until tend seat probably its.",
+        "bio": "Voice traditional college before health scene pretty down.\nSmall particular red house friend be summer. Foot operation artist order least. Allow anyone offer this star himself."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
