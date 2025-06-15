@@ -1,0 +1,25 @@
+{
+    "name": "Corey Meadows",
+    "age": 34,
+    "address": {
+        "street": "Shannon Springs",
+        "city": "Martinezhaven",
+        "state": "Florida",
+        "zip": "10917"
+    },
+    "contact": {
+        "phone": "840-678-6795x796",
+        "servicePhone": "800455055"
+    },
+    "birthday": "1991-18-02",
+    "ip": "26.208.147.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Health music serious thank perform make manager. Beyond event record human six outside. Join finish civil soon.",
+        "bio": "Partner budget kid other serious mean book. Loss agent four service thank of shake after.\nArm affect leader edge her sort whether. Crime turn industry."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
