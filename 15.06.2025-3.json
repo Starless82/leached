@@ -1,0 +1,25 @@
+{
+    "name": "Miranda Bauer",
+    "age": 40,
+    "address": {
+        "street": "David Passage",
+        "city": "South Summerland",
+        "state": "West Virginia",
+        "zip": "41630"
+    },
+    "contact": {
+        "phone": "+1-368-739-4755",
+        "servicePhone": "800483240"
+    },
+    "birthday": "1985-16-04",
+    "ip": "128.190.106.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Spend very political similar technology year head. Name part teach get.\nBring senior again. People will gun image program record issue. Myself board sure tax thank control away.",
+        "bio": "Stay fish another mother method. Much country today board myself.\nMove rate major. Image time usually focus view letter perhaps.\nManager decade wall with country. Recognize decide world significant."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
