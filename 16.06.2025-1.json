@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Miranda",
+    "age": 38,
+    "address": {
+        "street": "Johnston Inlet",
+        "city": "North Stephenview",
+        "state": "West Virginia",
+        "zip": "83617"
+    },
+    "contact": {
+        "phone": "289-833-3180",
+        "servicePhone": "800930949"
+    },
+    "birthday": "1987-09-04",
+    "ip": "39.3.62.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Human according however add audience summer. Buy those recognize right never do at. Economic meet he thank somebody.",
+        "bio": "Voice again allow I kind owner trial. Everybody bad read degree particular take yeah group. Soon nor more nothing."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
