@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Wong",
+    "age": 75,
+    "address": {
+        "street": "Anderson Ferry",
+        "city": "Erictown",
+        "state": "Utah",
+        "zip": "95009"
+    },
+    "contact": {
+        "phone": "(882)463-1936x714",
+        "servicePhone": "800040798"
+    },
+    "birthday": "1950-14-11",
+    "ip": "177.57.158.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Candidate say cell heart newspaper stay late will. Near interview suffer enough music.\nChurch particular dark compare commercial. Agree wide shake receive try.",
+        "bio": "Lose outside west answer task parent manager better. Avoid option increase sound remain.\nWeight away probably. Event history teacher blue boy. Simple between shoulder itself sort fight level."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
