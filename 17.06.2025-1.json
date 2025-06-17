@@ -1,0 +1,25 @@
+{
+    "name": "Casey Lopez",
+    "age": 25,
+    "address": {
+        "street": "Maria Lights",
+        "city": "Kellyville",
+        "state": "Connecticut",
+        "zip": "78899"
+    },
+    "contact": {
+        "phone": "001-383-766-3313",
+        "servicePhone": "800173818"
+    },
+    "birthday": "2000-31-03",
+    "ip": "123.151.90.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Or speak mean western. Hold amount community party.\nHuge write worker air really. Fire may wind college. Whether ahead place firm.",
+        "bio": "Size perhaps subject cause. Bill country generation reduce perhaps others west. Game top hear keep hope other case look."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
