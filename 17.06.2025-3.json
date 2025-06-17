@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Reed",
+    "age": 23,
+    "address": {
+        "street": "Key Meadows",
+        "city": "Jonathanville",
+        "state": "Arkansas",
+        "zip": "02797"
+    },
+    "contact": {
+        "phone": "337-555-8792",
+        "servicePhone": "800681483"
+    },
+    "birthday": "2002-13-04",
+    "ip": "75.254.99.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Best TV concern happy call generation above.\nIncrease consumer believe evening natural turn couple. Present us prevent step pull policy.",
+        "bio": "Beat truth somebody reduce. Law green since animal population network speak.\nHelp capital forward thousand nice relate individual. Least level accept myself tree cell."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
