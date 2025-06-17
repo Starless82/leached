@@ -1,0 +1,25 @@
+{
+    "name": "Lori Gonzalez",
+    "age": 35,
+    "address": {
+        "street": "Tristan Corner",
+        "city": "Katelynside",
+        "state": "Idaho",
+        "zip": "26582"
+    },
+    "contact": {
+        "phone": "493.451.0307",
+        "servicePhone": "800077720"
+    },
+    "birthday": "1990-16-01",
+    "ip": "191.49.62.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Site scientist note amount. Country box north control fact. Gun partner day front prove show these series.\nLife standard ask rule chair clearly. About brother good cold sign.",
+        "bio": "Financial despite professor wish everything. Front customer seven image pass you meet.\nValue treatment employee word news weight that cause. Treatment along miss send upon fact wife."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
