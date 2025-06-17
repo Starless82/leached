@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Franklin",
+    "age": 59,
+    "address": {
+        "street": "Morris Summit",
+        "city": "Lake Dominiquemouth",
+        "state": "South Carolina",
+        "zip": "80236"
+    },
+    "contact": {
+        "phone": "611.225.3665",
+        "servicePhone": "800954318"
+    },
+    "birthday": "1966-04-08",
+    "ip": "30.66.171.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Move any expert hotel service head enjoy. Foreign system amount today.\nStart ground wide fear sister field kind little. Wear record should kitchen method investment. Quite anyone eye item great.",
+        "bio": "Another war letter marriage. View space wonder region activity act."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
