@@ -1,0 +1,25 @@
+{
+    "name": "Wendy Johnson",
+    "age": 39,
+    "address": {
+        "street": "Ward Road",
+        "city": "Lake Claytonport",
+        "state": "South Carolina",
+        "zip": "40192"
+    },
+    "contact": {
+        "phone": "2702172253",
+        "servicePhone": "800192589"
+    },
+    "birthday": "1986-03-09",
+    "ip": "117.116.121.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Hard north moment speech improve black offer kid. One short upon culture.\nBe feeling beautiful you go last really arm.",
+        "bio": "Major enough base rule sure set gun remember. As feel maintain single minute about between.\nBeyond beyond sense partner strategy. Particular send edge hear."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
