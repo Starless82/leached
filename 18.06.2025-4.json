@@ -1,0 +1,25 @@
+{
+    "name": "Stacey Bender",
+    "age": 109,
+    "address": {
+        "street": "Sheri Unions",
+        "city": "New Phillip",
+        "state": "Montana",
+        "zip": "52514"
+    },
+    "contact": {
+        "phone": "283.549.3702x929",
+        "servicePhone": "800229074"
+    },
+    "birthday": "1916-10-09",
+    "ip": "210.237.60.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Move contain company organization TV party. Student do raise himself movement. Social ok last final power. Baby citizen job they enjoy return.",
+        "bio": "Check serve moment reveal. Project spend simply design.\nSea better write. Happen which seek history its doctor. College long through thank city."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
