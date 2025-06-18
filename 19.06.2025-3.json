@@ -1,0 +1,25 @@
+{
+    "name": "Amy Davis",
+    "age": 100,
+    "address": {
+        "street": "Kristen Via",
+        "city": "Morrowville",
+        "state": "Maine",
+        "zip": "47776"
+    },
+    "contact": {
+        "phone": "(211)464-3840x943",
+        "servicePhone": "800311735"
+    },
+    "birthday": "1925-28-03",
+    "ip": "27.250.255.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Sure clearly season son front war speak. Generation amount human difference. Laugh blood democratic no.\nDecade difficult price. Life party policy. Wait together thousand American chair so age.",
+        "bio": "With name note voice. Run artist speech avoid.\nReach drug guy federal society. Traditional yes difference."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
