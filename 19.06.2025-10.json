@@ -1,0 +1,25 @@
+{
+    "name": "Bradley Rose",
+    "age": 100,
+    "address": {
+        "street": "Brown Valley",
+        "city": "Port Victoriaborough",
+        "state": "Maine",
+        "zip": "23658"
+    },
+    "contact": {
+        "phone": "348.784.5373x861",
+        "servicePhone": "800980372"
+    },
+    "birthday": "1925-03-03",
+    "ip": "84.110.60.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Else candidate itself example deal raise hear. Up or change leader feeling.\nFriend party participant big page idea wrong. Method out some window. Vote fast strategy bank care anyone cover light.",
+        "bio": "Sometimes writer free interview certainly there. Including moment win first everybody foot. Economic question any difference nice ten military."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
