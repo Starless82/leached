@@ -1,0 +1,25 @@
+{
+    "name": "Madison Day",
+    "age": 65,
+    "address": {
+        "street": "Crawford Unions",
+        "city": "Baldwinbury",
+        "state": "Missouri",
+        "zip": "63249"
+    },
+    "contact": {
+        "phone": "001-398-592-1516x26557",
+        "servicePhone": "800101277"
+    },
+    "birthday": "1960-04-09",
+    "ip": "142.238.101.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Minute those little company happy never anyone. Should teach cultural station sing special. Main paper smile security so data.\nBlue clear fast source. Should person position forward question.",
+        "bio": "Dream husband blue. Couple check nothing none stuff skill. Kitchen peace nothing film quickly stuff international try. White make get scientist allow."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
