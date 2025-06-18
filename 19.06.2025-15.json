@@ -1,0 +1,25 @@
+{
+    "name": "Grant Summers",
+    "age": 106,
+    "address": {
+        "street": "Carrillo Gateway",
+        "city": "Tiffanyside",
+        "state": "New Jersey",
+        "zip": "67796"
+    },
+    "contact": {
+        "phone": "(619)246-8987",
+        "servicePhone": "800258862"
+    },
+    "birthday": "1919-28-05",
+    "ip": "166.28.252.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Answer station spring manage onto include find. Provide best able begin stuff agency. Road management your story true send standard call.",
+        "bio": "Record purpose professor find.\nEmployee by responsibility course enough upon where student. Yeah yet mind school also religious.\nEvening use both thought. Like six agency believe."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
