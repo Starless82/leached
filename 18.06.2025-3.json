@@ -1,0 +1,25 @@
+{
+    "name": "Gerald Gregory",
+    "age": 15,
+    "address": {
+        "street": "Wu Estate",
+        "city": "North Latashaport",
+        "state": "Maine",
+        "zip": "33503"
+    },
+    "contact": {
+        "phone": "575-947-9472x126",
+        "servicePhone": "800004208"
+    },
+    "birthday": "2010-29-03",
+    "ip": "138.73.31.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Game state clearly size difficult. Information smile grow name window government same.\nMother news else than.\nHundred last have discover business today sense. Recent save suggest window a.",
+        "bio": "Good degree will door. First if theory its big among. Miss grow carry strategy. Account energy ok gun Democrat lot future discuss."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
