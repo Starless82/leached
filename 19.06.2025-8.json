@@ -1,0 +1,25 @@
+{
+    "name": "Donald Mullins",
+    "age": 46,
+    "address": {
+        "street": "Gary Prairie",
+        "city": "Johnsberg",
+        "state": "Iowa",
+        "zip": "73421"
+    },
+    "contact": {
+        "phone": "943-630-0308x03125",
+        "servicePhone": "800062189"
+    },
+    "birthday": "1979-30-08",
+    "ip": "95.208.251.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Really among very local why. Travel start together idea method cell.",
+        "bio": "Last else which crime. Year worker edge nation machine national thing.\nAgain chair college simple story. Statement later century method behind close. Back edge six account himself."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
