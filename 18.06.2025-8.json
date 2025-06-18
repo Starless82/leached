@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Hernandez",
+    "age": 18,
+    "address": {
+        "street": "John Lane",
+        "city": "Amberfurt",
+        "state": "Massachusetts",
+        "zip": "04578"
+    },
+    "contact": {
+        "phone": "001-870-754-3033x04261",
+        "servicePhone": "800088983"
+    },
+    "birthday": "2007-11-01",
+    "ip": "69.102.96.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Spend win Mr spring that man. Pressure coach without explain step effect nation stage. Chair task plan score lawyer accept.",
+        "bio": "Old understand put eight. Yard around will. Ground care benefit coach describe medical."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
