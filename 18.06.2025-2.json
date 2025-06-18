@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Johnson",
+    "age": 7,
+    "address": {
+        "street": "Anthony Terrace",
+        "city": "North Jaredshire",
+        "state": "South Carolina",
+        "zip": "81248"
+    },
+    "contact": {
+        "phone": "938.918.7695x447",
+        "servicePhone": "800602363"
+    },
+    "birthday": "2018-28-02",
+    "ip": "195.51.20.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Single present capital scene without stand reason. Writer wall ground state job him. Impact hospital set worry book.\nEasy take more along network. Wear condition owner sit.",
+        "bio": "Cell upon necessary. Entire oil sister education.\nEat example you just save bring. Board ok ask him value. Represent budget Republican building wait evidence song."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
