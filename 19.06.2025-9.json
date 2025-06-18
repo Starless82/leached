@@ -1,0 +1,25 @@
+{
+    "name": "Kara Lewis",
+    "age": 78,
+    "address": {
+        "street": "Rivera Isle",
+        "city": "New Christopher",
+        "state": "Colorado",
+        "zip": "49708"
+    },
+    "contact": {
+        "phone": "9414329518",
+        "servicePhone": "800525598"
+    },
+    "birthday": "1947-14-01",
+    "ip": "191.150.103.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Television memory consider usually despite. Evidence billion culture reduce base opportunity beat. Blood adult government the receive idea evidence.",
+        "bio": "Sister side nearly almost. Catch defense about reflect visit focus second. Majority trip authority significant national know popular much.\nGarden likely assume economy."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
