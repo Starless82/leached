@@ -1,0 +1,25 @@
+{
+    "name": "Drew Brown",
+    "age": 82,
+    "address": {
+        "street": "Christopher Prairie",
+        "city": "West Jill",
+        "state": "Idaho",
+        "zip": "65609"
+    },
+    "contact": {
+        "phone": "7899355456",
+        "servicePhone": "800283636"
+    },
+    "birthday": "1943-18-02",
+    "ip": "168.184.211.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Education paper while article standard daughter.\nKnowledge environmental me information. Class step military wish sea decide leg recent.",
+        "bio": "Image beautiful wrong trial key senior yes explain. Stand data continue process travel.\nGreen statement be protect police. She want student partner."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
