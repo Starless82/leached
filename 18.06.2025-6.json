@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline Sullivan",
+    "age": 27,
+    "address": {
+        "street": "Johnson Wells",
+        "city": "Jamesfort",
+        "state": "Louisiana",
+        "zip": "65317"
+    },
+    "contact": {
+        "phone": "9502765952",
+        "servicePhone": "800979229"
+    },
+    "birthday": "1998-21-07",
+    "ip": "221.146.254.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Now every list sell. Attention thus area fall. Term over state both.\nDrug street up have office there. Product nice find reality.\nSocial summer history idea. Save word find north share area decision.",
+        "bio": "Oil contain take member statement within newspaper.\nDetermine throughout chance pick wide start process."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
