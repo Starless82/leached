@@ -1,0 +1,25 @@
+{
+    "name": "Cassandra Thomas",
+    "age": 64,
+    "address": {
+        "street": "Daniel Drives",
+        "city": "New Chloe",
+        "state": "Louisiana",
+        "zip": "50772"
+    },
+    "contact": {
+        "phone": "971-874-4852x8936",
+        "servicePhone": "800588577"
+    },
+    "birthday": "1961-29-03",
+    "ip": "29.79.42.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Once human church move. Not bag letter dream sister. Effort easy financial soldier skin anything rock.",
+        "bio": "Center truth stand reason space on. Change team modern practice hot fall. Throw marriage me myself level. Trial mouth feeling when hear some oil."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
