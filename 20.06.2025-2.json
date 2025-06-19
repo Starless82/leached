@@ -1,0 +1,25 @@
+{
+    "name": "Martha Conner",
+    "age": 22,
+    "address": {
+        "street": "Raymond Roads",
+        "city": "Port Joseph",
+        "state": "Alaska",
+        "zip": "20780"
+    },
+    "contact": {
+        "phone": "001-237-785-8724x19836",
+        "servicePhone": "800583225"
+    },
+    "birthday": "2003-22-08",
+    "ip": "118.178.220.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Structure discover inside heart across. Loss decision consider here often any chance. Power economy deal.",
+        "bio": "Situation heavy base let think. Town partner close effort purpose.\nOnly move administration ground choose. House figure kid relationship white year attorney. Describe agent around peace."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
