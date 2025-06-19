@@ -1,0 +1,25 @@
+{
+    "name": "Krystal Barnes",
+    "age": 102,
+    "address": {
+        "street": "Cunningham Street",
+        "city": "Pruittfort",
+        "state": "Connecticut",
+        "zip": "73754"
+    },
+    "contact": {
+        "phone": "001-796-679-5278x76612",
+        "servicePhone": "800825826"
+    },
+    "birthday": "1923-24-07",
+    "ip": "163.50.240.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Rather fight perhaps animal laugh admit. Fire show with could focus.\nResearch figure federal campaign. Quickly card dinner sound.",
+        "bio": "Understand price dinner either least. After statement office guy never. Rather city perform college quite.\nIdentify building table itself scene book man score. Simple clear per cultural we."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
