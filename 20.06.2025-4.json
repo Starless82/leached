@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Morrison",
+    "age": 39,
+    "address": {
+        "street": "Steve Isle",
+        "city": "New Keithstad",
+        "state": "Washington",
+        "zip": "59703"
+    },
+    "contact": {
+        "phone": "(834)553-0331x1864",
+        "servicePhone": "800520890"
+    },
+    "birthday": "1986-16-03",
+    "ip": "16.199.149.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Newspaper lead necessary shake. Prevent available later politics become near. Piece close way everything world despite course.",
+        "bio": "Major into walk north play significant PM he. Interesting one scene culture commercial those surface.\nNorth beyond movement boy positive. Most play economic customer job soon house."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
