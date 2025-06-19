@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Bishop",
+    "age": 7,
+    "address": {
+        "street": "Burton Shore",
+        "city": "North Timothy",
+        "state": "Vermont",
+        "zip": "73939"
+    },
+    "contact": {
+        "phone": "(755)872-8282",
+        "servicePhone": "800335412"
+    },
+    "birthday": "2018-27-01",
+    "ip": "201.46.236.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Red learn behind sometimes respond quite. Capital though prove movie president history head agree. Democratic former three write.\nEye edge them understand tax born structure color.",
+        "bio": "Section create move expert business safe. Movement product former glass.\nCar resource those whatever film. Season staff network. Floor class amount. Commercial quickly PM use last light."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
