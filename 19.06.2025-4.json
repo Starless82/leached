@@ -1,0 +1,25 @@
+{
+    "name": "Mike Robinson",
+    "age": 86,
+    "address": {
+        "street": "Bray Parks",
+        "city": "South Sara",
+        "state": "Wyoming",
+        "zip": "77347"
+    },
+    "contact": {
+        "phone": "616-894-9731",
+        "servicePhone": "800962220"
+    },
+    "birthday": "1939-04-04",
+    "ip": "163.178.30.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Significant current difficult. Ready generation write south behavior them.\nOther sea reflect movie rise five than.\nBill add authority human. Between western beautiful already none deep.",
+        "bio": "When fine Mrs father effort. Senior art possible know recently old car."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
