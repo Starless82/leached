@@ -1,0 +1,25 @@
+{
+    "name": "Julie White",
+    "age": 100,
+    "address": {
+        "street": "Howell Fork",
+        "city": "Wilsonview",
+        "state": "Massachusetts",
+        "zip": "49694"
+    },
+    "contact": {
+        "phone": "+1-850-672-9011x77357",
+        "servicePhone": "800517736"
+    },
+    "birthday": "1925-26-09",
+    "ip": "59.12.165.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Occur way amount occur provide save. Building large character coach. Compare notice painting teacher follow also.\nAuthor city because through operation. Even fact music could ahead.",
+        "bio": "Growth care really need good. Thing those decide describe medical break exactly per. History wait culture hold southern sport."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
