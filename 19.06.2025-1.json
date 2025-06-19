@@ -1,0 +1,25 @@
+{
+    "name": "Meghan Ali",
+    "age": 4,
+    "address": {
+        "street": "Crawford Shore",
+        "city": "South Amber",
+        "state": "North Dakota",
+        "zip": "99521"
+    },
+    "contact": {
+        "phone": "969.313.0439x1141",
+        "servicePhone": "800784983"
+    },
+    "birthday": "2021-09-04",
+    "ip": "197.165.75.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Catch follow wish position reality teach lot. Official tax cause and development appear carry. Rate wish just it.\nAct ok read such myself chair. Program speech lead debate indicate do far.",
+        "bio": "Finally set five him number physical. Base seem girl maintain. Pretty score guy read single later."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
