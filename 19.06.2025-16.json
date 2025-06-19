@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Ryan",
+    "age": 40,
+    "address": {
+        "street": "Mccormick Parkway",
+        "city": "Freyville",
+        "state": "Illinois",
+        "zip": "93967"
+    },
+    "contact": {
+        "phone": "001-314-861-8853x648",
+        "servicePhone": "800923257"
+    },
+    "birthday": "1985-20-03",
+    "ip": "114.17.21.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Spring near tonight. Response hope compare thank lose. Benefit source car short number agent.\nCareer deep war fish line behavior degree sell. Anything specific yet world.",
+        "bio": "Address realize to center mother kid tell. Receive executive opportunity study open law policy few."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
