@@ -1,0 +1,25 @@
+{
+    "name": "Michael Mcgee",
+    "age": 18,
+    "address": {
+        "street": "Cain Isle",
+        "city": "Lake Ericbury",
+        "state": "California",
+        "zip": "13927"
+    },
+    "contact": {
+        "phone": "001-882-391-9921x683",
+        "servicePhone": "800503306"
+    },
+    "birthday": "2007-13-06",
+    "ip": "103.23.249.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Safe although several you short. Cost market remember someone day student. Follow impact month near Congress.",
+        "bio": "It always power difficult include. Sit organization police mother subject home to.\nSeason relationship real enough. Worry real foreign."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
