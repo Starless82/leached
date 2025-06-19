@@ -1,0 +1,25 @@
+{
+    "name": "Alexandria Meyers",
+    "age": 66,
+    "address": {
+        "street": "Amanda Mountains",
+        "city": "New Jenniferburgh",
+        "state": "Kentucky",
+        "zip": "36757"
+    },
+    "contact": {
+        "phone": "(459)414-0466x269",
+        "servicePhone": "800856067"
+    },
+    "birthday": "1959-21-08",
+    "ip": "221.24.208.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Recent leg friend voice assume national hospital. Phone economy only from agree within. Kid sea society why total another.\nAlong enter avoid early actually we I. Low over nature worker.",
+        "bio": "Itself local within hold. Owner bit effect.\nTheory land worker pattern. The certain forward town. Section article although century common financial window."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
