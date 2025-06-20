@@ -1,0 +1,25 @@
+{
+    "name": "Steven Ward",
+    "age": 32,
+    "address": {
+        "street": "Marie Lakes",
+        "city": "Manningstad",
+        "state": "Kentucky",
+        "zip": "06640"
+    },
+    "contact": {
+        "phone": "001-912-608-6759x16659",
+        "servicePhone": "800019819"
+    },
+    "birthday": "1993-21-01",
+    "ip": "170.31.249.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Coach today money heart political social other must. Several mention once admit evidence now. Team east seat rise indicate.",
+        "bio": "Plant list student job this technology simple account. Word artist catch of hand evening policy. Upon few attorney so glass phone."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
