@@ -1,0 +1,25 @@
+{
+    "name": "Dylan Baldwin",
+    "age": 38,
+    "address": {
+        "street": "Joseph Underpass",
+        "city": "East Angelaside",
+        "state": "Indiana",
+        "zip": "58659"
+    },
+    "contact": {
+        "phone": "(246)408-9294",
+        "servicePhone": "800645969"
+    },
+    "birthday": "1987-08-02",
+    "ip": "216.51.183.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Happy stage really well government little. Purpose once join talk. Window west strategy city beyond shoulder time room. Approach resource drug phone special.",
+        "bio": "Between edge film hospital thing. Article find action all toward learn less. Feel difficult quite woman cut skin."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
