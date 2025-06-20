@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Bond",
+    "age": 104,
+    "address": {
+        "street": "Hansen Prairie",
+        "city": "Mariaberg",
+        "state": "Delaware",
+        "zip": "94189"
+    },
+    "contact": {
+        "phone": "427.735.4464",
+        "servicePhone": "800727785"
+    },
+    "birthday": "1921-25-03",
+    "ip": "38.122.67.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Food much law surface animal state.\nNearly brother authority smile writer success treat. Around collection industry chair. Federal manage much order gas single.",
+        "bio": "Catch soon two rise west wife method. A staff policy floor mean for federal. Degree character oil consumer will father.\nThemselves education set we probably. Production simple look."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
