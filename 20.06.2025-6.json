@@ -1,0 +1,25 @@
+{
+    "name": "Christina Perry",
+    "age": 11,
+    "address": {
+        "street": "Lawson Lights",
+        "city": "Hurstside",
+        "state": "Missouri",
+        "zip": "22656"
+    },
+    "contact": {
+        "phone": "873.930.2646",
+        "servicePhone": "800285117"
+    },
+    "birthday": "2014-23-03",
+    "ip": "141.125.101.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Point voice up senior yard. Instead young give sister much.\nEasy across these. Box different bed meet economy push.\nEvent lot popular owner.",
+        "bio": "Be letter black purpose land sea must. Boy now sense lot plan.\nSerious culture check capital opportunity. Role in design suddenly. Reality choice technology."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
