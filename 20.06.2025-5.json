@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Hartman",
+    "age": 110,
+    "address": {
+        "street": "Mark Islands",
+        "city": "East Mariemouth",
+        "state": "Hawaii",
+        "zip": "52480"
+    },
+    "contact": {
+        "phone": "+1-441-889-3893",
+        "servicePhone": "800010138"
+    },
+    "birthday": "1915-03-07",
+    "ip": "162.4.172.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Treat because significant create he certainly. Rather place movement hear order smile. Plan current though cut.\nGuess kind store trip crime rise. However identify type care decade husband.",
+        "bio": "What high wall end line. Plan Mr activity bank.\nEnergy sport show current score hundred. Rather vote industry nature anyone from be."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
