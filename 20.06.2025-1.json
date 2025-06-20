@@ -1,0 +1,25 @@
+{
+    "name": "Trevor Cohen",
+    "age": 51,
+    "address": {
+        "street": "Jason Shores",
+        "city": "Deleonborough",
+        "state": "Massachusetts",
+        "zip": "80490"
+    },
+    "contact": {
+        "phone": "408.724.0598",
+        "servicePhone": "800765382"
+    },
+    "birthday": "1974-01-10",
+    "ip": "177.37.91.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Mention arm choose executive fall challenge. National whom drug similar father realize while.",
+        "bio": "A must institution possible. Water central southern political indicate. Late tell thought word they.\nLife give here bad own. Work second owner statement spend hard."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
