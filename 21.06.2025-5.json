@@ -1,0 +1,25 @@
+{
+    "name": "David Jennings",
+    "age": 50,
+    "address": {
+        "street": "Gibson Motorway",
+        "city": "North Mary",
+        "state": "North Dakota",
+        "zip": "00802"
+    },
+    "contact": {
+        "phone": "(724)666-0300x7889",
+        "servicePhone": "800376751"
+    },
+    "birthday": "1975-08-03",
+    "ip": "121.248.75.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Base measure all threat able town. Indicate yourself knowledge land.\nFull environmental local business employee letter. Road red safe field growth.",
+        "bio": "School of around evidence others success.\nWithout less day accept. Its Mrs we mean wait. Case hour find onto work side situation. Remain name food war identify."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
