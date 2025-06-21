@@ -1,0 +1,25 @@
+{
+    "name": "Erin Zamora",
+    "age": 60,
+    "address": {
+        "street": "Lisa Locks",
+        "city": "South Tracytown",
+        "state": "New York",
+        "zip": "99245"
+    },
+    "contact": {
+        "phone": "977.883.4332",
+        "servicePhone": "800007257"
+    },
+    "birthday": "1965-14-01",
+    "ip": "111.44.153.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Identify particularly deep man walk. Budget such success half those look themselves. Two special economic better seek above. I decision onto say marriage child continue of.",
+        "bio": "General theory over unit option write building. Thousand show ahead concern sure. Scene offer myself ground arm discuss."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
