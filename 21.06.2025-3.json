@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Velez",
+    "age": 24,
+    "address": {
+        "street": "Olson Vista",
+        "city": "New Garymouth",
+        "state": "Tennessee",
+        "zip": "19136"
+    },
+    "contact": {
+        "phone": "918-392-2752x8865",
+        "servicePhone": "800658468"
+    },
+    "birthday": "2001-25-07",
+    "ip": "30.67.174.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Green money cover both south build. One wide girl here crime we. Car us item particular.\nLeave instead base stay. Later drive voice. Cover collection around ball thought mouth about.",
+        "bio": "Under better grow law production experience.\nSon parent if off spend. Against form often easy much during. Result medical act above here work he."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
