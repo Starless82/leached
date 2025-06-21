@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Walsh",
+    "age": 71,
+    "address": {
+        "street": "Johns Lodge",
+        "city": "Heatherburgh",
+        "state": "Texas",
+        "zip": "26033"
+    },
+    "contact": {
+        "phone": "+1-924-772-0186x1002",
+        "servicePhone": "800543166"
+    },
+    "birthday": "1954-11-06",
+    "ip": "7.33.198.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Trip herself rise think respond bill.\nWestern thought movie glass language able radio.",
+        "bio": "Compare history child race hand economy indicate. Dark pick sea growth. Shake game front."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
