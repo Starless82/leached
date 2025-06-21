@@ -1,0 +1,25 @@
+{
+    "name": "Natalie Prince",
+    "age": 58,
+    "address": {
+        "street": "Douglas Divide",
+        "city": "Briannaborough",
+        "state": "Mississippi",
+        "zip": "35869"
+    },
+    "contact": {
+        "phone": "001-741-892-8653x71321",
+        "servicePhone": "800404997"
+    },
+    "birthday": "1967-05-12",
+    "ip": "78.249.27.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Early close government realize house parent. Art late street movement money all determine.\nWith team war east. Thought partner visit lead she seven read.",
+        "bio": "Senior act look me. Tv billion perhaps before. Wrong role north show.\nHow face those chair after threat enough. Discuss difficult may top company finish. Teach body water bring dinner usually would."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
