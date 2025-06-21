@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Welch",
+    "age": 115,
+    "address": {
+        "street": "Watson Corners",
+        "city": "Lake Amanda",
+        "state": "Maryland",
+        "zip": "81788"
+    },
+    "contact": {
+        "phone": "4284615311",
+        "servicePhone": "800553855"
+    },
+    "birthday": "1910-28-07",
+    "ip": "181.177.253.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Only firm specific north pass. Official doctor eight.\nIndustry human case travel simple conference performance. Remember worry official need group husband believe.",
+        "bio": "Resource magazine assume room. Behavior our interest civil language her. Blue rock throughout young.\nSomething return affect to beat among perhaps. View campaign degree figure art into center."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
