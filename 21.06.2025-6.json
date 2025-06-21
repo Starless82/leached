@@ -1,0 +1,25 @@
+{
+    "name": "Adam Johnson",
+    "age": 37,
+    "address": {
+        "street": "Webster Light",
+        "city": "Peterland",
+        "state": "Ohio",
+        "zip": "90282"
+    },
+    "contact": {
+        "phone": "+1-477-850-8643x35806",
+        "servicePhone": "800443562"
+    },
+    "birthday": "1988-06-07",
+    "ip": "179.146.2.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Within everyone view since at. Whatever of perform financial white.\nReligious act drive now reduce church get. Owner bit growth claim military. Even stay lose play at quality.",
+        "bio": "Family threat provide other. Campaign fund seat consider.\nTest side international rich memory charge. Successful him forget baby. Bag when recognize give bring fact approach."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
