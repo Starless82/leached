@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Jackson",
+    "age": 65,
+    "address": {
+        "street": "Wright Bypass",
+        "city": "East Antoniobury",
+        "state": "West Virginia",
+        "zip": "87818"
+    },
+    "contact": {
+        "phone": "(562)961-4912",
+        "servicePhone": "800736737"
+    },
+    "birthday": "1960-30-01",
+    "ip": "105.31.172.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Institution able wall result. Forward heart parent open light star.\nHalf order father every certainly. Himself matter newspaper seven.\nHeart though week. Baby real main herself possible level choose.",
+        "bio": "Energy like line guess theory than. Relate response third off. Time leave quickly know director."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
