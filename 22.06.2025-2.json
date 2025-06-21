@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Anderson",
+    "age": 81,
+    "address": {
+        "street": "Ricardo Extensions",
+        "city": "Carpenterchester",
+        "state": "Delaware",
+        "zip": "17650"
+    },
+    "contact": {
+        "phone": "774-208-2957x346",
+        "servicePhone": "800648369"
+    },
+    "birthday": "1944-17-09",
+    "ip": "64.135.90.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Matter rest report woman material. Left trip local buy street meet vote.",
+        "bio": "Policy old on site. Rich see manager three.\nCase leave condition poor office. Short art forward. Spring grow during once phone at growth decade."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
