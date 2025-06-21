@@ -1,0 +1,25 @@
+{
+    "name": "Bradley Skinner",
+    "age": 44,
+    "address": {
+        "street": "Reed Ferry",
+        "city": "Lake Sarah",
+        "state": "New Mexico",
+        "zip": "30355"
+    },
+    "contact": {
+        "phone": "001-658-938-8255",
+        "servicePhone": "800298681"
+    },
+    "birthday": "1981-07-06",
+    "ip": "63.223.93.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Along security building sort maintain official. Example live arrive debate. Concern local deep sign guess enter meet.\nImprove mean size wish significant. Yes cold rock push voice matter.",
+        "bio": "Impact rule page total not apply. No weight last Republican past sing event."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
