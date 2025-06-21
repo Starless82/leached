@@ -1,0 +1,25 @@
+{
+    "name": "Connor Smith",
+    "age": 114,
+    "address": {
+        "street": "John Field",
+        "city": "Davidborough",
+        "state": "Wisconsin",
+        "zip": "23507"
+    },
+    "contact": {
+        "phone": "743-456-9269x92023",
+        "servicePhone": "800614834"
+    },
+    "birthday": "1911-05-01",
+    "ip": "126.126.71.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Tree hundred some. Impact this how white. Price occur give he edge.\nThus simply help again arm special almost bed. Car can so appear letter bill.",
+        "bio": "Attorney similar hear seek. First activity letter ground meet."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
