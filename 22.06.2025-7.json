@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Ward",
+    "age": 70,
+    "address": {
+        "street": "Michael Vista",
+        "city": "Christopherview",
+        "state": "Indiana",
+        "zip": "89440"
+    },
+    "contact": {
+        "phone": "996-334-5254",
+        "servicePhone": "800001913"
+    },
+    "birthday": "1955-12-06",
+    "ip": "111.64.117.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Ability increase daughter. Mission stand standard body available material. Major avoid room. Not plan either ago.\nWestern step order mission certain. Become her different no by state.",
+        "bio": "Huge cup mission whether easy adult beyond of. Rise oil everything. Fall alone past reveal assume cost.\nRate someone government little sell hour much. Far work step likely."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
