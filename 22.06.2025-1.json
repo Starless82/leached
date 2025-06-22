@@ -1,0 +1,25 @@
+{
+    "name": "Norma Lawrence DVM",
+    "age": 76,
+    "address": {
+        "street": "Katie Villages",
+        "city": "Smithmouth",
+        "state": "Mississippi",
+        "zip": "93830"
+    },
+    "contact": {
+        "phone": "357-634-5495",
+        "servicePhone": "800868167"
+    },
+    "birthday": "1949-08-01",
+    "ip": "138.36.86.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Role space scene outside. Type old three course one. Cover test arm out better ten.\nAuthority statement across account resource detail face.",
+        "bio": "Home contain here wonder say practice hair order.\nBit always vote production view center. Attack adult less activity and point. Imagine should final mind treat strong."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
