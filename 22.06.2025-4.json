@@ -1,0 +1,25 @@
+{
+    "name": "James Caldwell",
+    "age": 101,
+    "address": {
+        "street": "Dominguez Crossroad",
+        "city": "Nancymouth",
+        "state": "Connecticut",
+        "zip": "68616"
+    },
+    "contact": {
+        "phone": "+1-975-399-3720x7158",
+        "servicePhone": "800028912"
+    },
+    "birthday": "1924-30-05",
+    "ip": "173.188.99.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Authority myself common thus charge argue another note. Shoulder up group respond.\nThemselves quickly box sound suggest include fear. Street pattern plant population you. Sea more force middle.",
+        "bio": "Almost lawyer trouble realize. Candidate letter oil require use focus. Card change worry nor religious even."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
