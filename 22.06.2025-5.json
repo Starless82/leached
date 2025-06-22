@@ -1,0 +1,25 @@
+{
+    "name": "Christina Fields",
+    "age": 100,
+    "address": {
+        "street": "Norton Canyon",
+        "city": "Markmouth",
+        "state": "Washington",
+        "zip": "13092"
+    },
+    "contact": {
+        "phone": "218-415-5193",
+        "servicePhone": "800911776"
+    },
+    "birthday": "1925-06-10",
+    "ip": "152.244.48.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Reduce fast then figure ask former or. History prove recently. Expert human study yourself walk population already better.",
+        "bio": "Allow ability firm option safe. Expert enter million clearly world cut. Court church chance administration high modern according say."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
