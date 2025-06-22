@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Shaw",
+    "age": 37,
+    "address": {
+        "street": "Brown Passage",
+        "city": "Carolside",
+        "state": "Illinois",
+        "zip": "51178"
+    },
+    "contact": {
+        "phone": "389.926.3922x467",
+        "servicePhone": "800266221"
+    },
+    "birthday": "1988-04-03",
+    "ip": "98.125.159.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Thank must hold lawyer authority idea. Stock mention market election conference.\nMovement discussion war common people. Then fill finish fine base write.",
+        "bio": "Could difficult bad step poor floor he book. While cold executive girl throw final. Song dinner according free set."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
