@@ -1,0 +1,25 @@
+{
+    "name": "Bethany Brown",
+    "age": 46,
+    "address": {
+        "street": "Virginia Knoll",
+        "city": "Lake Sergio",
+        "state": "Washington",
+        "zip": "78246"
+    },
+    "contact": {
+        "phone": "398-281-1303",
+        "servicePhone": "800878986"
+    },
+    "birthday": "1979-27-11",
+    "ip": "167.158.110.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Someone drug kid system. Term board explain training like approach resource man. Produce fine over speech final report.\nCompare north media. Ahead offer five inside professional fund skill.",
+        "bio": "Election across white. Mrs away none thousand writer rock. Physical walk outside doctor. Worry significant upon ever be green note.\nHit partner brother once discuss listen resource so."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
