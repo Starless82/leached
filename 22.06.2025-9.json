@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Adams",
+    "age": 14,
+    "address": {
+        "street": "Jordan Glen",
+        "city": "Terriview",
+        "state": "Washington",
+        "zip": "93448"
+    },
+    "contact": {
+        "phone": "999-694-0365x2447",
+        "servicePhone": "800324171"
+    },
+    "birthday": "2011-19-05",
+    "ip": "2.26.34.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Marriage official carry write next north. Beat million citizen morning here try employee.\nGive report cover. Soldier step method red late stuff. Almost support type pretty gas task reflect design.",
+        "bio": "Protect subject bill tree wrong along garden daughter. Air provide west finally foreign."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
