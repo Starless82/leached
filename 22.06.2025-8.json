@@ -1,0 +1,25 @@
+{
+    "name": "Tommy Robinson",
+    "age": 78,
+    "address": {
+        "street": "Brandon Parks",
+        "city": "North Lisa",
+        "state": "Maine",
+        "zip": "69332"
+    },
+    "contact": {
+        "phone": "3367961083",
+        "servicePhone": "800264784"
+    },
+    "birthday": "1947-07-03",
+    "ip": "143.83.210.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Week lead oil young finish artist college.\nPhysical summer third seem. Order service after civil husband.\nUse current compare join spend. Space expert often best. Notice threat save respond take.",
+        "bio": "Hair drop full arm. Tax before the notice. Style financial produce already popular say surface.\nPresident section open. Among enter evening oil."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
