@@ -1,0 +1,25 @@
+{
+    "name": "Ricardo Lang",
+    "age": 95,
+    "address": {
+        "street": "Austin Flat",
+        "city": "Lake Erin",
+        "state": "Indiana",
+        "zip": "82838"
+    },
+    "contact": {
+        "phone": "6349787576",
+        "servicePhone": "800264916"
+    },
+    "birthday": "1930-10-01",
+    "ip": "66.127.177.47",
+    "foo": "bar",
+    "profile": {
+        "about": "College speak all item consider. List choose level marriage war for prevent thing.\nRelate present energy group them brother. Tv guess serve today whose walk.",
+        "bio": "Modern room fill public race. They step economy media remain have. Thousand president authority carry under put material."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
