@@ -1,0 +1,25 @@
+{
+    "name": "Erin Kelly",
+    "age": 62,
+    "address": {
+        "street": "Kristopher Pass",
+        "city": "Lynnhaven",
+        "state": "Louisiana",
+        "zip": "95158"
+    },
+    "contact": {
+        "phone": "230.242.1476x030",
+        "servicePhone": "800918925"
+    },
+    "birthday": "1963-25-07",
+    "ip": "171.51.44.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Process call safe majority rather. Professional miss term perhaps subject must.\nFast dog assume.",
+        "bio": "Measure player plan finish down pressure. Other red certain class someone ahead difference.\nDebate understand green. Can toward doctor reduce. Professor food cost phone. Military government these."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
