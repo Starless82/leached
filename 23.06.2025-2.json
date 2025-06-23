@@ -1,0 +1,25 @@
+{
+    "name": "Dorothy Long",
+    "age": 20,
+    "address": {
+        "street": "Stefanie Square",
+        "city": "West Jeffrey",
+        "state": "Alaska",
+        "zip": "82090"
+    },
+    "contact": {
+        "phone": "703-502-4365x2102",
+        "servicePhone": "800704355"
+    },
+    "birthday": "2005-18-10",
+    "ip": "159.164.201.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Might health century scene thus natural charge. Listen research produce service its car.\nMight a at. Next charge ground allow room movement figure.",
+        "bio": "Positive community seat seem together old happen. Truth thing it. To store through hundred college. Sense personal black reason."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
