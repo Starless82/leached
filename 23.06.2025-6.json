@@ -1,0 +1,25 @@
+{
+    "name": "Adam Williams",
+    "age": 59,
+    "address": {
+        "street": "Camacho Flat",
+        "city": "Collinsport",
+        "state": "Vermont",
+        "zip": "53353"
+    },
+    "contact": {
+        "phone": "001-252-600-2357x2341",
+        "servicePhone": "800312100"
+    },
+    "birthday": "1966-17-08",
+    "ip": "135.102.255.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Land carry yeah she every mouth hope dark.\nGoal past important throw event.\nMore again simply PM bill. Exactly hit factor throw conference.",
+        "bio": "Degree trip store sure five Mr. Whether decision throw nothing PM. Religious drive center second clearly fund voice tell. Drop avoid laugh although coach attention conference."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
