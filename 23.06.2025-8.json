@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Page",
+    "age": 60,
+    "address": {
+        "street": "Amanda Forest",
+        "city": "Katieland",
+        "state": "North Dakota",
+        "zip": "11045"
+    },
+    "contact": {
+        "phone": "(711)937-5788",
+        "servicePhone": "800589110"
+    },
+    "birthday": "1965-25-07",
+    "ip": "98.28.86.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Fight quality fish today boy while fill production. Time hour fish.",
+        "bio": "Condition deal lot movement answer magazine drug. A stand play decision. Rich attorney candidate respond dream building class."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
