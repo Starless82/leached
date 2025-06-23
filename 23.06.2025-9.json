@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Garcia MD",
+    "age": 8,
+    "address": {
+        "street": "Jimenez Junction",
+        "city": "Crossbury",
+        "state": "Louisiana",
+        "zip": "28766"
+    },
+    "contact": {
+        "phone": "266.730.8320x224",
+        "servicePhone": "800678002"
+    },
+    "birthday": "2017-08-03",
+    "ip": "29.16.192.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Start board country very easy. Catch by station last ahead billion. Money probably across moment room address.\nEither trade above born. Two week image gas project couple might.",
+        "bio": "Former response choice music present. Organization policy act public. Notice page ask thought throughout what.\nSpeak actually character major machine great. Us represent traditional democratic."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
