@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Calderon",
+    "age": 102,
+    "address": {
+        "street": "Baird Locks",
+        "city": "Claytonstad",
+        "state": "Hawaii",
+        "zip": "37077"
+    },
+    "contact": {
+        "phone": "001-972-535-8224",
+        "servicePhone": "800740350"
+    },
+    "birthday": "1923-23-11",
+    "ip": "217.102.92.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Someone buy as lawyer. Somebody begin away per.\nScientist suffer despite practice. Ok first worker street. World born value paper.",
+        "bio": "Together smile candidate conference. Program husband tonight account market analysis. Employee day turn without will modern."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
