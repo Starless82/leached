@@ -1,0 +1,25 @@
+{
+    "name": "Alexandra Green",
+    "age": 22,
+    "address": {
+        "street": "Rivera Extension",
+        "city": "Juliefurt",
+        "state": "New York",
+        "zip": "62413"
+    },
+    "contact": {
+        "phone": "623.442.2466x504",
+        "servicePhone": "800419648"
+    },
+    "birthday": "2003-14-06",
+    "ip": "211.61.219.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Health at father against. Thing company west. Kitchen them best.\nDo former eight approach environment short customer. Son impact own may safe ask.",
+        "bio": "Statement nor standard stand must offer. Heart apply degree around energy.\nTreat matter a bank decide Congress play exactly. Item learn Republican."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
