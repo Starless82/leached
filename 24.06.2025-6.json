@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Cooper",
+    "age": 101,
+    "address": {
+        "street": "Elliott Island",
+        "city": "South Kendra",
+        "state": "Tennessee",
+        "zip": "96727"
+    },
+    "contact": {
+        "phone": "3918470910",
+        "servicePhone": "800418187"
+    },
+    "birthday": "1924-23-05",
+    "ip": "160.26.19.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Respond cut skill very difficult allow next. Agency share woman production quickly. Travel yourself region team.",
+        "bio": "Beat guess financial here long improve set. Court clearly difference water each. Task minute author positive various support blood."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
