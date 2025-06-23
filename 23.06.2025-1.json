@@ -1,0 +1,25 @@
+{
+    "name": "Shelley Garza",
+    "age": 110,
+    "address": {
+        "street": "Michael Walks",
+        "city": "North Jacob",
+        "state": "Oklahoma",
+        "zip": "41178"
+    },
+    "contact": {
+        "phone": "(353)999-6691x145",
+        "servicePhone": "800188753"
+    },
+    "birthday": "1915-19-10",
+    "ip": "162.246.29.75",
+    "foo": "bar",
+    "profile": {
+        "about": "North blood kitchen within. Painting brother among result. Southern according American form list.\nWin we big entire east resource. Share always five player very now.",
+        "bio": "Republican cost morning authority him world fund. There hour risk single business my prevent. Remain scientist miss follow bit direction prepare nearly."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
