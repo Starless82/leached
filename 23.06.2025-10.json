@@ -1,0 +1,25 @@
+{
+    "name": "Larry Garner",
+    "age": 105,
+    "address": {
+        "street": "Avila Ridge",
+        "city": "Danfort",
+        "state": "Virginia",
+        "zip": "64182"
+    },
+    "contact": {
+        "phone": "(709)301-0985x291",
+        "servicePhone": "800361267"
+    },
+    "birthday": "1920-12-05",
+    "ip": "53.178.238.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Address expect director. Arm class several blue argue organization education. Administration create edge recognize performance everything its. Ever clearly rule benefit see.",
+        "bio": "Loss way score data parent. Pick inside six really market. Answer able cost."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
