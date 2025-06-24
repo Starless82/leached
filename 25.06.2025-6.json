@@ -1,0 +1,25 @@
+{
+    "name": "Kim Harris",
+    "age": 13,
+    "address": {
+        "street": "Morris Ridge",
+        "city": "Lake Lori",
+        "state": "Michigan",
+        "zip": "29143"
+    },
+    "contact": {
+        "phone": "(886)615-3417x193",
+        "servicePhone": "800604725"
+    },
+    "birthday": "2012-25-06",
+    "ip": "106.229.30.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Foot interview question these teach forward. War argue politics executive official. Population body war development. Lawyer design research nearly there.",
+        "bio": "Military gun all. Compare you whether instead conference political job.\nStay security happy method present. Lot quite exist necessary project who interesting. Summer push career style along."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
