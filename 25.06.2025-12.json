@@ -1,0 +1,25 @@
+{
+    "name": "James Hodges",
+    "age": 86,
+    "address": {
+        "street": "Brent Avenue",
+        "city": "North Craig",
+        "state": "Missouri",
+        "zip": "67868"
+    },
+    "contact": {
+        "phone": "534.989.9830",
+        "servicePhone": "800819534"
+    },
+    "birthday": "1939-26-08",
+    "ip": "146.134.210.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Character compare today air. My trip half dream contain. Reflect I hold herself leg.\nEstablish hair support. Young environmental west. Blue international last discover.",
+        "bio": "Member after military break. Peace energy response generation. Skin chair piece account each arrive."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
