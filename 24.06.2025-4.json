@@ -1,0 +1,25 @@
+{
+    "name": "Allison Walker",
+    "age": 6,
+    "address": {
+        "street": "Barrett Ferry",
+        "city": "Barneshaven",
+        "state": "Alabama",
+        "zip": "45894"
+    },
+    "contact": {
+        "phone": "001-370-565-7115x109",
+        "servicePhone": "800671601"
+    },
+    "birthday": "2019-02-08",
+    "ip": "96.184.124.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Officer speak material record. Green on campaign carry Mrs old fight. Too seven turn capital.\nHope social president left election increase common. Difficult cultural road life.",
+        "bio": "Week exactly month might perhaps. Because determine measure mission former. Single goal black yourself culture young establish simply."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
