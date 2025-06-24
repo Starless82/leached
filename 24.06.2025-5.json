@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Weber",
+    "age": 51,
+    "address": {
+        "street": "Anthony Shoal",
+        "city": "Wolfeburgh",
+        "state": "New Hampshire",
+        "zip": "83281"
+    },
+    "contact": {
+        "phone": "001-303-640-8991x5040",
+        "servicePhone": "800834478"
+    },
+    "birthday": "1974-05-12",
+    "ip": "117.9.212.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Make together almost. Season manage company test address.\nSocial environmental crime to couple huge field old.",
+        "bio": "As even law unit. Whether artist whole argue base far produce. Professor stuff imagine away bring nice."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
