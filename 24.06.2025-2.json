@@ -1,0 +1,25 @@
+{
+    "name": "Curtis Strong",
+    "age": 98,
+    "address": {
+        "street": "Chase Circle",
+        "city": "Lake Devin",
+        "state": "Alaska",
+        "zip": "36696"
+    },
+    "contact": {
+        "phone": "394.793.8286",
+        "servicePhone": "800970091"
+    },
+    "birthday": "1927-17-05",
+    "ip": "93.229.65.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Arrive place culture treatment research event. Nature relate than personal information play.",
+        "bio": "Task leg letter meet glass practice. Yard serve until forward drop cut. Space allow cup majority single.\nThis attention save body best. Sometimes role use there million agency able."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
