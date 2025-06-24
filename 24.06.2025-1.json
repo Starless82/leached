@@ -1,0 +1,25 @@
+{
+    "name": "Mark Chapman DVM",
+    "age": 92,
+    "address": {
+        "street": "Howard Crescent",
+        "city": "Port Anita",
+        "state": "Florida",
+        "zip": "87194"
+    },
+    "contact": {
+        "phone": "+1-523-358-4741x3581",
+        "servicePhone": "800311984"
+    },
+    "birthday": "1933-14-05",
+    "ip": "98.219.56.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Player evidence protect close system wall mother. Great modern board project.",
+        "bio": "Difficult realize style guy. Friend enter theory want shake offer. If conference piece describe down. Evidence language expect.\nOffice thus system drug. Decade create not south fly."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
