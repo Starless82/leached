@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Woods",
+    "age": 70,
+    "address": {
+        "street": "James Coves",
+        "city": "Aguilarville",
+        "state": "Oregon",
+        "zip": "57778"
+    },
+    "contact": {
+        "phone": "657.830.2555x64209",
+        "servicePhone": "800171858"
+    },
+    "birthday": "1955-16-02",
+    "ip": "20.26.241.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Front treat employee like summer yard. Authority character positive believe.\nAvailable various back pretty young professional move. Agency might four tough mouth vote far. Know fire blue day pull.",
+        "bio": "Whole science public subject after. Drive fund view agency you soon attention. Television term several offer face high detail to. Also left ahead room investment lay."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
