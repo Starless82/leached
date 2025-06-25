@@ -1,0 +1,25 @@
+{
+    "name": "Heidi Wright",
+    "age": 15,
+    "address": {
+        "street": "Wise Run",
+        "city": "North Russell",
+        "state": "Oregon",
+        "zip": "18274"
+    },
+    "contact": {
+        "phone": "+1-939-531-2493x861",
+        "servicePhone": "800796671"
+    },
+    "birthday": "2010-16-06",
+    "ip": "223.32.205.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Chair watch easy statement quality. Subject get account benefit claim off after.\nMeet old represent support everything sense. Recognize wonder loss billion cup. Million act if avoid.",
+        "bio": "Despite standard power rise such. Surface guess seat read. Close including local choose put."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
