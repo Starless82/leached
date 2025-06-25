@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Ford",
+    "age": 29,
+    "address": {
+        "street": "Mcguire Crossroad",
+        "city": "East Bradleyborough",
+        "state": "Maine",
+        "zip": "27407"
+    },
+    "contact": {
+        "phone": "+1-470-248-4449",
+        "servicePhone": "800318513"
+    },
+    "birthday": "1996-05-11",
+    "ip": "112.238.174.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Care growth sense source stay. Maybe respond network expect newspaper. Act agree daughter little.\nDrug test often operation. Establish writer mention everything.",
+        "bio": "Safe partner sometimes couple group range early. Official others trial enjoy PM two. Own church not again movement owner back."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
