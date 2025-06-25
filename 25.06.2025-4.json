@@ -1,0 +1,25 @@
+{
+    "name": "James Miller",
+    "age": 66,
+    "address": {
+        "street": "Daniel Falls",
+        "city": "Judymouth",
+        "state": "California",
+        "zip": "29904"
+    },
+    "contact": {
+        "phone": "(513)405-0405x414",
+        "servicePhone": "800972379"
+    },
+    "birthday": "1959-21-04",
+    "ip": "219.58.158.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Line church beat stage control big. Bank trouble help six safe already feel leg. Memory husband open receive summer source. Stage charge own down rise.",
+        "bio": "Occur couple expect leg middle save. Last recently cause similar marriage know difficult. I low term six second necessary church. Population cell huge leave society speak the."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
