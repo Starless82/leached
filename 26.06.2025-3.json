@@ -1,0 +1,25 @@
+{
+    "name": "Joyce Williams",
+    "age": 51,
+    "address": {
+        "street": "Kelly Streets",
+        "city": "East Devinhaven",
+        "state": "Connecticut",
+        "zip": "70262"
+    },
+    "contact": {
+        "phone": "511-487-2248",
+        "servicePhone": "800288639"
+    },
+    "birthday": "1974-20-05",
+    "ip": "21.105.81.165",
+    "foo": "bar",
+    "profile": {
+        "about": "If billion score mention modern image. Feel individual particular along marriage develop determine.",
+        "bio": "Paper their entire instead learn better sell. Effort despite herself surface office protect stay.\nItself collection phone. Accept issue road firm coach push. I few quite spring exist data few."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
