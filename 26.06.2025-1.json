@@ -1,0 +1,25 @@
+{
+    "name": "Kristie Martinez",
+    "age": 23,
+    "address": {
+        "street": "Jenkins Parkways",
+        "city": "Scottshire",
+        "state": "Kentucky",
+        "zip": "35272"
+    },
+    "contact": {
+        "phone": "871.539.8013x7912",
+        "servicePhone": "800529773"
+    },
+    "birthday": "2002-31-05",
+    "ip": "180.244.251.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Girl special represent add short door leave. Various similar two talk spring budget.",
+        "bio": "Claim dark high professional push. Range tell cost race agreement president catch town.\nClass degree summer record. Every ability show you quality."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
