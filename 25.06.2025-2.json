@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Martinez",
+    "age": 60,
+    "address": {
+        "street": "Anderson Flat",
+        "city": "New Tracy",
+        "state": "Utah",
+        "zip": "70669"
+    },
+    "contact": {
+        "phone": "3103089048",
+        "servicePhone": "800752344"
+    },
+    "birthday": "1965-28-05",
+    "ip": "157.199.198.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Full identify fine hope control property. Section write he art. Evidence arm we. Site various likely north.",
+        "bio": "Which history agreement kitchen three attention marriage. With seven sit suggest. Letter customer down month picture might.\nPaper fall course bit. Network assume voice."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
