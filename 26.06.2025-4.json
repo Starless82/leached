@@ -1,0 +1,25 @@
+{
+    "name": "Edgar Chang",
+    "age": 112,
+    "address": {
+        "street": "Gregory Brooks",
+        "city": "Markville",
+        "state": "California",
+        "zip": "89111"
+    },
+    "contact": {
+        "phone": "760.341.2849x0791",
+        "servicePhone": "800410476"
+    },
+    "birthday": "1913-24-10",
+    "ip": "32.18.149.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Avoid team yourself remember coach little learn. Game fire table including player. Activity catch kid get.",
+        "bio": "Body federal produce. Bill physical stage participant. Matter expert interesting throughout perhaps notice such.\nArticle thank measure scientist loss travel. System past low then list exist."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
