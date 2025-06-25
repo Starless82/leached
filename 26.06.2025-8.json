@@ -1,0 +1,25 @@
+{
+    "name": "Emily Gonzalez",
+    "age": 95,
+    "address": {
+        "street": "Derrick Walk",
+        "city": "Lake Jamesberg",
+        "state": "Washington",
+        "zip": "66094"
+    },
+    "contact": {
+        "phone": "9164444355",
+        "servicePhone": "800012130"
+    },
+    "birthday": "1930-02-10",
+    "ip": "107.153.44.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Expert paper vote card social. Against interview indeed including position table.",
+        "bio": "Movement expert war expect avoid character successful. Require hope book run best theory exist important. Station personal low different study. Far attack catch discuss certain most call."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
