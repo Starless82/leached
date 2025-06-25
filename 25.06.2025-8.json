@@ -1,0 +1,25 @@
+{
+    "name": "Justin Duncan",
+    "age": 31,
+    "address": {
+        "street": "Peter Fields",
+        "city": "Thomasmouth",
+        "state": "Ohio",
+        "zip": "17188"
+    },
+    "contact": {
+        "phone": "(319)764-5474x8597",
+        "servicePhone": "800950353"
+    },
+    "birthday": "1994-23-06",
+    "ip": "138.151.5.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Lose develop here never tend system. Forget evidence entire where individual media.\nHistory process age suddenly crime south. Point fall three.",
+        "bio": "Anyone leg process without recognize happen ready. Beautiful form economic every enter popular."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
