@@ -1,0 +1,25 @@
+{
+    "name": "Henry Gomez",
+    "age": 56,
+    "address": {
+        "street": "Martha Mall",
+        "city": "West Jeffburgh",
+        "state": "North Carolina",
+        "zip": "09863"
+    },
+    "contact": {
+        "phone": "(394)473-6578",
+        "servicePhone": "800180245"
+    },
+    "birthday": "1969-25-07",
+    "ip": "109.2.149.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Modern manager pretty fire. Wait thing feel page project rule writer.\nManage require suddenly stay human develop from.\nCourse system finally wife. Collection time cell exist best.",
+        "bio": "Capital answer risk business discover among. Six drop radio perform. Me two appear."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
