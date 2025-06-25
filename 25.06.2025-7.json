@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Murray",
+    "age": 23,
+    "address": {
+        "street": "Shannon Plains",
+        "city": "Christinaberg",
+        "state": "Kentucky",
+        "zip": "88027"
+    },
+    "contact": {
+        "phone": "001-986-287-4615x08533",
+        "servicePhone": "800303158"
+    },
+    "birthday": "2002-02-07",
+    "ip": "185.123.66.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Reveal stop type record. Industry on gas effect why.",
+        "bio": "Risk finally simple spend two score system. Trip arm catch serve child.\nYet bar light and mean fact attack. Side do national country just cost fly."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
