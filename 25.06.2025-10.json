@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Sanchez",
+    "age": 26,
+    "address": {
+        "street": "Cook Flat",
+        "city": "West Matthewstad",
+        "state": "Maine",
+        "zip": "05412"
+    },
+    "contact": {
+        "phone": "9123154688",
+        "servicePhone": "800379642"
+    },
+    "birthday": "1999-05-09",
+    "ip": "69.54.231.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Real couple relationship guy human want major. Discussion now environmental world.\nMr player behind even. Plant collection clear institution majority. Season easy at management.",
+        "bio": "Should easy board still color station ball if. Network plant international adult force wear shoulder.\nStore pay recognize could compare. Early cultural start clearly street."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
