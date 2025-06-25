@@ -1,0 +1,25 @@
+{
+    "name": "Christina Nguyen",
+    "age": 78,
+    "address": {
+        "street": "Townsend Crest",
+        "city": "Lake Felicia",
+        "state": "Ohio",
+        "zip": "68273"
+    },
+    "contact": {
+        "phone": "524.377.8398x4637",
+        "servicePhone": "800283505"
+    },
+    "birthday": "1947-26-11",
+    "ip": "191.179.73.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Ability ask strong. Mind range use environmental produce Mr firm. Small hospital share nothing week. Country century standard method player either public value.\nPiece enough let owner establish.",
+        "bio": "Situation camera remember machine evening individual. Just day movement physical together level."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
