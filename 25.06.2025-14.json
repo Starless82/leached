@@ -1,0 +1,25 @@
+{
+    "name": "Sabrina Freeman",
+    "age": 105,
+    "address": {
+        "street": "Lee Roads",
+        "city": "Jonesview",
+        "state": "Indiana",
+        "zip": "03475"
+    },
+    "contact": {
+        "phone": "8913048096",
+        "servicePhone": "800257234"
+    },
+    "birthday": "1920-03-06",
+    "ip": "70.46.187.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Wall back mother run member sort into. Participant structure win pattern dinner everybody way.\nGuess fact TV political. Politics maybe class skill.",
+        "bio": "Two mother hard what exist reason. Similar sister off walk sign. On food some indicate technology degree.\nAudience put less card."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
