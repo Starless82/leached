@@ -1,0 +1,25 @@
+{
+    "name": "Heather Buck",
+    "age": 48,
+    "address": {
+        "street": "Warner Mountains",
+        "city": "Justinfort",
+        "state": "Maryland",
+        "zip": "67571"
+    },
+    "contact": {
+        "phone": "480.733.9704x689",
+        "servicePhone": "800518358"
+    },
+    "birthday": "1977-20-10",
+    "ip": "185.92.242.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Law nearly provide side down base accept. Attention radio low guess reason structure season discuss. Sort everyone set sign instead Mr.",
+        "bio": "Everybody yard station doctor often. Check short concern great television technology.\nSituation certainly might doctor increase. Group analysis health make real base."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
