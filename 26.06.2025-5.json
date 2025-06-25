@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Moran",
+    "age": 11,
+    "address": {
+        "street": "Pineda Avenue",
+        "city": "North Brett",
+        "state": "Michigan",
+        "zip": "85652"
+    },
+    "contact": {
+        "phone": "3869305303",
+        "servicePhone": "800855330"
+    },
+    "birthday": "2014-14-06",
+    "ip": "3.19.121.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Party back talk beautiful how them. Positive size find hit. Decade system station capital. Camera season among argue tonight government treat care.\nState executive second nothing.",
+        "bio": "Director young level who. As increase treat stock real.\nCheck morning teacher ago energy car.\nStrong main specific short available represent. Bring what pick heavy."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
