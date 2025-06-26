@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Mendez",
+    "age": 103,
+    "address": {
+        "street": "George Rest",
+        "city": "Clinemouth",
+        "state": "Iowa",
+        "zip": "59248"
+    },
+    "contact": {
+        "phone": "317-338-5698x2254",
+        "servicePhone": "800396767"
+    },
+    "birthday": "1922-06-01",
+    "ip": "2.210.56.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Here source bill woman television pull. Husband use ball face little. Quality difference pass matter adult meet set.",
+        "bio": "Stay on quite perform. Property fight cultural several sea. Discuss exist middle animal ready. Manage debate out key matter action improve who."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
