@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Montgomery",
+    "age": 9,
+    "address": {
+        "street": "Watkins Orchard",
+        "city": "New Brian",
+        "state": "Idaho",
+        "zip": "36913"
+    },
+    "contact": {
+        "phone": "(488)246-1189",
+        "servicePhone": "800599124"
+    },
+    "birthday": "2016-27-05",
+    "ip": "103.120.24.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Thought cold business recognize believe character. Suggest cell next fly per may. Visit arrive focus control military.",
+        "bio": "Ask trial drug turn trial yet. Focus religious coach his by. Mrs dark cause between agreement film poor list.\nTell yeah subject take. One my red they score none."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
