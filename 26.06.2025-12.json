@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Johnson",
+    "age": 16,
+    "address": {
+        "street": "Carter Underpass",
+        "city": "Port Joycechester",
+        "state": "Oregon",
+        "zip": "27231"
+    },
+    "contact": {
+        "phone": "(547)687-3223x176",
+        "servicePhone": "800610796"
+    },
+    "birthday": "2009-27-05",
+    "ip": "76.100.224.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Level scene sea than. Window political federal spring card. Central degree student account.\nForm lose spring once large agree tax. Write drug nothing.",
+        "bio": "Anyone bill area range several. During someone condition phone range let hot black. Start red member president collection prove expect tough."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
