@@ -1,0 +1,25 @@
+{
+    "name": "Adam Rodriguez",
+    "age": 35,
+    "address": {
+        "street": "Christopher Pike",
+        "city": "Lake David",
+        "state": "Oklahoma",
+        "zip": "42724"
+    },
+    "contact": {
+        "phone": "4098676232",
+        "servicePhone": "800298289"
+    },
+    "birthday": "1990-26-09",
+    "ip": "140.156.247.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Establish take high everything fact become two. Entire particular real eight hair our.",
+        "bio": "Value behavior story site statement deal ready factor.\nBenefit environment share eat. Attorney make thank feeling.\nCultural to much discover threat must environmental."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
