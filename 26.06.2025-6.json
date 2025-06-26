@@ -1,0 +1,25 @@
+{
+    "name": "Kristine Dixon",
+    "age": 90,
+    "address": {
+        "street": "Linda Canyon",
+        "city": "New Joseph",
+        "state": "California",
+        "zip": "83333"
+    },
+    "contact": {
+        "phone": "+1-795-473-0053x1687",
+        "servicePhone": "800488981"
+    },
+    "birthday": "1935-18-04",
+    "ip": "131.8.15.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Great form memory agent audience one.\nOffice cut top little.",
+        "bio": "Onto interesting single few situation board give. Establish evening know enough each.\nTelevision education president picture understand sing."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
