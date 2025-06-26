@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Smith",
+    "age": 2,
+    "address": {
+        "street": "Valerie Squares",
+        "city": "Jordanview",
+        "state": "New Hampshire",
+        "zip": "40143"
+    },
+    "contact": {
+        "phone": "250-602-8560x2321",
+        "servicePhone": "800389966"
+    },
+    "birthday": "2023-08-10",
+    "ip": "148.185.1.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Six color head old instead. National or entire later own involve dinner. Fish yourself road upon truth stop technology. Would such magazine.",
+        "bio": "Other story group. Very over number national reality. Chance bring seem everyone yes.\nInvolve plant Democrat protect do ground section value. Soon for ok at region. Realize store pay music line one."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
