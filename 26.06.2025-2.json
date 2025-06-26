@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Martinez",
+    "age": 96,
+    "address": {
+        "street": "Wagner Parks",
+        "city": "East Joshua",
+        "state": "Mississippi",
+        "zip": "71376"
+    },
+    "contact": {
+        "phone": "(601)576-6807",
+        "servicePhone": "800736629"
+    },
+    "birthday": "1929-15-09",
+    "ip": "120.37.65.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Enough stock street. Detail fight hand movement task positive its across. Leg yard positive in team approach system meet.\nInteresting best positive force. Country too letter chance garden sound.",
+        "bio": "Claim third fact popular image.\nCondition company him decision line such.\nUntil that thought say consider half be. Expert become save and identify summer any. Cultural explain value conference until."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
