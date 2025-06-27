@@ -1,0 +1,25 @@
+{
+    "name": "Oscar Reed",
+    "age": 100,
+    "address": {
+        "street": "Rasmussen Mountain",
+        "city": "Jamesborough",
+        "state": "Indiana",
+        "zip": "56305"
+    },
+    "contact": {
+        "phone": "664-471-8916x8895",
+        "servicePhone": "800946021"
+    },
+    "birthday": "1925-12-04",
+    "ip": "1.224.121.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Hear understand movement environment development house vote. Police hour design involve. Cold safe property religious black.",
+        "bio": "Democratic his occur dream turn market. Early management cost read heavy.\nBetter every hope religious task. Within action Mrs gun remember avoid west. Identify thought news question I."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
