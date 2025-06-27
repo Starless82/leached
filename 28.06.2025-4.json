@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Mullen",
+    "age": 38,
+    "address": {
+        "street": "Lane Rue",
+        "city": "South Aaron",
+        "state": "Oklahoma",
+        "zip": "69730"
+    },
+    "contact": {
+        "phone": "3087898533",
+        "servicePhone": "800434378"
+    },
+    "birthday": "1987-29-10",
+    "ip": "93.253.186.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Operation chance idea her.\nIndicate shake message paper third firm. Truth kid card list policy again.\nDeep lawyer million style. Require capital east support.",
+        "bio": "Bar least have again.\nDecision my red board lay well. Federal rock away. Really director sometimes while indeed."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
