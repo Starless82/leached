@@ -1,0 +1,25 @@
+{
+    "name": "Lindsay Foster",
+    "age": 14,
+    "address": {
+        "street": "Leslie Centers",
+        "city": "Jamesland",
+        "state": "Delaware",
+        "zip": "00667"
+    },
+    "contact": {
+        "phone": "963-992-5973x128",
+        "servicePhone": "800536535"
+    },
+    "birthday": "2011-08-06",
+    "ip": "91.217.207.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Debate best so add space fact pull. Face conference seven effect. Control fund common your main window both. Term wife nor seat nearly after agency.",
+        "bio": "Local mind prove maintain. Language family Democrat buy other usually finish off. Woman others early cost product want reach."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
