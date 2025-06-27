@@ -1,0 +1,25 @@
+{
+    "name": "Debbie Moreno",
+    "age": 20,
+    "address": {
+        "street": "Byrd Ridge",
+        "city": "Port Toni",
+        "state": "Louisiana",
+        "zip": "61490"
+    },
+    "contact": {
+        "phone": "+1-219-293-5109",
+        "servicePhone": "800775469"
+    },
+    "birthday": "2005-18-01",
+    "ip": "132.123.184.230",
+    "foo": "bar",
+    "profile": {
+        "about": "School piece test region prevent model suggest start. Compare fast hour herself. Help interest I result.\nEvening above coach education.",
+        "bio": "Loss ability protect fact start. Management finally receive get often. Evening issue choose medical likely easy.\nIncrease teacher view. Its lead scene that say more."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
