@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Gillespie",
+    "age": 27,
+    "address": {
+        "street": "Spence Harbor",
+        "city": "Lorifurt",
+        "state": "Mississippi",
+        "zip": "97039"
+    },
+    "contact": {
+        "phone": "001-857-825-7417",
+        "servicePhone": "800588811"
+    },
+    "birthday": "1998-25-08",
+    "ip": "133.168.160.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Walk attorney challenge have generation company ever remain. One Mr size half sign.\nSometimes dog everything huge Democrat. Half resource receive part use plan year. Local develop indeed president.",
+        "bio": "Tonight what thought ever worker could. End well check imagine bill life.\nEasy nearly listen walk. Respond mention federal between run whom.\nLike father special heavy green."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
