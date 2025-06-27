@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Eugene Maxwell",
+    "age": 51,
+    "address": {
+        "street": "Chen Fields",
+        "city": "South Pamela",
+        "state": "Virginia",
+        "zip": "52689"
+    },
+    "contact": {
+        "phone": "3473854947",
+        "servicePhone": "800937908"
+    },
+    "birthday": "1974-12-05",
+    "ip": "113.69.168.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Play herself break indicate fact laugh. East material throughout tree sea yard. Focus daughter rock campaign again. Or sound American relationship cup kitchen sell himself.",
+        "bio": "Card both pick page knowledge message course ball.\nRed me car well many growth. Generation statement garden decision place."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
