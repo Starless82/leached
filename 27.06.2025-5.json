@@ -1,0 +1,25 @@
+{
+    "name": "Rebekah Wyatt",
+    "age": 115,
+    "address": {
+        "street": "Lindsay Mount",
+        "city": "Knightshire",
+        "state": "Alabama",
+        "zip": "78476"
+    },
+    "contact": {
+        "phone": "(946)940-4449x641",
+        "servicePhone": "800928677"
+    },
+    "birthday": "1910-02-01",
+    "ip": "191.200.105.98",
+    "foo": "bar",
+    "profile": {
+        "about": "State remain hair marriage despite mention subject life. Nearly fill three surface certain.\nCold think Mr wish staff once. Hand technology make word.",
+        "bio": "Former team difficult chair old. Century knowledge many PM."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
