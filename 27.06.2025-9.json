@@ -1,0 +1,25 @@
+{
+    "name": "Caleb Paul",
+    "age": 68,
+    "address": {
+        "street": "Mccoy Shores",
+        "city": "Pooleview",
+        "state": "Arizona",
+        "zip": "96454"
+    },
+    "contact": {
+        "phone": "848.441.5623",
+        "servicePhone": "800314062"
+    },
+    "birthday": "1957-09-10",
+    "ip": "136.170.123.244",
+    "foo": "bar",
+    "profile": {
+        "about": "For east growth. System name kitchen energy street pull onto.\nTechnology fact movement risk subject thousand treatment. Teach local career view commercial along.",
+        "bio": "Reveal decade sit out cost tree hundred realize.\nStrategy effect PM item worker. Teacher wonder role true provide. Own time daughter tend give move require. Consumer beautiful this somebody."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
