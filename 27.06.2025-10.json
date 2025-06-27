@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Gillespie",
+    "age": 107,
+    "address": {
+        "street": "Christine Estates",
+        "city": "New Derrick",
+        "state": "Wyoming",
+        "zip": "45010"
+    },
+    "contact": {
+        "phone": "001-959-296-6030x78050",
+        "servicePhone": "800730727"
+    },
+    "birthday": "1918-23-11",
+    "ip": "61.42.209.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Question baby ready form admit not benefit. People take have turn.\nSince better anyone main may strategy. Sound technology level like. Least attorney tax phone spend individual.",
+        "bio": "Today leader deal. Better however arm benefit become for then.\nFormer who economic him base. Still front walk drive. Summer matter local program."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
