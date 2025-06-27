@@ -1,0 +1,25 @@
+{
+    "name": "Seth Olsen",
+    "age": 80,
+    "address": {
+        "street": "Keith Meadows",
+        "city": "Burgessbury",
+        "state": "Minnesota",
+        "zip": "57941"
+    },
+    "contact": {
+        "phone": "(723)653-8744x08374",
+        "servicePhone": "800106303"
+    },
+    "birthday": "1945-01-05",
+    "ip": "203.200.12.128",
+    "foo": "bar",
+    "profile": {
+        "about": "His both campaign leg none build talk speak. I nation within itself enough sometimes.",
+        "bio": "Senior ever especially history hope. Movement structure stuff recognize hand room improve. South this owner camera within off."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
