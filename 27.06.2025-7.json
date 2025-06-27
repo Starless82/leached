@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Hoover",
+    "age": 40,
+    "address": {
+        "street": "Jones Plaza",
+        "city": "Bryanview",
+        "state": "New Hampshire",
+        "zip": "13328"
+    },
+    "contact": {
+        "phone": "303.485.4092x905",
+        "servicePhone": "800419071"
+    },
+    "birthday": "1985-11-01",
+    "ip": "49.94.216.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Language choice character bag might chance. Walk need upon indicate discover senior. Future stuff feeling game.\nSociety mean her question federal. Nice wall particular wind. Single marriage his.",
+        "bio": "Discussion gun method expert model. These writer school child term.\nForget cost show likely food. Set today baby end look trouble million inside. Hope factor state air local form put less."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
