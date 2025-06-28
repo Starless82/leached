@@ -1,0 +1,25 @@
+{
+    "name": "Cheryl Porter",
+    "age": 51,
+    "address": {
+        "street": "Carter Islands",
+        "city": "Lake Brendaview",
+        "state": "Nevada",
+        "zip": "37213"
+    },
+    "contact": {
+        "phone": "+1-813-371-4703x293",
+        "servicePhone": "800090526"
+    },
+    "birthday": "1974-12-10",
+    "ip": "217.151.119.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Young major realize off player ask civil. Off rise amount another tend president. Story they health allow whether head take trade.",
+        "bio": "Recently method hit later return method. Modern least add decide suddenly child any fire."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
