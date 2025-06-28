@@ -1,0 +1,25 @@
+{
+    "name": "Leslie Cunningham",
+    "age": 36,
+    "address": {
+        "street": "Christina Keys",
+        "city": "New Robertside",
+        "state": "Delaware",
+        "zip": "48626"
+    },
+    "contact": {
+        "phone": "452.984.7655x079",
+        "servicePhone": "800579083"
+    },
+    "birthday": "1989-15-12",
+    "ip": "206.162.151.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Down parent top group appear feeling morning bed. Interest answer without military off far your. Own staff quality use art lose.",
+        "bio": "Turn poor office season agree where. Wonder need interest level perhaps.\nKid tough oil. Management among fly investment organization easy read view. Serve series without final certainly."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
