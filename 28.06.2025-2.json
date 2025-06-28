@@ -1,0 +1,25 @@
+{
+    "name": "Brian Carlson",
+    "age": 62,
+    "address": {
+        "street": "Tim Avenue",
+        "city": "Baldwinborough",
+        "state": "Idaho",
+        "zip": "26170"
+    },
+    "contact": {
+        "phone": "913-487-8847x30190",
+        "servicePhone": "800757083"
+    },
+    "birthday": "1963-15-06",
+    "ip": "21.18.180.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Soon take leader relationship him cold red. Whether wife process character enough. Share coach probably yard speech.\nRecognize fine region sea. Small soldier place detail should call.",
+        "bio": "Say end who strategy officer watch drive part. Son form view. Arm standard system east direction.\nOrganization pressure sell sing officer ago house."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
