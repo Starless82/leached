@@ -1,0 +1,25 @@
+{
+    "name": "Linda Mullen",
+    "age": 66,
+    "address": {
+        "street": "Victoria Club",
+        "city": "Port Markburgh",
+        "state": "Utah",
+        "zip": "35578"
+    },
+    "contact": {
+        "phone": "(482)886-6202",
+        "servicePhone": "800955978"
+    },
+    "birthday": "1959-30-06",
+    "ip": "187.26.106.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Leave dinner general class. Size drive economic east. Gas catch writer down.\nAuthor establish simply. Yard different smile college apply door amount. Thus would dinner may.",
+        "bio": "Training front someone. Upon girl power lay institution start suffer. Surface us money notice message professional something."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
