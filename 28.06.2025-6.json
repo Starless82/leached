@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Gay",
+    "age": 36,
+    "address": {
+        "street": "Tammy Falls",
+        "city": "Duncanstad",
+        "state": "Alaska",
+        "zip": "78011"
+    },
+    "contact": {
+        "phone": "001-840-517-4489x56511",
+        "servicePhone": "800052302"
+    },
+    "birthday": "1989-25-12",
+    "ip": "157.65.125.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Modern set star begin window. Sometimes decide property opportunity medical. Dog win thank.\nTown protect whole federal sit compare. Word on other.",
+        "bio": "Century answer discussion job particularly gun beyond question. Music weight strategy successful of social. Always check market event choose claim city."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
