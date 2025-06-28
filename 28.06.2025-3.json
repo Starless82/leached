@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Anderson",
+    "age": 42,
+    "address": {
+        "street": "Miguel Court",
+        "city": "Martinport",
+        "state": "Nevada",
+        "zip": "25661"
+    },
+    "contact": {
+        "phone": "564-602-6479x6723",
+        "servicePhone": "800069264"
+    },
+    "birthday": "1983-17-06",
+    "ip": "60.70.60.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Leave officer week man peace father behavior. Idea investment world class. Last chance treat nearly various store.",
+        "bio": "Citizen physical cut computer though risk indeed. Run machine spring.\nAddress process perhaps huge staff something side. Pass surface role animal full about. Hair sometimes example study too."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
