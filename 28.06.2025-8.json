@@ -1,0 +1,25 @@
+{
+    "name": "Oscar Stein",
+    "age": 11,
+    "address": {
+        "street": "Stone Expressway",
+        "city": "South Jakeberg",
+        "state": "Georgia",
+        "zip": "57500"
+    },
+    "contact": {
+        "phone": "001-340-451-3356x243",
+        "servicePhone": "800550247"
+    },
+    "birthday": "2014-03-12",
+    "ip": "164.217.119.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Yes method attorney success person anything. Quality only plant issue according.\nCover stuff partner coach hour edge. Own effort attention.\nBeyond lawyer firm much scene bit.",
+        "bio": "Arm newspaper behind drug I thousand cup. Author perform situation rest door.\nForce whom story point best exist whole. During though exist. Effect none side behind."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
