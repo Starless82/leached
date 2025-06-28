@@ -1,0 +1,25 @@
+{
+    "name": "Adam Johnson",
+    "age": 78,
+    "address": {
+        "street": "Weaver Trail",
+        "city": "East Sherifurt",
+        "state": "Louisiana",
+        "zip": "24881"
+    },
+    "contact": {
+        "phone": "994.937.9213",
+        "servicePhone": "800617141"
+    },
+    "birthday": "1947-09-12",
+    "ip": "76.18.173.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Blood low group candidate again personal western be. Pull hard popular amount our yes professor.",
+        "bio": "Forward raise enough education black. Alone lead brother down weight. Listen Republican nothing discover."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
