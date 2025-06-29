@@ -1,0 +1,25 @@
+{
+    "name": "Glenn Matthews",
+    "age": 11,
+    "address": {
+        "street": "Warren Orchard",
+        "city": "Carpenterstad",
+        "state": "Indiana",
+        "zip": "97104"
+    },
+    "contact": {
+        "phone": "+1-464-979-8372x468",
+        "servicePhone": "800831502"
+    },
+    "birthday": "2014-20-09",
+    "ip": "162.65.189.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Day try two ten. Identify society return particular. While grow player far represent.\nStar big daughter writer organization ball space. Office cup best break identify see.",
+        "bio": "Member tend blue finally. Spring our early. Able develop player hundred nothing few.\nHappy Mr writer accept turn than. Suggest policy foot drug."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
