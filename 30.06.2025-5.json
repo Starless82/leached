@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Reed",
+    "age": 21,
+    "address": {
+        "street": "Johnston Shoal",
+        "city": "Whiteport",
+        "state": "Nevada",
+        "zip": "53066"
+    },
+    "contact": {
+        "phone": "(297)343-3326x275",
+        "servicePhone": "800390359"
+    },
+    "birthday": "2004-29-05",
+    "ip": "66.184.151.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Walk simply me so head history anything. Popular cover seek yeah plant challenge. View consider throw paper.",
+        "bio": "Much his national reveal allow. Cause health bar industry. Exactly everybody report meet. Name firm seek wall go."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
