@@ -1,0 +1,25 @@
+{
+    "name": "Katelyn Williams",
+    "age": 13,
+    "address": {
+        "street": "Jones Flats",
+        "city": "Tiffanyville",
+        "state": "Colorado",
+        "zip": "22217"
+    },
+    "contact": {
+        "phone": "(706)516-8552",
+        "servicePhone": "800764859"
+    },
+    "birthday": "2012-15-12",
+    "ip": "97.42.33.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Sing reality quite good put film everybody. Every either environment space again concern from.\nThen improve religious Republican in. Prove real yeah avoid wait.",
+        "bio": "Admit person dream say top tough.\nCold mother grow indeed compare side. Morning certain reveal plant. Defense region field money.\nOur popular think study green. Local maintain end party."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
