@@ -1,0 +1,25 @@
+{
+    "name": "William Brooks",
+    "age": 101,
+    "address": {
+        "street": "Brown Mountains",
+        "city": "Chenberg",
+        "state": "Tennessee",
+        "zip": "95234"
+    },
+    "contact": {
+        "phone": "471-275-3599x4708",
+        "servicePhone": "800573193"
+    },
+    "birthday": "1924-03-10",
+    "ip": "128.110.89.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Book half modern determine moment reflect name. Least manager form popular. Dinner she job low clearly service strategy.",
+        "bio": "Politics carry perhaps meet school. Become note threat west foot weight play."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
