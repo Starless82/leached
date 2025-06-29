@@ -1,0 +1,25 @@
+{
+    "name": "Catherine Patterson",
+    "age": 83,
+    "address": {
+        "street": "Tucker Flat",
+        "city": "New Ernest",
+        "state": "Utah",
+        "zip": "21055"
+    },
+    "contact": {
+        "phone": "(591)599-1479",
+        "servicePhone": "800557649"
+    },
+    "birthday": "1942-06-09",
+    "ip": "181.159.111.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Name evidence amount cost. Season politics short same member eye set. Will east know nice worker particularly six soon.\nSummer rest pass one effect because defense. Concern rate finish above.",
+        "bio": "Here technology staff any. Better small anyone involve paper story.\nFire within upon across address. Power trip last model. Great prepare week south gas training. News where cut show read."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
