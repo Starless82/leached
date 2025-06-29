@@ -1,0 +1,25 @@
+{
+    "name": "Cassandra Estrada",
+    "age": 79,
+    "address": {
+        "street": "Morris Underpass",
+        "city": "East Brandon",
+        "state": "Idaho",
+        "zip": "11726"
+    },
+    "contact": {
+        "phone": "(444)602-9360x8340",
+        "servicePhone": "800048970"
+    },
+    "birthday": "1946-27-12",
+    "ip": "191.230.90.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Environment fly skill issue whether according former government. Material letter other including. Glass enough bag relate happy sister father.",
+        "bio": "Story unit structure also of continue something. In four student kind difference head. Much weight especially stand instead bar."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
