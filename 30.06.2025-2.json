@@ -1,0 +1,25 @@
+{
+    "name": "Gabriella Gray DVM",
+    "age": 62,
+    "address": {
+        "street": "Baird Turnpike",
+        "city": "Kellyhaven",
+        "state": "Missouri",
+        "zip": "31506"
+    },
+    "contact": {
+        "phone": "+1-804-630-7617x63213",
+        "servicePhone": "800161235"
+    },
+    "birthday": "1963-07-02",
+    "ip": "3.103.128.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Lose where watch list glass back shoulder. Particularly a offer its. Late not month series.",
+        "bio": "Particularly size drive nation. Day style realize.\nArm nearly environmental ball above would full friend. Hand pull information figure west. Why race together suddenly eye almost."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
