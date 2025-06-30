@@ -1,0 +1,25 @@
+{
+    "name": "Cristina Carpenter",
+    "age": 83,
+    "address": {
+        "street": "Ronald Mountain",
+        "city": "New Spencerville",
+        "state": "Connecticut",
+        "zip": "22694"
+    },
+    "contact": {
+        "phone": "376-310-0310x130",
+        "servicePhone": "800198429"
+    },
+    "birthday": "1942-15-11",
+    "ip": "45.76.185.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Long phone purpose mouth. Own ago draw push gas.",
+        "bio": "Such finish dog change enough natural series. Popular forward add. Including what director war measure dinner city."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
