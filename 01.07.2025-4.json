@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Miller",
+    "age": 3,
+    "address": {
+        "street": "Patterson Glen",
+        "city": "New Hannahberg",
+        "state": "Arizona",
+        "zip": "07258"
+    },
+    "contact": {
+        "phone": "4284722707",
+        "servicePhone": "800292483"
+    },
+    "birthday": "2022-07-02",
+    "ip": "210.68.40.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Individual purpose speak together window. Prevent mother eat why.\nValue fund probably media. Create soldier year evidence. Central somebody possible various read late these.",
+        "bio": "Head opportunity trial officer Mrs once it. Nation down various class pattern how. So outside wind itself table."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
