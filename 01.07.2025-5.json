@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Ramirez",
+    "age": 105,
+    "address": {
+        "street": "Elizabeth Gateway",
+        "city": "Lake Jerryton",
+        "state": "Rhode Island",
+        "zip": "56247"
+    },
+    "contact": {
+        "phone": "(654)840-5263x258",
+        "servicePhone": "800801800"
+    },
+    "birthday": "1920-10-03",
+    "ip": "132.242.135.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Avoid up team grow north.\nFinancial instead determine degree. Reality positive think book still name player.\nSon enjoy space decision land lay if coach.",
+        "bio": "Early religious past evidence task but.\nParticularly high page question say. Onto born night benefit security science. Support what study bed provide program."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
