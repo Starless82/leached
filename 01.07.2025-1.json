@@ -1,0 +1,25 @@
+{
+    "name": "Monique Fitzgerald",
+    "age": 2,
+    "address": {
+        "street": "Brian Island",
+        "city": "Nicolebury",
+        "state": "Colorado",
+        "zip": "99387"
+    },
+    "contact": {
+        "phone": "(371)826-0737",
+        "servicePhone": "800317122"
+    },
+    "birthday": "2023-17-02",
+    "ip": "138.70.122.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Less get control cultural. Day down task Republican near nor. Hot view official hot other. Pattern fine suggest law question he respond.",
+        "bio": "Half style situation hospital if report between end.\nHere describe of simple tell should. Television doctor range. Research peace society close ever."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
