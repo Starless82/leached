@@ -1,0 +1,25 @@
+{
+    "name": "Sara Griffin",
+    "age": 33,
+    "address": {
+        "street": "Williamson Expressway",
+        "city": "Lake Faithton",
+        "state": "New Mexico",
+        "zip": "97667"
+    },
+    "contact": {
+        "phone": "+1-975-915-0153",
+        "servicePhone": "800021469"
+    },
+    "birthday": "1992-13-12",
+    "ip": "168.74.33.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Cover trade own. Any choice turn focus. Deep among nation check.\nInterview its hair someone five or treat. Determine project politics word training three. Prevent also yeah important animal.",
+        "bio": "Tax low exist they. Standard increase store financial degree theory difference. Think age friend serious community wait.\nInto enough say society. Ball heart law seek relate fund analysis."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
