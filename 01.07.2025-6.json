@@ -1,0 +1,25 @@
+{
+    "name": "Margaret Cherry",
+    "age": 20,
+    "address": {
+        "street": "Edward Shoal",
+        "city": "Port Bethfurt",
+        "state": "Arizona",
+        "zip": "18112"
+    },
+    "contact": {
+        "phone": "8837848235",
+        "servicePhone": "800431768"
+    },
+    "birthday": "2005-08-05",
+    "ip": "3.195.231.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Scientist recently newspaper treat purpose hear eight. Example learn might mouth Congress. Seem care middle beat employee fight institution care.",
+        "bio": "Late center identify happy. Oil amount probably job somebody in analysis find. Week small health brother significant.\nHis sell drive enter compare turn. Second certain threat part accept."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
