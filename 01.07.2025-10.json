@@ -1,0 +1,25 @@
+{
+    "name": "Eugene Anderson",
+    "age": 60,
+    "address": {
+        "street": "Parker Pass",
+        "city": "Cannonstad",
+        "state": "New Hampshire",
+        "zip": "70903"
+    },
+    "contact": {
+        "phone": "666.450.6045x329",
+        "servicePhone": "800540982"
+    },
+    "birthday": "1965-19-12",
+    "ip": "105.65.181.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Lay will cell phone professor say.\nTax grow also. Realize face success almost certain. Discuss anyone majority room relate.",
+        "bio": "Number inside about wonder or. Style describe there here rich federal popular popular. Fire according able possible answer."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
