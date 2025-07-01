@@ -1,0 +1,25 @@
+{
+    "name": "Ethan Smith",
+    "age": 63,
+    "address": {
+        "street": "Schultz Alley",
+        "city": "East Rachelshire",
+        "state": "Wisconsin",
+        "zip": "45071"
+    },
+    "contact": {
+        "phone": "001-810-737-6749x263",
+        "servicePhone": "800204766"
+    },
+    "birthday": "1962-17-07",
+    "ip": "218.112.239.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Happy concern produce add artist. One factor management cold staff study big. Move picture sometimes effect.\nThrough station peace case.",
+        "bio": "Or way stock near. Improve figure score usually project during baby.\nIncluding test others. Treatment start ability partner big card event. Successful near think successful under."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
