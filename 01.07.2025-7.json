@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Elliott",
+    "age": 102,
+    "address": {
+        "street": "Turner Path",
+        "city": "North Adamton",
+        "state": "Wisconsin",
+        "zip": "37172"
+    },
+    "contact": {
+        "phone": "289-743-0813x4052",
+        "servicePhone": "800405747"
+    },
+    "birthday": "1923-10-08",
+    "ip": "88.249.97.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Me cultural clearly.\nMan dinner man analysis. Figure walk act buy only support sing. Market religious picture best case. Goal room two particularly.",
+        "bio": "Teacher today month fall. According senior set.\nSeven still number describe Democrat approach. Hand edge put into least participant yeah."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
