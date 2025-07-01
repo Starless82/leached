@@ -1,0 +1,25 @@
+{
+    "name": "Scott Hammond",
+    "age": 65,
+    "address": {
+        "street": "Lawrence Drive",
+        "city": "Lake Bruce",
+        "state": "Alaska",
+        "zip": "27627"
+    },
+    "contact": {
+        "phone": "546-868-5128x45223",
+        "servicePhone": "800178343"
+    },
+    "birthday": "1960-08-04",
+    "ip": "113.152.117.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Determine trial American method during down. Administration machine threat site weight book short. History big stuff statement. Meet second evening peace democratic her traditional.",
+        "bio": "Hand can author garden some him maintain. Word our result investment stay. Expect after day produce animal government.\nOfficer note pass modern end. Action sister mean guess rest event figure late."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
