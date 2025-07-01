@@ -1,0 +1,25 @@
+{
+    "name": "Eric Burton",
+    "age": 13,
+    "address": {
+        "street": "Lisa Mountains",
+        "city": "Bryanton",
+        "state": "Illinois",
+        "zip": "87299"
+    },
+    "contact": {
+        "phone": "370-700-1670x330",
+        "servicePhone": "800867127"
+    },
+    "birthday": "2012-09-05",
+    "ip": "169.84.78.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Another huge notice. Particularly hard end we heavy ahead between tax. Their address local happy data message.",
+        "bio": "Difficult news product black stock performance. Rise more parent specific skill environmental property. Day onto structure use street class energy movement."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
