@@ -1,0 +1,25 @@
+{
+    "name": "Tina Zimmerman",
+    "age": 103,
+    "address": {
+        "street": "Daniel Highway",
+        "city": "Williamsstad",
+        "state": "Massachusetts",
+        "zip": "61764"
+    },
+    "contact": {
+        "phone": "3713956887",
+        "servicePhone": "800369602"
+    },
+    "birthday": "1922-08-03",
+    "ip": "205.212.7.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Later side possible score onto different. Test sell surface price little.\nToo analysis hear have why beat. Reflect hospital everything. A risk Congress.",
+        "bio": "Beat box begin region meet. Information action list size. Rather imagine appear tree director.\nRoad wear store able economic skin. Never dream nature."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
