@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Gomez",
+    "age": 72,
+    "address": {
+        "street": "Phillips Creek",
+        "city": "Matthewland",
+        "state": "New Mexico",
+        "zip": "08278"
+    },
+    "contact": {
+        "phone": "(719)267-4152x8966",
+        "servicePhone": "800028506"
+    },
+    "birthday": "1953-29-11",
+    "ip": "193.227.180.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Avoid goal happen throw like will close. Democratic get personal sense. Rest page other.\nBad memory with sure his represent imagine watch. Everyone now he country particularly.",
+        "bio": "None of candidate moment air to possible. Family develop perhaps culture economic.\nGame nearly nothing ground work what. Together nice follow majority. Shoulder itself energy start."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
