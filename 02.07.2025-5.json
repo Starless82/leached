@@ -1,0 +1,25 @@
+{
+    "name": "Sharon Reeves",
+    "age": 92,
+    "address": {
+        "street": "Davis Port",
+        "city": "Gwendolynville",
+        "state": "Alabama",
+        "zip": "78963"
+    },
+    "contact": {
+        "phone": "+1-936-426-3198x6616",
+        "servicePhone": "800965621"
+    },
+    "birthday": "1933-01-12",
+    "ip": "209.219.135.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Want enough toward democratic under special until. Your why make drug collection. Million idea your whole.\nPossible about run at child organization cold. Article huge notice individual.",
+        "bio": "Article reduce sea sense ground. Finally some friend point than between lot. Share represent across cut improve senior table."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
