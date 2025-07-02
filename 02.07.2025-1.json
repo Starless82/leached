@@ -1,0 +1,25 @@
+{
+    "name": "Tony Barrett",
+    "age": 44,
+    "address": {
+        "street": "Taylor Cove",
+        "city": "Port Jessica",
+        "state": "Pennsylvania",
+        "zip": "95530"
+    },
+    "contact": {
+        "phone": "654-260-2654x12837",
+        "servicePhone": "800562126"
+    },
+    "birthday": "1981-20-06",
+    "ip": "65.37.58.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Across positive agency enjoy decade writer. Camera beat particular treatment up baby.\nList teach at. Whole strategy pattern national.\nNation blue point dark recent west. Want mission eight four.",
+        "bio": "Everyone wait generation themselves. Certain American establish tonight upon describe fall.\nWhy surface sure tough radio. Federal financial simple team tend. Hospital owner throw."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
