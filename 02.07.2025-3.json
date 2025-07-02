@@ -1,0 +1,25 @@
+{
+    "name": "Emily Mcdonald",
+    "age": 62,
+    "address": {
+        "street": "Stephen Station",
+        "city": "Beckyshire",
+        "state": "Iowa",
+        "zip": "43274"
+    },
+    "contact": {
+        "phone": "+1-405-841-8200x78114",
+        "servicePhone": "800306814"
+    },
+    "birthday": "1963-20-07",
+    "ip": "132.154.251.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Leader range treat each spring. Police too clearly name age leader world. Risk community leave mind senior someone.\nLife also give stuff. Us thank I if know four.",
+        "bio": "Save stage time that century begin work. Half a former indeed budget reality. His tonight field between standard front.\nTreat a law value key if. Bring much attorney sometimes I anything."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
