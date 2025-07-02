@@ -1,0 +1,25 @@
+{
+    "name": "Sara Brown",
+    "age": 40,
+    "address": {
+        "street": "Fletcher Union",
+        "city": "North Alejandro",
+        "state": "Alabama",
+        "zip": "59134"
+    },
+    "contact": {
+        "phone": "+1-430-849-4363",
+        "servicePhone": "800627887"
+    },
+    "birthday": "1985-15-05",
+    "ip": "68.92.3.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Term family behavior north science. Toward machine visit baby situation.\nWhose show be care bad television. Level for animal another color.",
+        "bio": "Condition know TV just hour available author product. Source show likely glass how head."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
