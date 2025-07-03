@@ -1,0 +1,25 @@
+{
+    "name": "Richard Cherry",
+    "age": 92,
+    "address": {
+        "street": "Ayers Rapid",
+        "city": "Michaelhaven",
+        "state": "Utah",
+        "zip": "95819"
+    },
+    "contact": {
+        "phone": "001-541-352-5030",
+        "servicePhone": "800009512"
+    },
+    "birthday": "1933-25-08",
+    "ip": "106.43.136.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Training manager provide reach benefit painting painting strong. Rate wide surface light detail sport production. Inside minute official matter high per.",
+        "bio": "Close poor reason expert event as senior. Material what for chance message. Ok tonight environment good present.\nSound or maybe set vote identify. Claim attorney worker face station."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
