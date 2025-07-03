@@ -1,0 +1,25 @@
+{
+    "name": "George Richards",
+    "age": 1,
+    "address": {
+        "street": "Ricky Harbors",
+        "city": "Douglasmouth",
+        "state": "New Mexico",
+        "zip": "28526"
+    },
+    "contact": {
+        "phone": "+1-757-582-2018x43995",
+        "servicePhone": "800835246"
+    },
+    "birthday": "2024-26-10",
+    "ip": "41.63.77.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Month environment all idea size difference decision. Bit wife production I young relationship suggest.\nMust number gas drop raise.",
+        "bio": "Unit enjoy question section behavior with next. Technology enough sing capital citizen drop. Your those best himself garden address which spend."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
