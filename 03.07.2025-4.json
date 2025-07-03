@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Burton",
+    "age": 94,
+    "address": {
+        "street": "Thomas Lodge",
+        "city": "Cruzville",
+        "state": "Arkansas",
+        "zip": "81417"
+    },
+    "contact": {
+        "phone": "795.226.9748",
+        "servicePhone": "800192822"
+    },
+    "birthday": "1931-02-08",
+    "ip": "110.254.28.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Whose property similar exactly light. Hand no democratic show pattern happen. Day teach improve hundred art.",
+        "bio": "Somebody court involve executive pay that body. Clearly serious involve run through nor create. Bit plant her activity.\nBehavior approach tell parent rise. Million kind food successful everyone."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
