@@ -1,0 +1,25 @@
+{
+    "name": "Cameron Smith",
+    "age": 56,
+    "address": {
+        "street": "Kelly Walk",
+        "city": "Port Ashleyshire",
+        "state": "Massachusetts",
+        "zip": "79077"
+    },
+    "contact": {
+        "phone": "577-988-8146",
+        "servicePhone": "800987735"
+    },
+    "birthday": "1969-14-06",
+    "ip": "223.206.162.55",
+    "foo": "bar",
+    "profile": {
+        "about": "First open approach up. Manage policy five identify. Least skin treat by.\nEntire place product level. Ago control early picture focus surface. Effort bring teacher different issue.",
+        "bio": "Later night executive point. Already generation degree every end per.\nPretty television process girl. Quite arm start position stock. Strong pattern white."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
