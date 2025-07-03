@@ -1,0 +1,25 @@
+{
+    "name": "Donna Thompson",
+    "age": 25,
+    "address": {
+        "street": "Martinez Vista",
+        "city": "Cindymouth",
+        "state": "Arkansas",
+        "zip": "32872"
+    },
+    "contact": {
+        "phone": "965-909-0417x2393",
+        "servicePhone": "800822048"
+    },
+    "birthday": "2000-05-01",
+    "ip": "2.137.80.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Get law affect concern. Then activity guess manage foreign well try. Rule respond continue those.",
+        "bio": "Civil record step treatment modern. Executive day argue view floor almost.\nPerformance much wind remember huge. Sense two off difficult end high. Economic enjoy stuff fish."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
