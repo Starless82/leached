@@ -1,0 +1,25 @@
+{
+    "name": "Sherri Contreras",
+    "age": 20,
+    "address": {
+        "street": "Walker Prairie",
+        "city": "Lake Marvinborough",
+        "state": "Wisconsin",
+        "zip": "48755"
+    },
+    "contact": {
+        "phone": "001-241-228-9118",
+        "servicePhone": "800258708"
+    },
+    "birthday": "2005-01-03",
+    "ip": "32.96.143.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Feel possible company man hit. Maintain yourself itself market analysis likely yeah. Alone too guess.\nRoom change and light. Cover authority national manage big huge.",
+        "bio": "Safe drug church land. Find grow idea particular ability bring. Raise add bag real the yourself image.\nName daughter power worker."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
