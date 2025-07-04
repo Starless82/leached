@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Stanley",
+    "age": 14,
+    "address": {
+        "street": "Mayer Stream",
+        "city": "Houstonberg",
+        "state": "Massachusetts",
+        "zip": "83613"
+    },
+    "contact": {
+        "phone": "932.772.6995",
+        "servicePhone": "800818054"
+    },
+    "birthday": "2011-29-08",
+    "ip": "207.164.134.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Everybody management voice focus baby. Able likely ask try senior military. Work open size kid scene local debate.",
+        "bio": "Prepare threat moment model science discover. Kind race heavy.\nFine play each let hit purpose. Hospital meet behind keep employee. Stand north physical movie take.\nDrug budget partner son indeed."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
