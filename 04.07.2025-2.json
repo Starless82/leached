@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Cooper",
+    "age": 53,
+    "address": {
+        "street": "Teresa Union",
+        "city": "Carlsonmouth",
+        "state": "Maryland",
+        "zip": "59630"
+    },
+    "contact": {
+        "phone": "830.906.2715x210",
+        "servicePhone": "800449375"
+    },
+    "birthday": "1972-13-11",
+    "ip": "101.224.64.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Subject build national campaign list television. Hit purpose try movie. Meeting skill benefit.",
+        "bio": "Particular bad course moment. Now seek teach bit government."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
