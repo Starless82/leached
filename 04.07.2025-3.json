@@ -1,0 +1,25 @@
+{
+    "name": "Chris Johnson",
+    "age": 34,
+    "address": {
+        "street": "Richard Keys",
+        "city": "Jeremybury",
+        "state": "Idaho",
+        "zip": "85913"
+    },
+    "contact": {
+        "phone": "+1-466-862-9495x100",
+        "servicePhone": "800364900"
+    },
+    "birthday": "1991-16-07",
+    "ip": "137.136.221.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Community generation none fight night reality. Specific almost middle answer position.\nProbably road moment much. Crime perform condition finally red.",
+        "bio": "Positive bag capital school relate. Old bit ten our power place.\nBeat forget such man public series. Sure just fish all bag role raise."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
