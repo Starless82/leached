@@ -1,0 +1,25 @@
+{
+    "name": "Jason Wallace",
+    "age": 44,
+    "address": {
+        "street": "Randy Plaza",
+        "city": "North Kristinberg",
+        "state": "Kentucky",
+        "zip": "33525"
+    },
+    "contact": {
+        "phone": "435.366.1631x174",
+        "servicePhone": "800667870"
+    },
+    "birthday": "1981-18-01",
+    "ip": "61.125.187.64",
+    "foo": "bar",
+    "profile": {
+        "about": "International choose cold. Listen sense fire time. Business someone can medical.\nBetween majority way perhaps wish. Identify system foot game give and.",
+        "bio": "Reflect property question data. Parent meet use civil huge society name.\nDoctor police system which as.\nReality standard know. Record add physical. Suggest arm establish study."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
