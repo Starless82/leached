@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Adam Moss",
+    "age": 15,
+    "address": {
+        "street": "Aguilar Path",
+        "city": "West Hannahmouth",
+        "state": "North Dakota",
+        "zip": "07043"
+    },
+    "contact": {
+        "phone": "787.417.5830x22821",
+        "servicePhone": "800447670"
+    },
+    "birthday": "2010-19-10",
+    "ip": "101.106.56.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Wall senior test. Poor language cost indeed seat very personal.\nLay fall assume trouble reach edge wear. Popular bag front toward. Reveal there conference child.",
+        "bio": "Individual practice bank five. Station performance choice serve. Standard final hold outside wind must.\nUp not loss perform perhaps turn business. Follow consider heavy teach will."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
