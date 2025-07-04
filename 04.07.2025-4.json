@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Hawkins",
+    "age": 4,
+    "address": {
+        "street": "Thompson Shoals",
+        "city": "South Amyton",
+        "state": "Alaska",
+        "zip": "41536"
+    },
+    "contact": {
+        "phone": "+1-737-905-1290",
+        "servicePhone": "800350923"
+    },
+    "birthday": "2021-16-08",
+    "ip": "54.89.217.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Traditional collection general civil each. Result out letter build newspaper character.\nHealth similar sell. Anyone whole nation seat within. Economy point themselves board condition spend develop.",
+        "bio": "Between that research rock statement he free maintain. Today well physical over similar.\nOffice American be religious among. Drug evening light watch buy."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
