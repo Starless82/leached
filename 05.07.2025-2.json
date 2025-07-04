@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Rodriguez",
+    "age": 26,
+    "address": {
+        "street": "Sanchez Passage",
+        "city": "Jonesborough",
+        "state": "Kentucky",
+        "zip": "43597"
+    },
+    "contact": {
+        "phone": "(905)237-8128x7662",
+        "servicePhone": "800497594"
+    },
+    "birthday": "1999-05-11",
+    "ip": "123.14.235.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Pressure show adult word drug risk kind policy. To conference choose own establish. Election take clearly either will easy. Leave including direction official.",
+        "bio": "Piece drug page. Soon onto because. Member pressure authority suffer team pattern firm.\nSet way deep kind measure feel. Follow pressure arrive particular air. Tough crime leg today wife."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
