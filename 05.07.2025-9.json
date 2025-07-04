@@ -1,0 +1,25 @@
+{
+    "name": "Vernon Chang",
+    "age": 24,
+    "address": {
+        "street": "Porter Land",
+        "city": "North Davidhaven",
+        "state": "Colorado",
+        "zip": "95742"
+    },
+    "contact": {
+        "phone": "221.836.6636x5957",
+        "servicePhone": "800487494"
+    },
+    "birthday": "2001-16-08",
+    "ip": "54.27.183.55",
+    "foo": "bar",
+    "profile": {
+        "about": "The well right fire choice. Type concern computer work. In board one everything general evening prepare.\nIdentify never movement miss. Modern any several business wind.",
+        "bio": "Responsibility audience general charge. Senior church clear notice."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
