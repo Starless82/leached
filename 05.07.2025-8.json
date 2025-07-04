@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Sanders",
+    "age": 54,
+    "address": {
+        "street": "Thomas Shoals",
+        "city": "Port Bernardfort",
+        "state": "Mississippi",
+        "zip": "70646"
+    },
+    "contact": {
+        "phone": "4356391609",
+        "servicePhone": "800579800"
+    },
+    "birthday": "1971-19-02",
+    "ip": "154.190.82.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Hair marriage start painting brother skin difficult. Budget throw offer left indicate. Issue age figure once.",
+        "bio": "Mean they year able allow whom impact back. Five national price physical. Get break yard ahead social compare window."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
