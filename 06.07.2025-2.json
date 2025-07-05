@@ -1,0 +1,25 @@
+{
+    "name": "Michael Adams",
+    "age": 3,
+    "address": {
+        "street": "Kurt Views",
+        "city": "Matthewville",
+        "state": "Louisiana",
+        "zip": "61738"
+    },
+    "contact": {
+        "phone": "(749)372-1207",
+        "servicePhone": "800357671"
+    },
+    "birthday": "2022-27-05",
+    "ip": "30.247.218.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Drug new money relationship job friend only. Computer success design card.\nFirm consumer number.",
+        "bio": "Recognize nothing travel on probably. Quite believe address change election home action success. Develop subject least citizen family election land when."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
