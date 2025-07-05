@@ -1,0 +1,25 @@
+{
+    "name": "Robert Baker",
+    "age": 35,
+    "address": {
+        "street": "Sarah Trafficway",
+        "city": "Port Sarahchester",
+        "state": "Colorado",
+        "zip": "98468"
+    },
+    "contact": {
+        "phone": "877-886-1560x1194",
+        "servicePhone": "800046206"
+    },
+    "birthday": "1990-31-08",
+    "ip": "75.233.5.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Administration amount choose important produce. Far lead begin employee region always.\nLong Mr oil. Name born plan water. Event environmental direction nice military get.",
+        "bio": "Wear he yard apply. End or quality. Cold clearly several off parent represent rest.\nSeek area training suffer such. Man according let bit ball country reveal."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
