@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Pineda",
+    "age": 95,
+    "address": {
+        "street": "Benjamin Streets",
+        "city": "Danielsville",
+        "state": "Kentucky",
+        "zip": "96949"
+    },
+    "contact": {
+        "phone": "(683)356-8893x80683",
+        "servicePhone": "800867079"
+    },
+    "birthday": "1930-01-07",
+    "ip": "113.83.183.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Foot great itself ok today. Over ball player experience book notice. Which agree west significant us boy.",
+        "bio": "Lawyer population wind. Article direction kid candidate why draw happen. Imagine argue model gun.\nShoulder keep agent citizen central. Officer top garden key. Discover itself movie."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
