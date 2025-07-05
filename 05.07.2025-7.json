@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Sullivan",
+    "age": 99,
+    "address": {
+        "street": "Wright Village",
+        "city": "North Trevorville",
+        "state": "Utah",
+        "zip": "95005"
+    },
+    "contact": {
+        "phone": "+1-759-767-4552x72531",
+        "servicePhone": "800914972"
+    },
+    "birthday": "1926-05-10",
+    "ip": "195.195.255.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Hand ten hair whom above one walk personal.\nNothing reason oil follow project indeed establish language. Maybe myself recognize off police.",
+        "bio": "Establish trip whom finally. Perform beyond song. Happy realize society group poor.\nAll manage office large simple. Company national available blue force tend result name."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
