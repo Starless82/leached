@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Kirby",
+    "age": 109,
+    "address": {
+        "street": "Underwood Isle",
+        "city": "Cookeland",
+        "state": "Pennsylvania",
+        "zip": "48074"
+    },
+    "contact": {
+        "phone": "001-419-904-2514x5349",
+        "servicePhone": "800805046"
+    },
+    "birthday": "1916-02-01",
+    "ip": "6.164.75.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Entire notice goal agreement fight toward apply oil. Trip property these. Fact interesting next control political son.",
+        "bio": "Response wonder although other find. Author important a some million present.\nDrug glass little change piece great camera. Security single country federal professional stock order energy."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
