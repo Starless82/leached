@@ -1,0 +1,25 @@
+{
+    "name": "Frank Mcgrath",
+    "age": 51,
+    "address": {
+        "street": "Stephanie Point",
+        "city": "South Timothyview",
+        "state": "Virginia",
+        "zip": "10669"
+    },
+    "contact": {
+        "phone": "+1-848-906-2305x42138",
+        "servicePhone": "800605901"
+    },
+    "birthday": "1974-13-09",
+    "ip": "38.36.57.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Decade bag get field child entire himself.\nTough major entire news down. Past challenge east local.\nBetter find feel analysis. Wish beyond million animal he.",
+        "bio": "Return process threat million according. Produce particularly station little recognize.\nConsider left pull build. Anyone democratic gas much mind the."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
