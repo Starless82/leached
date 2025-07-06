@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Martin",
+    "age": 25,
+    "address": {
+        "street": "Rowe Neck",
+        "city": "North Wendyview",
+        "state": "Florida",
+        "zip": "39460"
+    },
+    "contact": {
+        "phone": "520-214-2071x34604",
+        "servicePhone": "800390970"
+    },
+    "birthday": "2000-19-05",
+    "ip": "154.218.8.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Yeah in town home drop meeting former say. Deal prove shake various.\nLose why success food job human food to. None fly lead customer interest. Same piece our situation.",
+        "bio": "Anything five fear on heavy style. Surface top poor not probably. Produce doctor affect read entire night.\nCoach every time wind baby. Size body why remain. Instead speak law quality result medical."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
