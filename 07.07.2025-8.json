@@ -1,0 +1,25 @@
+{
+    "name": "Arthur King",
+    "age": 64,
+    "address": {
+        "street": "Todd Ford",
+        "city": "North Steven",
+        "state": "Oregon",
+        "zip": "74883"
+    },
+    "contact": {
+        "phone": "(835)717-3069x77457",
+        "servicePhone": "800604025"
+    },
+    "birthday": "1961-30-12",
+    "ip": "177.59.146.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Across and true. Free space against happen science but wear. Probably center keep land affect.",
+        "bio": "Read place industry main conference many. Popular to decision know manager. Recognize growth care my indeed talk result skill.\nStop author case. Maybe account new exactly detail street."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
