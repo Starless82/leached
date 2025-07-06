@@ -1,0 +1,25 @@
+{
+    "name": "Justin Barber",
+    "age": 66,
+    "address": {
+        "street": "Martin Vista",
+        "city": "West Karenville",
+        "state": "Ohio",
+        "zip": "55142"
+    },
+    "contact": {
+        "phone": "001-984-534-6443x3979",
+        "servicePhone": "800581175"
+    },
+    "birthday": "1959-23-10",
+    "ip": "129.233.225.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Style line something will message. Model writer method cover.\nVote occur movie movement prevent live amount lot. Decide leg away sport each girl. Billion politics sea best bring art collection.",
+        "bio": "Moment investment unit affect experience operation. Middle style yeah newspaper. Candidate front factor understand medical ok full."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
