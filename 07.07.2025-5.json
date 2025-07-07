@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Patel",
+    "age": 0,
+    "address": {
+        "street": "Douglas Harbor",
+        "city": "North Jimmy",
+        "state": "Connecticut",
+        "zip": "06383"
+    },
+    "contact": {
+        "phone": "260-689-7545",
+        "servicePhone": "800514751"
+    },
+    "birthday": "2025-26-04",
+    "ip": "37.63.222.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Choose truth radio there. White on bring third always trip.\nRight growth world stage hotel. Party gas rest. Power situation remain whom.",
+        "bio": "Yard wait effect million argue. Piece remain camera something sign. Bill may stay."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
