@@ -1,0 +1,25 @@
+{
+    "name": "John Dunn",
+    "age": 86,
+    "address": {
+        "street": "Diana Ridges",
+        "city": "New Brittneyfurt",
+        "state": "Iowa",
+        "zip": "82675"
+    },
+    "contact": {
+        "phone": "548.811.1272",
+        "servicePhone": "800992273"
+    },
+    "birthday": "1939-26-06",
+    "ip": "39.57.214.218",
+    "foo": "bar",
+    "profile": {
+        "about": "And animal training close. Animal foreign box.\nInstead message win building exist suddenly physical away. Official entire conference writer trial.",
+        "bio": "Also level writer. Medical matter yourself born pressure.\nEither continue follow lay.\nMany inside newspaper number. Exactly in thing. Everybody follow part scene create commercial save."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
