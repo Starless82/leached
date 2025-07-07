@@ -1,0 +1,25 @@
+{
+    "name": "Jimmy Lopez",
+    "age": 55,
+    "address": {
+        "street": "Mitchell Avenue",
+        "city": "Martinmouth",
+        "state": "Utah",
+        "zip": "04136"
+    },
+    "contact": {
+        "phone": "+1-683-585-2278x6371",
+        "servicePhone": "800563627"
+    },
+    "birthday": "1970-10-01",
+    "ip": "9.223.92.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Threat then season do take. Recent central deal table.\nHistory soldier use page official Republican executive not. Up seem girl them research reveal team.",
+        "bio": "Say understand hair. Structure weight success by art upon million. Throw audience myself stuff issue ability agency."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
