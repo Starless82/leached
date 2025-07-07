@@ -1,0 +1,25 @@
+{
+    "name": "Parker Chaney",
+    "age": 93,
+    "address": {
+        "street": "Caldwell Lights",
+        "city": "Kristinchester",
+        "state": "Louisiana",
+        "zip": "15581"
+    },
+    "contact": {
+        "phone": "001-499-797-9219x12198",
+        "servicePhone": "800688027"
+    },
+    "birthday": "1932-15-01",
+    "ip": "112.169.201.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Sound several mouth section beyond well consider. Author imagine face billion. Score responsibility almost attack near city the.",
+        "bio": "Information place them former themselves table old. Time news opportunity reality.\nSister wall sit hot audience crime. Benefit under alone second kid. Up play alone senior. Value pay no listen."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
