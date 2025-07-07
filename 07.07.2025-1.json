@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Blackwell",
+    "age": 88,
+    "address": {
+        "street": "Lynch Circles",
+        "city": "South Kenneth",
+        "state": "Massachusetts",
+        "zip": "49653"
+    },
+    "contact": {
+        "phone": "861-832-6215",
+        "servicePhone": "800279872"
+    },
+    "birthday": "1937-06-05",
+    "ip": "77.209.166.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Though more account station. Quality benefit city feel point general. Control to hair reflect.\nUnit its group indicate source. Region southern much least parent commercial. Allow still gun which.",
+        "bio": "Start collection level leave edge. Professional indicate involve employee fear fire."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
