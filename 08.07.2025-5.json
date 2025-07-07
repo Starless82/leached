@@ -1,0 +1,25 @@
+{
+    "name": "Beth Woods",
+    "age": 41,
+    "address": {
+        "street": "Douglas Light",
+        "city": "Port Christopher",
+        "state": "Alaska",
+        "zip": "70475"
+    },
+    "contact": {
+        "phone": "(948)532-5159x305",
+        "servicePhone": "800366294"
+    },
+    "birthday": "1984-27-07",
+    "ip": "68.183.221.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Rather baby career can guess think energy. Close sort thank.\nEye seat better will anyone pressure support. Sit fire best seven eye high.",
+        "bio": "Say pattern when door husband politics. Research physical produce agency education.\nDifference foot help education only throw. East appear miss. Daughter be eye skill."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
