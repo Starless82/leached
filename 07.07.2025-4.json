@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Sheppard",
+    "age": 32,
+    "address": {
+        "street": "Holland Freeway",
+        "city": "Haileyview",
+        "state": "Alabama",
+        "zip": "55244"
+    },
+    "contact": {
+        "phone": "(757)626-2227x6061",
+        "servicePhone": "800978989"
+    },
+    "birthday": "1993-01-10",
+    "ip": "10.33.100.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Blue concern drug read. Draw attention air worker. Book start big face doctor report gas. Support special option blood admit sea exactly.",
+        "bio": "Outside else station reason think similar performance. Expert step feeling adult today step court. Scientist significant marriage say decision behind."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
