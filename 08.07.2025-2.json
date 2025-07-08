@@ -1,0 +1,25 @@
+{
+    "name": "Eric Richmond",
+    "age": 3,
+    "address": {
+        "street": "Allen Cliffs",
+        "city": "Robertsonstad",
+        "state": "Nevada",
+        "zip": "40712"
+    },
+    "contact": {
+        "phone": "455.644.1330x52897",
+        "servicePhone": "800032146"
+    },
+    "birthday": "2022-15-08",
+    "ip": "57.233.121.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Parent value weight discussion when. Student measure board dark.\nConcern mission agency. Tough institution soldier on.",
+        "bio": "It material management recent list. Political they ok that bank. Weight house fire study talk.\nShould play off allow special help how. Hand tax small along."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
