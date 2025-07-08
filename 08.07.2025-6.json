@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Rocha",
+    "age": 89,
+    "address": {
+        "street": "Erin Walks",
+        "city": "East Joshuaville",
+        "state": "New Mexico",
+        "zip": "44216"
+    },
+    "contact": {
+        "phone": "582-952-7431",
+        "servicePhone": "800680851"
+    },
+    "birthday": "1936-07-03",
+    "ip": "197.213.165.11",
+    "foo": "bar",
+    "profile": {
+        "about": "News though else among majority choice.\nShow star visit. Build American keep purpose already. Order eat bank between she.",
+        "bio": "Not myself behavior follow. Body place everything language soldier. Somebody leader even just."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
