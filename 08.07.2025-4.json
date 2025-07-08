@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Anderson",
+    "age": 103,
+    "address": {
+        "street": "Wright Manor",
+        "city": "Garyport",
+        "state": "Rhode Island",
+        "zip": "66744"
+    },
+    "contact": {
+        "phone": "+1-833-685-0036x5898",
+        "servicePhone": "800938628"
+    },
+    "birthday": "1922-20-04",
+    "ip": "184.62.19.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Professional friend friend positive go. May check section cut create where any.\nTrip himself too money until loss Mrs. Consumer stand your economic themselves seek.",
+        "bio": "Theory me share doctor civil future. Team there inside stand door build. Tax behavior let hard do."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
