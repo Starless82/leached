@@ -1,0 +1,25 @@
+{
+    "name": "Evan Payne",
+    "age": 27,
+    "address": {
+        "street": "Paula Mission",
+        "city": "Lake Josestad",
+        "state": "Arkansas",
+        "zip": "28458"
+    },
+    "contact": {
+        "phone": "(727)543-8102",
+        "servicePhone": "800571190"
+    },
+    "birthday": "1998-18-11",
+    "ip": "147.5.227.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Able improve information heavy turn church carry. Budget generation huge let.",
+        "bio": "Same maintain either identify. Care audience outside know. Reality listen on his site cold you. Very poor back by parent.\nAnother usually free into step. Include with wait white page system trouble."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
