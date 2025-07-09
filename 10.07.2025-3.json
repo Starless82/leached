@@ -1,0 +1,25 @@
+{
+    "name": "David Conner",
+    "age": 7,
+    "address": {
+        "street": "Maldonado Common",
+        "city": "New Jessica",
+        "state": "Kentucky",
+        "zip": "29769"
+    },
+    "contact": {
+        "phone": "714.999.0812",
+        "servicePhone": "800545607"
+    },
+    "birthday": "2018-28-09",
+    "ip": "167.127.65.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Hot officer and. Will issue matter worker base director right. Item use mind treatment member others policy choice.",
+        "bio": "Now several poor defense start. Degree fight summer agree very challenge.\nPay economy sign another."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
