@@ -1,0 +1,25 @@
+{
+    "name": "Diane Harmon",
+    "age": 53,
+    "address": {
+        "street": "Dillon Lodge",
+        "city": "Anaburgh",
+        "state": "Maine",
+        "zip": "86572"
+    },
+    "contact": {
+        "phone": "4152556542",
+        "servicePhone": "800540135"
+    },
+    "birthday": "1972-23-12",
+    "ip": "156.70.200.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Hundred blue hospital business out rich choice miss.\nOwn bring college. Cost including identify check with thank. For cover down.",
+        "bio": "Score parent public ever machine he. Break community writer board woman himself.\nAttack TV industry since suffer. Enjoy address media base phone music almost. Better film maybe along mouth."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
