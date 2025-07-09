@@ -1,0 +1,25 @@
+{
+    "name": "Evan Lamb",
+    "age": 43,
+    "address": {
+        "street": "Susan Forest",
+        "city": "Donnashire",
+        "state": "Maryland",
+        "zip": "37796"
+    },
+    "contact": {
+        "phone": "910-432-6227x2645",
+        "servicePhone": "800121629"
+    },
+    "birthday": "1982-18-03",
+    "ip": "40.148.62.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Appear baby center evidence term read letter police. Take risk administration practice benefit economic animal. Account ever sound end month.",
+        "bio": "Page statement answer.\nColor stage left performance plant type surface. Senior recently ask measure choose decision simply."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
