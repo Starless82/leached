@@ -1,0 +1,25 @@
+{
+    "name": "Krista Velasquez DDS",
+    "age": 84,
+    "address": {
+        "street": "Marc Neck",
+        "city": "Yuchester",
+        "state": "South Dakota",
+        "zip": "94244"
+    },
+    "contact": {
+        "phone": "001-883-636-1675x36838",
+        "servicePhone": "800127483"
+    },
+    "birthday": "1941-10-06",
+    "ip": "23.224.108.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Glass because hand live.\nCompare air trade site her human old. Visit walk join understand. Sound ok year manager.",
+        "bio": "Research their along local line he box. Usually event space bag.\nEnough prevent spring station series. Drug thing indeed almost."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
