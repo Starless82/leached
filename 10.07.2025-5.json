@@ -1,0 +1,25 @@
+{
+    "name": "Micheal Maxwell",
+    "age": 43,
+    "address": {
+        "street": "Lopez Prairie",
+        "city": "Port Jeffreyburgh",
+        "state": "Illinois",
+        "zip": "84865"
+    },
+    "contact": {
+        "phone": "001-971-599-9814x96243",
+        "servicePhone": "800095833"
+    },
+    "birthday": "1982-19-03",
+    "ip": "25.102.229.251",
+    "foo": "bar",
+    "profile": {
+        "about": "With method once change teach. Share still store check. Bring seek left day clearly.\nSkin specific interview war wait eye. Leave health man hotel beyond food support.",
+        "bio": "End entire keep morning. Wish expect grow. Drug word one these yard.\nService well finish low rate. Sense pull dream term."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
