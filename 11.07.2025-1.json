@@ -1,0 +1,25 @@
+{
+    "name": "Angela Lang",
+    "age": 21,
+    "address": {
+        "street": "Castro Port",
+        "city": "West Davidville",
+        "state": "Kentucky",
+        "zip": "18484"
+    },
+    "contact": {
+        "phone": "346-946-0773x9128",
+        "servicePhone": "800663831"
+    },
+    "birthday": "2004-31-08",
+    "ip": "218.27.23.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Rock his house training career parent program. Late everybody friend throw natural.\nSome series table almost none. Example too commercial wear. Film positive herself magazine color majority young.",
+        "bio": "Federal contain light simply protect great hit.\nThat write this population. Material one but try realize positive air she."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
