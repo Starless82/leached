@@ -1,0 +1,25 @@
+{
+    "name": "Stacy Austin",
+    "age": 24,
+    "address": {
+        "street": "Richard Street",
+        "city": "Carolside",
+        "state": "Pennsylvania",
+        "zip": "43938"
+    },
+    "contact": {
+        "phone": "(853)705-3537x6389",
+        "servicePhone": "800584077"
+    },
+    "birthday": "2001-01-07",
+    "ip": "30.121.48.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Defense memory skin he. Beat current television owner car scene.",
+        "bio": "Close million record thing political.\nSomething ahead age office.\nExpect most computer drive that indeed decide.\nEasy animal under way yard ago customer. Style dog draw computer party fact."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
