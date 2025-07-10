@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Smith",
+    "age": 62,
+    "address": {
+        "street": "White Shores",
+        "city": "Heidiburgh",
+        "state": "Wisconsin",
+        "zip": "86983"
+    },
+    "contact": {
+        "phone": "592-306-6889",
+        "servicePhone": "800470631"
+    },
+    "birthday": "1963-20-06",
+    "ip": "217.198.65.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Information it paper continue lead painting team suffer. Force pattern growth these give he note. Difficult week main he mission suddenly whose.",
+        "bio": "Vote enough project fight teach end. Technology identify fall natural.\nOne customer foot conference trial by. Choose today box money century teacher new. Say long add item throw son."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
