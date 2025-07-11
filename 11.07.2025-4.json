@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Scott",
+    "age": 62,
+    "address": {
+        "street": "Dana Mall",
+        "city": "North Rachelton",
+        "state": "Connecticut",
+        "zip": "75168"
+    },
+    "contact": {
+        "phone": "719-987-4020x8610",
+        "servicePhone": "800777036"
+    },
+    "birthday": "1963-28-07",
+    "ip": "86.127.21.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Deep public consumer north store hot such. Song you year art join. Our system also trouble expect wear.\nHuman glass bar top.\nFour message clear society note full. Card society order whatever green.",
+        "bio": "Agency state behavior. Fly beyond although including environmental. Particular yet church magazine. Attorney phone recent south produce later."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
