@@ -1,0 +1,25 @@
+{
+    "name": "Levi Garcia",
+    "age": 33,
+    "address": {
+        "street": "Luna Dam",
+        "city": "Lake Richardburgh",
+        "state": "South Carolina",
+        "zip": "36596"
+    },
+    "contact": {
+        "phone": "(499)400-8945",
+        "servicePhone": "800655293"
+    },
+    "birthday": "1992-27-06",
+    "ip": "212.87.214.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Possible close lead black bank experience. Low appear clearly shoulder writer cost. Teach especially raise work decide.\nCould member face total support. Seat finally support student.",
+        "bio": "Those reach charge need travel president. Interview drug ball pretty clear beautiful.\nAround cut start strong. Employee who run. Their next piece suddenly true Republican."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
