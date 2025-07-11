@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Rodgers",
+    "age": 86,
+    "address": {
+        "street": "Shawna Hill",
+        "city": "Heatherside",
+        "state": "California",
+        "zip": "33738"
+    },
+    "contact": {
+        "phone": "(834)315-0235",
+        "servicePhone": "800309779"
+    },
+    "birthday": "1939-20-11",
+    "ip": "7.137.238.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Fish thus exactly production carry use. West manage cell husband onto south finish apply. Stage whether walk friend interesting unit while either.\nMake great less behind continue TV.",
+        "bio": "Spend fact capital night provide simple. Role establish break.\nLearn agreement need large. Future value it worker read behind interview. Provide clearly return real miss land."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
