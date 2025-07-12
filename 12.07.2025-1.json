@@ -1,0 +1,25 @@
+{
+    "name": "David Lopez",
+    "age": 39,
+    "address": {
+        "street": "Zachary Station",
+        "city": "South Angela",
+        "state": "Arizona",
+        "zip": "77935"
+    },
+    "contact": {
+        "phone": "397-839-4770x10351",
+        "servicePhone": "800285593"
+    },
+    "birthday": "1986-19-04",
+    "ip": "143.205.230.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Poor situation campaign beautiful check old property our. And car rather method after imagine.\nExplain major body marriage physical focus pretty first. Treat south others.",
+        "bio": "Answer street relationship building night. Score require authority coach. Single president main about I feeling action."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
