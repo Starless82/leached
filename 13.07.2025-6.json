@@ -1,0 +1,25 @@
+{
+    "name": "John Thompson",
+    "age": 6,
+    "address": {
+        "street": "Tyler Bypass",
+        "city": "South Robertshire",
+        "state": "Montana",
+        "zip": "77038"
+    },
+    "contact": {
+        "phone": "(542)694-4781x149",
+        "servicePhone": "800197601"
+    },
+    "birthday": "2019-12-07",
+    "ip": "59.235.244.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Agree they wear their. Fund action wind TV white. Hot kid to.\nAble important beautiful minute much. Top common whom. But behind wife sea.",
+        "bio": "Popular idea very within professional view. Safe ground population often lay away family dream. Deal thing on air statement the peace her."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
