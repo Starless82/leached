@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Howard",
+    "age": 11,
+    "address": {
+        "street": "Joanne Harbors",
+        "city": "Bruceton",
+        "state": "Kansas",
+        "zip": "82922"
+    },
+    "contact": {
+        "phone": "663.912.2776x4801",
+        "servicePhone": "800088103"
+    },
+    "birthday": "2014-07-05",
+    "ip": "23.182.158.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Knowledge they enter who us station.\nAs century blood close case.\nSure record senior amount response month world walk. Realize method speak major.",
+        "bio": "Right staff this care concern religious country. Sometimes instead too one.\nSeven threat investment young money treat. Good interview figure."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
