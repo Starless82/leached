@@ -1,0 +1,25 @@
+{
+    "name": "Michael Bolton",
+    "age": 44,
+    "address": {
+        "street": "Raymond Street",
+        "city": "Port Christopher",
+        "state": "Colorado",
+        "zip": "21979"
+    },
+    "contact": {
+        "phone": "+1-807-338-4409x310",
+        "servicePhone": "800081309"
+    },
+    "birthday": "1981-05-07",
+    "ip": "159.255.20.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Operation another identify something. Ability or company activity. Whom watch seek military seek.\nTree full north audience record candidate whole. Real eight affect near throughout space develop.",
+        "bio": "Whose American upon third entire. Full certain see her expert suggest win. Growth within beautiful debate daughter either."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
