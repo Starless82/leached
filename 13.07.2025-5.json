@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Harvey",
+    "age": 54,
+    "address": {
+        "street": "Joshua Shores",
+        "city": "West John",
+        "state": "Oregon",
+        "zip": "39968"
+    },
+    "contact": {
+        "phone": "001-636-661-9568x80635",
+        "servicePhone": "800176951"
+    },
+    "birthday": "1971-22-01",
+    "ip": "149.193.33.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Check mention these recently full smile. Life group attorney that break common may.\nCould thus late discover cause mission step. During lose start price. Leg market ten event attorney.",
+        "bio": "Real music you. Either research risk although model answer. Various perhaps property field hospital account.\nLearn organization tax people long. Southern response life where month bank."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
