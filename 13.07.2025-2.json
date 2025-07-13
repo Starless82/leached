@@ -1,0 +1,25 @@
+{
+    "name": "Laurie Chavez",
+    "age": 63,
+    "address": {
+        "street": "Thomas Parkways",
+        "city": "Harrellfurt",
+        "state": "New Mexico",
+        "zip": "75457"
+    },
+    "contact": {
+        "phone": "641-429-7237x083",
+        "servicePhone": "800720221"
+    },
+    "birthday": "1962-15-10",
+    "ip": "212.63.82.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Change sometimes above account summer contain. Commercial material quite other group.\nGet front include man that. Open later reach building agree religious. Middle we believe group.",
+        "bio": "Image benefit one course cup discover his cultural. Cell prepare difficult site husband economic recent."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
