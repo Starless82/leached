@@ -1,0 +1,25 @@
+{
+    "name": "Adam Johnson",
+    "age": 78,
+    "address": {
+        "street": "Veronica Hills",
+        "city": "Andersonhaven",
+        "state": "Maine",
+        "zip": "22862"
+    },
+    "contact": {
+        "phone": "(307)933-4237",
+        "servicePhone": "800417917"
+    },
+    "birthday": "1947-26-01",
+    "ip": "58.240.254.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Catch into out my little he. Cell prepare recognize light. Agent economy write catch.\nInternational help among they. Hotel explain above him he protect.",
+        "bio": "Former be traditional dog responsibility. Yard wall detail. Mean family which interview someone situation up.\nLand democratic federal seven. Best foreign player arm. Move court can least."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
