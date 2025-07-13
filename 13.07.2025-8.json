@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Lewis",
+    "age": 114,
+    "address": {
+        "street": "Paul Drive",
+        "city": "Beckerfort",
+        "state": "Arkansas",
+        "zip": "63662"
+    },
+    "contact": {
+        "phone": "692-603-8658x972",
+        "servicePhone": "800870718"
+    },
+    "birthday": "1911-17-07",
+    "ip": "154.208.183.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Color design south drug. Success relate police.\nHair listen particular however part lead. Program candidate pressure really meeting born actually. Artist great attack phone wear animal scientist.",
+        "bio": "Serious billion any adult I forward. Sometimes hot thought too on voice eye.\nThan behind book admit. Less marriage need use choose. Network either president receive moment whole."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
