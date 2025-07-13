@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Johnson",
+    "age": 101,
+    "address": {
+        "street": "Morton Loop",
+        "city": "East Henryfurt",
+        "state": "Arizona",
+        "zip": "26959"
+    },
+    "contact": {
+        "phone": "614.248.9933x592",
+        "servicePhone": "800052581"
+    },
+    "birthday": "1924-19-09",
+    "ip": "96.99.238.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Deep with world executive apply. Quickly remain environment call several appear peace.\nWindow figure scene. Message address coach bed arm movie.",
+        "bio": "Day want he mission behind generation loss speech. In capital event just.\nGlass rock eat inside. Magazine hotel million like heart cultural speak hair."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
