@@ -1,0 +1,25 @@
+{
+    "name": "Kathryn Jones",
+    "age": 101,
+    "address": {
+        "street": "Levy Underpass",
+        "city": "East Edward",
+        "state": "Utah",
+        "zip": "40120"
+    },
+    "contact": {
+        "phone": "+1-527-721-6531x177",
+        "servicePhone": "800477365"
+    },
+    "birthday": "1924-17-02",
+    "ip": "101.96.86.204",
+    "foo": "bar",
+    "profile": {
+        "about": "What gas when yard create. Another nothing be state life open.\nElse happy show art environmental. Finally audience some administration few staff later similar.",
+        "bio": "Suffer husband member collection structure floor. Agreement low world fast. Six local thought collection of. Able guy culture method church front family."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
