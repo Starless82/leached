@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Miller",
+    "age": 42,
+    "address": {
+        "street": "Travis Parks",
+        "city": "West Frank",
+        "state": "Delaware",
+        "zip": "64114"
+    },
+    "contact": {
+        "phone": "+1-999-897-0373x56925",
+        "servicePhone": "800820426"
+    },
+    "birthday": "1983-29-11",
+    "ip": "178.186.79.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Security plant top police special. Idea top window.\nMonth smile want money way expert blue. Away race actually laugh before answer record. Result above stand treatment.",
+        "bio": "Manager exactly occur agreement executive. Bring half crime near affect.\nLaugh window me front stage. Man boy piece eye season. Center simple factor TV bank firm information."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
