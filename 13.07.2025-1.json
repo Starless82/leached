@@ -1,0 +1,25 @@
+{
+    "name": "Olivia Chan",
+    "age": 16,
+    "address": {
+        "street": "James Tunnel",
+        "city": "Lake Robertborough",
+        "state": "Virginia",
+        "zip": "30782"
+    },
+    "contact": {
+        "phone": "(773)567-6832x4839",
+        "servicePhone": "800813712"
+    },
+    "birthday": "2009-12-08",
+    "ip": "107.67.151.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Them business into never.\nAmount war take evidence. Act human me toward continue send. Recent window spring technology.\nFormer economic visit them state then. Camera under happen change.",
+        "bio": "Left his law certain figure apply. Thank finally story drop course by lot. Democrat cost player necessary present.\nRisk medical bank ago them behind. Front worry company thought risk allow issue."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
