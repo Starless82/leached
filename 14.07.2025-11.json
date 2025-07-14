@@ -1,0 +1,25 @@
+{
+    "name": "Eric Webb",
+    "age": 56,
+    "address": {
+        "street": "Garcia Fort",
+        "city": "Grossfurt",
+        "state": "North Carolina",
+        "zip": "47917"
+    },
+    "contact": {
+        "phone": "001-395-269-3979x3100",
+        "servicePhone": "800159191"
+    },
+    "birthday": "1969-03-02",
+    "ip": "179.191.141.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Wind drive its land guess.\nTen night entire rate theory. Every end water religious. Interesting produce ask group. Size these dream mean age.\nGood clear we bank travel.",
+        "bio": "Yet share tonight participant stock where. High suggest sister treatment much. Put catch number bank west away.\nSeries great west win. Help source home."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
