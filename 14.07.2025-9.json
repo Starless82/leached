@@ -1,0 +1,25 @@
+{
+    "name": "Cheryl Thomas",
+    "age": 97,
+    "address": {
+        "street": "Morris Roads",
+        "city": "Suarezside",
+        "state": "Minnesota",
+        "zip": "25030"
+    },
+    "contact": {
+        "phone": "(971)596-9850x852",
+        "servicePhone": "800111412"
+    },
+    "birthday": "1928-10-03",
+    "ip": "176.50.42.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Pull different involve parent case political. Person him last might shoulder.",
+        "bio": "Answer difference ball knowledge. Billion always someone color subject upon need. Check majority development agency idea capital.\nLarge direction ground those day. Simple war fast air."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
