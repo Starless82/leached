@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Johnson",
+    "age": 97,
+    "address": {
+        "street": "Theresa Lights",
+        "city": "Port Alexanderview",
+        "state": "Illinois",
+        "zip": "63379"
+    },
+    "contact": {
+        "phone": "(695)248-2208x027",
+        "servicePhone": "800691660"
+    },
+    "birthday": "1928-26-02",
+    "ip": "79.132.5.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Yet also between people idea official. All foot economy then but outside you.\nAuthor according animal also difficult catch stock. A huge five.",
+        "bio": "Leader small need process point. Son write sound land. Clearly himself sign radio everyone politics art.\nColor not human hand begin result. Member civil kitchen will across."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
