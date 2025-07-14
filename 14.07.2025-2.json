@@ -1,0 +1,25 @@
+{
+    "name": "David Cross",
+    "age": 23,
+    "address": {
+        "street": "Phillip Courts",
+        "city": "Lambfurt",
+        "state": "New York",
+        "zip": "71731"
+    },
+    "contact": {
+        "phone": "594.913.0685",
+        "servicePhone": "800166055"
+    },
+    "birthday": "2002-25-01",
+    "ip": "26.151.138.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Allow spend yet treatment generation whole. Themselves friend matter method artist strategy.\nOffice arrive would me. Radio reason after food campaign.",
+        "bio": "Until especially speak house push program parent. Including front why region address stage edge. Experience me hair project item fact heavy financial."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
