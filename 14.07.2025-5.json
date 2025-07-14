@@ -1,0 +1,25 @@
+{
+    "name": "Kathryn Boyd",
+    "age": 58,
+    "address": {
+        "street": "Edward Mission",
+        "city": "Popeland",
+        "state": "Minnesota",
+        "zip": "59444"
+    },
+    "contact": {
+        "phone": "+1-822-474-0474",
+        "servicePhone": "800335514"
+    },
+    "birthday": "1967-31-05",
+    "ip": "20.28.23.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Control see reach follow. Ok own real into.\nFly walk better maybe early but good. Again world chance society sometimes leave.",
+        "bio": "Whose former citizen agreement. Student around magazine become provide. Sign determine ago book.\nVote prepare huge painting pattern see community. Process want population movie interest."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
