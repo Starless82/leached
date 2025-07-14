@@ -1,0 +1,25 @@
+{
+    "name": "Bianca Salazar",
+    "age": 96,
+    "address": {
+        "street": "Rodney Hill",
+        "city": "West Nicolemouth",
+        "state": "Connecticut",
+        "zip": "62176"
+    },
+    "contact": {
+        "phone": "+1-373-214-2674",
+        "servicePhone": "800859553"
+    },
+    "birthday": "1929-18-12",
+    "ip": "22.29.150.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Whatever interest miss style threat. Man leader high. Try popular money.\nProperty take expert. Her later get production then lay.",
+        "bio": "Cover it hit participant. Trip later half discuss true get if. Public son feel right exist prepare."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
