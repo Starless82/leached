@@ -1,0 +1,25 @@
+{
+    "name": "Richard Aguilar",
+    "age": 1,
+    "address": {
+        "street": "Roach Ridge",
+        "city": "West Jason",
+        "state": "New Mexico",
+        "zip": "59820"
+    },
+    "contact": {
+        "phone": "+1-330-375-9447",
+        "servicePhone": "800804163"
+    },
+    "birthday": "2024-27-06",
+    "ip": "150.142.90.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Half on entire strategy for down. Capital each purpose south arm. Book chance necessary.\nDay either friend leader network trial cell. Enjoy city assume allow minute.",
+        "bio": "Mrs case part win avoid bring. Wish degree represent vote accept pattern. During late cell front half student wear."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
