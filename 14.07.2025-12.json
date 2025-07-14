@@ -1,0 +1,25 @@
+{
+    "name": "James Garcia",
+    "age": 42,
+    "address": {
+        "street": "Shane Drives",
+        "city": "Nortonburgh",
+        "state": "Iowa",
+        "zip": "90253"
+    },
+    "contact": {
+        "phone": "363.605.4895",
+        "servicePhone": "800541847"
+    },
+    "birthday": "1983-12-04",
+    "ip": "207.240.81.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Management wife pull idea. Theory night recently hear condition find. Hot response government staff agree back.\nBuilding because we suddenly. News where always phone.",
+        "bio": "Might ability including behind very size. Experience animal economy listen third address page. After sound wall authority so they moment evening."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
