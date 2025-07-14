@@ -1,0 +1,25 @@
+{
+    "name": "George Tucker",
+    "age": 48,
+    "address": {
+        "street": "Beth Loaf",
+        "city": "New Hannahview",
+        "state": "West Virginia",
+        "zip": "58895"
+    },
+    "contact": {
+        "phone": "001-263-305-3992",
+        "servicePhone": "800965212"
+    },
+    "birthday": "1977-15-09",
+    "ip": "63.105.94.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Oil prove while enter score see. Against shoulder me vote. Believe institution support visit.\nRelationship indicate too husband. Office outside place hot part decade.",
+        "bio": "Modern near whether lay successful end. Arrive theory home appear wall here."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
