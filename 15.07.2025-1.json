@@ -1,0 +1,25 @@
+{
+    "name": "Clayton Cross",
+    "age": 79,
+    "address": {
+        "street": "Noble Stravenue",
+        "city": "Jameston",
+        "state": "Oklahoma",
+        "zip": "57513"
+    },
+    "contact": {
+        "phone": "+1-468-314-2357",
+        "servicePhone": "800980434"
+    },
+    "birthday": "1946-10-10",
+    "ip": "34.75.187.18",
+    "foo": "bar",
+    "profile": {
+        "about": "College western try win.\nHuman least he. Cup likely north small admit mission go.\nSignificant official miss hope challenge pass. Sea cut here talk worry. Do occur physical her operation to majority.",
+        "bio": "Exist tend term reduce style program probably. Middle prepare board than. Rich bill behavior oil unit. Both become bed as."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
