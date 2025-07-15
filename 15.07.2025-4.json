@@ -1,0 +1,25 @@
+{
+    "name": "Chelsea Johnson",
+    "age": 97,
+    "address": {
+        "street": "William Points",
+        "city": "Lake Jamesland",
+        "state": "West Virginia",
+        "zip": "69107"
+    },
+    "contact": {
+        "phone": "(579)766-7534",
+        "servicePhone": "800178697"
+    },
+    "birthday": "1928-26-11",
+    "ip": "107.133.7.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Federal camera security civil hour purpose play. System born war factor trip any my.",
+        "bio": "Nothing consumer fear program democratic security. Author course garden send rate participant. Watch everyone year as result without possible."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
