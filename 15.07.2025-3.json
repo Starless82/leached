@@ -1,0 +1,25 @@
+{
+    "name": "Mitchell James MD",
+    "age": 60,
+    "address": {
+        "street": "Baird Junction",
+        "city": "Mercadoburgh",
+        "state": "South Carolina",
+        "zip": "29247"
+    },
+    "contact": {
+        "phone": "329.281.1092x53774",
+        "servicePhone": "800608519"
+    },
+    "birthday": "1965-13-08",
+    "ip": "205.118.164.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Task bag two soldier tonight though heart. Including way animal concern. East fine piece theory front hotel act.\nOf agent somebody push else. And research computer teach.",
+        "bio": "Third stock author bring. At debate maybe hour you campaign create. Number carry coach morning. Piece thank adult have Mr.\nTelevision claim foot worry difficult. Any share film offer find."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
