@@ -1,0 +1,25 @@
+{
+    "name": "Maria Miller",
+    "age": 12,
+    "address": {
+        "street": "Brandy Falls",
+        "city": "Adamsland",
+        "state": "New Jersey",
+        "zip": "20735"
+    },
+    "contact": {
+        "phone": "001-546-670-6064x688",
+        "servicePhone": "800755014"
+    },
+    "birthday": "2013-13-03",
+    "ip": "23.224.78.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Condition information total style wind dinner.\nTrial future create religious. Future site Mr mother manage. Vote would sea visit thought candidate look attack.",
+        "bio": "Dark trial various including skill. Speech team effort within agent several. Family far forget stand.\nCharacter system need already simply receive. Provide peace Republican hold heavy property."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
