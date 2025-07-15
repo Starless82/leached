@@ -1,0 +1,25 @@
+{
+    "name": "Whitney Reyes",
+    "age": 28,
+    "address": {
+        "street": "Scott Via",
+        "city": "Port Daniel",
+        "state": "New York",
+        "zip": "97178"
+    },
+    "contact": {
+        "phone": "+1-477-668-7414x7700",
+        "servicePhone": "800801193"
+    },
+    "birthday": "1997-01-01",
+    "ip": "35.99.195.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Issue same point rock fish. Decide exist this popular. Front next police day total.\nPopular TV perhaps blood dog. Strategy out care cause the agency third.",
+        "bio": "Must clearly bad such business watch first. Add skin hair subject. History clear administration city world rest admit."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
