@@ -1,0 +1,25 @@
+{
+    "name": "Robert Bauer",
+    "age": 7,
+    "address": {
+        "street": "James Wells",
+        "city": "Mikefurt",
+        "state": "Colorado",
+        "zip": "39219"
+    },
+    "contact": {
+        "phone": "900.628.4003",
+        "servicePhone": "800958959"
+    },
+    "birthday": "2018-05-03",
+    "ip": "139.101.48.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Word knowledge indeed order hour still within. Because happy best up each.",
+        "bio": "Base call firm its. Focus tough authority majority single.\nTraining Republican set listen I. Against child song everyone firm.\nDecision dark goal and surface with. Something fall day area low ask."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
