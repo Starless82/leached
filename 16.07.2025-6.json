@@ -1,0 +1,25 @@
+{
+    "name": "Karen Tran",
+    "age": 46,
+    "address": {
+        "street": "Steven Estates",
+        "city": "South Kyle",
+        "state": "Delaware",
+        "zip": "37934"
+    },
+    "contact": {
+        "phone": "4382001218",
+        "servicePhone": "800237249"
+    },
+    "birthday": "1979-10-09",
+    "ip": "42.251.241.98",
+    "foo": "bar",
+    "profile": {
+        "about": "When perhaps reveal central. How ago while head.\nPositive you art stay ball.",
+        "bio": "Represent that sister table. Manager all situation scientist usually animal computer.\nWeek television if language expect. Last figure pressure. Scene day them thing study."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
