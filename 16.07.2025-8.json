@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Johnson",
+    "age": 59,
+    "address": {
+        "street": "Allen Fort",
+        "city": "Dawnport",
+        "state": "Utah",
+        "zip": "63480"
+    },
+    "contact": {
+        "phone": "373-491-6015x81678",
+        "servicePhone": "800717951"
+    },
+    "birthday": "1966-01-06",
+    "ip": "93.168.8.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Really throughout serious. Research positive customer amount her couple.\nRole news effort should recent be. Medical environment yet piece discover for card.\nCampaign study art walk former prove.",
+        "bio": "Policy question onto base much traditional model. Different project social poor bag."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
