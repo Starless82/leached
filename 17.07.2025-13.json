@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Perez",
+    "age": 64,
+    "address": {
+        "street": "Katrina Locks",
+        "city": "Lake Kevinbury",
+        "state": "Pennsylvania",
+        "zip": "12073"
+    },
+    "contact": {
+        "phone": "5543581907",
+        "servicePhone": "800621714"
+    },
+    "birthday": "1961-13-03",
+    "ip": "33.29.19.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Western sign particularly after or government let other. Poor chair particular computer address. View month bill parent write.",
+        "bio": "Sea police record down yes require improve. Color or notice win series.\nReveal race they truth relate herself. Draw century fly other image alone. Drop floor adult commercial inside entire."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
