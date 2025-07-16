@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Stewart",
+    "age": 78,
+    "address": {
+        "street": "Sarah Fall",
+        "city": "Lake Teresaberg",
+        "state": "Oklahoma",
+        "zip": "82366"
+    },
+    "contact": {
+        "phone": "334-925-0638",
+        "servicePhone": "800150579"
+    },
+    "birthday": "1947-19-10",
+    "ip": "190.94.230.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Sense probably often computer level rather. Coach compare baby series notice method.\nEveryone beautiful know now. Long reflect song two through no. Friend maintain head peace course support true.",
+        "bio": "Over art economy other a. Pm every teach team oil. Training share main later.\nReceive inside near. Perform everybody heart issue guy enough financial."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
