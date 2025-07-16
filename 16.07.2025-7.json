@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Campbell",
+    "age": 83,
+    "address": {
+        "street": "Carter Gateway",
+        "city": "Mcmillanmouth",
+        "state": "Arizona",
+        "zip": "50082"
+    },
+    "contact": {
+        "phone": "001-312-750-3566x440",
+        "servicePhone": "800688341"
+    },
+    "birthday": "1942-21-12",
+    "ip": "3.184.2.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Bag room yard question cup you our.\nBig rest low war size. Industry TV management seven. Health grow best local.",
+        "bio": "Education agreement report from fast. Could grow heavy employee.\nPull leave difference like among both score. Fine security he."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
