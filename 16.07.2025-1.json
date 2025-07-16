@@ -1,0 +1,25 @@
+{
+    "name": "Maureen Thornton",
+    "age": 11,
+    "address": {
+        "street": "Suzanne Isle",
+        "city": "Kimton",
+        "state": "Wyoming",
+        "zip": "04159"
+    },
+    "contact": {
+        "phone": "8864129411",
+        "servicePhone": "800959328"
+    },
+    "birthday": "2014-28-09",
+    "ip": "172.29.240.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Popular wife memory fast position receive. Clear particularly weight time. Tend company own management step heavy.",
+        "bio": "Toward represent manage management early. Lay push section be office more. Turn throughout store machine national other. I each much none born."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
