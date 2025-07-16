@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Martin",
+    "age": 36,
+    "address": {
+        "street": "Rebecca Orchard",
+        "city": "Port Lisa",
+        "state": "Nevada",
+        "zip": "81706"
+    },
+    "contact": {
+        "phone": "001-950-519-3152",
+        "servicePhone": "800974877"
+    },
+    "birthday": "1989-24-11",
+    "ip": "125.66.195.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Morning eat open measure plan almost writer. Although father image tend option myself without plant. Subject tax people project president become.",
+        "bio": "Great do owner put page kitchen natural. Note teach alone or.\nHim actually approach health article protect fine. Matter from speech knowledge maintain support education young."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
