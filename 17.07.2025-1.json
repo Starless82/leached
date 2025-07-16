@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Sullivan",
+    "age": 110,
+    "address": {
+        "street": "Jennifer Lodge",
+        "city": "East Jameshaven",
+        "state": "Tennessee",
+        "zip": "71166"
+    },
+    "contact": {
+        "phone": "(243)557-7563x80416",
+        "servicePhone": "800547606"
+    },
+    "birthday": "1915-22-12",
+    "ip": "15.103.24.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Term city fight stage national subject information. Wonder would manager responsibility.\nMedia travel interview professional natural anything. Result fine movie order next.",
+        "bio": "Improve measure imagine note hope. Technology theory show nation.\nWonder often his scene politics build sign. Amount anything push high both before."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
