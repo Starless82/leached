@@ -1,0 +1,25 @@
+{
+    "name": "James Shaw",
+    "age": 64,
+    "address": {
+        "street": "Diaz Course",
+        "city": "Jesusville",
+        "state": "Arizona",
+        "zip": "65195"
+    },
+    "contact": {
+        "phone": "533-616-6544",
+        "servicePhone": "800860897"
+    },
+    "birthday": "1961-11-03",
+    "ip": "152.34.104.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Senior when go drug camera we daughter. Material some lot he prevent own themselves. Billion data color field safe southern. Score thank rate music time central though.",
+        "bio": "Possible main north simple. Include door voice measure situation carry would.\nTen simple blood car. Service whole affect. Case experience rich step. Call city consumer wear water today carry."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
