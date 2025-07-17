@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Porter",
+    "age": 65,
+    "address": {
+        "street": "Taylor Heights",
+        "city": "New Donaldburgh",
+        "state": "North Carolina",
+        "zip": "61446"
+    },
+    "contact": {
+        "phone": "(464)359-6318",
+        "servicePhone": "800513924"
+    },
+    "birthday": "1960-03-06",
+    "ip": "7.53.211.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Red push audience wide. Six whether visit effect teach. Perform west choice buy law where.\nClose place open artist. Million stage situation.",
+        "bio": "Never point art class deep only part. Friend business whom whether.\nNatural pattern none real rich market small. Cold cut author myself."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
