@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Snow",
+    "age": 65,
+    "address": {
+        "street": "Ronald Plain",
+        "city": "Michaelborough",
+        "state": "West Virginia",
+        "zip": "32936"
+    },
+    "contact": {
+        "phone": "(950)866-3884",
+        "servicePhone": "800383729"
+    },
+    "birthday": "1960-29-10",
+    "ip": "116.224.90.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Region that take rate. Notice produce action provide hard apply important research.",
+        "bio": "Current response city executive. Grow difficult end. Process leader expect watch who."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
