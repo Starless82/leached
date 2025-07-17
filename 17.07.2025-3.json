@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Rowe",
+    "age": 111,
+    "address": {
+        "street": "Fernandez Ports",
+        "city": "Lake Amy",
+        "state": "North Dakota",
+        "zip": "72852"
+    },
+    "contact": {
+        "phone": "6587930252",
+        "servicePhone": "800037624"
+    },
+    "birthday": "1914-11-06",
+    "ip": "8.5.243.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Water task company third I out why church.\nSame however part against paper establish difficult. Second when many nor. Learn but test stock.",
+        "bio": "Officer series court ground evidence week. Similar dinner traditional trial store affect. Side drive season.\nAttention focus authority turn seat carry. Age while bill energy finally."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
