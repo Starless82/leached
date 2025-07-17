@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Mejia",
+    "age": 66,
+    "address": {
+        "street": "James Mission",
+        "city": "Zacharyberg",
+        "state": "Wisconsin",
+        "zip": "10640"
+    },
+    "contact": {
+        "phone": "3899196407",
+        "servicePhone": "800932071"
+    },
+    "birthday": "1959-15-11",
+    "ip": "115.20.114.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Line difference here produce keep answer help message.\nProduction power whose avoid tell world. And work democratic grow name. State five number how property section series.",
+        "bio": "With six century deal.\nNice want pick prove once thank. They happy food week less realize dark. Read action image impact among.\nTelevision treat role. Candidate upon place professional."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
