@@ -1,0 +1,25 @@
+{
+    "name": "Shelley Aguirre",
+    "age": 69,
+    "address": {
+        "street": "Mendez Route",
+        "city": "North Brettshire",
+        "state": "Illinois",
+        "zip": "76718"
+    },
+    "contact": {
+        "phone": "001-239-614-4705x3528",
+        "servicePhone": "800794256"
+    },
+    "birthday": "1956-20-10",
+    "ip": "168.110.26.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Choose series off agent security beautiful piece. Three marriage civil decade. Including air note.\nRemain story perhaps radio. Tend certain simple west spring pretty weight.",
+        "bio": "Town feeling free discover many adult.\nBack say she amount carry shoulder mother. Help hold job house apply price deal."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
