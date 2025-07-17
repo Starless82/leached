@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Woodard",
+    "age": 54,
+    "address": {
+        "street": "Mcdaniel Crossing",
+        "city": "Martinfurt",
+        "state": "California",
+        "zip": "65427"
+    },
+    "contact": {
+        "phone": "878-737-2572x424",
+        "servicePhone": "800917481"
+    },
+    "birthday": "1971-21-08",
+    "ip": "28.122.170.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Ago kind also interest how.\nMessage behavior seven six reveal. Carry large research analysis perform show.\nCultural week three may risk mother.\nThree long light quality. Often reduce top.",
+        "bio": "Southern really she. Why reason wear process artist door. Expert fly success dinner during.\nLess morning represent always. Early late analysis gun. His material why past church."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
