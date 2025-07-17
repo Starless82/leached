@@ -1,0 +1,25 @@
+{
+    "name": "Henry Ferguson",
+    "age": 11,
+    "address": {
+        "street": "Bender Harbors",
+        "city": "Kimchester",
+        "state": "Kansas",
+        "zip": "93028"
+    },
+    "contact": {
+        "phone": "+1-646-975-9345x57717",
+        "servicePhone": "800611874"
+    },
+    "birthday": "2014-16-04",
+    "ip": "223.176.32.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Give suddenly here one certainly reveal social. Certain cultural when.\nSense citizen industry. East you scientist small school nature deal. Woman table risk experience.",
+        "bio": "East nature soon become bad break. Research any difference operation.\nAlone respond nothing trouble. Second cost situation set. Building movement million say."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
