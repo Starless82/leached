@@ -1,0 +1,25 @@
+{
+    "name": "Bryan Cook",
+    "age": 18,
+    "address": {
+        "street": "Olivia Manors",
+        "city": "Smithview",
+        "state": "Oregon",
+        "zip": "34857"
+    },
+    "contact": {
+        "phone": "+1-619-684-3743x11504",
+        "servicePhone": "800477276"
+    },
+    "birthday": "2007-22-11",
+    "ip": "40.116.120.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Cut detail they subject painting mission want. However dog visit president maintain. Safe standard hear what suddenly human.",
+        "bio": "Fly find memory national week. She positive anyone prevent.\nPull less again camera. Hope land around name statement. Without computer upon knowledge color."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
