@@ -1,0 +1,25 @@
+{
+    "name": "Carlos Marquez",
+    "age": 57,
+    "address": {
+        "street": "Graham Rest",
+        "city": "Salaschester",
+        "state": "South Carolina",
+        "zip": "89592"
+    },
+    "contact": {
+        "phone": "+1-383-399-9979x74959",
+        "servicePhone": "800308295"
+    },
+    "birthday": "1968-27-03",
+    "ip": "128.134.112.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Believe north culture measure difficult director follow. Quality kid identify here else building continue.",
+        "bio": "Always low high. Half movement garden either pretty his. World throughout first.\nOld member white drop development high other senior."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
