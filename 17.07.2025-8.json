@@ -1,0 +1,25 @@
+{
+    "name": "Henry Flores",
+    "age": 67,
+    "address": {
+        "street": "Jennifer Junctions",
+        "city": "East Brendaport",
+        "state": "Oregon",
+        "zip": "56669"
+    },
+    "contact": {
+        "phone": "001-413-776-6384",
+        "servicePhone": "800545777"
+    },
+    "birthday": "1958-05-08",
+    "ip": "164.235.156.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Such compare smile law again top defense. Way risk sing style effect a according.\nEach smile public story size bar. Ability hour occur receive dinner maybe increase. Kind under political why defense.",
+        "bio": "Three term until mean. Several he want. First within entire.\nHave as there plan power fact country. Thing represent whatever as possible any. Investment apply week. Dog will close."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
