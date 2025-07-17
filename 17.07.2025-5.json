@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer White",
+    "age": 73,
+    "address": {
+        "street": "Amanda Drive",
+        "city": "Bradleyhaven",
+        "state": "Pennsylvania",
+        "zip": "71765"
+    },
+    "contact": {
+        "phone": "263-387-9178",
+        "servicePhone": "800403841"
+    },
+    "birthday": "1952-06-01",
+    "ip": "83.191.39.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Just safe purpose deal under pattern. Once necessary threat management early.\nHalf entire back near win. Human industry eye building eight decade.\nAnd participant game she. Serve bill national alone.",
+        "bio": "Thing success free why whose member. Between during exist identify pressure.\nPractice take performance see space plant. Increase size shake choice."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
