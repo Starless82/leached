@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Brock DDS",
+    "age": 65,
+    "address": {
+        "street": "Toni Rapids",
+        "city": "South Judymouth",
+        "state": "Kansas",
+        "zip": "08850"
+    },
+    "contact": {
+        "phone": "001-801-844-9576x70959",
+        "servicePhone": "800031009"
+    },
+    "birthday": "1960-29-04",
+    "ip": "206.44.98.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Where society hundred today be successful like. Law other cup forget ten. Thus million age carry rock measure.\nAccept choice over. Or none happen whose tax into town.",
+        "bio": "Wear leg history community. Central employee wish citizen medical western.\nAlmost ball late entire that yes attention. Hour theory lose agree federal."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
