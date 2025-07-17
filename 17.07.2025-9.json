@@ -1,0 +1,25 @@
+{
+    "name": "Darlene Day",
+    "age": 35,
+    "address": {
+        "street": "George Meadow",
+        "city": "North Thomas",
+        "state": "Ohio",
+        "zip": "47261"
+    },
+    "contact": {
+        "phone": "7417394787",
+        "servicePhone": "800100066"
+    },
+    "birthday": "1990-01-12",
+    "ip": "92.167.60.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Rock training issue into.\nExactly once source guess through situation. Century foot believe particularly. International property style sound economic any career seat.",
+        "bio": "Brother wonder benefit. Cut spring itself TV their spring feel create. Home focus middle.\nHow manager boy. Shoulder despite gas whatever. Behavior property number."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
