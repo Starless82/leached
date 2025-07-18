@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Harrison",
+    "age": 27,
+    "address": {
+        "street": "King Light",
+        "city": "Lake Christopherfort",
+        "state": "Wisconsin",
+        "zip": "30742"
+    },
+    "contact": {
+        "phone": "+1-922-684-1602x9698",
+        "servicePhone": "800183180"
+    },
+    "birthday": "1998-06-06",
+    "ip": "107.65.129.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Safe well become check.\nArgue identify region collection. Evidence win south time. Property front grow close law real.\nAs quickly stuff. Parent agree water against.",
+        "bio": "Work church raise will manager. Letter phone ok add issue activity door. Culture clearly write hard detail report."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
