@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Hunt",
+    "age": 111,
+    "address": {
+        "street": "Cummings Branch",
+        "city": "Kaitlynfurt",
+        "state": "Washington",
+        "zip": "51734"
+    },
+    "contact": {
+        "phone": "361.389.4772x657",
+        "servicePhone": "800594860"
+    },
+    "birthday": "1914-08-06",
+    "ip": "83.110.65.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Street discussion close institution fly employee identify. Pay improve lot budget suffer situation allow.\nScene skill already gas visit. Heart knowledge new get reach painting.",
+        "bio": "Foreign hot last I. Large up recently shake.\nStudent gun fill production owner score. Good quality civil finish tell type back. Investment window wife real it anyone."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
