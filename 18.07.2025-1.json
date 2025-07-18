@@ -1,0 +1,25 @@
+{
+    "name": "Steven Smith",
+    "age": 21,
+    "address": {
+        "street": "Kim Estate",
+        "city": "West Patricia",
+        "state": "Iowa",
+        "zip": "65529"
+    },
+    "contact": {
+        "phone": "+1-666-780-3101x4411",
+        "servicePhone": "800640771"
+    },
+    "birthday": "2004-19-10",
+    "ip": "146.26.128.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Figure left community color scene local. Congress like hard soldier. Both forward watch.\nCommercial girl different us lead deep if. Event set it talk thing. You often performance nice law black ago.",
+        "bio": "Sing and ground try. Protect dog hotel age article plan perhaps. Source well that couple.\nBlood almost likely water college growth store back. Reflect subject staff war poor item."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
