@@ -1,0 +1,25 @@
+{
+    "name": "Cameron Johnson",
+    "age": 2,
+    "address": {
+        "street": "Rivas Heights",
+        "city": "Jessicafort",
+        "state": "North Carolina",
+        "zip": "10760"
+    },
+    "contact": {
+        "phone": "965.751.3406x39651",
+        "servicePhone": "800636391"
+    },
+    "birthday": "2023-06-11",
+    "ip": "83.153.185.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Tough process administration financial dark fight.\nWorker half growth the black key. Film fast five thus material.",
+        "bio": "Maybe small by better improve mean. Piece design number move turn glass.\nSection writer else brother or never. Science wall tree action through get operation. Million church among network rock."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
