@@ -1,0 +1,25 @@
+{
+    "name": "Jason Jones",
+    "age": 91,
+    "address": {
+        "street": "Jessica Course",
+        "city": "West Jennifer",
+        "state": "Kansas",
+        "zip": "26704"
+    },
+    "contact": {
+        "phone": "001-646-906-7739x1108",
+        "servicePhone": "800810832"
+    },
+    "birthday": "1934-31-03",
+    "ip": "64.171.81.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Be such investment smile. Hear both management meeting past require. Minute reach past poor eye serve black.",
+        "bio": "Write major act know edge dog. Reveal some drop face although look sure.\nMother adult school statement official."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
