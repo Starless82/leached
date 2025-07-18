@@ -1,0 +1,25 @@
+{
+    "name": "Justin James",
+    "age": 59,
+    "address": {
+        "street": "Stephanie Ville",
+        "city": "New Charles",
+        "state": "Ohio",
+        "zip": "44584"
+    },
+    "contact": {
+        "phone": "7342090462",
+        "servicePhone": "800455835"
+    },
+    "birthday": "1966-11-11",
+    "ip": "93.57.129.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Official important form risk rest. Trip matter police available suggest subject.\nMoney far anyone seat draw analysis program. Thousand hand prove part.",
+        "bio": "To piece probably factor administration imagine seek ever.\nOccur could by wrong consumer article point his. Science newspaper tonight from center reason chair."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
