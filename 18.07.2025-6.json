@@ -1,0 +1,25 @@
+{
+    "name": "Tyrone Anderson",
+    "age": 70,
+    "address": {
+        "street": "Ashley Light",
+        "city": "Riddlebury",
+        "state": "Minnesota",
+        "zip": "06941"
+    },
+    "contact": {
+        "phone": "001-437-544-5275",
+        "servicePhone": "800289195"
+    },
+    "birthday": "1955-07-11",
+    "ip": "114.147.128.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Message soon mouth door focus behavior. Adult affect my prepare few seven.\nType southern cultural discover herself investment power able. But quite discuss spend marriage vote either name.",
+        "bio": "Member anything politics west part meet. Plan law level.\nHotel move phone future window find.\nOperation yes yet ok her establish second. Edge represent but."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
