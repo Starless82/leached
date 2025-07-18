@@ -1,0 +1,25 @@
+{
+    "name": "William Griffith",
+    "age": 66,
+    "address": {
+        "street": "Owens Knoll",
+        "city": "East Jacquelinebury",
+        "state": "South Dakota",
+        "zip": "25734"
+    },
+    "contact": {
+        "phone": "+1-233-581-8177x89270",
+        "servicePhone": "800349072"
+    },
+    "birthday": "1959-16-08",
+    "ip": "192.12.165.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Policy make method green ball data analysis.\nCharacter feel despite sister big stay blood. Choice paper foot bill lay moment.",
+        "bio": "Ground inside go however article not. Language skin generation serious.\nCoach challenge deep book. Exist born best red would behind white."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
