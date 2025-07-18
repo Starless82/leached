@@ -1,0 +1,25 @@
+{
+    "name": "Dan Edwards",
+    "age": 3,
+    "address": {
+        "street": "Burke Ridge",
+        "city": "North Phillipberg",
+        "state": "Idaho",
+        "zip": "16735"
+    },
+    "contact": {
+        "phone": "001-438-494-7415x28062",
+        "servicePhone": "800142001"
+    },
+    "birthday": "2022-04-09",
+    "ip": "164.251.146.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Government doctor picture design economy. Indeed work cold who.\nRegion success good weight. Security until well sit.",
+        "bio": "Rule produce onto investment us technology vote one. Gun new born specific memory.\nTechnology light individual. Anyone recent its. Hear western pull decide next else direction father."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
