@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Barry",
+    "age": 57,
+    "address": {
+        "street": "Berry Harbors",
+        "city": "Lesliebury",
+        "state": "New Mexico",
+        "zip": "22835"
+    },
+    "contact": {
+        "phone": "219-634-0828x5343",
+        "servicePhone": "800123992"
+    },
+    "birthday": "1968-24-08",
+    "ip": "31.66.138.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Collection exist explain exist about. Left I measure low far although education.",
+        "bio": "Bad pick to check how wear none. Prepare experience situation huge. Choose nice determine word.\nNote region state receive. Policy under music. Store section peace interest share center special."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
