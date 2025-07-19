@@ -1,0 +1,25 @@
+{
+    "name": "Jo Green",
+    "age": 90,
+    "address": {
+        "street": "Barker Overpass",
+        "city": "Garciafort",
+        "state": "Missouri",
+        "zip": "12673"
+    },
+    "contact": {
+        "phone": "001-612-818-0954x1758",
+        "servicePhone": "800813638"
+    },
+    "birthday": "1935-07-09",
+    "ip": "14.200.45.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Exactly kind shoulder only avoid. Yourself music how majority sort. Wrong experience wide long recognize official be happen. Read food upon kitchen mouth money foreign.",
+        "bio": "Career seven suffer professional whatever. Bill break ground that paper short really gun. Attack form role which medical voice force."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
