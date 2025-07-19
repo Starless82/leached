@@ -1,0 +1,25 @@
+{
+    "name": "Bethany Moreno",
+    "age": 102,
+    "address": {
+        "street": "Mary Heights",
+        "city": "Maryborough",
+        "state": "Massachusetts",
+        "zip": "93770"
+    },
+    "contact": {
+        "phone": "493.960.2625x639",
+        "servicePhone": "800604779"
+    },
+    "birthday": "1923-08-04",
+    "ip": "24.52.78.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Professional green beyond than town might. Audience really phone none.\nSection different success join. Audience travel including our say land security. Catch side yard.",
+        "bio": "Best loss everybody could north season. Child edge notice use.\nCompare partner read pressure. Position night my offer discuss.\nManagement condition stay pass."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
