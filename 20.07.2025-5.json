@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Tammy Good DDS",
+    "age": 87,
+    "address": {
+        "street": "Summer Mill",
+        "city": "West Justin",
+        "state": "Colorado",
+        "zip": "23800"
+    },
+    "contact": {
+        "phone": "934-876-1323x3653",
+        "servicePhone": "800018270"
+    },
+    "birthday": "1938-25-08",
+    "ip": "209.107.185.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Wish strategy couple environmental themselves almost. Among land size.\nNeed lead either could. Bit star whole seven. Sometimes national look night. Great expect upon allow best.",
+        "bio": "Sing federal day summer. Themselves spring major serve.\nSign argue heavy table form. Scene certainly could story audience. Appear to work already very. State fact police single."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
