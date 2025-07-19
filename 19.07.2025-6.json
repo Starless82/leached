@@ -1,0 +1,25 @@
+{
+    "name": "Ruth Brown",
+    "age": 63,
+    "address": {
+        "street": "Christina Union",
+        "city": "Lake Debbie",
+        "state": "Florida",
+        "zip": "07733"
+    },
+    "contact": {
+        "phone": "723-554-8690x87001",
+        "servicePhone": "800310954"
+    },
+    "birthday": "1962-26-04",
+    "ip": "41.25.7.194",
+    "foo": "bar",
+    "profile": {
+        "about": "North send fear war. Than seat you level.\nPerson amount however rate structure during hold. Thousand treatment finish. Resource war also medical.",
+        "bio": "Stuff answer the need claim.\nThank state suggest even act visit. West sport loss. Rule large relate."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
