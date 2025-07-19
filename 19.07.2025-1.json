@@ -1,0 +1,25 @@
+{
+    "name": "Nicolas Norman",
+    "age": 18,
+    "address": {
+        "street": "Clark Unions",
+        "city": "New Bethanyton",
+        "state": "Arizona",
+        "zip": "75032"
+    },
+    "contact": {
+        "phone": "764-236-0901x97263",
+        "servicePhone": "800055501"
+    },
+    "birthday": "2007-26-04",
+    "ip": "118.250.191.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Religious choice reflect lose appear. Effect stock financial including option environmental. Bank camera record still more item.",
+        "bio": "But challenge pattern artist rest. Before decision idea whether might. Prepare near pay make budget already explain.\nIndividual minute political still. Over professor car deal treatment ever."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
