@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Glenn",
+    "age": 41,
+    "address": {
+        "street": "Knox Orchard",
+        "city": "Lake Jenniferstad",
+        "state": "Iowa",
+        "zip": "75850"
+    },
+    "contact": {
+        "phone": "001-725-581-6939x4906",
+        "servicePhone": "800539346"
+    },
+    "birthday": "1984-08-10",
+    "ip": "180.113.129.180",
+    "foo": "bar",
+    "profile": {
+        "about": "By step son indicate summer fish. Responsibility power card apply kid keep early.\nRule writer ground education future citizen ok. Three really lay while. Guy high measure direction.",
+        "bio": "Center drive fund plant. Serious song sometimes southern traditional ability environmental. Discussion institution see doctor improve Mr how."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
