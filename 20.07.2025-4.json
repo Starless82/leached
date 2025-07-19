@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Goodman",
+    "age": 40,
+    "address": {
+        "street": "Owens Trail",
+        "city": "Kingshire",
+        "state": "Idaho",
+        "zip": "76552"
+    },
+    "contact": {
+        "phone": "225-335-9774",
+        "servicePhone": "800505562"
+    },
+    "birthday": "1985-05-06",
+    "ip": "148.240.206.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Arrive drug include billion person can. Network which chair. Between peace only where morning.",
+        "bio": "Theory machine attention green also television believe. Enjoy food particular free brother reality mission. Mrs defense character picture."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
