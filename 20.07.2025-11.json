@@ -1,0 +1,25 @@
+{
+    "name": "Ann Moore",
+    "age": 85,
+    "address": {
+        "street": "Lopez Place",
+        "city": "East Ryanview",
+        "state": "North Carolina",
+        "zip": "95047"
+    },
+    "contact": {
+        "phone": "+1-364-798-0989x6975",
+        "servicePhone": "800488185"
+    },
+    "birthday": "1940-19-09",
+    "ip": "19.24.30.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Even college other police too player. Entire wear expert everyone.\nLive often run social until catch often property. Tend continue movie American policy.",
+        "bio": "Score early list speak direction institution. Everything director left very nice level military. It ground whatever late."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
