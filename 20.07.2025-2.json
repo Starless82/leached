@@ -1,0 +1,25 @@
+{
+    "name": "Micheal Smith",
+    "age": 8,
+    "address": {
+        "street": "Kristin Bypass",
+        "city": "Jeffreyton",
+        "state": "South Dakota",
+        "zip": "51006"
+    },
+    "contact": {
+        "phone": "(528)801-0421x949",
+        "servicePhone": "800567508"
+    },
+    "birthday": "2017-12-08",
+    "ip": "39.45.209.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Read develop about whether less school. Serve finish idea customer also. Democrat generation social four spend trip plan. His tax standard key move.",
+        "bio": "Mother court series few station water. Evidence stuff image report.\nElection group general table hair surface less. Child later tend stay. Decision claim pull particular."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
