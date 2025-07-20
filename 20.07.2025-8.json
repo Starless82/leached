@@ -1,0 +1,25 @@
+{
+    "name": "David Evans",
+    "age": 81,
+    "address": {
+        "street": "Peter Mill",
+        "city": "North William",
+        "state": "Kansas",
+        "zip": "62834"
+    },
+    "contact": {
+        "phone": "+1-381-417-6635",
+        "servicePhone": "800548689"
+    },
+    "birthday": "1944-19-04",
+    "ip": "128.169.233.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Particularly arrive cultural hair. Purpose state hair light trade doctor plant. By suggest difference statement relationship.",
+        "bio": "History public establish past which especially father. Worry under various bit also. Base real end program effort. Conference able lead product represent there."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
