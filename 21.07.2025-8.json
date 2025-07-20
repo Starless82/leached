@@ -1,0 +1,25 @@
+{
+    "name": "Diane Russo",
+    "age": 40,
+    "address": {
+        "street": "Brett Spring",
+        "city": "Huertaburgh",
+        "state": "New Jersey",
+        "zip": "02317"
+    },
+    "contact": {
+        "phone": "836-292-5029x51369",
+        "servicePhone": "800042856"
+    },
+    "birthday": "1985-16-10",
+    "ip": "41.201.231.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Either size window help continue ten. Brother local statement matter relate building. Probably group worry even appear.",
+        "bio": "Inside wind operation issue while condition. Scene represent available. Perhaps call create parent shake other weight space. Term debate impact huge star."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
