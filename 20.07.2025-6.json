@@ -1,0 +1,25 @@
+{
+    "name": "Wendy Mosley",
+    "age": 72,
+    "address": {
+        "street": "Randolph Squares",
+        "city": "South Ryanton",
+        "state": "Arkansas",
+        "zip": "72739"
+    },
+    "contact": {
+        "phone": "333-910-2249",
+        "servicePhone": "800705483"
+    },
+    "birthday": "1953-29-03",
+    "ip": "222.106.204.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Range movement difference about some recognize. Feel religious real shake operation left. Building dark candidate industry.",
+        "bio": "Mrs course window. Federal else each. Buy behavior stay tell force investment year. Society off speak activity born exactly."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
