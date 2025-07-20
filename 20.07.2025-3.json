@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Sutton",
+    "age": 73,
+    "address": {
+        "street": "Linda Canyon",
+        "city": "Port Jade",
+        "state": "Hawaii",
+        "zip": "63098"
+    },
+    "contact": {
+        "phone": "2412844797",
+        "servicePhone": "800247831"
+    },
+    "birthday": "1952-27-12",
+    "ip": "211.239.150.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Environment per individual real series her. Everyone into represent Democrat hit top.\nOffice language recognize speak let. Catch direction relate.",
+        "bio": "Part deal gun determine industry white world. Set they character rate energy order white.\nAnd blood happen former. Peace garden those pretty course subject strategy. Money board suggest."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
