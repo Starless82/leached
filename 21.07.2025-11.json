@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Moore",
+    "age": 74,
+    "address": {
+        "street": "Michelle Mission",
+        "city": "Lisaville",
+        "state": "Ohio",
+        "zip": "24476"
+    },
+    "contact": {
+        "phone": "001-279-307-9217x61370",
+        "servicePhone": "800545529"
+    },
+    "birthday": "1951-20-07",
+    "ip": "89.115.1.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Dream after level wait usually parent represent return.\nFar rock write where hope. Approach effect office together. Theory sell yourself popular foot still.",
+        "bio": "Possible together prepare prove a keep. Consider scene never. Cover often purpose behavior much American study."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
