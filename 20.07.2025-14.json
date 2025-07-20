@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Garcia",
+    "age": 78,
+    "address": {
+        "street": "Brandon Cape",
+        "city": "South Charles",
+        "state": "South Dakota",
+        "zip": "70562"
+    },
+    "contact": {
+        "phone": "+1-617-846-0369x588",
+        "servicePhone": "800905001"
+    },
+    "birthday": "1947-10-06",
+    "ip": "97.110.248.187",
+    "foo": "bar",
+    "profile": {
+        "about": "During challenge whatever camera nature. Region card many PM enjoy. Card protect seven plant run.\nAcross read least maybe. Natural value region cup.",
+        "bio": "Long begin support several image really view voice. Population candidate street memory certain. Civil least many he.\nHand public shoulder glass. Human activity why important mission."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
