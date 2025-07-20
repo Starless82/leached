@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Berry",
+    "age": 11,
+    "address": {
+        "street": "Cordova Valley",
+        "city": "Masonbury",
+        "state": "South Dakota",
+        "zip": "45718"
+    },
+    "contact": {
+        "phone": "+1-419-567-9482x30805",
+        "servicePhone": "800846963"
+    },
+    "birthday": "2014-05-07",
+    "ip": "91.185.113.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Scene cause official floor win fine character. Meet white garden service.\nAlthough most dinner because response. Bill some field true how too if. Our value over knowledge drop big who.",
+        "bio": "Issue or several strong toward there approach. Bar week current food. Enter clearly base doctor arrive many natural doctor."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
