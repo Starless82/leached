@@ -1,0 +1,25 @@
+{
+    "name": "Tony Lee",
+    "age": 25,
+    "address": {
+        "street": "Victoria Islands",
+        "city": "Sarahmouth",
+        "state": "New Hampshire",
+        "zip": "57106"
+    },
+    "contact": {
+        "phone": "+1-507-965-8157x43837",
+        "servicePhone": "800435262"
+    },
+    "birthday": "2000-08-01",
+    "ip": "180.86.28.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Record expect wish sure world.\nThrough whether ten begin about police. Herself best be their. Around show explain situation cultural scientist total improve.\nMy expect feeling right field marriage.",
+        "bio": "Girl article trade east industry official official. Story ask director.\nJust group rich onto standard agent. Weight realize truth state."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
