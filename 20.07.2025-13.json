@@ -1,0 +1,25 @@
+{
+    "name": "Margaret Smith",
+    "age": 0,
+    "address": {
+        "street": "Jones Camp",
+        "city": "West Melissaborough",
+        "state": "Hawaii",
+        "zip": "55067"
+    },
+    "contact": {
+        "phone": "(999)308-0391x997",
+        "servicePhone": "800203562"
+    },
+    "birthday": "2025-06-01",
+    "ip": "76.5.15.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Begin hit black write more. Down media yes exist leave firm. Authority land she skill writer say every.",
+        "bio": "School generation ask week once run left. Majority month thank wind bit something analysis whole. Standard simple whatever lawyer blood."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
