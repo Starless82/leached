@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Wise",
+    "age": 20,
+    "address": {
+        "street": "Grimes Plains",
+        "city": "Pattersonmouth",
+        "state": "Connecticut",
+        "zip": "50591"
+    },
+    "contact": {
+        "phone": "4049639332",
+        "servicePhone": "800450423"
+    },
+    "birthday": "2005-31-10",
+    "ip": "85.185.88.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Option reveal customer. Ahead piece TV.\nExperience remain instead rather father attorney. Miss relationship customer thus miss key house.\nFree what goal happy. Old bed whatever television only.",
+        "bio": "Around industry keep almost game actually. Present public blood point later pay recent quite."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
