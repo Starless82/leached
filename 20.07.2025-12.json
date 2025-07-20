@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Lucero",
+    "age": 78,
+    "address": {
+        "street": "Robles Well",
+        "city": "Port Leahport",
+        "state": "Pennsylvania",
+        "zip": "45921"
+    },
+    "contact": {
+        "phone": "001-360-744-0570x83107",
+        "servicePhone": "800076111"
+    },
+    "birthday": "1947-04-03",
+    "ip": "194.132.36.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Use reflect social article resource. System home little amount media down heavy. Future read energy tax only.",
+        "bio": "Book wear town save employee it. Some through else situation.\nBook professional half suffer go. Far focus though high.\nPush police doctor our. Lawyer respond range treat argue there."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
