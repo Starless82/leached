@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Robles",
+    "age": 6,
+    "address": {
+        "street": "Yolanda Branch",
+        "city": "Port Erikafort",
+        "state": "Connecticut",
+        "zip": "26601"
+    },
+    "contact": {
+        "phone": "001-467-315-3983",
+        "servicePhone": "800677664"
+    },
+    "birthday": "2019-05-11",
+    "ip": "65.196.140.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Church total often. Offer understand rich hear. Family financial color radio social painting.",
+        "bio": "Probably hard need line bit certain strategy. Human baby kitchen owner else only.\nClearly hold place. Art attack whom pay.\nBuild type talk."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
