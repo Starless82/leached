@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Mejia",
+    "age": 2,
+    "address": {
+        "street": "Ralph Mews",
+        "city": "South Mark",
+        "state": "Kansas",
+        "zip": "20128"
+    },
+    "contact": {
+        "phone": "001-219-366-8695",
+        "servicePhone": "800559635"
+    },
+    "birthday": "2023-20-05",
+    "ip": "123.250.194.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Book suggest specific fall. Perhaps reality trip special next enough. Bring already agency though push.\nFriend candidate morning analysis remember PM. Suggest quite same mouth serve.",
+        "bio": "What final laugh national drug set. Continue machine color suffer several especially.\nNo rock situation. Somebody rule alone major rise."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
