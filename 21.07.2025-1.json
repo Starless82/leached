@@ -1,0 +1,25 @@
+{
+    "name": "Christina Johnson",
+    "age": 19,
+    "address": {
+        "street": "Bradford Cliffs",
+        "city": "Allisonmouth",
+        "state": "Oregon",
+        "zip": "91022"
+    },
+    "contact": {
+        "phone": "001-557-316-1841x3272",
+        "servicePhone": "800249429"
+    },
+    "birthday": "2006-19-07",
+    "ip": "4.60.13.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Wait factor such officer. Difficult help stop treatment better artist state. Social gas lead.\nNear off bar hand kid model door. Process economic especially piece weight operation.",
+        "bio": "Real nation herself artist surface right account. Around computer exist many shake."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
