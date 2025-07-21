@@ -1,0 +1,25 @@
+{
+    "name": "Susan Hess",
+    "age": 66,
+    "address": {
+        "street": "Spencer Haven",
+        "city": "Staceyshire",
+        "state": "West Virginia",
+        "zip": "84122"
+    },
+    "contact": {
+        "phone": "8264038707",
+        "servicePhone": "800674871"
+    },
+    "birthday": "1959-01-02",
+    "ip": "183.24.221.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Tough bag pay bar billion decide might organization. Threat add avoid result politics.\nUpon choose recently source. Onto write several road reveal. Face various have else behind.",
+        "bio": "Beyond event article crime treat. Effort professor oil program such popular. Will economic place."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
