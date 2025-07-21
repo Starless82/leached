@@ -1,0 +1,25 @@
+{
+    "name": "Erika Ford",
+    "age": 88,
+    "address": {
+        "street": "Kathryn Park",
+        "city": "Lake Cherylborough",
+        "state": "South Carolina",
+        "zip": "54274"
+    },
+    "contact": {
+        "phone": "001-904-848-1537",
+        "servicePhone": "800371625"
+    },
+    "birthday": "1937-23-06",
+    "ip": "85.131.196.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Painting worker when individual base. Itself ready wrong hear range century environmental significant. Fine evidence really forward site.",
+        "bio": "Grow arrive pressure thus idea go cover success. Keep mention piece trial then bar. List laugh court enough receive material term.\nEven act artist nothing age. Some away whom executive."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
