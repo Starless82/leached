@@ -1,0 +1,25 @@
+{
+    "name": "James Williams",
+    "age": 99,
+    "address": {
+        "street": "Lauren Springs",
+        "city": "South Patrick",
+        "state": "Pennsylvania",
+        "zip": "86928"
+    },
+    "contact": {
+        "phone": "(246)472-1515",
+        "servicePhone": "800092688"
+    },
+    "birthday": "1926-01-04",
+    "ip": "130.198.146.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Require say base modern create road smile conference. With throw site cause significant friend factor hot. Degree among my.",
+        "bio": "Exist fast must degree light better brother. Sea more fish enough ground room speech."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
