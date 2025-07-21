@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Gray",
+    "age": 46,
+    "address": {
+        "street": "Beth Highway",
+        "city": "West Eric",
+        "state": "Indiana",
+        "zip": "98280"
+    },
+    "contact": {
+        "phone": "(455)720-2640x146",
+        "servicePhone": "800378500"
+    },
+    "birthday": "1979-17-10",
+    "ip": "110.173.104.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Significant shake decade visit cold already mission why. Should probably arrive cup middle group picture.",
+        "bio": "Government wonder choice hair. Answer southern pull job later leave reach. Again year huge step short more effect can."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
