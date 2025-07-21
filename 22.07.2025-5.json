@@ -1,0 +1,25 @@
+{
+    "name": "Abigail Ramos",
+    "age": 93,
+    "address": {
+        "street": "Martin Ports",
+        "city": "Michaelview",
+        "state": "Louisiana",
+        "zip": "83745"
+    },
+    "contact": {
+        "phone": "5575063353",
+        "servicePhone": "800437833"
+    },
+    "birthday": "1932-02-03",
+    "ip": "201.83.120.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Such expert quite pretty final. Whether store me many bad.\nRecord painting travel ask sense part key. Artist follow road inside send some suggest. Street natural pretty politics leave.",
+        "bio": "Actually majority technology matter. Evidence thousand choose history meet movement ball attorney. Without cell share finish determine decide."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
