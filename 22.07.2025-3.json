@@ -1,0 +1,25 @@
+{
+    "name": "Misty Johnson",
+    "age": 2,
+    "address": {
+        "street": "Nicholas Harbors",
+        "city": "Lake Jamesstad",
+        "state": "Tennessee",
+        "zip": "79485"
+    },
+    "contact": {
+        "phone": "(248)899-6221x5844",
+        "servicePhone": "800786335"
+    },
+    "birthday": "2023-10-05",
+    "ip": "62.25.223.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Still threat anything foot assume reality. Face interview cell guess order. Hear purpose space budget forget western officer could.\nStrong type check eye. Claim turn middle nothing oil.",
+        "bio": "Four fill last standard determine. In eye tend.\nCentury agent mother arm. All improve southern fear night interesting.\nEven fire scientist much always. Agent our then energy society oil."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
