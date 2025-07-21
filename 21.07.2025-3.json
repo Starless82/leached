@@ -1,0 +1,25 @@
+{
+    "name": "Charles Garcia",
+    "age": 96,
+    "address": {
+        "street": "Katherine Forges",
+        "city": "Palmerfurt",
+        "state": "Indiana",
+        "zip": "37895"
+    },
+    "contact": {
+        "phone": "539-546-8358x13683",
+        "servicePhone": "800357551"
+    },
+    "birthday": "1929-22-10",
+    "ip": "110.9.157.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Kitchen available audience win. Strong security fall soon right different or.\nShort whose along. Material surface able clearly but cut worker. Describe product civil religious.",
+        "bio": "Record or agreement hope all purpose.\nDeep stuff miss tough. Eat expect drive machine as.\nEconomic matter always end scene. Spend call benefit world find. Have program home according."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
