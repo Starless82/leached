@@ -1,0 +1,25 @@
+{
+    "name": "Julie Young",
+    "age": 43,
+    "address": {
+        "street": "Murphy Mountain",
+        "city": "Port Aaron",
+        "state": "Pennsylvania",
+        "zip": "56277"
+    },
+    "contact": {
+        "phone": "001-751-802-4629x8357",
+        "servicePhone": "800165812"
+    },
+    "birthday": "1982-06-11",
+    "ip": "171.212.52.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Thing gas what difficult financial I morning. Enter north how do national reduce occur. Chance table interview friend space.",
+        "bio": "Start city remember force find. Century grow fly capital by mind.\nGuy nation eight pretty hit. Share especially majority week down. Official administration program arrive trial."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
