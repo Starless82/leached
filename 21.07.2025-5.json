@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Smith",
+    "age": 53,
+    "address": {
+        "street": "Kari Tunnel",
+        "city": "South Pamelamouth",
+        "state": "Connecticut",
+        "zip": "49130"
+    },
+    "contact": {
+        "phone": "+1-400-770-2312x8711",
+        "servicePhone": "800890036"
+    },
+    "birthday": "1972-25-06",
+    "ip": "88.56.122.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Even anything sister point cultural brother analysis. Day away sign. Will later note at campaign debate.",
+        "bio": "American upon economy represent source to that cover. Rest to at this hot economy. Soldier move structure court.\nHalf check everybody spring easy. Test mouth while price Congress."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
