@@ -1,0 +1,25 @@
+{
+    "name": "Larry Rose",
+    "age": 40,
+    "address": {
+        "street": "Christopher Loop",
+        "city": "Berryfort",
+        "state": "Arizona",
+        "zip": "91245"
+    },
+    "contact": {
+        "phone": "7449769797",
+        "servicePhone": "800259482"
+    },
+    "birthday": "1985-22-05",
+    "ip": "22.234.4.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Against into about become. Peace college effect prevent.\nAcross hour must market say development. Administration speak team until off impact. Even eye shake wear what.",
+        "bio": "Structure leg product more wait. Provide foreign central hotel technology likely explain view. Or current at including provide."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
