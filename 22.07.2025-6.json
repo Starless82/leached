@@ -1,0 +1,25 @@
+{
+    "name": "Toni Reid",
+    "age": 62,
+    "address": {
+        "street": "Macdonald Shore",
+        "city": "Sabrinaside",
+        "state": "Maryland",
+        "zip": "88985"
+    },
+    "contact": {
+        "phone": "001-755-524-3126x44323",
+        "servicePhone": "800239601"
+    },
+    "birthday": "1963-29-11",
+    "ip": "65.96.193.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Maybe skin nor character production sense president. Financial themselves discover interview other movie let. Heavy among together reflect news face board.",
+        "bio": "Thought letter fight prevent reason owner year force. Nature yet human give your have always. Building shoulder statement need spend."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
