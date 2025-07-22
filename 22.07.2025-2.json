@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Miller",
+    "age": 110,
+    "address": {
+        "street": "Swanson Lake",
+        "city": "Jenniferville",
+        "state": "Idaho",
+        "zip": "50519"
+    },
+    "contact": {
+        "phone": "001-827-463-2996",
+        "servicePhone": "800473838"
+    },
+    "birthday": "1915-25-09",
+    "ip": "166.219.136.132",
+    "foo": "bar",
+    "profile": {
+        "about": "View tonight tend concern issue son commercial. Edge charge account reality.",
+        "bio": "Ask you her discover girl subject. Kind game feeling age main hundred who. Where near play push.\nTotal across situation development sell order create. Understand research a."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
