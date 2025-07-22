@@ -1,0 +1,25 @@
+{
+    "name": "Eric Chang",
+    "age": 47,
+    "address": {
+        "street": "Forbes Stream",
+        "city": "Clarkside",
+        "state": "Arizona",
+        "zip": "83244"
+    },
+    "contact": {
+        "phone": "634-486-7602",
+        "servicePhone": "800367218"
+    },
+    "birthday": "1978-26-07",
+    "ip": "119.211.174.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Environment head wife ago education. Loss condition measure may challenge above school record.\nPerform when realize answer.",
+        "bio": "Present line drop represent nation. Article teacher large finish our. Case field dark you suffer likely lay affect.\nHow respond describe lead cup. Be practice produce or become mission court."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
