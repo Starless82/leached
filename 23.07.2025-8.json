@@ -1,0 +1,25 @@
+{
+    "name": "Michael Clark",
+    "age": 71,
+    "address": {
+        "street": "Thomas Parks",
+        "city": "West Laura",
+        "state": "West Virginia",
+        "zip": "62246"
+    },
+    "contact": {
+        "phone": "(982)799-7738x30768",
+        "servicePhone": "800967016"
+    },
+    "birthday": "1954-09-07",
+    "ip": "17.249.247.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Series hope hundred perform history decide street. High north care surface citizen make. Continue what color think food next.\nAttorney meet add approach suggest. Last past few stand.",
+        "bio": "Own study catch create everybody. More improve sense thus write sing sit.\nAbility network beat science finally agree quickly draw. Will herself yeah assume today wish meeting property."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
