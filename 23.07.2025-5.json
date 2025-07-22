@@ -1,0 +1,25 @@
+{
+    "name": "Sonya Barnes",
+    "age": 71,
+    "address": {
+        "street": "Willie Ville",
+        "city": "Hornbury",
+        "state": "Washington",
+        "zip": "90560"
+    },
+    "contact": {
+        "phone": "(211)354-4313",
+        "servicePhone": "800569515"
+    },
+    "birthday": "1954-07-05",
+    "ip": "206.100.108.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Need show away responsibility claim forget. Popular address various everybody.\nMaintain happy far fund word. Compare into lawyer various late. Experience spend economy consider.",
+        "bio": "Claim particularly plant the. Head space past wide still family official score.\nThousand hold type with professor ability. Nation into south take sea strong age."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
