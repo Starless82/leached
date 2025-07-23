@@ -1,0 +1,25 @@
+{
+    "name": "Shane Moss",
+    "age": 66,
+    "address": {
+        "street": "Peter Track",
+        "city": "North Allisonland",
+        "state": "Arizona",
+        "zip": "27031"
+    },
+    "contact": {
+        "phone": "001-945-883-9571x89811",
+        "servicePhone": "800622750"
+    },
+    "birthday": "1959-23-02",
+    "ip": "140.46.56.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Specific build century option capital. Experience six nothing appear to. According world new structure say heart.",
+        "bio": "Article girl mouth manager town spring important child. Everyone factor so trouble clear skin must."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
