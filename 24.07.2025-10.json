@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Sutton",
+    "age": 20,
+    "address": {
+        "street": "Shawn Burgs",
+        "city": "North Mark",
+        "state": "New Hampshire",
+        "zip": "86269"
+    },
+    "contact": {
+        "phone": "806.979.1945x193",
+        "servicePhone": "800119057"
+    },
+    "birthday": "2005-23-11",
+    "ip": "210.233.120.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Teacher concern meet. Number so study risk significant way various.\nPerhaps Republican affect imagine fact so.",
+        "bio": "Professional reason friend life speak national treatment light. Paper piece race adult involve final per.\nTravel see time. Down yet participant design building market including."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
