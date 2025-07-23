@@ -1,0 +1,25 @@
+{
+    "name": "Robert Green",
+    "age": 54,
+    "address": {
+        "street": "Hartman Rest",
+        "city": "Ramireztown",
+        "state": "Wisconsin",
+        "zip": "73704"
+    },
+    "contact": {
+        "phone": "702-282-2504x09710",
+        "servicePhone": "800128494"
+    },
+    "birthday": "1971-12-10",
+    "ip": "14.106.231.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Feel than bar almost once. Baby support remember.\nBoy off town finally enter. Condition have hot push notice call that.\nBar those world. Cup air risk radio many until. Ready before country air.",
+        "bio": "Enjoy particularly than finally memory big. Far level knowledge sister national forget by.\nHeart meet face improve mention. Call six training play camera.\nPlace interesting place."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
