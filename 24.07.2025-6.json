@@ -1,0 +1,25 @@
+{
+    "name": "David Mcdonald",
+    "age": 4,
+    "address": {
+        "street": "Timothy Forges",
+        "city": "New Jacquelinechester",
+        "state": "Idaho",
+        "zip": "08743"
+    },
+    "contact": {
+        "phone": "+1-555-724-7390",
+        "servicePhone": "800720726"
+    },
+    "birthday": "2021-04-03",
+    "ip": "34.92.142.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Beautiful line action opportunity. Either toward answer.\nGarden wear choose marriage. What process officer few.",
+        "bio": "Me paper their Mrs reality find area. American authority clear age.\nTax condition fund woman. Raise quickly force traditional kid miss."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
