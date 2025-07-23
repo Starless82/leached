@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Cruz",
+    "age": 24,
+    "address": {
+        "street": "Amy Light",
+        "city": "Port Julia",
+        "state": "Maryland",
+        "zip": "44400"
+    },
+    "contact": {
+        "phone": "238.315.4875x080",
+        "servicePhone": "800159427"
+    },
+    "birthday": "2001-02-06",
+    "ip": "222.48.102.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Sea why social without game garden free.\nCheck walk edge. Old call lead customer government course the.\nSea product visit benefit current. Act evidence student hotel experience investment.",
+        "bio": "Risk letter decade fill until leader. Officer catch establish name.\nToday quality strong police indicate know success research.\nRich letter challenge each whom job write."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
