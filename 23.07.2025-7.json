@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Davis",
+    "age": 62,
+    "address": {
+        "street": "Ellen Light",
+        "city": "Williamsshire",
+        "state": "Arkansas",
+        "zip": "16819"
+    },
+    "contact": {
+        "phone": "001-293-714-9432x3090",
+        "servicePhone": "800204368"
+    },
+    "birthday": "1963-01-08",
+    "ip": "173.126.102.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Pretty war special. Might describe court allow like. Professor but argue look sound citizen carry.\nStop brother to ball top line. Go history piece now. Shake recent election life chair.",
+        "bio": "Defense Democrat head before agent fund attention yourself.\nBuy example bit type government. Wind threat attorney process economic cut military. Hundred capital standard reach Democrat small group."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
