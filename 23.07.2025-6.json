@@ -1,0 +1,25 @@
+{
+    "name": "Amber Aguirre",
+    "age": 102,
+    "address": {
+        "street": "Kristy Cove",
+        "city": "Kimberlyburgh",
+        "state": "Maine",
+        "zip": "03983"
+    },
+    "contact": {
+        "phone": "001-413-255-1450x360",
+        "servicePhone": "800273619"
+    },
+    "birthday": "1923-22-09",
+    "ip": "159.149.161.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Against natural outside analysis. Well gas poor seven.\nFilm government institution major. Skill kitchen yes last yes region smile. Control agent large mind gun relate.",
+        "bio": "Understand they road set development deal year upon. Moment something take mind girl bring edge. Thought result company summer knowledge gun."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
