@@ -1,0 +1,25 @@
+{
+    "name": "Paul Larsen",
+    "age": 31,
+    "address": {
+        "street": "Victoria Knoll",
+        "city": "South Alexandra",
+        "state": "Maryland",
+        "zip": "86376"
+    },
+    "contact": {
+        "phone": "+1-764-915-3153x97420",
+        "servicePhone": "800176161"
+    },
+    "birthday": "1994-28-09",
+    "ip": "223.179.80.227",
+    "foo": "bar",
+    "profile": {
+        "about": "By break million treatment. Return religious either bed matter out adult.\nAlone series least campaign ok. Development sell sister available add camera win least.",
+        "bio": "Image audience yes event. Player lawyer capital tough parent. More new beat red attorney matter. Either field may Democrat choice eye."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
