@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Hicks",
+    "age": 33,
+    "address": {
+        "street": "Davis Radial",
+        "city": "Kevinmouth",
+        "state": "Hawaii",
+        "zip": "02835"
+    },
+    "contact": {
+        "phone": "(554)794-9854",
+        "servicePhone": "800209938"
+    },
+    "birthday": "1992-17-04",
+    "ip": "75.67.38.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Hundred day evening western whole work would.\nReligious under sometimes member how. Too financial land since bring.",
+        "bio": "Break meeting program military stock early. Several wide manage pretty since the."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
