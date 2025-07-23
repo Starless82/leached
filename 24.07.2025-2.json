@@ -1,0 +1,25 @@
+{
+    "name": "Monica Wiley",
+    "age": 86,
+    "address": {
+        "street": "Timothy Village",
+        "city": "South Johnborough",
+        "state": "Kentucky",
+        "zip": "79852"
+    },
+    "contact": {
+        "phone": "001-650-619-5234x38403",
+        "servicePhone": "800561490"
+    },
+    "birthday": "1939-21-03",
+    "ip": "17.62.132.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Make operation figure manager. Plant writer relate foreign budget base.\nConsider develop month picture expect. Drop should decision send president building again.\nShake rate that nice adult.",
+        "bio": "Its which free sort individual road. Financial which vote billion. Day must view student late happy. Every stop open try range leg."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
