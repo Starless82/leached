@@ -1,0 +1,25 @@
+{
+    "name": "Robert Dominguez",
+    "age": 85,
+    "address": {
+        "street": "Gwendolyn Neck",
+        "city": "Elizabethburgh",
+        "state": "South Carolina",
+        "zip": "61972"
+    },
+    "contact": {
+        "phone": "(637)962-7748x4023",
+        "servicePhone": "800178630"
+    },
+    "birthday": "1940-13-12",
+    "ip": "29.5.177.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Third author as too friend share. Career company three without attention.",
+        "bio": "Me property which son outside when significant. Employee report only then travel safe. Wind produce bring respond major rate hold little."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
