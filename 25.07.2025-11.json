@@ -1,0 +1,25 @@
+{
+    "name": "Christian Garner",
+    "age": 105,
+    "address": {
+        "street": "Romero Mountain",
+        "city": "Garciashire",
+        "state": "Nebraska",
+        "zip": "23081"
+    },
+    "contact": {
+        "phone": "558.683.9634",
+        "servicePhone": "800592905"
+    },
+    "birthday": "1920-09-10",
+    "ip": "223.238.235.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Growth treatment network process individual thought approach. Team bit toward. Leave discussion matter detail most.",
+        "bio": "Everyone Congress top painting find. Talk necessary speech far this small respond recently. Another particular herself space.\nAge who feel mean project trouble let up."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
