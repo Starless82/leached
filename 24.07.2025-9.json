@@ -1,0 +1,25 @@
+{
+    "name": "Kristin Sherman",
+    "age": 30,
+    "address": {
+        "street": "Hill Mews",
+        "city": "Zacharystad",
+        "state": "Nevada",
+        "zip": "45571"
+    },
+    "contact": {
+        "phone": "001-965-659-5832",
+        "servicePhone": "800345703"
+    },
+    "birthday": "1995-26-04",
+    "ip": "73.116.201.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Sport career happy across network mission least. Mother responsibility where national month point unit common.\nFly short president suffer education address. Relationship factor too top current yard.",
+        "bio": "Sing wait computer. Green work while south news tend skill eight.\nEnjoy every spring office may difference car. Police you toward history address.\nAsk boy summer. Build movie early can true."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
