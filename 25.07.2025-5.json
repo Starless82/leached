@@ -1,0 +1,25 @@
+{
+    "name": "Paul Oconnor",
+    "age": 41,
+    "address": {
+        "street": "Warner Summit",
+        "city": "East Jack",
+        "state": "New Jersey",
+        "zip": "12768"
+    },
+    "contact": {
+        "phone": "(337)887-8546x7679",
+        "servicePhone": "800235319"
+    },
+    "birthday": "1984-15-03",
+    "ip": "219.105.94.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Born deep site dog but. Sell job scene after.\nMatter concern word final section hospital forget. Seat send avoid put include.\nLive floor yourself read. Situation have technology seek crime city win.",
+        "bio": "Point usually toward fire. Recently value last itself hold despite best determine. Capital our long here."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
