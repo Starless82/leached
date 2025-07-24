@@ -1,0 +1,25 @@
+{
+    "name": "Justin Stewart",
+    "age": 0,
+    "address": {
+        "street": "Jones Center",
+        "city": "Charleschester",
+        "state": "Vermont",
+        "zip": "10835"
+    },
+    "contact": {
+        "phone": "(735)310-1434x021",
+        "servicePhone": "800655744"
+    },
+    "birthday": "2025-19-03",
+    "ip": "25.187.16.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Young create leg single professional. Professional bad day boy shake Mrs. Always eye when reduce beyond.",
+        "bio": "Both since station. Until standard trouble loss here agency memory study. Force huge run check any."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
