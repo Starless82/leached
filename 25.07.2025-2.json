@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Knight",
+    "age": 31,
+    "address": {
+        "street": "John Groves",
+        "city": "Carlosburgh",
+        "state": "New York",
+        "zip": "89348"
+    },
+    "contact": {
+        "phone": "001-477-559-8073x326",
+        "servicePhone": "800857358"
+    },
+    "birthday": "1994-23-10",
+    "ip": "157.147.90.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Doctor else six suddenly. Individual investment like new easy. Series walk difference worry.\nProject bad at Mrs often. Piece reach in raise generation eight better add.",
+        "bio": "Good sound book environmental far western.\nIf more within language. Lawyer office simple throw ever mouth high. Collection bring sure operation floor never again."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
