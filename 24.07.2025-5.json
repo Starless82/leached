@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Powell",
+    "age": 13,
+    "address": {
+        "street": "James Crest",
+        "city": "Ericfurt",
+        "state": "Arkansas",
+        "zip": "27456"
+    },
+    "contact": {
+        "phone": "(520)595-3568x3259",
+        "servicePhone": "800820710"
+    },
+    "birthday": "2012-17-10",
+    "ip": "202.19.191.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Last effect thousand. Indicate away scientist other cold class police court. Son couple once strategy dog cold. Cultural west piece represent.",
+        "bio": "Six claim end radio fast executive everything. Difference consumer edge measure. Someone watch line middle which. Decision claim whether spend."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
