@@ -1,0 +1,25 @@
+{
+    "name": "Randy Jackson",
+    "age": 59,
+    "address": {
+        "street": "Knox Locks",
+        "city": "West Katherineberg",
+        "state": "Vermont",
+        "zip": "87190"
+    },
+    "contact": {
+        "phone": "381.496.7688x218",
+        "servicePhone": "800012423"
+    },
+    "birthday": "1966-07-10",
+    "ip": "162.23.181.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Service citizen sport huge. Between read section sit education speak small.\nSite all operation water current single. Five number somebody newspaper. Early tell until company try.",
+        "bio": "Design benefit wait beyond. Step account less usually know."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
