@@ -1,0 +1,25 @@
+{
+    "name": "Natasha Perez",
+    "age": 21,
+    "address": {
+        "street": "Jessica Cliffs",
+        "city": "Martinezmouth",
+        "state": "Oklahoma",
+        "zip": "80532"
+    },
+    "contact": {
+        "phone": "001-637-855-9620",
+        "servicePhone": "800934415"
+    },
+    "birthday": "2004-10-10",
+    "ip": "133.112.69.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Trial we hand most own however stop. Point reach leader chair. Hundred modern cold until.\nSign we interesting magazine theory ball sense seem. Spring environment scene Mr start deep.",
+        "bio": "Drug rate significant. Take step camera should anyone main protect.\nEither run general audience range never try. Call particularly generation together pretty. Rather drug television watch reality."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
