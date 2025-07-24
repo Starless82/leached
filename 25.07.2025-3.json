@@ -1,0 +1,25 @@
+{
+    "name": "Peggy Jackson",
+    "age": 81,
+    "address": {
+        "street": "Smith Locks",
+        "city": "Port Georgefurt",
+        "state": "Alaska",
+        "zip": "78305"
+    },
+    "contact": {
+        "phone": "(665)684-1430",
+        "servicePhone": "800822220"
+    },
+    "birthday": "1944-06-04",
+    "ip": "54.227.2.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Interesting late loss debate expert. American cup senior big go blue. Wish story magazine good hot just you.",
+        "bio": "Sit cut power friend program finally drive.\nAlways source many small life expert tend. War everything reality law sell. Although thought mean interesting produce establish."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
