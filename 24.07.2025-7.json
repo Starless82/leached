@@ -1,0 +1,25 @@
+{
+    "name": "Mary Hansen",
+    "age": 3,
+    "address": {
+        "street": "Anthony Forest",
+        "city": "South Tiffany",
+        "state": "Mississippi",
+        "zip": "31603"
+    },
+    "contact": {
+        "phone": "(954)645-1577x64282",
+        "servicePhone": "800484185"
+    },
+    "birthday": "2022-06-08",
+    "ip": "105.180.234.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Conference possible value off. Garden color explain face suffer summer.\nNew piece onto compare across. Soldier type four image point and bad.",
+        "bio": "Risk just whose authority forward together. Democratic stuff create white various hear. Laugh people sister pull represent."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
