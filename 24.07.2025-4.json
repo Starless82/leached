@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Vincent",
+    "age": 96,
+    "address": {
+        "street": "Garcia Ridge",
+        "city": "Parksburgh",
+        "state": "Massachusetts",
+        "zip": "59519"
+    },
+    "contact": {
+        "phone": "417-494-9717",
+        "servicePhone": "800233700"
+    },
+    "birthday": "1929-20-11",
+    "ip": "62.238.129.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Third always never less four. Prove PM long magazine little expect.\nNewspaper significant seem number charge team. Student themselves radio want.",
+        "bio": "Strong chance agency. Book yard official choose order grow focus. Up network actually father base.\nThought which hear summer."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
