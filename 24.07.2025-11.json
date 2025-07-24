@@ -1,0 +1,25 @@
+{
+    "name": "Penny Morris",
+    "age": 67,
+    "address": {
+        "street": "Nguyen Mountain",
+        "city": "Port Brandonview",
+        "state": "Rhode Island",
+        "zip": "42456"
+    },
+    "contact": {
+        "phone": "+1-257-742-8648x9962",
+        "servicePhone": "800815639"
+    },
+    "birthday": "1958-19-09",
+    "ip": "126.28.152.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Training eight happy few note. Rise manage security PM plant attack.\nItself top ready law decision another fish. Fish say husband apply. Store give fish ability difficult.",
+        "bio": "Tell form writer begin institution.\nLeave president impact really cost policy plan last. Behind resource lead cost accept investment.\nWeight movie ago near those main. Off PM dark side."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
