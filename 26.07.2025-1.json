@@ -1,0 +1,25 @@
+{
+    "name": "Barbara Jones",
+    "age": 40,
+    "address": {
+        "street": "Bray Flat",
+        "city": "Port Elaineport",
+        "state": "New Hampshire",
+        "zip": "80206"
+    },
+    "contact": {
+        "phone": "001-310-299-4279x64745",
+        "servicePhone": "800386118"
+    },
+    "birthday": "1985-09-11",
+    "ip": "72.13.35.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Up often those security. Several owner big black simple.",
+        "bio": "Force remain guy final alone special. Position everybody majority trade glass blood.\nParticular change name each traditional generation piece. Mind arm claim and thus candidate."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
