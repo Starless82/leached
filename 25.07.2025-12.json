@@ -1,0 +1,25 @@
+{
+    "name": "Gary Hernandez",
+    "age": 17,
+    "address": {
+        "street": "Perez Lock",
+        "city": "Nobleview",
+        "state": "West Virginia",
+        "zip": "73903"
+    },
+    "contact": {
+        "phone": "885-238-0373x529",
+        "servicePhone": "800849051"
+    },
+    "birthday": "2008-31-05",
+    "ip": "21.14.58.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Son science seek garden leader product. Arrive director list. Way painting staff particular institution college.",
+        "bio": "Whose product analysis pressure purpose region understand. Word instead because film college. Girl term certain claim budget.\nFind seek policy business keep rich pressure. Expect yourself music work."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
