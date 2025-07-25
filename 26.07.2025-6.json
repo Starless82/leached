@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Reyes",
+    "age": 56,
+    "address": {
+        "street": "Graham Causeway",
+        "city": "Sethburgh",
+        "state": "Wisconsin",
+        "zip": "28291"
+    },
+    "contact": {
+        "phone": "4758945725",
+        "servicePhone": "800519068"
+    },
+    "birthday": "1969-01-08",
+    "ip": "159.219.97.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Report since arm exactly.\nSuccess trouble over reveal result region mind already. Data not down far have. Film firm management front spend pressure.",
+        "bio": "Finish responsibility family my. Ok safe seem move. Moment we report husband name within less.\nRepublican back must social deep should. Source push ask such."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
