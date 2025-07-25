@@ -1,0 +1,25 @@
+{
+    "name": "Wendy Hernandez",
+    "age": 15,
+    "address": {
+        "street": "Danielle Street",
+        "city": "Carolineberg",
+        "state": "Virginia",
+        "zip": "27529"
+    },
+    "contact": {
+        "phone": "8998908739",
+        "servicePhone": "800862538"
+    },
+    "birthday": "2010-06-06",
+    "ip": "45.60.179.86",
+    "foo": "bar",
+    "profile": {
+        "about": "System instead per figure threat act. Enough fast position. Growth affect different air else mean kind interesting.\nNotice last deal first his way quality.",
+        "bio": "Evening concern themselves protect cause. Dog investment issue deal list despite.\nRather news mouth card. Each degree hold no worry truth. Develop once area happen different individual chair."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
