@@ -1,0 +1,25 @@
+{
+    "name": "Nathaniel Hart",
+    "age": 60,
+    "address": {
+        "street": "David Court",
+        "city": "Bennetttown",
+        "state": "New Jersey",
+        "zip": "28763"
+    },
+    "contact": {
+        "phone": "(245)220-9109",
+        "servicePhone": "800461319"
+    },
+    "birthday": "1965-10-08",
+    "ip": "135.8.91.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Season word sure film understand nearly upon. Artist paper well easy pay business by.\nWhat hand operation turn voice board. Skill rock environmental perhaps pressure.",
+        "bio": "Specific into own. Sister media perhaps meeting source peace. Peace discussion any maybe note citizen."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
