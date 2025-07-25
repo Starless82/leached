@@ -1,0 +1,25 @@
+{
+    "name": "Angela Wallace",
+    "age": 13,
+    "address": {
+        "street": "Carlos Key",
+        "city": "South Justin",
+        "state": "Alabama",
+        "zip": "40220"
+    },
+    "contact": {
+        "phone": "001-865-364-2095x2047",
+        "servicePhone": "800395347"
+    },
+    "birthday": "2012-10-01",
+    "ip": "29.237.167.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Pull act guy go. Health myself close human scientist long add.\nExecutive set figure serious. Throughout senior focus price. Tonight business poor meet.",
+        "bio": "That deep while new entire several also cell. Assume play foreign consider one."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
