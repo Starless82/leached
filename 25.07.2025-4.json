@@ -1,0 +1,25 @@
+{
+    "name": "Austin Johnson",
+    "age": 63,
+    "address": {
+        "street": "Ramos Dam",
+        "city": "North Sarahview",
+        "state": "Montana",
+        "zip": "59479"
+    },
+    "contact": {
+        "phone": "791-808-9600x28065",
+        "servicePhone": "800415524"
+    },
+    "birthday": "1962-15-05",
+    "ip": "202.253.5.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Support evening meeting national. Catch lot arm describe long your occur. Challenge space me attack fish pressure build.\nSuch new tend name identify tonight.",
+        "bio": "Unit ability space card. Cold part water it six away. Clearly understand person space successful institution explain."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
