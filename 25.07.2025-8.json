@@ -1,0 +1,25 @@
+{
+    "name": "Erin Charles",
+    "age": 77,
+    "address": {
+        "street": "Bishop Passage",
+        "city": "Lake Jasonmouth",
+        "state": "Pennsylvania",
+        "zip": "55533"
+    },
+    "contact": {
+        "phone": "726-422-9177x573",
+        "servicePhone": "800661060"
+    },
+    "birthday": "1948-25-03",
+    "ip": "160.187.110.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Join yes city response respond leave allow. Investment course policy before painting. Term especially you activity respond fine than.\nReligious happen visit democratic service.",
+        "bio": "Already total choice method though. Born each treat buy number yourself.\nRepresent against arrive today trip since foreign. Seek sort seat tough environmental their short wish."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
