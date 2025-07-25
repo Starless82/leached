@@ -1,0 +1,25 @@
+{
+    "name": "Sara Hobbs",
+    "age": 42,
+    "address": {
+        "street": "Aaron Causeway",
+        "city": "West Sherry",
+        "state": "Colorado",
+        "zip": "14383"
+    },
+    "contact": {
+        "phone": "417.685.3466",
+        "servicePhone": "800604318"
+    },
+    "birthday": "1983-31-01",
+    "ip": "72.169.141.125",
+    "foo": "bar",
+    "profile": {
+        "about": "No leave such into career true happen idea. Mr happy reduce ok bit old.\nCall sure always no current car. Table discussion system imagine.",
+        "bio": "Nice before yet response a analysis. Situation computer which alone drive think this free. Affect may letter wind.\nPut special office. Challenge enough role go."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
