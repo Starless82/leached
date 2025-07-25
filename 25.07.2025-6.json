@@ -1,0 +1,25 @@
+{
+    "name": "Heather Sutton",
+    "age": 3,
+    "address": {
+        "street": "Raymond Walks",
+        "city": "Willischester",
+        "state": "Missouri",
+        "zip": "96073"
+    },
+    "contact": {
+        "phone": "652.692.7530",
+        "servicePhone": "800595877"
+    },
+    "birthday": "2022-12-06",
+    "ip": "83.97.92.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Indeed structure guess perform TV point. Color enter son commercial simple hold. Police nor agreement personal no.\nSubject change seven back. Whose close dream effort.",
+        "bio": "How hair argue information south ask. Future force director return.\nCut actually too believe practice. Travel these your determine shake clearly."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
