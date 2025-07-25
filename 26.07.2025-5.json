@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Fry",
+    "age": 63,
+    "address": {
+        "street": "Simmons Common",
+        "city": "Lake Adam",
+        "state": "California",
+        "zip": "74799"
+    },
+    "contact": {
+        "phone": "001-283-985-7999x1635",
+        "servicePhone": "800004704"
+    },
+    "birthday": "1962-20-01",
+    "ip": "56.250.55.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Most audience professional available chance send. Enter of figure program.\nYour early most instead sell government. Side present mother writer away. No explain air answer.",
+        "bio": "Answer religious kid call whether. Never together reality policy attorney wall.\nRepresent level administration population. Eat economic agent any meet major Congress."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
