@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Christine Mclaughlin",
+    "age": 112,
+    "address": {
+        "street": "Johnny Place",
+        "city": "South Eric",
+        "state": "Oklahoma",
+        "zip": "94209"
+    },
+    "contact": {
+        "phone": "001-992-847-7627",
+        "servicePhone": "800928072"
+    },
+    "birthday": "1913-15-11",
+    "ip": "84.130.254.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Street marriage safe from amount something. Billion few husband cold forget let.\nRegion oil return phone interview. Into politics prove country decide six dog. Later pick land.",
+        "bio": "Sort third billion ball.\nSend magazine allow give chair test discussion. Expect yet effect quite answer seem west day.\nAdult street manager federal ready. Anything anything officer local sign."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
