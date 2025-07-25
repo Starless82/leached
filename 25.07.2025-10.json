@@ -1,0 +1,25 @@
+{
+    "name": "Miss Theresa Reed",
+    "age": 100,
+    "address": {
+        "street": "Diaz Parks",
+        "city": "Shawport",
+        "state": "Florida",
+        "zip": "59193"
+    },
+    "contact": {
+        "phone": "977.507.7702x38294",
+        "servicePhone": "800320088"
+    },
+    "birthday": "1925-14-07",
+    "ip": "69.5.105.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Reduce expect husband join itself again daughter. Know memory can each late table. Indeed bank election key. Might drive produce executive someone stock TV be.",
+        "bio": "Sometimes meet partner shoulder.\nBetween perform education beat. Full government level campaign cut then."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
