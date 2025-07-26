@@ -1,0 +1,25 @@
+{
+    "name": "Sean Green",
+    "age": 45,
+    "address": {
+        "street": "Davis Cape",
+        "city": "Christinebury",
+        "state": "Nevada",
+        "zip": "71801"
+    },
+    "contact": {
+        "phone": "(637)674-8709",
+        "servicePhone": "800178464"
+    },
+    "birthday": "1980-27-09",
+    "ip": "217.106.46.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Discussion appear blood with state particular yard. Trouble weight ready alone car now break.",
+        "bio": "South development give. Mind local put hold strategy.\nPoint its spring someone. Leader stuff after statement more plant practice really."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
