@@ -1,0 +1,25 @@
+{
+    "name": "Heidi Wong",
+    "age": 42,
+    "address": {
+        "street": "Oscar Mount",
+        "city": "Sullivanchester",
+        "state": "Massachusetts",
+        "zip": "14244"
+    },
+    "contact": {
+        "phone": "445-366-4070",
+        "servicePhone": "800851448"
+    },
+    "birthday": "1983-20-09",
+    "ip": "5.48.134.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Under win large myself Democrat believe. Long stock year inside. History poor message able woman general. Party certainly business senior tonight TV summer.",
+        "bio": "Such real get.\nOr foot material smile same current soldier. While father recently others item purpose. Across mean ready wear ability."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
