@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Amanda Calderon",
+    "age": 22,
+    "address": {
+        "street": "Darlene Mall",
+        "city": "South Zachary",
+        "state": "Arizona",
+        "zip": "27317"
+    },
+    "contact": {
+        "phone": "874-612-3318x88114",
+        "servicePhone": "800592149"
+    },
+    "birthday": "2003-04-02",
+    "ip": "36.137.216.189",
+    "foo": "bar",
+    "profile": {
+        "about": "These ahead budget remember happen everything radio. Say away meet huge conference partner.\nSupport training kind foot either. Ever senior care final oil. Nice each so radio.",
+        "bio": "Box sense go what market thousand campaign why. Family area stop leave worry tonight challenge.\nThink and building car fall wide certain. Determine carry too scene college federal."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
