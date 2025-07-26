@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Montoya",
+    "age": 63,
+    "address": {
+        "street": "Alexander Drives",
+        "city": "Aliciachester",
+        "state": "Pennsylvania",
+        "zip": "16739"
+    },
+    "contact": {
+        "phone": "662-289-6148x7305",
+        "servicePhone": "800819492"
+    },
+    "birthday": "1962-25-09",
+    "ip": "32.156.197.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Enjoy prepare detail rise. Wide site would tax view worker couple visit. Party member year can throw miss sing know.\nWeight out sister interest. Car discover eight list.",
+        "bio": "Drug follow whose artist. Coach well alone amount hit later point. Room president war analysis gas.\nShort term down choice. Common whose consumer security carry sort total. Pull theory church lose."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
