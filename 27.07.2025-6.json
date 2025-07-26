@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Cunningham",
+    "age": 107,
+    "address": {
+        "street": "Andrea Crossing",
+        "city": "Curtistown",
+        "state": "North Carolina",
+        "zip": "92551"
+    },
+    "contact": {
+        "phone": "(531)244-6951",
+        "servicePhone": "800482720"
+    },
+    "birthday": "1918-01-03",
+    "ip": "92.207.159.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Defense as offer stand side. No above you record child positive gun. Door mission indicate leader anything.\nGirl we issue continue way. Instead lawyer about often.\nMr beautiful daughter.",
+        "bio": "Case their others. Rise avoid big seek security box power join. Statement north among car."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
