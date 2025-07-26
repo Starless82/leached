@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Brown MD",
+    "age": 85,
+    "address": {
+        "street": "Ford Extensions",
+        "city": "Zacharyburgh",
+        "state": "Iowa",
+        "zip": "09615"
+    },
+    "contact": {
+        "phone": "(854)656-5147x02505",
+        "servicePhone": "800424178"
+    },
+    "birthday": "1940-04-03",
+    "ip": "191.247.4.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Forget full best wide over week home the. Television hit a suddenly.\nOk back consider scene somebody food speech. Leave whatever speech born score always far child.",
+        "bio": "Bed save federal. Evidence three need traditional century building let.\nReveal box various arrive machine. Language history control agent all lawyer."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
