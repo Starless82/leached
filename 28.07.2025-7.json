@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Flores",
+    "age": 47,
+    "address": {
+        "street": "Melody Mountains",
+        "city": "Adamview",
+        "state": "Vermont",
+        "zip": "98689"
+    },
+    "contact": {
+        "phone": "(673)679-9381x259",
+        "servicePhone": "800396695"
+    },
+    "birthday": "1978-06-06",
+    "ip": "179.188.75.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Pay benefit employee into commercial religious however themselves. Minute anything than size film. Detail however wear board.",
+        "bio": "Statement miss wait right. Speech hear between trip adult use ahead lot.\nPicture hundred spring."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
