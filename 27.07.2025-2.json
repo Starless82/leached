@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Wolf",
+    "age": 22,
+    "address": {
+        "street": "Frank Ports",
+        "city": "Clementsshire",
+        "state": "Pennsylvania",
+        "zip": "72175"
+    },
+    "contact": {
+        "phone": "473.986.0157x6282",
+        "servicePhone": "800373668"
+    },
+    "birthday": "2003-22-03",
+    "ip": "193.21.61.57",
+    "foo": "bar",
+    "profile": {
+        "about": "City court heart woman. Trouble especially modern.\nForm big wide evening guess general method. Show second ten think image.\nSpring way near eight manage. Best state under land bill star that course.",
+        "bio": "Item your economy difference. Bill style story news dark challenge.\nTen movie whom others. Name follow response already. Over simply he."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
