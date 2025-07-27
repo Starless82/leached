@@ -1,0 +1,25 @@
+{
+    "name": "David Hardin Jr.",
+    "age": 76,
+    "address": {
+        "street": "Andrea Ways",
+        "city": "Hernandezville",
+        "state": "Utah",
+        "zip": "79612"
+    },
+    "contact": {
+        "phone": "001-810-661-2044x066",
+        "servicePhone": "800949370"
+    },
+    "birthday": "1949-27-07",
+    "ip": "141.117.188.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Occur free conference south form movement. Window hand generation commercial. Your evening its hotel TV pretty authority.",
+        "bio": "Doctor likely have science development major. Decision authority admit floor movement easy minute. Scientist tend free performance military they fire."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
