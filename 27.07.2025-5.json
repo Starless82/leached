@@ -1,0 +1,25 @@
+{
+    "name": "Veronica Dawson",
+    "age": 111,
+    "address": {
+        "street": "Wood Bridge",
+        "city": "Perryview",
+        "state": "Montana",
+        "zip": "86225"
+    },
+    "contact": {
+        "phone": "+1-834-527-9468x704",
+        "servicePhone": "800304430"
+    },
+    "birthday": "1914-16-06",
+    "ip": "12.116.215.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Our growth ok nothing certainly continue. Model body president according north you.\nShoulder music choice. Save listen today draw some.",
+        "bio": "Available degree sure rich else. Oil ago water customer but increase read.\nRock edge boy report fill whose throw. Support sometimes those buy pressure sense interview. Discover full newspaper."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
