@@ -1,0 +1,25 @@
+{
+    "name": "David Marsh",
+    "age": 37,
+    "address": {
+        "street": "Oconnor Valleys",
+        "city": "Kellyton",
+        "state": "North Carolina",
+        "zip": "89537"
+    },
+    "contact": {
+        "phone": "(815)685-0894x75604",
+        "servicePhone": "800521395"
+    },
+    "birthday": "1988-11-01",
+    "ip": "211.191.250.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Couple deal clearly human company. Quite use go. Specific today because once front soon.",
+        "bio": "Try order author brother close group. Suddenly themselves across watch than though rock.\nPrice throughout response something. Seem left kind inside. Eight this entire somebody audience."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
