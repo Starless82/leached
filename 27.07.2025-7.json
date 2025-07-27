@@ -1,0 +1,25 @@
+{
+    "name": "Scott Williams",
+    "age": 51,
+    "address": {
+        "street": "Fuller Flat",
+        "city": "Cookville",
+        "state": "Illinois",
+        "zip": "57835"
+    },
+    "contact": {
+        "phone": "2906775865",
+        "servicePhone": "800922949"
+    },
+    "birthday": "1974-15-08",
+    "ip": "18.110.107.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Condition sport car senior there today. Structure strong listen serve.",
+        "bio": "Particularly interest someone lawyer your truth small. Position yet tell guess expect glass forget."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
