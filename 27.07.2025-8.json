@@ -1,0 +1,25 @@
+{
+    "name": "Christian Ramirez",
+    "age": 50,
+    "address": {
+        "street": "Brian Pine",
+        "city": "Williamsfort",
+        "state": "Idaho",
+        "zip": "39902"
+    },
+    "contact": {
+        "phone": "001-765-992-4852x037",
+        "servicePhone": "800159732"
+    },
+    "birthday": "1975-23-02",
+    "ip": "219.134.161.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Garden practice believe cultural time. Agency pass best stay indicate.",
+        "bio": "Go this question field. Example explain lose good where floor research.\nWorry nearly authority success approach theory.\nWish little total prevent cultural. Natural represent both food leave cold."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
