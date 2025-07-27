@@ -1,0 +1,25 @@
+{
+    "name": "Levi Vazquez DDS",
+    "age": 84,
+    "address": {
+        "street": "Stacy Island",
+        "city": "New Nicole",
+        "state": "Virginia",
+        "zip": "09906"
+    },
+    "contact": {
+        "phone": "+1-903-929-2789x231",
+        "servicePhone": "800282545"
+    },
+    "birthday": "1941-01-06",
+    "ip": "4.214.114.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Future garden event. Type campaign weight project top effort. Suddenly data any power trip get.\nSeek series list section travel unit imagine goal. Really network accept paper.",
+        "bio": "Fight including of. Federal sister picture threat series cell along. Deal know bank."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
