@@ -1,0 +1,25 @@
+{
+    "name": "Travis Harper",
+    "age": 28,
+    "address": {
+        "street": "Sanders Drives",
+        "city": "Lake Melissafurt",
+        "state": "New Hampshire",
+        "zip": "57405"
+    },
+    "contact": {
+        "phone": "(848)661-2617x82791",
+        "servicePhone": "800687031"
+    },
+    "birthday": "1997-07-11",
+    "ip": "26.17.112.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Billion fund box rule wrong technology may. Hospital Democrat appear ability project. President manage reduce former either according though indeed.",
+        "bio": "Grow entire culture. Responsibility save letter loss medical seek.\nHere note kind record according memory human else. Customer open clear him. Most high reason."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
