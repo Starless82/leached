@@ -1,0 +1,25 @@
+{
+    "name": "Michael Hamilton",
+    "age": 106,
+    "address": {
+        "street": "Martinez Ford",
+        "city": "Aaronview",
+        "state": "Alabama",
+        "zip": "85215"
+    },
+    "contact": {
+        "phone": "+1-730-877-7948x644",
+        "servicePhone": "800893804"
+    },
+    "birthday": "1919-21-07",
+    "ip": "104.117.20.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Republican ground instead thousand none allow country. Activity quite adult responsibility. Marriage common quality part southern.",
+        "bio": "Stuff source people happen science generation. Risk art success two. No these trip available decide city. Compare season study pick."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
