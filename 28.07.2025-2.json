@@ -1,0 +1,25 @@
+{
+    "name": "Jason Kelly",
+    "age": 84,
+    "address": {
+        "street": "Barrett Greens",
+        "city": "Welchshire",
+        "state": "Wisconsin",
+        "zip": "22393"
+    },
+    "contact": {
+        "phone": "498-779-4158x375",
+        "servicePhone": "800891657"
+    },
+    "birthday": "1941-18-07",
+    "ip": "24.107.203.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Church source learn. Religious company keep right get. Town detail grow go human. Often thousand major return data.",
+        "bio": "Voice I south physical. Purpose question plant amount enjoy. Industry them third heavy thank enter.\nGlass half real next place he. Magazine anyone raise stay. Computer recently piece summer."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
