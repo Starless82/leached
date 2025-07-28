@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Schneider",
+    "age": 49,
+    "address": {
+        "street": "Green Lodge",
+        "city": "Zamoraland",
+        "state": "California",
+        "zip": "86190"
+    },
+    "contact": {
+        "phone": "+1-431-364-9553x13452",
+        "servicePhone": "800724744"
+    },
+    "birthday": "1976-11-06",
+    "ip": "85.166.37.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Foot remember season develop minute specific. Child check service pretty although Congress house. Course page trade lay trade. Town provide imagine significant.",
+        "bio": "Career result arrive campaign. Recently design understand. Exist worker town surface question people."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
