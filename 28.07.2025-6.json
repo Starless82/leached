@@ -1,0 +1,25 @@
+{
+    "name": "Kristin Freeman",
+    "age": 21,
+    "address": {
+        "street": "Smith River",
+        "city": "Lake Taylorburgh",
+        "state": "Arkansas",
+        "zip": "90891"
+    },
+    "contact": {
+        "phone": "001-210-647-6358",
+        "servicePhone": "800954177"
+    },
+    "birthday": "2004-10-03",
+    "ip": "221.158.2.248",
+    "foo": "bar",
+    "profile": {
+        "about": "It leave base maybe. Increase church simply yeah me lead.",
+        "bio": "These physical husband can. Whole research bad product specific others. Call reason bit.\nRelationship read different at. Throw us southern try successful. Capital stop try yes reach they impact."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
