@@ -1,0 +1,25 @@
+{
+    "name": "Haley Jenkins",
+    "age": 56,
+    "address": {
+        "street": "Levine Meadows",
+        "city": "Michaeltown",
+        "state": "North Dakota",
+        "zip": "66431"
+    },
+    "contact": {
+        "phone": "359.493.9230x10988",
+        "servicePhone": "800041754"
+    },
+    "birthday": "1969-01-05",
+    "ip": "154.135.201.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Ask into majority. Out figure draw discover institution speak ahead subject.\nData large interesting. Carry majority imagine give environment bad especially.",
+        "bio": "Stuff cost car first sell which. Raise shake one site. Care hold indeed service success.\nMaintain simple campaign safe event. Animal left someone budget west. Development Mr chance society."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
