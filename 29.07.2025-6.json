@@ -1,0 +1,25 @@
+{
+    "name": "Mariah Lee",
+    "age": 46,
+    "address": {
+        "street": "Andrew Burgs",
+        "city": "Kaylatown",
+        "state": "Hawaii",
+        "zip": "34356"
+    },
+    "contact": {
+        "phone": "(334)996-4110x953",
+        "servicePhone": "800753892"
+    },
+    "birthday": "1979-28-04",
+    "ip": "177.110.28.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Short eat human I. Senior hit help detail. Less soldier cup crime.\nGood wife price. First top shoulder person popular young. Series dinner successful bad word five.",
+        "bio": "Manager cost particular start. You itself cold require. Provide imagine though support.\nNewspaper main approach range. Change recent piece level."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
