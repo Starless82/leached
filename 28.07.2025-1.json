@@ -1,0 +1,25 @@
+{
+    "name": "Caroline Kramer",
+    "age": 38,
+    "address": {
+        "street": "Johnson Expressway",
+        "city": "Mitchellton",
+        "state": "Wyoming",
+        "zip": "01128"
+    },
+    "contact": {
+        "phone": "359.824.5968x225",
+        "servicePhone": "800303781"
+    },
+    "birthday": "1987-15-08",
+    "ip": "196.231.14.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Thing picture pressure. Partner yeah office explain operation coach wait. Course member particular likely although during late.",
+        "bio": "Tax go series. Both your know low finish accept culture. Mrs important thousand order source great audience."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
