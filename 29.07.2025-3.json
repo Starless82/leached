@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Sanders",
+    "age": 104,
+    "address": {
+        "street": "Wilkins Cliffs",
+        "city": "Erinton",
+        "state": "Florida",
+        "zip": "29131"
+    },
+    "contact": {
+        "phone": "+1-206-916-0366x4625",
+        "servicePhone": "800326197"
+    },
+    "birthday": "1921-17-07",
+    "ip": "148.163.201.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Congress small free above. Loss budget capital election film career relate. Alone onto they him center study.",
+        "bio": "Throw common assume central someone appear. Daughter order exist.\nWorker ok family house. Civil little series hard now. Compare threat technology politics laugh crime."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
