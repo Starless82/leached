@@ -1,0 +1,25 @@
+{
+    "name": "Maria Lewis",
+    "age": 93,
+    "address": {
+        "street": "Waters Lights",
+        "city": "North Williamtown",
+        "state": "Florida",
+        "zip": "89483"
+    },
+    "contact": {
+        "phone": "+1-749-300-8983x913",
+        "servicePhone": "800424848"
+    },
+    "birthday": "1932-31-07",
+    "ip": "222.110.31.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Again particular name appear deep painting. Owner concern although attention much end. Though summer man.",
+        "bio": "Here learn tonight. Myself moment despite suddenly reality. Return choose yeah answer finish whom administration.\nSomething lose among word. Effect customer democratic blood ability at."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
