@@ -1,0 +1,25 @@
+{
+    "name": "Wendy Stevens",
+    "age": 102,
+    "address": {
+        "street": "Phyllis Curve",
+        "city": "Christianmouth",
+        "state": "Virginia",
+        "zip": "78460"
+    },
+    "contact": {
+        "phone": "001-418-250-8589x105",
+        "servicePhone": "800464329"
+    },
+    "birthday": "1923-07-01",
+    "ip": "153.6.215.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Personal hospital decade soldier choose same send. Claim born home.\nShould himself describe Mrs hold food want. Growth size since collection add whose.",
+        "bio": "Company follow upon analysis democratic. Certainly card edge late take author. Tend media start guy discuss large."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
