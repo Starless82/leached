@@ -1,0 +1,25 @@
+{
+    "name": "Erin Hunt",
+    "age": 37,
+    "address": {
+        "street": "Ronald Neck",
+        "city": "Lake Deborahhaven",
+        "state": "South Carolina",
+        "zip": "44166"
+    },
+    "contact": {
+        "phone": "587-346-0653x3438",
+        "servicePhone": "800540744"
+    },
+    "birthday": "1988-31-05",
+    "ip": "217.216.214.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Quality bad only professor keep. Note simply senior rule speak opportunity particular.",
+        "bio": "Simple spend out remember discuss media five. Difficult might always surface travel.\nHis subject goal north. Draw treat woman open enter over care."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
