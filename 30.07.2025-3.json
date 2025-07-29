@@ -1,0 +1,25 @@
+{
+    "name": "Stacy Adams",
+    "age": 28,
+    "address": {
+        "street": "Gonzalez Mission",
+        "city": "Shariview",
+        "state": "Pennsylvania",
+        "zip": "80047"
+    },
+    "contact": {
+        "phone": "976.734.8990x8596",
+        "servicePhone": "800983910"
+    },
+    "birthday": "1997-26-09",
+    "ip": "175.150.111.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Sea such debate attorney. Suddenly decide network here across. Audience century only next situation sense herself.",
+        "bio": "Change generation past available down tough human then. Scientist right entire city wait air. Rich candidate official environment house find cup series."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
