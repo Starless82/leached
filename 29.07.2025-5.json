@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Jacobs",
+    "age": 23,
+    "address": {
+        "street": "Jonathan Forges",
+        "city": "Kylemouth",
+        "state": "Arkansas",
+        "zip": "23592"
+    },
+    "contact": {
+        "phone": "425-472-7231",
+        "servicePhone": "800064850"
+    },
+    "birthday": "2002-27-08",
+    "ip": "149.218.146.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Offer management money move begin pull international. Community represent ball inside most body standard any. Throw early kitchen girl.",
+        "bio": "Contain possible happy many fear performance. Ahead choose tell eat again nearly."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
