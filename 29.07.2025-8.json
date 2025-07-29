@@ -1,0 +1,25 @@
+{
+    "name": "Justin Hernandez",
+    "age": 73,
+    "address": {
+        "street": "Sullivan Trace",
+        "city": "Michellemouth",
+        "state": "Pennsylvania",
+        "zip": "78171"
+    },
+    "contact": {
+        "phone": "(258)585-1670x77561",
+        "servicePhone": "800024515"
+    },
+    "birthday": "1952-04-05",
+    "ip": "128.94.162.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Message enjoy behind order watch. Himself moment contain according fund. Yes few discover subject.\nHusband option ever watch control language nor north. Race somebody measure this nor.",
+        "bio": "Six never information born one. Conference education actually parent political charge common. Current music tax candidate inside example."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
