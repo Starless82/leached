@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Miller",
+    "age": 55,
+    "address": {
+        "street": "Gonzalez Plaza",
+        "city": "Wendymouth",
+        "state": "Vermont",
+        "zip": "38636"
+    },
+    "contact": {
+        "phone": "001-569-706-9350x46128",
+        "servicePhone": "800669389"
+    },
+    "birthday": "1970-23-03",
+    "ip": "138.49.97.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Western recent employee term organization step that truth. Seek official game feel cut Mr population.\nHealth but I agency prevent. Its thought talk recognize half. Sometimes artist appear production.",
+        "bio": "Beyond discover one build thus capital.\nOver method analysis beyond take show. Affect change blue read."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
