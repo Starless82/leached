@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Hill",
+    "age": 69,
+    "address": {
+        "street": "Sweeney Wall",
+        "city": "Matthewside",
+        "state": "Oregon",
+        "zip": "26291"
+    },
+    "contact": {
+        "phone": "249-741-0727x762",
+        "servicePhone": "800319997"
+    },
+    "birthday": "1956-29-08",
+    "ip": "42.97.88.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Apply may because south among soldier. Office pressure among. Stay get interesting very myself.\nVote moment eight must ball. Claim information notice relate bag return try might.",
+        "bio": "Town why near adult history. Conference discover indeed agree debate enter rule list. Painting nation term writer guess concern account."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
