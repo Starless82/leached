@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Fisher",
+    "age": 41,
+    "address": {
+        "street": "Alvarez Mountain",
+        "city": "East Victoria",
+        "state": "Maryland",
+        "zip": "40960"
+    },
+    "contact": {
+        "phone": "563.463.4370x761",
+        "servicePhone": "800484823"
+    },
+    "birthday": "1984-16-09",
+    "ip": "70.68.36.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Eat short population item. Any person say need available concern family.\nCommon floor other often simply yet them sound. Task lose yourself old. All nation ever wrong station.",
+        "bio": "Finish arm care term little start of industry. Form boy what. Agreement success eight. American life could never structure."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
