@@ -1,0 +1,25 @@
+{
+    "name": "Joan Zavala",
+    "age": 87,
+    "address": {
+        "street": "James Corner",
+        "city": "New Adamville",
+        "state": "Arizona",
+        "zip": "66913"
+    },
+    "contact": {
+        "phone": "826.559.8104x3031",
+        "servicePhone": "800424226"
+    },
+    "birthday": "1938-03-02",
+    "ip": "158.79.192.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Sure threat group environmental. Entire people some on group protect dinner. Trade civil enjoy dog finally south.",
+        "bio": "How remember success during trial college game. Someone prevent writer stay.\nChance condition find course. End window forget task voice movie. Together top bed keep care really."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
