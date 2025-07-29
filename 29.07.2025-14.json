@@ -1,0 +1,25 @@
+{
+    "name": "Bradley Khan",
+    "age": 40,
+    "address": {
+        "street": "Martin Pine",
+        "city": "Buckleyfurt",
+        "state": "Arkansas",
+        "zip": "18634"
+    },
+    "contact": {
+        "phone": "886-578-2321x36643",
+        "servicePhone": "800466002"
+    },
+    "birthday": "1985-26-01",
+    "ip": "135.32.231.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Leader economy result fear watch. Place wait develop popular fact while yes. Own national concern new.\nThird subject state government wait. Girl ok reduce pull growth.",
+        "bio": "Prepare physical understand card local.\nChair final would garden decade actually. Say contain guess likely choose."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
