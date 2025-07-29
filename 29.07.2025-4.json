@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Drake",
+    "age": 48,
+    "address": {
+        "street": "Brad Centers",
+        "city": "Mitchellfort",
+        "state": "Mississippi",
+        "zip": "23721"
+    },
+    "contact": {
+        "phone": "(937)319-8184x4980",
+        "servicePhone": "800907505"
+    },
+    "birthday": "1977-11-10",
+    "ip": "66.42.34.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Big garden table point cell remain important. Southern worker suffer.\nWalk rest eat admit rule. Surface use fine role movement likely school. Training assume hit close heart.",
+        "bio": "Positive natural support. Course surface remember hundred. Office pay push anyone will.\nAgain race million research beat us natural. Picture south law hot much control."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
