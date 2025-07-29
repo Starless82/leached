@@ -1,0 +1,25 @@
+{
+    "name": "Cody Jensen",
+    "age": 48,
+    "address": {
+        "street": "Townsend Villages",
+        "city": "Jimenezview",
+        "state": "Minnesota",
+        "zip": "03560"
+    },
+    "contact": {
+        "phone": "+1-852-286-3009x619",
+        "servicePhone": "800347061"
+    },
+    "birthday": "1977-17-03",
+    "ip": "24.51.104.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Business serve really citizen issue. Hear picture south throughout record fly. Really forget use capital two candidate.",
+        "bio": "Moment green response democratic personal yes letter marriage. Become live human feeling would particular.\nControl store rate example you suddenly fish itself. Only agreement what until peace."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
