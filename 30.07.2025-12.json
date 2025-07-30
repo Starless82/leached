@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Rangel",
+    "age": 57,
+    "address": {
+        "street": "Amy Creek",
+        "city": "Salinaston",
+        "state": "New York",
+        "zip": "78631"
+    },
+    "contact": {
+        "phone": "+1-746-354-9555",
+        "servicePhone": "800190592"
+    },
+    "birthday": "1968-16-03",
+    "ip": "204.47.44.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Respond material offer run. Investment stage many establish main. Truth model particular happen.",
+        "bio": "Mr husband very herself particularly. Remember tree data million back ready well.\nAlone about report society positive low late. Piece its north necessary.\nOpen total as else important."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
