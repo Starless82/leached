@@ -1,0 +1,25 @@
+{
+    "name": "Sara Patterson",
+    "age": 114,
+    "address": {
+        "street": "Warren Springs",
+        "city": "South Clayton",
+        "state": "New Hampshire",
+        "zip": "67202"
+    },
+    "contact": {
+        "phone": "001-717-219-7232x57267",
+        "servicePhone": "800671112"
+    },
+    "birthday": "1911-23-11",
+    "ip": "29.29.93.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Audience relationship thousand lot argue maybe including office. Tell per action sign down agent rest. Indeed writer market kid feeling.",
+        "bio": "Bar election measure who political will. Door clearly how population modern. Town score night media recent least view."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
