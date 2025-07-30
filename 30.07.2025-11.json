@@ -1,0 +1,25 @@
+{
+    "name": "Karen Castillo",
+    "age": 51,
+    "address": {
+        "street": "Randall Light",
+        "city": "Weavermouth",
+        "state": "Wisconsin",
+        "zip": "29880"
+    },
+    "contact": {
+        "phone": "+1-984-687-3517",
+        "servicePhone": "800398879"
+    },
+    "birthday": "1974-22-01",
+    "ip": "4.162.166.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Drug else charge book already green. Majority may face must tax rest quality financial. Among manage space shake order office. Use site sense support structure.",
+        "bio": "Seem company possible occur. Read meet future win leader idea worker. International today our future them myself. Stand house she detail travel."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
