@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Clark",
+    "age": 75,
+    "address": {
+        "street": "Smith Manor",
+        "city": "West Johnfurt",
+        "state": "New Hampshire",
+        "zip": "12294"
+    },
+    "contact": {
+        "phone": "(772)462-2239x743",
+        "servicePhone": "800328336"
+    },
+    "birthday": "1950-25-05",
+    "ip": "202.141.11.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Level eight I car oil you. Practice type dream book serve base professional place. Reason fight chair ahead accept father.\nHusband building safe human. Simply record wish.",
+        "bio": "Through spend strong green well anyone network middle. Sure again later region purpose nearly blood. National car everybody indicate party of party."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
