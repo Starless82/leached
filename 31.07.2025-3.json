@@ -1,0 +1,25 @@
+{
+    "name": "Justin Travis",
+    "age": 8,
+    "address": {
+        "street": "Hayes Lodge",
+        "city": "Wisefurt",
+        "state": "Minnesota",
+        "zip": "53217"
+    },
+    "contact": {
+        "phone": "200.679.8610x562",
+        "servicePhone": "800934244"
+    },
+    "birthday": "2017-30-07",
+    "ip": "205.206.89.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Least reveal across movement everybody great military ball. Director those east positive raise avoid. Lawyer so power special rich effort group. Friend hold PM sea particular.",
+        "bio": "Anything player first late. Strategy ever beat teacher. Ground blue son guy your major. Know late can very."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
