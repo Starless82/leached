@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Burton",
+    "age": 70,
+    "address": {
+        "street": "Lopez Flats",
+        "city": "West Benjaminmouth",
+        "state": "Kansas",
+        "zip": "52693"
+    },
+    "contact": {
+        "phone": "+1-521-215-2099x490",
+        "servicePhone": "800945663"
+    },
+    "birthday": "1955-29-08",
+    "ip": "196.163.90.134",
+    "foo": "bar",
+    "profile": {
+        "about": "System thing really along shoulder. Small product simple career indicate not lose. A book natural ask. Agent least democratic man kitchen common.",
+        "bio": "Staff from next ask price serious benefit. Month more source she one.\nSign area do want operation language. Federal late market do draw feel."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
