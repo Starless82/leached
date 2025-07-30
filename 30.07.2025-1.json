@@ -1,0 +1,25 @@
+{
+    "name": "Brett Roman",
+    "age": 86,
+    "address": {
+        "street": "Young Inlet",
+        "city": "Marymouth",
+        "state": "Wyoming",
+        "zip": "42071"
+    },
+    "contact": {
+        "phone": "+1-818-277-0012",
+        "servicePhone": "800904170"
+    },
+    "birthday": "1939-02-08",
+    "ip": "155.198.177.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Three upon early assume newspaper rule. Project now owner population. Exist answer along high office idea class.\nLose dream pay course crime culture. Pattern weight matter window.",
+        "bio": "Best rest mind current pretty population treat. Morning bad agent.\nServe life service agreement be discover once. Ask be check alone might a. Resource population professor decade particular Democrat."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
