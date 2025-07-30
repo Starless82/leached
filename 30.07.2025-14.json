@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Wright",
+    "age": 88,
+    "address": {
+        "street": "Miller Isle",
+        "city": "Karenberg",
+        "state": "Hawaii",
+        "zip": "91035"
+    },
+    "contact": {
+        "phone": "+1-236-827-3359x597",
+        "servicePhone": "800089421"
+    },
+    "birthday": "1937-06-07",
+    "ip": "203.33.244.222",
+    "foo": "bar",
+    "profile": {
+        "about": "International then room. Figure skill become.\nLead form any. Beyond compare cup support yard range turn.\nTogether fill eight position call along no. Outside authority value you activity short.",
+        "bio": "Beat agency available exist. Available quality seven any. Majority early bill show increase compare. Serious three every cell data main until."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
