@@ -1,0 +1,25 @@
+{
+    "name": "Todd Nelson",
+    "age": 70,
+    "address": {
+        "street": "Griffin Mills",
+        "city": "Port Stephen",
+        "state": "Maine",
+        "zip": "12190"
+    },
+    "contact": {
+        "phone": "001-814-453-8456x107",
+        "servicePhone": "800522980"
+    },
+    "birthday": "1955-14-03",
+    "ip": "185.188.55.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Information pressure toward its ok. Conference order hotel home play allow get. Defense name best take knowledge.\nCare magazine tree its.",
+        "bio": "Vote red culture. Section amount challenge. Product pick everything question thank.\nSound gun agency week. Company late their back. Go within clearly production success happen."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
