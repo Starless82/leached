@@ -1,0 +1,25 @@
+{
+    "name": "Maria Espinoza",
+    "age": 27,
+    "address": {
+        "street": "Powers Mews",
+        "city": "Port Jeff",
+        "state": "Delaware",
+        "zip": "35424"
+    },
+    "contact": {
+        "phone": "(260)819-0706",
+        "servicePhone": "800220767"
+    },
+    "birthday": "1998-11-09",
+    "ip": "130.78.103.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Time series eye where since hand suggest represent. Line never now matter.\nVarious so next culture scene share. Treat number sister field century sit seem.",
+        "bio": "Buy modern walk break money. Prepare she ever own learn peace support. Religious order family.\nUpon there production development prepare civil. Area fish thus country field question cup."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
