@@ -1,0 +1,25 @@
+{
+    "name": "James Walker",
+    "age": 105,
+    "address": {
+        "street": "Ortega Spurs",
+        "city": "East Dylanfort",
+        "state": "Nevada",
+        "zip": "64005"
+    },
+    "contact": {
+        "phone": "(450)457-6369",
+        "servicePhone": "800367053"
+    },
+    "birthday": "1920-30-07",
+    "ip": "126.46.131.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Friend show crime agree former. Agree one me he bit discover. We significant shake exist purpose. Can play open scene memory may face.",
+        "bio": "Important person together again although.\nProgram pressure nothing. Why follow within near exist teacher memory concern. Modern together moment sense ok later. Check he another test."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
