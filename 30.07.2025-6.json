@@ -1,0 +1,25 @@
+{
+    "name": "Bobby Stewart",
+    "age": 82,
+    "address": {
+        "street": "David Circle",
+        "city": "Port Leah",
+        "state": "Michigan",
+        "zip": "77827"
+    },
+    "contact": {
+        "phone": "2348877307",
+        "servicePhone": "800232515"
+    },
+    "birthday": "1943-10-11",
+    "ip": "118.134.31.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Free brother itself nature the paper. According audience would catch grow word. Trial pull available peace.\nNorth speech claim inside what country. Serve since any leg.",
+        "bio": "Structure opportunity guy American similar. Group design mean attack exactly sort among check. Property admit nor leg hundred."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
