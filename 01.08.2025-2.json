@@ -1,0 +1,25 @@
+{
+    "name": "David York",
+    "age": 31,
+    "address": {
+        "street": "Campbell Junction",
+        "city": "Port Coreyland",
+        "state": "Vermont",
+        "zip": "10532"
+    },
+    "contact": {
+        "phone": "362-635-0144x022",
+        "servicePhone": "800263246"
+    },
+    "birthday": "1994-11-06",
+    "ip": "128.188.224.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Simple single individual type very chance city list. Six reflect education Congress happy yourself thought. Wife behind surface serve house list.",
+        "bio": "Rather or community early cost conference member question. Everybody response those space contain. Blood pretty film often management."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
