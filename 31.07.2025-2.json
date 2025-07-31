@@ -1,0 +1,25 @@
+{
+    "name": "Stacey Campbell",
+    "age": 75,
+    "address": {
+        "street": "Brad Springs",
+        "city": "Donnaport",
+        "state": "Washington",
+        "zip": "96927"
+    },
+    "contact": {
+        "phone": "+1-312-217-6731x36934",
+        "servicePhone": "800621965"
+    },
+    "birthday": "1950-19-07",
+    "ip": "106.178.54.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Test site share. Wonder during one deep action. Question us exactly. Follow poor ball she.",
+        "bio": "South capital Mr loss plant large six. Glass same sound call Republican collection. Exist small government party agreement."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
