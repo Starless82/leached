@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Fleming",
+    "age": 63,
+    "address": {
+        "street": "Ariana Villages",
+        "city": "Brownstad",
+        "state": "Iowa",
+        "zip": "00567"
+    },
+    "contact": {
+        "phone": "805.546.3634x5525",
+        "servicePhone": "800192793"
+    },
+    "birthday": "1962-17-02",
+    "ip": "48.232.176.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Ago article create. According into final change determine position five. War not among power political second.\nShare third lawyer visit gun two sit capital.\nTelevision up member.",
+        "bio": "Performance available arm majority exist person population. Eye single gun order risk.\nTrial program single. Sister music let.\nIncrease issue lawyer eat organization national."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
