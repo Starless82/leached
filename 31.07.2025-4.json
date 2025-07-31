@@ -1,0 +1,25 @@
+{
+    "name": "Robert Bright",
+    "age": 77,
+    "address": {
+        "street": "Marvin Heights",
+        "city": "New Derrickview",
+        "state": "Idaho",
+        "zip": "99354"
+    },
+    "contact": {
+        "phone": "4655153400",
+        "servicePhone": "800088787"
+    },
+    "birthday": "1948-15-08",
+    "ip": "116.14.136.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Until now growth crime machine because her. Your minute high size hit defense.\nChurch simple notice card medical focus. Hot certainly sport can. Figure language girl line.",
+        "bio": "Often listen appear outside meet Mr tree. Specific left lay social present themselves. Individual affect best."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
