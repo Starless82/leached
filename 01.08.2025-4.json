@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Ford",
+    "age": 85,
+    "address": {
+        "street": "Chad Ridge",
+        "city": "Wrightborough",
+        "state": "Tennessee",
+        "zip": "44610"
+    },
+    "contact": {
+        "phone": "9257276662",
+        "servicePhone": "800164665"
+    },
+    "birthday": "1940-06-12",
+    "ip": "162.139.51.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Candidate performance ready model notice that get. Democrat use especially chair budget product. Piece practice seat hospital summer college just sort.",
+        "bio": "Realize she vote be actually deep yet. Significant word mean cut. Race staff seven yourself with end work."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
