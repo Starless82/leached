@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Rogers",
+    "age": 48,
+    "address": {
+        "street": "Christopher Villages",
+        "city": "Martinbury",
+        "state": "Utah",
+        "zip": "05480"
+    },
+    "contact": {
+        "phone": "(316)267-6125",
+        "servicePhone": "800367217"
+    },
+    "birthday": "1977-09-09",
+    "ip": "159.3.176.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Area ten list small.\nPersonal sport office spring low medical attack. Authority role us mention young ahead.",
+        "bio": "Actually product wait past. Final article our black must southern whatever. Law third color enough official southern. Growth believe audience you."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
