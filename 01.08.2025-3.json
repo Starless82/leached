@@ -1,0 +1,25 @@
+{
+    "name": "Kristin Hernandez",
+    "age": 28,
+    "address": {
+        "street": "Terrell Shoal",
+        "city": "South Amy",
+        "state": "Florida",
+        "zip": "29122"
+    },
+    "contact": {
+        "phone": "(910)796-6302",
+        "servicePhone": "800726785"
+    },
+    "birthday": "1997-12-10",
+    "ip": "129.148.67.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Sister act floor see. Trade later thousand show activity writer fast total. Environment marriage hotel the improve.",
+        "bio": "Security bring serve this. Wrong myself left four. Though year guess.\nCurrent the issue thank month price traditional. Leader little capital hotel test fire."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
