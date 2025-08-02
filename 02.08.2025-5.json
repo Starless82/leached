@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Glass",
+    "age": 3,
+    "address": {
+        "street": "William Pass",
+        "city": "Lake Ann",
+        "state": "New York",
+        "zip": "04978"
+    },
+    "contact": {
+        "phone": "688-606-3530",
+        "servicePhone": "800268324"
+    },
+    "birthday": "2022-09-08",
+    "ip": "81.35.54.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Could town wrong third easy six Democrat month. Himself direction official color public every white. Another million place last sometimes stand friend none. Second well alone involve various give.",
+        "bio": "Task religious per over exist fear represent good. Week past property share begin. Ok no make head call across. Scene audience instead appear nothing."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
