@@ -1,0 +1,25 @@
+{
+    "name": "Austin Gonzalez",
+    "age": 95,
+    "address": {
+        "street": "Kevin Rapids",
+        "city": "Lake Ryan",
+        "state": "North Dakota",
+        "zip": "17197"
+    },
+    "contact": {
+        "phone": "425.992.6045x448",
+        "servicePhone": "800785127"
+    },
+    "birthday": "1930-21-06",
+    "ip": "60.30.28.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Experience food industry arm crime. Cultural less person break commercial. Radio continue serve.\nGrow magazine piece. Hard idea dream beat.",
+        "bio": "Clearly little special leg me. Itself property write born enough day girl single. Such clear number however friend model red."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
