@@ -1,0 +1,25 @@
+{
+    "name": "Patty Wright",
+    "age": 30,
+    "address": {
+        "street": "Manning Mission",
+        "city": "Aaronfort",
+        "state": "Delaware",
+        "zip": "28220"
+    },
+    "contact": {
+        "phone": "5207860111",
+        "servicePhone": "800940523"
+    },
+    "birthday": "1995-23-09",
+    "ip": "106.167.233.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Film trial college technology. Maintain southern total. Concern gun use summer.\nWorld court executive adult. Body or fall dinner. Rule me child.",
+        "bio": "Build environment reflect whole mean his. Capital customer who yeah throughout weight although.\nPrice subject involve allow serve green. Ability behavior action."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
