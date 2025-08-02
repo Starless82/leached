@@ -1,0 +1,25 @@
+{
+    "name": "Traci Moore",
+    "age": 76,
+    "address": {
+        "street": "Hernandez Walk",
+        "city": "South Haley",
+        "state": "Indiana",
+        "zip": "78470"
+    },
+    "contact": {
+        "phone": "(297)825-6942x8875",
+        "servicePhone": "800973955"
+    },
+    "birthday": "1949-28-10",
+    "ip": "59.13.8.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Any lose authority parent experience. Exist parent huge nature suggest simple magazine. Officer shoulder much land why training represent.",
+        "bio": "Order on can foot this. Cultural itself increase daughter return.\nHow worry side very. Cultural network month decide medical full. Yeah drive nice tax very job.\nManagement method and serious paper."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
