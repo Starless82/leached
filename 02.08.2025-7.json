@@ -1,0 +1,25 @@
+{
+    "name": "William Jackson",
+    "age": 112,
+    "address": {
+        "street": "Lopez Loop",
+        "city": "Port Laurentown",
+        "state": "California",
+        "zip": "18818"
+    },
+    "contact": {
+        "phone": "590-955-9886",
+        "servicePhone": "800567131"
+    },
+    "birthday": "1913-26-12",
+    "ip": "136.21.112.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Top now tonight piece let wrong especially. Compare message house pick statement next since.\nPopulation partner discuss instead contain court. It because put everyone.",
+        "bio": "Such herself on may. Value weight study generation foot. With card prepare activity.\nCreate eye number could. Reflect real area fall history add democratic team."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
