@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Vargas",
+    "age": 51,
+    "address": {
+        "street": "Melissa Cliff",
+        "city": "New Andrewberg",
+        "state": "New Mexico",
+        "zip": "09781"
+    },
+    "contact": {
+        "phone": "707.575.6397x3032",
+        "servicePhone": "800381152"
+    },
+    "birthday": "1974-28-01",
+    "ip": "5.235.117.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Heavy loss live wide throughout already. Eat well open save could call trade reason. Tonight local job baby.",
+        "bio": "Daughter line seek speech guess wife dark. Hand site environment sister support head room.\nWord tonight notice."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
