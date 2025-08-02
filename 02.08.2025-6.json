@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Martinez",
+    "age": 84,
+    "address": {
+        "street": "Ross Garden",
+        "city": "Emilyland",
+        "state": "Wyoming",
+        "zip": "40560"
+    },
+    "contact": {
+        "phone": "718-691-8741x59741",
+        "servicePhone": "800142537"
+    },
+    "birthday": "1941-03-12",
+    "ip": "135.114.175.99",
+    "foo": "bar",
+    "profile": {
+        "about": "When loss great democratic. Third expert goal travel. Professional friend skill.\nStar section together course. Animal series yet. Job data quite southern instead.",
+        "bio": "Daughter happen total continue itself evening. Argue far both political."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
