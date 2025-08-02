@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Hill",
+    "age": 73,
+    "address": {
+        "street": "Todd Radial",
+        "city": "East Kimberlystad",
+        "state": "Missouri",
+        "zip": "71279"
+    },
+    "contact": {
+        "phone": "849.566.7793x060",
+        "servicePhone": "800385799"
+    },
+    "birthday": "1952-26-06",
+    "ip": "73.212.236.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Name data activity film seat last southern note. Wind machine computer remember glass.\nWoman various bit. Sister often cultural hit debate. Cultural security opportunity million.",
+        "bio": "Under range PM data. Relate marriage discussion argue we. Along garden sea."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
