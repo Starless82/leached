@@ -1,0 +1,25 @@
+{
+    "name": "Denise Austin",
+    "age": 6,
+    "address": {
+        "street": "Tamara Drives",
+        "city": "East Diana",
+        "state": "North Carolina",
+        "zip": "10972"
+    },
+    "contact": {
+        "phone": "313-385-6395x797",
+        "servicePhone": "800142692"
+    },
+    "birthday": "2019-02-03",
+    "ip": "31.206.228.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Large education ask step. Always forward know stage simply. Project quality study guy power per agency government.",
+        "bio": "Until him stay back paper bed myself year. Nothing seven hospital find food. Mission nature capital development television."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
