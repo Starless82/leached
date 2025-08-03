@@ -1,0 +1,25 @@
+{
+    "name": "Nathaniel Flores",
+    "age": 59,
+    "address": {
+        "street": "Joyce Tunnel",
+        "city": "Lake Laurenville",
+        "state": "Iowa",
+        "zip": "59318"
+    },
+    "contact": {
+        "phone": "+1-788-961-3839x8676",
+        "servicePhone": "800168897"
+    },
+    "birthday": "1966-27-06",
+    "ip": "145.224.32.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation of space evening usually. Sport seek eye garden share under voice dog.\nResult media pretty type process. Eye Mrs save me be candidate interview.",
+        "bio": "One at close program. Half lose water natural different. Product through notice matter recognize expect sign.\nAudience hold all particular. Big discuss somebody between owner buy team."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
