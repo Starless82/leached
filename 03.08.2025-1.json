@@ -1,0 +1,25 @@
+{
+    "name": "Emily Simon",
+    "age": 94,
+    "address": {
+        "street": "Watkins Haven",
+        "city": "Katieville",
+        "state": "Florida",
+        "zip": "35317"
+    },
+    "contact": {
+        "phone": "338-325-2563x62994",
+        "servicePhone": "800087117"
+    },
+    "birthday": "1931-08-02",
+    "ip": "134.158.184.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Near commercial economic training might shoulder. Quickly build article really education everything another pay. For necessary answer remain manager miss experience. Nature miss toward later price.",
+        "bio": "Management example appear phone order single instead go. Possible receive statement no current machine. Down dog decide coach."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
