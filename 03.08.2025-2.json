@@ -1,0 +1,25 @@
+{
+    "name": "Angela Morgan",
+    "age": 113,
+    "address": {
+        "street": "West Extensions",
+        "city": "Jackburgh",
+        "state": "Alaska",
+        "zip": "83874"
+    },
+    "contact": {
+        "phone": "+1-757-829-8305x525",
+        "servicePhone": "800358076"
+    },
+    "birthday": "1912-08-04",
+    "ip": "122.25.79.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Campaign condition treatment million plant note. Specific who garden everybody. Blue that magazine during down buy now raise.\nDaughter agree hear. Represent country enjoy discussion.\nValue once well.",
+        "bio": "Relationship term difficult result soon race film.\nAddress nor themselves. Single receive something nation image energy."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
