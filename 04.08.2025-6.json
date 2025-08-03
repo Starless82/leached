@@ -1,0 +1,25 @@
+{
+    "name": "Richard Bonilla",
+    "age": 44,
+    "address": {
+        "street": "Jessica Ranch",
+        "city": "New Eric",
+        "state": "Pennsylvania",
+        "zip": "33604"
+    },
+    "contact": {
+        "phone": "(268)599-4111",
+        "servicePhone": "800113440"
+    },
+    "birthday": "1981-24-08",
+    "ip": "55.225.70.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Including admit training politics environment cause. Direction west fear example part.\nProbably may daughter organization from. Sing protect everything risk.",
+        "bio": "Girl situation claim pick.\nStyle type Mrs second assume I TV. From five explain because ever.\nCenter no kid culture eight recent. General impact lot figure thousand early."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
