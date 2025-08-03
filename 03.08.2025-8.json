@@ -1,0 +1,25 @@
+{
+    "name": "Terry Duncan",
+    "age": 13,
+    "address": {
+        "street": "Erika Islands",
+        "city": "North Isabelchester",
+        "state": "Maryland",
+        "zip": "39075"
+    },
+    "contact": {
+        "phone": "360.662.2457x75588",
+        "servicePhone": "800831632"
+    },
+    "birthday": "2012-20-05",
+    "ip": "183.115.152.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Next speech bag sell well probably. Remain subject economic north eight draw. Rate agreement point a capital run.",
+        "bio": "Role owner Republican catch fast. Officer production answer product want play expect. Ever dog town military might as food class.\nEffect staff election decision."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
