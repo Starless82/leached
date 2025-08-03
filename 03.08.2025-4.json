@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Lee",
+    "age": 114,
+    "address": {
+        "street": "David Forest",
+        "city": "West Patrick",
+        "state": "Maryland",
+        "zip": "82621"
+    },
+    "contact": {
+        "phone": "727.990.1176",
+        "servicePhone": "800221720"
+    },
+    "birthday": "1911-02-12",
+    "ip": "63.244.157.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Challenge us together clearly beyond.\nFour suggest community unit person total remain. Subject against add try. Play thought call.\nRead here from rock contain close stop sure.",
+        "bio": "Artist protect eye face. Skin take market use peace.\nElse place front voice nice.\nLife human message including card. News level home between."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
