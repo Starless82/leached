@@ -1,0 +1,25 @@
+{
+    "name": "Jason King",
+    "age": 56,
+    "address": {
+        "street": "Jacobs Fords",
+        "city": "East Kelli",
+        "state": "Minnesota",
+        "zip": "80284"
+    },
+    "contact": {
+        "phone": "001-235-758-3255x454",
+        "servicePhone": "800230688"
+    },
+    "birthday": "1969-19-11",
+    "ip": "213.17.45.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Modern measure send security if region. Push sort floor help mission service. Study perhaps side anyone administration happen.",
+        "bio": "Eat arrive keep so use up onto. Want stop thousand hair but building.\nOther can arrive brother. Could easy machine point professional. International little indeed finally bring."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
