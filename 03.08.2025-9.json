@@ -1,0 +1,25 @@
+{
+    "name": "Michael Anderson",
+    "age": 64,
+    "address": {
+        "street": "Brian Pines",
+        "city": "South Robinchester",
+        "state": "Arizona",
+        "zip": "79255"
+    },
+    "contact": {
+        "phone": "+1-463-226-6839x56876",
+        "servicePhone": "800332583"
+    },
+    "birthday": "1961-28-10",
+    "ip": "184.212.41.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Owner military perform although cause. North eye measure stage fire special break million. Including try too.\nNow find minute bad popular. Executive above especially offer well practice clear police.",
+        "bio": "Near yes lot win among father. Behind structure care sense food short continue.\nNational half range speak political share across establish. Effect like admit example."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
