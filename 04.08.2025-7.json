@@ -1,0 +1,25 @@
+{
+    "name": "Laura Higgins",
+    "age": 109,
+    "address": {
+        "street": "Angela Mountain",
+        "city": "South Beverlyfurt",
+        "state": "Vermont",
+        "zip": "48688"
+    },
+    "contact": {
+        "phone": "365-650-2121x537",
+        "servicePhone": "800706752"
+    },
+    "birthday": "1916-18-01",
+    "ip": "165.181.235.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Defense reflect increase activity low.\nMeet sea with likely small. Career teach defense why.\nLose trade half become. Board purpose kitchen yard wide bill.",
+        "bio": "Religious difference up which present how out. Great think sign. Practice question employee adult response least result."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
