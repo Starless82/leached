@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Gonzalez",
+    "age": 14,
+    "address": {
+        "street": "Lee Well",
+        "city": "Castillofurt",
+        "state": "New Jersey",
+        "zip": "79211"
+    },
+    "contact": {
+        "phone": "(255)375-5041",
+        "servicePhone": "800156228"
+    },
+    "birthday": "2011-19-11",
+    "ip": "93.197.176.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Join myself expect up his public. Whole develop garden hard.\nSubject medical church how. Standard college single good according happy. Strategy hold many bit.",
+        "bio": "Establish either fly clearly then. Big we commercial. Civil indeed available price population hit.\nSpecial trade within."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
