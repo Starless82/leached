@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Evans",
+    "age": 21,
+    "address": {
+        "street": "Brown Walks",
+        "city": "Port Maria",
+        "state": "New York",
+        "zip": "66675"
+    },
+    "contact": {
+        "phone": "(710)928-2283",
+        "servicePhone": "800811105"
+    },
+    "birthday": "2004-27-10",
+    "ip": "10.10.203.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Series exactly give structure hope. Strategy there chair impact. Huge notice prove local significant throw.\nGroup how kind. Forget across available stay relate local.",
+        "bio": "Full section poor give prevent. Full often bring candidate language small. Seat once believe design."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
