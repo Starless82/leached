@@ -1,0 +1,25 @@
+{
+    "name": "Alyssa Gilmore",
+    "age": 26,
+    "address": {
+        "street": "Allison Stravenue",
+        "city": "Hunterville",
+        "state": "Alabama",
+        "zip": "55097"
+    },
+    "contact": {
+        "phone": "471-430-6239x852",
+        "servicePhone": "800729185"
+    },
+    "birthday": "1999-25-08",
+    "ip": "88.217.230.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Success allow happen player TV. Thousand politics market ten surface conference blue.\nMemory question his here fact rest. Three region my job media item lead loss. Pattern message tell garden.",
+        "bio": "Learn scientist idea another community name. One six ask. Hear point poor positive."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
