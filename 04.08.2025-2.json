@@ -1,0 +1,25 @@
+{
+    "name": "Jill Newman",
+    "age": 103,
+    "address": {
+        "street": "James Well",
+        "city": "Jesseville",
+        "state": "Indiana",
+        "zip": "81405"
+    },
+    "contact": {
+        "phone": "790.486.8192",
+        "servicePhone": "800773153"
+    },
+    "birthday": "1922-14-05",
+    "ip": "150.141.156.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Woman size television by act. Make too past son.\nCurrent drug difference agree man minute.\nOn art table game arm table in. Serve parent remember brother production candidate seem.",
+        "bio": "Wind fast easy. Agency party election for name choose risk.\nGood likely pull far. Analysis ahead investment these world rule tough."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
