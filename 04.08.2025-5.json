@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Rowland",
+    "age": 10,
+    "address": {
+        "street": "Juan Pine",
+        "city": "Lake Dustin",
+        "state": "West Virginia",
+        "zip": "44887"
+    },
+    "contact": {
+        "phone": "001-499-830-1273x6736",
+        "servicePhone": "800208379"
+    },
+    "birthday": "2015-11-08",
+    "ip": "190.76.241.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Officer effect alone buy play its. Must those bed with.\nThing heavy total your term wife. Common difference new group mind marriage. Exist stuff summer interview wish science.",
+        "bio": "Far might image west believe position professional. Billion house nice success chair eat.\nEdge base worry institution provide easy."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
