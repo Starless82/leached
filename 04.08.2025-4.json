@@ -1,0 +1,25 @@
+{
+    "name": "Debra Cain",
+    "age": 54,
+    "address": {
+        "street": "Danny Meadows",
+        "city": "Davisview",
+        "state": "Vermont",
+        "zip": "05341"
+    },
+    "contact": {
+        "phone": "661-314-1326",
+        "servicePhone": "800696558"
+    },
+    "birthday": "1971-22-01",
+    "ip": "158.201.255.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Give Congress care hold that senior. Science response could address. Everyone indicate fall clearly a meeting military.",
+        "bio": "Story reason hard everybody forward magazine degree.\nBreak reduce collection debate. Light he central prevent.\nChoose hundred hand car. Which meeting least religious. Manage see none learn."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
