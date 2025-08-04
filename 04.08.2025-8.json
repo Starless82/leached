@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Davis",
+    "age": 18,
+    "address": {
+        "street": "Boyd Corners",
+        "city": "Robertmouth",
+        "state": "California",
+        "zip": "79251"
+    },
+    "contact": {
+        "phone": "(615)954-1389x73937",
+        "servicePhone": "800871198"
+    },
+    "birthday": "2007-22-11",
+    "ip": "135.124.197.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Do position who street.\nCondition college play church the something person. Consider yeah box work enter.",
+        "bio": "Eight possible consider put scene reason ago. While every base stage attack hotel. Walk draw team maintain.\nEvery story myself many guy interview. Reason rest from determine paper join."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
