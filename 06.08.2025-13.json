@@ -1,0 +1,25 @@
+{
+    "name": "Kayla Guzman",
+    "age": 81,
+    "address": {
+        "street": "David Centers",
+        "city": "Martinezfurt",
+        "state": "Delaware",
+        "zip": "39376"
+    },
+    "contact": {
+        "phone": "001-569-472-1799",
+        "servicePhone": "800901884"
+    },
+    "birthday": "1944-01-05",
+    "ip": "102.85.150.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Perhaps represent human model staff film. Forget recently later become build. Gas collection nor quickly serve see.",
+        "bio": "Smile simple somebody so evidence man me effect. Class forget or. Without above talk.\nAdult institution kind together another two brother into. No market shake successful product fact its."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
