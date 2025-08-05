@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Thomas",
+    "age": 51,
+    "address": {
+        "street": "Lori Union",
+        "city": "West Omar",
+        "state": "Arkansas",
+        "zip": "23076"
+    },
+    "contact": {
+        "phone": "643-347-5186",
+        "servicePhone": "800366713"
+    },
+    "birthday": "1974-31-10",
+    "ip": "191.36.49.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Cause however focus executive little. Parent society available instead. Lay young ten easy spend natural.\nUpon we difficult knowledge our. Threat also station west.",
+        "bio": "Production choice choice like likely. Decision though kid. Represent spend response charge."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
