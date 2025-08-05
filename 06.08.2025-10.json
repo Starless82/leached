@@ -1,0 +1,25 @@
+{
+    "name": "Paul Ramirez",
+    "age": 14,
+    "address": {
+        "street": "Scott Loaf",
+        "city": "Laneland",
+        "state": "Nevada",
+        "zip": "61793"
+    },
+    "contact": {
+        "phone": "3948159610",
+        "servicePhone": "800268019"
+    },
+    "birthday": "2011-31-05",
+    "ip": "136.182.94.143",
+    "foo": "bar",
+    "profile": {
+        "about": "American those we me represent player foot. Job role wall because pick interview nice.\nBy operation should other. Summer include consumer. International baby now American affect outside rate.",
+        "bio": "Leave art it despite street police treatment. And point begin walk let.\nFuture although others always response. Red community ahead."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
