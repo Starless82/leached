@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Gallagher",
+    "age": 38,
+    "address": {
+        "street": "Jennifer Cove",
+        "city": "Rosstown",
+        "state": "Texas",
+        "zip": "89780"
+    },
+    "contact": {
+        "phone": "001-806-321-2492x4909",
+        "servicePhone": "800744529"
+    },
+    "birthday": "1987-23-09",
+    "ip": "175.23.253.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Foreign work without. Yard better everybody seven recognize fish view capital. Eat enter life federal hospital heart then coach.\nLanguage where address these also live probably. Stock player nor.",
+        "bio": "Station under name country show seven they. Fine once medical artist brother.\nCondition avoid many certain wear nor traditional."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
