@@ -1,0 +1,25 @@
+{
+    "name": "Caroline Rojas",
+    "age": 103,
+    "address": {
+        "street": "Hernandez Road",
+        "city": "Susanfurt",
+        "state": "Florida",
+        "zip": "63022"
+    },
+    "contact": {
+        "phone": "(915)730-5434x294",
+        "servicePhone": "800096363"
+    },
+    "birthday": "1922-14-10",
+    "ip": "112.143.193.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Citizen data consumer house accept list he. Well maybe guy charge talk will maybe.\nRest try treatment sing so. Describe heart what tell yeah task. Along again either six.",
+        "bio": "Decade kind similar activity. Safe central its test late professional.\nCitizen follow bit possible station bad site.\nStyle various strong least week. Coach nation four certain sport require."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
