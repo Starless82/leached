@@ -1,0 +1,25 @@
+{
+    "name": "John Thomas",
+    "age": 31,
+    "address": {
+        "street": "Hayden Flats",
+        "city": "Penachester",
+        "state": "West Virginia",
+        "zip": "58401"
+    },
+    "contact": {
+        "phone": "(285)957-0467x12026",
+        "servicePhone": "800091576"
+    },
+    "birthday": "1994-29-11",
+    "ip": "27.49.137.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Least cost statement you can water station kind. Physical key deep force visit someone. Tend already next positive material very bit.",
+        "bio": "People suffer pull relationship let base surface kid. Herself responsibility street address shoulder happen activity must."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
