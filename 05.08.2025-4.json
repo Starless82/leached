@@ -1,0 +1,25 @@
+{
+    "name": "Julia Burns",
+    "age": 104,
+    "address": {
+        "street": "Jeffrey Mill",
+        "city": "Port Juanfort",
+        "state": "Rhode Island",
+        "zip": "36039"
+    },
+    "contact": {
+        "phone": "+1-464-597-5603",
+        "servicePhone": "800070123"
+    },
+    "birthday": "1921-25-01",
+    "ip": "112.11.149.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Trip social pretty manage three. During red pick civil conference friend involve. Media indicate foreign power mouth fill speech. Whose full address.",
+        "bio": "Serve team management spend. Strategy under effort deal.\nAir million news step price.\nResponse hard political glass ball ever agreement. Reveal commercial arrive study dinner threat."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
