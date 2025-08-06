@@ -1,0 +1,25 @@
+{
+    "name": "Christine Richards",
+    "age": 12,
+    "address": {
+        "street": "Williams Roads",
+        "city": "Hendersonmouth",
+        "state": "Kentucky",
+        "zip": "40582"
+    },
+    "contact": {
+        "phone": "5713674180",
+        "servicePhone": "800135004"
+    },
+    "birthday": "2013-24-05",
+    "ip": "14.242.165.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Ready artist and himself account song top. Sound bank chair peace service treat wonder. Current away know bill. Anyone majority remember itself impact part.",
+        "bio": "Share despite ok third throughout begin movie too. Consumer center occur style baby subject middle. Including event article science security."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
