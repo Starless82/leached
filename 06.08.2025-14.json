@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Berry",
+    "age": 64,
+    "address": {
+        "street": "Maria Street",
+        "city": "Mejiafurt",
+        "state": "Connecticut",
+        "zip": "45405"
+    },
+    "contact": {
+        "phone": "+1-342-210-6403x334",
+        "servicePhone": "800842314"
+    },
+    "birthday": "1961-30-03",
+    "ip": "59.146.189.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Than hundred stay take his. Else black close coach. Fight eye oil song candidate open present.",
+        "bio": "Forget hard call spend TV tree involve identify. War any TV apply education everything dark expert. Language lose too set."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
