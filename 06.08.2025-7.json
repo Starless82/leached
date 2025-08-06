@@ -1,0 +1,25 @@
+{
+    "name": "Michael Armstrong",
+    "age": 41,
+    "address": {
+        "street": "Wallace Shoal",
+        "city": "Scottborough",
+        "state": "Vermont",
+        "zip": "53242"
+    },
+    "contact": {
+        "phone": "9729351472",
+        "servicePhone": "800211800"
+    },
+    "birthday": "1984-06-06",
+    "ip": "146.39.137.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Employee herself how if real side writer. Possible identify recognize discover hotel. Pay occur of process door pull student.\nHotel nor husband let action federal. Almost after expect.",
+        "bio": "Large force trade between my training. Vote administration discussion. Role attack question allow."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
