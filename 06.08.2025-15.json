@@ -1,0 +1,25 @@
+{
+    "name": "Brooke Roberts",
+    "age": 52,
+    "address": {
+        "street": "Carroll Shoals",
+        "city": "Brianshire",
+        "state": "Mississippi",
+        "zip": "46416"
+    },
+    "contact": {
+        "phone": "001-454-317-5133",
+        "servicePhone": "800447562"
+    },
+    "birthday": "1973-06-11",
+    "ip": "196.230.40.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Free quickly as beautiful. However imagine despite professional clear.",
+        "bio": "Modern goal sell about tree current church. Wall like kitchen seven maintain senior.\nHead level effort beautiful over least although. Return official open former economy mission. Production loss him."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
