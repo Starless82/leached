@@ -1,0 +1,25 @@
+{
+    "name": "Amber Jackson",
+    "age": 59,
+    "address": {
+        "street": "Kimberly Grove",
+        "city": "Burtonbury",
+        "state": "Hawaii",
+        "zip": "99851"
+    },
+    "contact": {
+        "phone": "+1-782-442-5629",
+        "servicePhone": "800594917"
+    },
+    "birthday": "1966-20-12",
+    "ip": "182.163.132.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Particularly goal free I. Wrong budget help.\nProject vote avoid strategy similar. Late one its finally general believe.",
+        "bio": "Hard east blue group board almost hair. Guess space view kind indicate. Difference amount increase control under call paper.\nLeft type research box. Five radio quality."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
