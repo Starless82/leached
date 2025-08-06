@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Cole",
+    "age": 57,
+    "address": {
+        "street": "David Ford",
+        "city": "New Laura",
+        "state": "California",
+        "zip": "83723"
+    },
+    "contact": {
+        "phone": "774.253.8360",
+        "servicePhone": "800256578"
+    },
+    "birthday": "1968-29-06",
+    "ip": "145.106.112.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Question bank particularly rise lay. Subject move hair happy allow suddenly.\nNetwork war same trouble across least. Cause sing marriage Congress.\nAttention two book husband. Fact address concern.",
+        "bio": "Phone run son impact report. Building where most dog across up visit. Brother write age such."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
