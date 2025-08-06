@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Williams",
+    "age": 24,
+    "address": {
+        "street": "Wagner Branch",
+        "city": "East Robertton",
+        "state": "Ohio",
+        "zip": "61124"
+    },
+    "contact": {
+        "phone": "+1-448-241-0543",
+        "servicePhone": "800573278"
+    },
+    "birthday": "2001-17-06",
+    "ip": "28.78.104.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Must suddenly boy long for. Whole step heavy important draw Republican effect late. Follow turn member around receive center population spring. Break international capital unit wrong agent million.",
+        "bio": "Somebody decide here mean five. Meeting animal decide determine hear. Suffer soon although buy reveal personal see."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
