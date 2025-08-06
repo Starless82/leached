@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Wilson",
+    "age": 89,
+    "address": {
+        "street": "Reyes Isle",
+        "city": "Dawsonfort",
+        "state": "Illinois",
+        "zip": "34691"
+    },
+    "contact": {
+        "phone": "2287697616",
+        "servicePhone": "800086726"
+    },
+    "birthday": "1936-09-10",
+    "ip": "132.207.98.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Thank various college buy impact per well. Civil along accept nothing visit.\nPerformance look wait sing those yourself a. Bed technology suffer yeah where worry per.",
+        "bio": "Compare hand eye around.\nHowever rest actually determine. Art itself become guess base identify church. Three run why forward behind."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
