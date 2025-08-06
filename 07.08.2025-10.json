@@ -1,0 +1,25 @@
+{
+    "name": "Omar Nelson",
+    "age": 112,
+    "address": {
+        "street": "Margaret Ramp",
+        "city": "Joshuabury",
+        "state": "Iowa",
+        "zip": "85559"
+    },
+    "contact": {
+        "phone": "(411)884-3736",
+        "servicePhone": "800577058"
+    },
+    "birthday": "1913-18-07",
+    "ip": "145.249.233.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Money offer quickly happy. Safe size along reality. Hotel gas clear imagine from.\nVisit painting middle return time might. Analysis loss major prepare growth budget.",
+        "bio": "End bill my second market. Challenge buy accept court design. There paper radio little no."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
