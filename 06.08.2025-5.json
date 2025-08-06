@@ -1,0 +1,25 @@
+{
+    "name": "Deborah Sharp",
+    "age": 83,
+    "address": {
+        "street": "Gonzalez Harbors",
+        "city": "Lake Sara",
+        "state": "California",
+        "zip": "36767"
+    },
+    "contact": {
+        "phone": "923.908.3507x41622",
+        "servicePhone": "800815608"
+    },
+    "birthday": "1942-15-11",
+    "ip": "141.18.144.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Building leg easy than including fall draw. Gun trouble best paper. Society money road man resource one listen significant.",
+        "bio": "Toward war drive west again. Network future standard dog author those. Prove tell market north page.\nConsider question north onto recent concern. Authority purpose card pick."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
