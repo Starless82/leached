@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Hawkins",
+    "age": 14,
+    "address": {
+        "street": "Stacey Field",
+        "city": "North Jacob",
+        "state": "Montana",
+        "zip": "01907"
+    },
+    "contact": {
+        "phone": "484-628-8594x5891",
+        "servicePhone": "800918471"
+    },
+    "birthday": "2011-14-07",
+    "ip": "29.164.227.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Network throw forward program whether usually. Cell our about population. Perhaps meet poor choice enjoy.",
+        "bio": "Hope reflect lay travel such include along. Mother coach whether available number consumer debate.\nItself news guy we give focus nation. Scientist million interest how pretty need."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
