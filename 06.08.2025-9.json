@@ -1,0 +1,25 @@
+{
+    "name": "Alyssa Preston",
+    "age": 45,
+    "address": {
+        "street": "Jessica Point",
+        "city": "West Aaronhaven",
+        "state": "Washington",
+        "zip": "45276"
+    },
+    "contact": {
+        "phone": "+1-662-566-5012",
+        "servicePhone": "800850028"
+    },
+    "birthday": "1980-15-11",
+    "ip": "114.71.20.250",
+    "foo": "bar",
+    "profile": {
+        "about": "House myself money fact moment. Evening carry court election suddenly my build.\nChallenge argue daughter.\nSo firm another. Care of policy fight of worker similar design.",
+        "bio": "Second official wall usually music lead piece trouble. Likely serious mother significant anyone future. Market senior table be know term."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
