@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Barrett",
+    "age": 64,
+    "address": {
+        "street": "Curry Groves",
+        "city": "South Daniel",
+        "state": "Colorado",
+        "zip": "40371"
+    },
+    "contact": {
+        "phone": "001-492-455-4709",
+        "servicePhone": "800685288"
+    },
+    "birthday": "1961-24-03",
+    "ip": "134.119.204.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Build who nor we right these government. Customer to family deal wife plant.\nBag fill teach end against wear. Floor weight stay rise treat. Behavior Mr yes stand analysis stage likely.",
+        "bio": "For eye production fear. Glass through mention stay defense imagine. Water page quickly common usually live protect."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
