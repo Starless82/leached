@@ -1,0 +1,25 @@
+{
+    "name": "Martin Smith",
+    "age": 58,
+    "address": {
+        "street": "Kent Inlet",
+        "city": "Jessicaland",
+        "state": "Louisiana",
+        "zip": "07640"
+    },
+    "contact": {
+        "phone": "001-244-474-1421x001",
+        "servicePhone": "800144677"
+    },
+    "birthday": "1967-31-12",
+    "ip": "151.171.192.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Defense behind consumer. Message nothing after expect sport property. Boy agreement could left pretty.",
+        "bio": "Arm should easy story. Really common beat. Change fish accept so standard certainly.\nBenefit politics step once imagine. Magazine American strong its attorney nearly inside."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
