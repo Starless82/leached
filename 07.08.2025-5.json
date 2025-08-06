@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Harrington",
+    "age": 80,
+    "address": {
+        "street": "Burns Mews",
+        "city": "North Molly",
+        "state": "Mississippi",
+        "zip": "00759"
+    },
+    "contact": {
+        "phone": "815.910.2855",
+        "servicePhone": "800063070"
+    },
+    "birthday": "1945-02-10",
+    "ip": "174.71.25.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Wind beat hundred plan nor. Report door old fund actually red ready.\nMessage rise truth into step. Court blue popular camera.\nThough bad risk necessary. So generation per mission.",
+        "bio": "Design likely data sport area attention better. Congress necessary majority them worry. Especially four west.\nAnalysis write color exactly trip national maybe. Itself plan benefit stand only."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
