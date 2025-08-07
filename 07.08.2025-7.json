@@ -1,0 +1,25 @@
+{
+    "name": "Heather Smith",
+    "age": 62,
+    "address": {
+        "street": "Rodney Roads",
+        "city": "Lake Laura",
+        "state": "Alabama",
+        "zip": "70436"
+    },
+    "contact": {
+        "phone": "(993)607-1663",
+        "servicePhone": "800256685"
+    },
+    "birthday": "1963-15-10",
+    "ip": "191.56.100.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Hour talk story. Admit any build.\nOffice account possible century beautiful director fear. Over together level his feel room.",
+        "bio": "Book rule meeting. House open picture day always anything participant.\nFilm often admit stop. Party top college. Buy wife agree record science condition car."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
