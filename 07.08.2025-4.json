@@ -1,0 +1,25 @@
+{
+    "name": "Deborah Alvarado",
+    "age": 106,
+    "address": {
+        "street": "Shelby Meadow",
+        "city": "Curtisfort",
+        "state": "Hawaii",
+        "zip": "88383"
+    },
+    "contact": {
+        "phone": "001-420-302-5280",
+        "servicePhone": "800247661"
+    },
+    "birthday": "1919-07-09",
+    "ip": "60.175.21.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Turn very seven seek traditional debate. Four option wait same reach agent foot believe.",
+        "bio": "Current east staff sport. Risk range wall partner land tree the. With city heavy left first computer eight.\nEstablish hour age which prove. Team term guess soldier. Throughout news wear bank green."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
