@@ -1,0 +1,25 @@
+{
+    "name": "Dennis Holloway",
+    "age": 55,
+    "address": {
+        "street": "Walters Underpass",
+        "city": "Bradfordport",
+        "state": "North Carolina",
+        "zip": "62101"
+    },
+    "contact": {
+        "phone": "+1-832-825-2449x4257",
+        "servicePhone": "800264583"
+    },
+    "birthday": "1970-16-04",
+    "ip": "56.18.66.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Seven exist believe floor follow. Owner election war establish ball different impact.\nScene certainly couple project however theory although. Laugh face miss city develop party. Exist enjoy act per.",
+        "bio": "Likely likely price support beautiful. Four old tonight Republican. Quickly resource this of central argue.\nLeft whole admit food first natural feeling. Visit he factor end."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
