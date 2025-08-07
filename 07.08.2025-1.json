@@ -1,0 +1,25 @@
+{
+    "name": "Emily Juarez",
+    "age": 39,
+    "address": {
+        "street": "Clinton Forest",
+        "city": "North Cassandra",
+        "state": "Mississippi",
+        "zip": "84530"
+    },
+    "contact": {
+        "phone": "4653386774",
+        "servicePhone": "800204546"
+    },
+    "birthday": "1986-06-09",
+    "ip": "160.234.225.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Argue whatever heart into product choose notice. Many fall authority matter. Skin southern effect approach skill take safe about.",
+        "bio": "Structure her card decade different PM. Election president policy thought. Simple authority drug idea kid case."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
