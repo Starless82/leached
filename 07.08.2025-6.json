@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Miller",
+    "age": 72,
+    "address": {
+        "street": "Bates Grove",
+        "city": "Jenniferview",
+        "state": "Illinois",
+        "zip": "18455"
+    },
+    "contact": {
+        "phone": "(251)640-1699",
+        "servicePhone": "800206463"
+    },
+    "birthday": "1953-18-10",
+    "ip": "161.105.185.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Water attorney fly buy degree. Believe kid weight then environmental beyond he.\nGrowth develop none medical hour. Meet painting realize appear could if base. Nor start which assume.",
+        "bio": "They peace figure sit. Various rest series miss including lose his. Teach improve throw nearly girl. Pay sound letter bar choose.\nAttorney doctor reach. Across writer customer picture."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
