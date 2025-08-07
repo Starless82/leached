@@ -1,0 +1,25 @@
+{
+    "name": "Aimee Adams",
+    "age": 71,
+    "address": {
+        "street": "Ruth Island",
+        "city": "Adamfort",
+        "state": "Mississippi",
+        "zip": "91204"
+    },
+    "contact": {
+        "phone": "001-560-232-1307x8873",
+        "servicePhone": "800729053"
+    },
+    "birthday": "1954-30-08",
+    "ip": "120.58.87.185",
+    "foo": "bar",
+    "profile": {
+        "about": "We white study agency paper simply guess. Marriage involve out so.\nAnyone either among nothing last hundred. Continue purpose identify society your seat last.",
+        "bio": "Language allow benefit loss allow relate. Buy position two best him player happy.\nAll up break everybody concern board expect. Work simple arm raise yard high pay. Operation range current meeting."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
