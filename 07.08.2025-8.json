@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Rios",
+    "age": 57,
+    "address": {
+        "street": "Cook Road",
+        "city": "New Monique",
+        "state": "Minnesota",
+        "zip": "75546"
+    },
+    "contact": {
+        "phone": "575.552.3424x170",
+        "servicePhone": "800127962"
+    },
+    "birthday": "1968-18-01",
+    "ip": "133.19.113.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Police stage voice sister. Wind most she.\nBed affect wish want. Middle method wear guy.\nApproach million store item sit. Everything those size dark off. Reflect throw these learn.",
+        "bio": "Hotel single responsibility official somebody. Anyone foreign establish sing this federal. Again far road catch. Across month place blue certainly food million."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
