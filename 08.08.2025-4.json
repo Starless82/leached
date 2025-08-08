@@ -1,0 +1,25 @@
+{
+    "name": "Amy Moran",
+    "age": 75,
+    "address": {
+        "street": "Shawn Causeway",
+        "city": "Audreyhaven",
+        "state": "Maryland",
+        "zip": "22506"
+    },
+    "contact": {
+        "phone": "945.273.1853x99331",
+        "servicePhone": "800186090"
+    },
+    "birthday": "1950-06-07",
+    "ip": "173.41.200.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Six memory add instead travel car. Yard area respond partner guy. Walk current Mrs actually even whom sea.\nNeed effort truth organization. Task hotel itself let what.",
+        "bio": "Begin fact scene pattern far shake time. Office increase agent break. History girl marriage market beautiful as.\nUs these per cultural policy. Hand no continue. Effort beautiful thank economy think."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
