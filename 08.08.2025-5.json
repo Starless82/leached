@@ -1,0 +1,25 @@
+{
+    "name": "Traci Cantrell",
+    "age": 90,
+    "address": {
+        "street": "Long Expressway",
+        "city": "Lake Christyton",
+        "state": "Ohio",
+        "zip": "22733"
+    },
+    "contact": {
+        "phone": "536-517-7059x23337",
+        "servicePhone": "800054417"
+    },
+    "birthday": "1935-08-12",
+    "ip": "160.104.164.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Woman deep hair several. Energy agreement along ago within study. Major method you act nearly.\nAttorney many sort soldier manage short once. Bring know make still wait lay.",
+        "bio": "Two Congress moment structure. Student wish site last public career change. Professional base leave simple suffer recent."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
