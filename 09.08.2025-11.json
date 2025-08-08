@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Ramos",
+    "age": 58,
+    "address": {
+        "street": "Michelle Ville",
+        "city": "Davidstad",
+        "state": "Oregon",
+        "zip": "64607"
+    },
+    "contact": {
+        "phone": "224-786-1866x96146",
+        "servicePhone": "800281679"
+    },
+    "birthday": "1967-23-08",
+    "ip": "99.210.9.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Accept so parent some summer modern figure. Discuss money night already impact alone. Him society professor series think case.",
+        "bio": "Discover develop take ten item tend car. Buy series gun alone laugh. System rest near rather away."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
