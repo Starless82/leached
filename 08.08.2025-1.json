@@ -1,0 +1,25 @@
+{
+    "name": "James Reyes",
+    "age": 32,
+    "address": {
+        "street": "Webb Point",
+        "city": "South Jennifermouth",
+        "state": "Rhode Island",
+        "zip": "70901"
+    },
+    "contact": {
+        "phone": "+1-252-216-2150x32615",
+        "servicePhone": "800509401"
+    },
+    "birthday": "1993-23-06",
+    "ip": "51.182.169.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Head feeling matter option ok. Between approach worker.\nTalk establish baby. Recognize cost tax natural.",
+        "bio": "Cup do vote pull bad. Public smile determine sense cold try develop.\nRadio behind wait me nothing goal minute. Because reason area best."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
