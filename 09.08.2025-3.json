@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Elliott",
+    "age": 110,
+    "address": {
+        "street": "Cynthia Drive",
+        "city": "New Anthonymouth",
+        "state": "Michigan",
+        "zip": "54882"
+    },
+    "contact": {
+        "phone": "001-741-790-7013",
+        "servicePhone": "800995771"
+    },
+    "birthday": "1915-23-06",
+    "ip": "219.85.90.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Local start since budget. Against sign investment figure. None a third.\nAuthority he draw suffer. Free edge across must question family a indeed. Possible factor movement indeed standard.",
+        "bio": "It manage step particularly side. Camera each else certain.\nNotice road truth usually final sort. Minute use line race when special accept say. Congress a between western."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
