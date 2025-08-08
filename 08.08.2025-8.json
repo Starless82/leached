@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Perry",
+    "age": 9,
+    "address": {
+        "street": "William Drive",
+        "city": "Ramirezton",
+        "state": "Georgia",
+        "zip": "60567"
+    },
+    "contact": {
+        "phone": "+1-654-988-4995x29362",
+        "servicePhone": "800733943"
+    },
+    "birthday": "2016-19-08",
+    "ip": "7.160.70.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Travel reduce nor arrive employee. Nothing size poor structure language direction. Indicate eat happy.\nAdult nice evidence what finish discussion. Morning indicate school when build trip serve.",
+        "bio": "Community owner season reveal by economy marriage. Development worker hour until."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
