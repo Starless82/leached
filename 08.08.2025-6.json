@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Martinez",
+    "age": 10,
+    "address": {
+        "street": "Christopher Freeway",
+        "city": "Jerrymouth",
+        "state": "Michigan",
+        "zip": "30488"
+    },
+    "contact": {
+        "phone": "567.316.1164x4476",
+        "servicePhone": "800457931"
+    },
+    "birthday": "2015-13-07",
+    "ip": "81.215.134.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Product trouble approach fast. White kid bar us friend. Avoid property eye staff yard second in.\nAttorney everyone apply never certain indeed performance. Assume Mrs agent similar.",
+        "bio": "Real use particularly team job care. Economy each likely information major. White TV save set.\nDemocratic everyone black we character fly well. Prove form next leader sit issue face."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
