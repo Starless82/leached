@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Smith",
+    "age": 86,
+    "address": {
+        "street": "Philip Track",
+        "city": "East Amberville",
+        "state": "Michigan",
+        "zip": "81593"
+    },
+    "contact": {
+        "phone": "713.367.8990x957",
+        "servicePhone": "800257193"
+    },
+    "birthday": "1939-25-12",
+    "ip": "40.214.130.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Sound adult strategy drive. News especially off really design think. Strategy about serve side attention.\nThought experience become one notice light create. Month population because oil focus.",
+        "bio": "Risk from strategy car glass any country. Model south woman surface worker.\nAuthority music hold once point. Structure military church quality."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
