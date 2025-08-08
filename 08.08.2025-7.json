@@ -1,0 +1,25 @@
+{
+    "name": "Christina Romero",
+    "age": 108,
+    "address": {
+        "street": "Austin Pines",
+        "city": "Millerbury",
+        "state": "New Mexico",
+        "zip": "40515"
+    },
+    "contact": {
+        "phone": "350.516.5584x510",
+        "servicePhone": "800964087"
+    },
+    "birthday": "1917-27-08",
+    "ip": "187.115.115.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Throw check war bit. Or level difficult member situation debate brother. Decide organization man figure either product. Issue chair collection.",
+        "bio": "Great great time player from century back. Beautiful fire peace growth experience.\nSeveral consumer manage explain action capital. Them hand building door culture history."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
