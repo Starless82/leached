@@ -1,0 +1,25 @@
+{
+    "name": "Jeanette Garcia",
+    "age": 8,
+    "address": {
+        "street": "Hayden Ford",
+        "city": "Kimport",
+        "state": "Missouri",
+        "zip": "83910"
+    },
+    "contact": {
+        "phone": "6369865239",
+        "servicePhone": "800960327"
+    },
+    "birthday": "2017-14-12",
+    "ip": "139.25.87.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Nothing leader along often actually necessary. That plant meet the already. Choice speech decision various bit who friend.",
+        "bio": "Type right decision. Several paper picture new. Anyone yet power win two.\nRule total agree plant. Take stage strong score after. Kid enjoy hear concern head present."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
