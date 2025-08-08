@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Collier",
+    "age": 42,
+    "address": {
+        "street": "Timothy Mews",
+        "city": "North Jimmyberg",
+        "state": "New York",
+        "zip": "29668"
+    },
+    "contact": {
+        "phone": "315.713.1696x744",
+        "servicePhone": "800823840"
+    },
+    "birthday": "1983-29-10",
+    "ip": "110.12.43.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Grow such movie large natural player every. Begin car spend learn information less action.",
+        "bio": "Degree bring reason I land per. Very page what any billion pay. Clearly cup listen clearly figure perform great. They difficult tend since budget painting.\nNational sense avoid."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
