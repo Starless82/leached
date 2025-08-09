@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Curtis",
+    "age": 70,
+    "address": {
+        "street": "Richard View",
+        "city": "Evansside",
+        "state": "Idaho",
+        "zip": "32611"
+    },
+    "contact": {
+        "phone": "001-987-938-6942x44627",
+        "servicePhone": "800352291"
+    },
+    "birthday": "1955-26-09",
+    "ip": "54.153.4.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Nice fund throughout seek lot learn. Want sport discuss investment. Draw make herself century.",
+        "bio": "Toward citizen off benefit us discover exist. Always place assume matter nice party. Increase church war minute decade usually student."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
