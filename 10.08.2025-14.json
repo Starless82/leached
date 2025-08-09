@@ -1,0 +1,25 @@
+{
+    "name": "Brianna Young",
+    "age": 107,
+    "address": {
+        "street": "Dana Views",
+        "city": "New Paigemouth",
+        "state": "New York",
+        "zip": "09253"
+    },
+    "contact": {
+        "phone": "001-580-259-0558x439",
+        "servicePhone": "800960820"
+    },
+    "birthday": "1918-04-09",
+    "ip": "165.252.8.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Room always city difference old. Notice paper week eight training music. Break with brother career catch wear room.",
+        "bio": "Road child second leave writer. Purpose example parent us born.\nScene admit conference claim impact prepare put but. Wear here too option knowledge."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
