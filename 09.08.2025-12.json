@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Miller",
+    "age": 49,
+    "address": {
+        "street": "Johnson Highway",
+        "city": "Danielleburgh",
+        "state": "North Dakota",
+        "zip": "75297"
+    },
+    "contact": {
+        "phone": "694-727-1397x4204",
+        "servicePhone": "800597818"
+    },
+    "birthday": "1976-29-06",
+    "ip": "170.66.210.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Where skin reduce. Enough choice special red claim. Possible nearly human seven kind discover evidence.",
+        "bio": "Take chair computer. Onto consumer every focus identify unit decade including.\nFirm Mr owner pass hear report. New ten summer now laugh this others. Owner serve rock born."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
