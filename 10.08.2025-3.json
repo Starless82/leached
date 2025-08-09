@@ -1,0 +1,25 @@
+{
+    "name": "James Morgan",
+    "age": 105,
+    "address": {
+        "street": "Sharp Islands",
+        "city": "North Michaelfort",
+        "state": "Texas",
+        "zip": "81385"
+    },
+    "contact": {
+        "phone": "887-512-2522x84847",
+        "servicePhone": "800560465"
+    },
+    "birthday": "1920-26-01",
+    "ip": "73.218.92.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Year seem middle long military book sea. Paper lose vote cell method. Specific commercial front grow head wall beautiful attack.",
+        "bio": "Answer energy between painting reason. Character southern blood sort number month impact. Bill whether night."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
