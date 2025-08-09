@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Wilson",
+    "age": 35,
+    "address": {
+        "street": "Morris Course",
+        "city": "Petersentown",
+        "state": "Connecticut",
+        "zip": "74999"
+    },
+    "contact": {
+        "phone": "(380)385-0770",
+        "servicePhone": "800070010"
+    },
+    "birthday": "1990-23-03",
+    "ip": "180.109.123.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Art head accept large good point. Use available summer full happy.\nStage author return guy dinner area look make. Reality within perhaps choice.",
+        "bio": "Challenge sure vote financial live side them. Save argue only price since theory. Employee particularly pattern base large example add meeting."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
