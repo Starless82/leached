@@ -1,0 +1,25 @@
+{
+    "name": "Adam Jones",
+    "age": 97,
+    "address": {
+        "street": "Murray Stravenue",
+        "city": "South Todd",
+        "state": "Arizona",
+        "zip": "72492"
+    },
+    "contact": {
+        "phone": "(536)828-2288",
+        "servicePhone": "800500383"
+    },
+    "birthday": "1928-28-02",
+    "ip": "85.65.214.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Many century several imagine professor. Building last parent action prevent west trial. Power buy reality food rest.",
+        "bio": "Type suddenly exist professor wrong while. Sort market head stuff college idea.\nThough picture show firm success late modern. What human sound second respond modern."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
