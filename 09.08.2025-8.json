@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Leah Cooper",
+    "age": 25,
+    "address": {
+        "street": "Stanley Circle",
+        "city": "Rogerschester",
+        "state": "Ohio",
+        "zip": "02415"
+    },
+    "contact": {
+        "phone": "(391)909-1041x2614",
+        "servicePhone": "800890361"
+    },
+    "birthday": "2000-29-10",
+    "ip": "130.139.66.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Let technology hotel term night.\nPhysical take shoulder art member without attorney themselves. News station control my able street. Commercial although north significant because.",
+        "bio": "Person if fund wrong fall war dog. Change fear address soldier. Specific read miss begin teacher.\nBegin away score Democrat. Wear option line than whose most. Social land project woman nearly."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
