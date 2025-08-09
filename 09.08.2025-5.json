@@ -1,0 +1,25 @@
+{
+    "name": "Mia Ellis",
+    "age": 45,
+    "address": {
+        "street": "Sanchez Manor",
+        "city": "Terrymouth",
+        "state": "Oregon",
+        "zip": "64845"
+    },
+    "contact": {
+        "phone": "(336)835-7577",
+        "servicePhone": "800910563"
+    },
+    "birthday": "1980-19-10",
+    "ip": "149.180.94.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Very find Democrat gun discussion perform improve. West red set share cultural. Gun great art.\nWait pretty upon require. Rock claim know operation drive.",
+        "bio": "Record TV offer stand former admit. Establish general growth outside.\nClose religious model fish thought near. Pressure course later contain risk deep the."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
