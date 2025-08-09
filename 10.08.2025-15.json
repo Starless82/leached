@@ -1,0 +1,25 @@
+{
+    "name": "Corey Williams",
+    "age": 11,
+    "address": {
+        "street": "Desiree Locks",
+        "city": "Rachelview",
+        "state": "Kansas",
+        "zip": "07497"
+    },
+    "contact": {
+        "phone": "(651)919-6001",
+        "servicePhone": "800875663"
+    },
+    "birthday": "2014-27-07",
+    "ip": "176.214.27.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Father short behavior form hotel wall memory on. Man civil thus second from.\nSeries agree view check audience. White kind still try computer factor account from.",
+        "bio": "Decade up movement choice detail economic. Computer capital country than. Air new vote process.\nFinish walk west about about poor. Glass nothing car."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
