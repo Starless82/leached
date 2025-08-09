@@ -1,0 +1,25 @@
+{
+    "name": "Jason Bradford",
+    "age": 27,
+    "address": {
+        "street": "Parsons Route",
+        "city": "Boltontown",
+        "state": "North Carolina",
+        "zip": "03066"
+    },
+    "contact": {
+        "phone": "484.950.7038",
+        "servicePhone": "800734368"
+    },
+    "birthday": "1998-25-10",
+    "ip": "14.116.244.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Health these prepare such debate. Teach station everything reveal.\nProduction often sister effort. Tonight down tend other.",
+        "bio": "Road behavior recognize. Possible indeed operation particular determine business. So dinner management country TV pretty if up.\nItself in service coach option. Manager citizen board."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
