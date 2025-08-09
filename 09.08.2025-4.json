@@ -1,0 +1,25 @@
+{
+    "name": "Jimmy King",
+    "age": 33,
+    "address": {
+        "street": "Taylor Cliff",
+        "city": "Gomezport",
+        "state": "Hawaii",
+        "zip": "89910"
+    },
+    "contact": {
+        "phone": "740-835-4369x355",
+        "servicePhone": "800710938"
+    },
+    "birthday": "1992-14-11",
+    "ip": "35.80.196.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Simple rate trial college suffer. Cost strong piece. Mean teach bad cost investment morning.\nDeal himself that cost me. Necessary though agent.",
+        "bio": "Six serious strong keep machine. Consider agent production street media total of. Especially push itself example arrive.\nPrevent number money visit. Tough activity unit."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
