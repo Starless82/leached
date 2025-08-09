@@ -1,0 +1,25 @@
+{
+    "name": "Glen Edwards MD",
+    "age": 86,
+    "address": {
+        "street": "Robert Stravenue",
+        "city": "Colonborough",
+        "state": "Nebraska",
+        "zip": "28316"
+    },
+    "contact": {
+        "phone": "001-498-999-4731",
+        "servicePhone": "800407942"
+    },
+    "birthday": "1939-30-04",
+    "ip": "120.185.81.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Reflect course animal turn forget north current I. Response front give two spring clear.\nBuilding middle include be only international. Tonight with billion item.",
+        "bio": "Cold likely better likely culture relationship. Camera suddenly culture boy market performance. Pressure clear task perform. Country address edge phone up specific maybe."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
