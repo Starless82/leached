@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Brooks",
+    "age": 62,
+    "address": {
+        "street": "Ford Manors",
+        "city": "Paulahaven",
+        "state": "Idaho",
+        "zip": "72110"
+    },
+    "contact": {
+        "phone": "686-394-0581x357",
+        "servicePhone": "800728715"
+    },
+    "birthday": "1963-07-10",
+    "ip": "24.86.4.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Who book heavy from expect even you. Appear back concern laugh huge food. Make sometimes seek charge. Hotel process along because sometimes.",
+        "bio": "Receive how particular former service bag. Machine mind administration what environmental. During special including long voice fact author.\nThere weight cell in much by."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
