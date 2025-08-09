@@ -1,0 +1,25 @@
+{
+    "name": "Meghan Mason",
+    "age": 53,
+    "address": {
+        "street": "Odonnell Falls",
+        "city": "Watkinsmouth",
+        "state": "Montana",
+        "zip": "10980"
+    },
+    "contact": {
+        "phone": "+1-349-360-1941x9397",
+        "servicePhone": "800978815"
+    },
+    "birthday": "1972-10-08",
+    "ip": "84.128.150.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Poor child firm country ok campaign ask. Son travel follow girl recognize. A purpose catch chair clear.",
+        "bio": "Structure those last both data detail. Describe other watch son thank wife such art. Example perform world."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
