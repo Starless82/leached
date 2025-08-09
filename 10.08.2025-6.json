@@ -1,0 +1,25 @@
+{
+    "name": "Michael Reynolds",
+    "age": 96,
+    "address": {
+        "street": "Le Vista",
+        "city": "Barnesborough",
+        "state": "Arkansas",
+        "zip": "92780"
+    },
+    "contact": {
+        "phone": "+1-315-202-8390",
+        "servicePhone": "800097324"
+    },
+    "birthday": "1929-03-02",
+    "ip": "193.137.39.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Arm give pressure. People knowledge gun.\nHowever raise month family tell local. Only per voice threat media soldier.",
+        "bio": "Movie writer parent get positive term. Still other quite tough. Anyone across rule through when measure we.\nForget sit writer. Hit turn color wrong off. Their assume law reach from lay yet."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
