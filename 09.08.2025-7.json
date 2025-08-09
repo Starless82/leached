@@ -1,0 +1,25 @@
+{
+    "name": "Savannah Bowman PhD",
+    "age": 28,
+    "address": {
+        "street": "Williams Loaf",
+        "city": "Juliamouth",
+        "state": "Alaska",
+        "zip": "07823"
+    },
+    "contact": {
+        "phone": "001-432-948-4936",
+        "servicePhone": "800930104"
+    },
+    "birthday": "1997-08-03",
+    "ip": "36.95.161.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Learn range grow full result although. Them alone would others for answer ahead. Note Mr your partner great career whom.",
+        "bio": "Effort I usually interview both option news trip. Analysis table difficult bill college similar either.\nFactor only risk take. Item increase pull left successful product. You they total short."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
