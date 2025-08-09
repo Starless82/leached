@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Rangel",
+    "age": 72,
+    "address": {
+        "street": "Hampton Drive",
+        "city": "Hodgeside",
+        "state": "Arkansas",
+        "zip": "33301"
+    },
+    "contact": {
+        "phone": "589.899.0766",
+        "servicePhone": "800927849"
+    },
+    "birthday": "1953-03-02",
+    "ip": "175.204.249.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Business hotel bed toward. Field evidence hit authority.\nSmile blood focus body offer century level. Very service husband thousand around. Summer now main either.",
+        "bio": "Deep lay enough especially growth face. During I cold can leader so. Hear cold hot city.\nIdentify drug better act song. Image better population include."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
