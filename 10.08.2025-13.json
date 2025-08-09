@@ -1,0 +1,25 @@
+{
+    "name": "John Tapia",
+    "age": 11,
+    "address": {
+        "street": "Guzman Fords",
+        "city": "East Monique",
+        "state": "New Mexico",
+        "zip": "52405"
+    },
+    "contact": {
+        "phone": "(639)813-1520x4451",
+        "servicePhone": "800677247"
+    },
+    "birthday": "2014-09-09",
+    "ip": "110.214.135.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Statement finish my plant back argue maybe. System Democrat loss operation party.\nBoard shoulder sometimes figure note the operation.",
+        "bio": "Million ball case government student appear drug. Decade case easy term common simply.\nOften save major beautiful. Person force people suddenly another pressure behind."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
