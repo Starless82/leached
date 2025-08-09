@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Thompson",
+    "age": 80,
+    "address": {
+        "street": "Kathy Turnpike",
+        "city": "West Jesse",
+        "state": "Hawaii",
+        "zip": "94771"
+    },
+    "contact": {
+        "phone": "(702)315-6548x312",
+        "servicePhone": "800969926"
+    },
+    "birthday": "1945-29-03",
+    "ip": "17.93.243.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Continue sell dark environmental fly later compare. Mention especially training pretty. Information surface someone.",
+        "bio": "Successful important billion. Movement price early. Wall it box nice."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
