@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Hunter",
+    "age": 16,
+    "address": {
+        "street": "Scott Grove",
+        "city": "East Lisa",
+        "state": "Maine",
+        "zip": "85320"
+    },
+    "contact": {
+        "phone": "499.583.1731x821",
+        "servicePhone": "800014241"
+    },
+    "birthday": "2009-11-03",
+    "ip": "109.165.184.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Above will compare director return buy develop. Us brother nor me claim successful only. Night record minute use although.",
+        "bio": "Order build fight direction should notice reason. True certain culture later kind item move expert.\nGrowth behavior decide whether. Foreign country best sort least."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
