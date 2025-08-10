@@ -1,0 +1,25 @@
+{
+    "name": "William Mccall",
+    "age": 44,
+    "address": {
+        "street": "Andrew Trail",
+        "city": "Cynthiaville",
+        "state": "Minnesota",
+        "zip": "85136"
+    },
+    "contact": {
+        "phone": "(853)851-8959x0135",
+        "servicePhone": "800901196"
+    },
+    "birthday": "1981-08-09",
+    "ip": "194.242.50.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Our loss party when difference weight class. American director still.\nCell strong eye its. Outside war happy picture raise community. Section blue cultural paper.",
+        "bio": "Magazine talk reason operation return operation accept. Pattern evening suffer price enjoy. Entire like team measure quite itself ball."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
