@@ -1,0 +1,25 @@
+{
+    "name": "Lindsey White",
+    "age": 33,
+    "address": {
+        "street": "Brendan Shores",
+        "city": "Millerburgh",
+        "state": "Texas",
+        "zip": "11526"
+    },
+    "contact": {
+        "phone": "9907581256",
+        "servicePhone": "800449303"
+    },
+    "birthday": "1992-28-09",
+    "ip": "34.208.151.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Example have player word each.\nCandidate use sea about behind save. Agent first start nothing.\nMyself total never body collection arrive forward. Program rest job if.",
+        "bio": "At statement yes. Exactly edge put traditional center never kid course.\nDetail program white want end fill who. Beat these range century ever. Morning model tax at. Room continue wonder occur."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
