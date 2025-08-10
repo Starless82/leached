@@ -1,0 +1,25 @@
+{
+    "name": "Ruth Benson",
+    "age": 58,
+    "address": {
+        "street": "Wiggins Ranch",
+        "city": "New Jonathan",
+        "state": "Georgia",
+        "zip": "74781"
+    },
+    "contact": {
+        "phone": "001-555-319-3635",
+        "servicePhone": "800366184"
+    },
+    "birthday": "1967-18-02",
+    "ip": "120.118.231.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Produce decision newspaper how. Majority treatment agreement beautiful. Quickly use process other hand. Bag century want.",
+        "bio": "Hope enter they street safe account.\nDegree life lead player nearly begin born. Along everyone involve politics. Address audience we shoulder."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
