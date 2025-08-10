@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Stevenson",
+    "age": 7,
+    "address": {
+        "street": "Williams Extension",
+        "city": "South Amyberg",
+        "state": "Nevada",
+        "zip": "08220"
+    },
+    "contact": {
+        "phone": "(358)967-2141x978",
+        "servicePhone": "800531100"
+    },
+    "birthday": "2018-26-04",
+    "ip": "180.72.14.100",
+    "foo": "bar",
+    "profile": {
+        "about": "General civil agree social. Step wait walk event west month no. Include notice change.\nBuy use former student at. Wear left amount second Congress. Fact ahead sea world office budget stage employee.",
+        "bio": "Fund service industry employee. Green position man.\nShow because meet future them fear though. Worker likely lose health. Believe training reduce man news."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
