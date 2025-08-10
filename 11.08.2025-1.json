@@ -1,0 +1,25 @@
+{
+    "name": "Paul Diaz",
+    "age": 112,
+    "address": {
+        "street": "Matthew Island",
+        "city": "Port Joseph",
+        "state": "California",
+        "zip": "85577"
+    },
+    "contact": {
+        "phone": "582.446.9359",
+        "servicePhone": "800244988"
+    },
+    "birthday": "1913-08-09",
+    "ip": "204.194.199.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Wish activity star serve among. Decision star item it candidate company term. Grow crime test left fight.",
+        "bio": "Doctor budget again news. Less production number tax ask. Suddenly mind drop light. Add weight memory peace."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
