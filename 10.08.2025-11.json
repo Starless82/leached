@@ -1,0 +1,25 @@
+{
+    "name": "Robin Johnson",
+    "age": 17,
+    "address": {
+        "street": "Robert Roads",
+        "city": "Turnerland",
+        "state": "Maryland",
+        "zip": "43284"
+    },
+    "contact": {
+        "phone": "001-537-500-0270x66684",
+        "servicePhone": "800100074"
+    },
+    "birthday": "2008-07-07",
+    "ip": "168.206.51.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Cut technology use that up yes. Less serious begin eat. Adult small run difference action everything. First sea news similar social wall would everyone.",
+        "bio": "Child something every. Already cup wife meet child national near car.\nCivil responsibility great possible fact. Past teacher beat food rock film store. Short different carry authority pick guy unit."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
