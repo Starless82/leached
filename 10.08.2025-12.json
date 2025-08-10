@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Myers",
+    "age": 74,
+    "address": {
+        "street": "Sean Rapids",
+        "city": "Goodwinshire",
+        "state": "Utah",
+        "zip": "07952"
+    },
+    "contact": {
+        "phone": "9387683669",
+        "servicePhone": "800670805"
+    },
+    "birthday": "1951-26-05",
+    "ip": "47.127.153.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Best check rock why value edge result. Story better throughout finish stand. Eat best you church yeah.",
+        "bio": "Lose policy listen feeling summer push rich hair. Indicate quite state arm organization smile. Least then reflect born foreign. Bad force site some film here."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
