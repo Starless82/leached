@@ -1,0 +1,25 @@
+{
+    "name": "Casey Stone",
+    "age": 5,
+    "address": {
+        "street": "Donald Harbor",
+        "city": "Rachelmouth",
+        "state": "North Carolina",
+        "zip": "53839"
+    },
+    "contact": {
+        "phone": "001-696-937-8896",
+        "servicePhone": "800785641"
+    },
+    "birthday": "2020-26-08",
+    "ip": "46.187.92.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Staff way couple teacher.\nRun inside area mother. Deep couple leg dark wide outside company. Detail reason leader foot hear around.\nRelationship list apply official according police.",
+        "bio": "Share enter green. Travel lose edge throw. Pay political speak.\nGet show trip full. Sit hard night describe. Suffer between although charge school job lay. Claim cup wrong same all."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
