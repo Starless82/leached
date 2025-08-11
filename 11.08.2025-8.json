@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Newman",
+    "age": 11,
+    "address": {
+        "street": "Brandi Shores",
+        "city": "South Victoriaside",
+        "state": "Ohio",
+        "zip": "19166"
+    },
+    "contact": {
+        "phone": "(299)296-9105",
+        "servicePhone": "800810000"
+    },
+    "birthday": "2014-21-07",
+    "ip": "88.31.255.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Tough hotel deep process. Right author page different. Skill common break up ago.\nArt strategy activity clear specific boy. Always discussion purpose Democrat. Page building whole drop tree use.",
+        "bio": "National student about so behind watch early.\nTry Congress charge fly baby result I. Scientist whatever product senior score American. Wish high for current discover."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
