@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Thompson",
+    "age": 20,
+    "address": {
+        "street": "Flowers Villages",
+        "city": "Zamorabury",
+        "state": "New Hampshire",
+        "zip": "87592"
+    },
+    "contact": {
+        "phone": "642-980-4097x1488",
+        "servicePhone": "800869160"
+    },
+    "birthday": "2005-04-12",
+    "ip": "175.99.160.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Out record fast magazine part power every. Computer some including civil rise drive.\nAgainst during administration crime plan. Card everybody contain cold. Campaign meeting able blue.",
+        "bio": "Everyone prove few. Sure relate smile after.\nKnow order especially right capital result poor. Mind even certainly song better whole."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
