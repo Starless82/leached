@@ -1,0 +1,25 @@
+{
+    "name": "Kayla Stanley",
+    "age": 50,
+    "address": {
+        "street": "Macias Row",
+        "city": "West Stephen",
+        "state": "Vermont",
+        "zip": "54069"
+    },
+    "contact": {
+        "phone": "730.211.1473x65298",
+        "servicePhone": "800288090"
+    },
+    "birthday": "1975-21-12",
+    "ip": "80.180.33.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Eye oil skin else moment. Open no standard explain knowledge investment.\nContain phone man kitchen fall short should. Role short fact top put should. Reduce minute above off mind. Mean next draw let.",
+        "bio": "Security management me no too player. Church new chance way social sell program. Economy address particularly thank child economy."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
