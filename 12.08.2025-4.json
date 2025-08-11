@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Cooper",
+    "age": 107,
+    "address": {
+        "street": "Edwards Lock",
+        "city": "West Kaylafurt",
+        "state": "Maine",
+        "zip": "10794"
+    },
+    "contact": {
+        "phone": "(612)880-2098x4676",
+        "servicePhone": "800933190"
+    },
+    "birthday": "1918-03-02",
+    "ip": "185.235.132.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Whose person similar when born serve floor beautiful. Week plant physical arm.\nCountry any five. Risk raise our second school month. Mention bad sit second walk response real. Story trade catch view.",
+        "bio": "Hour letter above give next actually. Go situation wide central.\nSell again according offer others yes morning."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
