@@ -1,0 +1,25 @@
+{
+    "name": "Maria Watts",
+    "age": 20,
+    "address": {
+        "street": "Solis Forest",
+        "city": "East Andrewborough",
+        "state": "Hawaii",
+        "zip": "81641"
+    },
+    "contact": {
+        "phone": "982-596-8860x47604",
+        "servicePhone": "800576786"
+    },
+    "birthday": "2005-14-02",
+    "ip": "223.254.141.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Friend may leader along determine little. General reason hundred account production impact same.",
+        "bio": "Specific deep machine apply capital. Class rule six plan certainly yeah. Project large clear mind.\nHand carry worker should discussion place pull what. Close ability realize lawyer send."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
