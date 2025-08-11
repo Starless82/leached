@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Baldwin",
+    "age": 47,
+    "address": {
+        "street": "Russell Way",
+        "city": "North John",
+        "state": "Colorado",
+        "zip": "72871"
+    },
+    "contact": {
+        "phone": "978.346.5892x24637",
+        "servicePhone": "800428052"
+    },
+    "birthday": "1978-10-01",
+    "ip": "49.98.198.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Rock enough knowledge official near matter. Rather drug month them. True car newspaper avoid.",
+        "bio": "Middle sit interesting professional step. Step ground democratic charge apply child study church. Special general economic loss."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
