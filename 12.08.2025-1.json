@@ -1,0 +1,25 @@
+{
+    "name": "Angela Johnson",
+    "age": 52,
+    "address": {
+        "street": "Brittany Springs",
+        "city": "Port Amanda",
+        "state": "New Mexico",
+        "zip": "59237"
+    },
+    "contact": {
+        "phone": "(270)608-6416x11339",
+        "servicePhone": "800427940"
+    },
+    "birthday": "1973-20-03",
+    "ip": "193.230.141.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Myself so figure somebody expert. Hit water bank really pressure.\nWait south idea probably. Water little arrive world entire drive mean. Board investment consider someone.",
+        "bio": "Worry institution fire church development environment society head. Difficult approach notice imagine main final. Recently away skill spring hold community step. Head yard degree magazine."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
