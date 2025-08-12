@@ -1,0 +1,25 @@
+{
+    "name": "Catherine Alexander",
+    "age": 7,
+    "address": {
+        "street": "Harris Islands",
+        "city": "New Robert",
+        "state": "South Dakota",
+        "zip": "42744"
+    },
+    "contact": {
+        "phone": "2972978090",
+        "servicePhone": "800559237"
+    },
+    "birthday": "2018-08-01",
+    "ip": "84.203.253.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Our budget garden radio benefit picture big.\nBlue over think away past simply receive. Above truth consumer soon call stuff support. Process idea soldier watch near.",
+        "bio": "Economy its red ground something. Training spring say how according.\nIdea team interest near blood. Theory future improve customer however make."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
