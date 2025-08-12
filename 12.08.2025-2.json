@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Davis",
+    "age": 24,
+    "address": {
+        "street": "Alex Forge",
+        "city": "East Christopherport",
+        "state": "Montana",
+        "zip": "55737"
+    },
+    "contact": {
+        "phone": "451.727.2880",
+        "servicePhone": "800123288"
+    },
+    "birthday": "2001-21-03",
+    "ip": "96.206.187.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Media model source painting here. Mother consider per perform late little produce option. Appear scientist yes research respond care this.",
+        "bio": "Cultural line deep art apply.\nStreet fight piece. Once ball gas first until above. Seem section evidence reveal occur sure."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
