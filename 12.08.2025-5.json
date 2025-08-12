@@ -1,0 +1,25 @@
+{
+    "name": "James Carr",
+    "age": 23,
+    "address": {
+        "street": "Benton Mountains",
+        "city": "Ryantown",
+        "state": "North Carolina",
+        "zip": "35401"
+    },
+    "contact": {
+        "phone": "822-927-7556x69640",
+        "servicePhone": "800053541"
+    },
+    "birthday": "2002-25-08",
+    "ip": "50.244.192.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Commercial chair myself course public movement field. Agree the certain manager truth give condition help.",
+        "bio": "Water painting understand game. Member care east age agency relate. Force value condition operation carry."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
