@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Wyatt",
+    "age": 37,
+    "address": {
+        "street": "Joshua Lights",
+        "city": "Jasonfurt",
+        "state": "Massachusetts",
+        "zip": "69015"
+    },
+    "contact": {
+        "phone": "001-786-359-4777",
+        "servicePhone": "800562110"
+    },
+    "birthday": "1988-22-04",
+    "ip": "99.219.107.208",
+    "foo": "bar",
+    "profile": {
+        "about": "I point mind she executive. Need total physical party rich control.\nPer region rather bar. Environmental always smile great. Support star war affect everybody our.",
+        "bio": "Seem cold million hard smile. Apply mind measure strategy month. Clearly its nice during stop within. Sport myself recognize fly cup perform history."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
