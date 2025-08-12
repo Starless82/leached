@@ -1,0 +1,25 @@
+{
+    "name": "Robert Jones",
+    "age": 29,
+    "address": {
+        "street": "Sparks Fort",
+        "city": "Port Davidborough",
+        "state": "Arizona",
+        "zip": "80186"
+    },
+    "contact": {
+        "phone": "001-307-625-3496",
+        "servicePhone": "800081547"
+    },
+    "birthday": "1996-19-07",
+    "ip": "95.23.111.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Answer crime tree kid son better teach avoid.\nEnergy chair certain. Prevent fight task recent project growth white. Follow trade own task never sea.",
+        "bio": "Particularly boy will lot begin. Factor international order us wish. President general TV various relationship remain.\nAddress kind father leave him. Light instead customer race job suddenly."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
