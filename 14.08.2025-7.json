@@ -1,0 +1,25 @@
+{
+    "name": "Jose Taylor",
+    "age": 6,
+    "address": {
+        "street": "Morgan Gateway",
+        "city": "Patriciamouth",
+        "state": "California",
+        "zip": "30486"
+    },
+    "contact": {
+        "phone": "880-217-6781",
+        "servicePhone": "800357158"
+    },
+    "birthday": "2019-07-03",
+    "ip": "131.179.197.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Debate pay remember push policy fund. Bag hope car author. Second surface size reason risk bar.",
+        "bio": "North play staff whose south alone data. Thank least hot law.\nEver road table theory direction drive American. Office trial many fine friend."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
