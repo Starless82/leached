@@ -1,0 +1,25 @@
+{
+    "name": "Mark Brock",
+    "age": 107,
+    "address": {
+        "street": "Hill Landing",
+        "city": "Jameschester",
+        "state": "Kansas",
+        "zip": "86139"
+    },
+    "contact": {
+        "phone": "(974)759-1759x5543",
+        "servicePhone": "800472423"
+    },
+    "birthday": "1918-22-10",
+    "ip": "81.179.164.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Him place thousand drive. End skill leg theory week it law. Own happen per.\nSing approach present not. Nearly trial whether ground treatment. Employee blood guy although federal computer economy.",
+        "bio": "Improve social size loss involve. Onto shoulder ask. Each finally word town."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
