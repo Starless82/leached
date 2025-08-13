@@ -1,0 +1,25 @@
+{
+    "name": "Alejandro Singh",
+    "age": 47,
+    "address": {
+        "street": "Michelle Rest",
+        "city": "Hernandezshire",
+        "state": "Maine",
+        "zip": "73492"
+    },
+    "contact": {
+        "phone": "965.737.6323x5327",
+        "servicePhone": "800984099"
+    },
+    "birthday": "1978-22-07",
+    "ip": "45.17.188.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Local good break low total push probably. Attention serious letter tree consumer partner. Not operation single college whether strategy area.",
+        "bio": "Never big alone yeah off. Of sister drug manager where.\nWin out rest both they might right. Side help nation heart name realize."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
