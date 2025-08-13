@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Smith",
+    "age": 96,
+    "address": {
+        "street": "Mills Drives",
+        "city": "Shauntown",
+        "state": "Maryland",
+        "zip": "16823"
+    },
+    "contact": {
+        "phone": "+1-851-346-0613x8528",
+        "servicePhone": "800367461"
+    },
+    "birthday": "1929-19-12",
+    "ip": "149.154.95.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Million either short subject under. Why defense measure simple.\nFocus reflect summer bad. Expert material main tax check.",
+        "bio": "Fund series trade father economic head. Sit ground yet lead serious simple. Body which treatment soon several five."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
