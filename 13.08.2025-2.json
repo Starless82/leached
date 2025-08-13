@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Macias",
+    "age": 36,
+    "address": {
+        "street": "Thomas Square",
+        "city": "New Michael",
+        "state": "Minnesota",
+        "zip": "88813"
+    },
+    "contact": {
+        "phone": "9197021179",
+        "servicePhone": "800628638"
+    },
+    "birthday": "1989-07-07",
+    "ip": "97.130.155.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Us collection story personal painting because effort. Kind protect section second.",
+        "bio": "Also voice power. Artist investment degree in little around how. Son glass already energy fear.\nGoal pick building wind have ever."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
