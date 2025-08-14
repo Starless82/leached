@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Reed",
+    "age": 99,
+    "address": {
+        "street": "Katherine Causeway",
+        "city": "Port Anthony",
+        "state": "Wisconsin",
+        "zip": "58043"
+    },
+    "contact": {
+        "phone": "608-638-1963",
+        "servicePhone": "800396302"
+    },
+    "birthday": "1926-01-06",
+    "ip": "65.32.113.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Just before sea perform. Statement to star big such appear. Sell happen discussion skin fund whether language true. Our leg five big and.",
+        "bio": "Challenge may sometimes top. Our toward number scene imagine.\nPosition herself record reality system. Radio capital bag bar read level guy. Energy represent environment as us moment."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
