@@ -1,0 +1,25 @@
+{
+    "name": "Whitney Thomas",
+    "age": 67,
+    "address": {
+        "street": "Maria Park",
+        "city": "New Michaelborough",
+        "state": "Nevada",
+        "zip": "22353"
+    },
+    "contact": {
+        "phone": "001-336-811-0017x165",
+        "servicePhone": "800545545"
+    },
+    "birthday": "1958-03-01",
+    "ip": "21.247.61.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Shake she material point voice toward investment federal. Arrive girl conference.\nLike campaign future society. Every most short quickly thank they close drive.",
+        "bio": "Church standard single though late fire son defense. Easy back best strong follow debate affect break. Receive poor he song general."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
