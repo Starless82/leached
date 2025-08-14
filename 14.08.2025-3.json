@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Jones",
+    "age": 70,
+    "address": {
+        "street": "Tina Locks",
+        "city": "Valdezstad",
+        "state": "Ohio",
+        "zip": "87571"
+    },
+    "contact": {
+        "phone": "+1-878-979-2185x810",
+        "servicePhone": "800720049"
+    },
+    "birthday": "1955-20-06",
+    "ip": "132.121.79.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Good foot position they. Eye decade research lay. Up return will security head message.\nThus truth edge former. Single herself data nation part listen me. Art start candidate really class.",
+        "bio": "Organization thus increase appear debate establish. Run movement quite smile property.\nGeneration let debate interesting. Surface exist suffer and."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
