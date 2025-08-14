@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Byrd",
+    "age": 68,
+    "address": {
+        "street": "Gregory Garden",
+        "city": "West Emily",
+        "state": "Wisconsin",
+        "zip": "26561"
+    },
+    "contact": {
+        "phone": "449.389.1879",
+        "servicePhone": "800502577"
+    },
+    "birthday": "1957-17-01",
+    "ip": "112.168.7.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Manager she receive under turn design. Past kitchen sense network market likely firm.\nSome meeting himself language outside already through. Include chair toward relationship water go day.",
+        "bio": "Study season five wait cultural media. Accept subject hour seem rather. The agency energy note."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
