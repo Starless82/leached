@@ -1,0 +1,25 @@
+{
+    "name": "Hector Perez PhD",
+    "age": 26,
+    "address": {
+        "street": "Michael River",
+        "city": "New Derekburgh",
+        "state": "Alabama",
+        "zip": "53825"
+    },
+    "contact": {
+        "phone": "001-985-298-7117x729",
+        "servicePhone": "800652245"
+    },
+    "birthday": "1999-27-06",
+    "ip": "108.146.68.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Audience audience natural sea economic. Continue western dog adult page forward television.\nAmerican special avoid either. Space knowledge follow industry. Watch born side.",
+        "bio": "Return air school little break.\nWhether look law attack show else cold."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
