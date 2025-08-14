@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Jefferson",
+    "age": 19,
+    "address": {
+        "street": "George Village",
+        "city": "East Vernonchester",
+        "state": "Nebraska",
+        "zip": "28731"
+    },
+    "contact": {
+        "phone": "001-606-604-1994x21697",
+        "servicePhone": "800452753"
+    },
+    "birthday": "2006-11-05",
+    "ip": "138.161.120.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Movement indeed social recent out.\nFive cover base process scientist that common. Similar song civil including top suffer.",
+        "bio": "Bit daughter performance miss resource. Edge keep can today skin.\nAlways camera no with large into discussion. Rather nothing front better heavy might."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
