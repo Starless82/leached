@@ -1,0 +1,25 @@
+{
+    "name": "Catherine Wright",
+    "age": 46,
+    "address": {
+        "street": "Kevin Cliffs",
+        "city": "Garzastad",
+        "state": "North Carolina",
+        "zip": "67811"
+    },
+    "contact": {
+        "phone": "(905)927-2567x4432",
+        "servicePhone": "800980774"
+    },
+    "birthday": "1979-29-04",
+    "ip": "27.83.128.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Push why box ever challenge politics. Yeah dark responsibility significant operation whatever visit TV. Possible course live run could catch feeling.",
+        "bio": "Store state nor risk six require happen. Both letter training college to early every.\nPush young eye explain nature."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
