@@ -1,0 +1,25 @@
+{
+    "name": "Audrey Green",
+    "age": 1,
+    "address": {
+        "street": "Fletcher Highway",
+        "city": "Port Amanda",
+        "state": "Mississippi",
+        "zip": "48283"
+    },
+    "contact": {
+        "phone": "001-343-995-6419x59800",
+        "servicePhone": "800325440"
+    },
+    "birthday": "2024-09-03",
+    "ip": "220.116.54.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Among account there indeed subject keep. Lay improve money. Mother economy nor order it generation.\nLevel strong contain part. Stage myself environment piece.",
+        "bio": "Seven set five lay. Same price into chance owner.\nPrevent career him should loss body. Nation rather smile late media."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
