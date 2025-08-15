@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Smith",
+    "age": 15,
+    "address": {
+        "street": "Darryl Pass",
+        "city": "West Sarah",
+        "state": "Indiana",
+        "zip": "51400"
+    },
+    "contact": {
+        "phone": "(713)225-6883",
+        "servicePhone": "800455603"
+    },
+    "birthday": "2010-06-06",
+    "ip": "222.176.124.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Plan next including fact. Audience weight need money argue per. Summer son door girl.\nCandidate action thank. Computer owner son test pretty partner dog.",
+        "bio": "Democratic despite recognize maintain. Mr Congress college.\nField performance note indeed forget range marriage. Him television yourself might walk usually."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
