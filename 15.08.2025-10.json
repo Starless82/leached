@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Nelson",
+    "age": 102,
+    "address": {
+        "street": "Flores Lakes",
+        "city": "Kaitlynchester",
+        "state": "Missouri",
+        "zip": "45181"
+    },
+    "contact": {
+        "phone": "3426094464",
+        "servicePhone": "800527548"
+    },
+    "birthday": "1923-24-02",
+    "ip": "69.104.222.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Education close what I school analysis affect people. Project keep election impact baby.\nLive federal fund indeed have evening concern. View bar the.",
+        "bio": "Focus shake order southern. Red just state organization do.\nOccur alone site do. Appear production early suffer perform. Special experience industry want who."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
