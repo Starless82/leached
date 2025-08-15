@@ -1,0 +1,25 @@
+{
+    "name": "Brian Harris",
+    "age": 110,
+    "address": {
+        "street": "Mann Stream",
+        "city": "West Jaredborough",
+        "state": "New Jersey",
+        "zip": "74823"
+    },
+    "contact": {
+        "phone": "(251)964-6566x808",
+        "servicePhone": "800979341"
+    },
+    "birthday": "1915-03-12",
+    "ip": "23.89.24.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Follow receive street follow within bag. Recently indeed material. Approach soon commercial Democrat half stuff whatever.",
+        "bio": "Democrat fall year a. Hard knowledge city stay despite lawyer."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
