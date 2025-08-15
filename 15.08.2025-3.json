@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Lewis",
+    "age": 25,
+    "address": {
+        "street": "Hernandez Keys",
+        "city": "North Dean",
+        "state": "Nebraska",
+        "zip": "18245"
+    },
+    "contact": {
+        "phone": "864.601.4360x137",
+        "servicePhone": "800931903"
+    },
+    "birthday": "2000-18-04",
+    "ip": "131.10.127.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Night nice than join economic professional arrive. Fund eight certainly letter marriage wish usually.\nWind young manage pressure thing threat.",
+        "bio": "Trade up its someone open Congress. People smile answer stock. Step address edge late term require."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
