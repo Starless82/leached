@@ -1,0 +1,25 @@
+{
+    "name": "Tyler Santos",
+    "age": 20,
+    "address": {
+        "street": "Hogan Hills",
+        "city": "Port Tyler",
+        "state": "Nevada",
+        "zip": "49563"
+    },
+    "contact": {
+        "phone": "903.570.3935",
+        "servicePhone": "800017679"
+    },
+    "birthday": "2005-04-07",
+    "ip": "141.160.137.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Human my imagine your. Special possible sister marriage huge.\nBehavior thousand training call forget organization ground. Loss south will.",
+        "bio": "Agent answer possible agreement. Black if indeed economy effect early and.\nFull have through seven however government enter. Should eight purpose treatment long have human."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
