@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Wheeler",
+    "age": 31,
+    "address": {
+        "street": "Noah Isle",
+        "city": "Courtneybury",
+        "state": "Tennessee",
+        "zip": "07242"
+    },
+    "contact": {
+        "phone": "001-560-513-4026",
+        "servicePhone": "800828770"
+    },
+    "birthday": "1994-10-11",
+    "ip": "164.156.84.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Other now tend compare state expect.\nLot Democrat fly tend whatever something. Type stage individual ever. West camera could worry.\nLot lead also same lead staff story. Deep kid ability.",
+        "bio": "Letter answer do ago factor. Tend hospital final second. Hot both Congress cause claim agency catch. Learn seat painting according pressure either company phone."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
