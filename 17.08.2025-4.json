@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Jones",
+    "age": 62,
+    "address": {
+        "street": "Diana Underpass",
+        "city": "Timothyberg",
+        "state": "Colorado",
+        "zip": "12921"
+    },
+    "contact": {
+        "phone": "262-886-3436x272",
+        "servicePhone": "800048979"
+    },
+    "birthday": "1963-15-11",
+    "ip": "22.34.230.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Throw hold include everybody rate under. Every Republican religious if could laugh drive. Street picture could itself American south attention.",
+        "bio": "Example treatment movement base across maintain role. New walk answer decade much.\nCollege chair general. Hand window how popular art student. Letter safe near coach church get."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
