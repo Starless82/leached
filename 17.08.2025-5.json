@@ -1,0 +1,25 @@
+{
+    "name": "George Phillips",
+    "age": 101,
+    "address": {
+        "street": "Ashley Mountains",
+        "city": "West Christinahaven",
+        "state": "Hawaii",
+        "zip": "86360"
+    },
+    "contact": {
+        "phone": "4692240735",
+        "servicePhone": "800210419"
+    },
+    "birthday": "1924-16-05",
+    "ip": "168.253.69.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Member individual sea guy right man newspaper. New kitchen suffer and. Certainly budget forget authority decision own result.",
+        "bio": "Scientist general without them. Continue treatment ten. Seek perhaps page good everything situation. Rather account enjoy ahead.\nRole guy way heart foreign. Along Mrs ahead responsibility."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
