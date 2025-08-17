@@ -1,0 +1,25 @@
+{
+    "name": "Cassie Sandoval",
+    "age": 20,
+    "address": {
+        "street": "Carol Curve",
+        "city": "Weaverfort",
+        "state": "Florida",
+        "zip": "48416"
+    },
+    "contact": {
+        "phone": "001-956-551-8941x376",
+        "servicePhone": "800885527"
+    },
+    "birthday": "2005-03-08",
+    "ip": "203.126.93.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Stand majority above else American suffer. Wind environment without budget once. Serve office stage create.",
+        "bio": "Different night available recognize team indicate. Push result unit pull. Bar sign suddenly camera less amount memory.\nWhom tough bank. Decide store under word. Music conference force want."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
