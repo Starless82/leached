@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Ho",
+    "age": 24,
+    "address": {
+        "street": "Brooks Square",
+        "city": "East Francis",
+        "state": "Pennsylvania",
+        "zip": "75389"
+    },
+    "contact": {
+        "phone": "001-502-438-8004x268",
+        "servicePhone": "800044381"
+    },
+    "birthday": "2001-26-10",
+    "ip": "20.169.80.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Political benefit defense. Office already blue former a.\nHotel full fund stock Congress TV. Huge place western so sign past care.",
+        "bio": "Investment consumer year throughout central parent assume. Thus plant radio expert art trip. Move establish energy enough identify imagine dark.\nAlso decade son peace east."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
