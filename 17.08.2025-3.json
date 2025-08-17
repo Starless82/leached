@@ -1,0 +1,25 @@
+{
+    "name": "Stacy Valenzuela",
+    "age": 52,
+    "address": {
+        "street": "Juan Flats",
+        "city": "Stevenland",
+        "state": "Maine",
+        "zip": "93659"
+    },
+    "contact": {
+        "phone": "(367)758-7252x675",
+        "servicePhone": "800835228"
+    },
+    "birthday": "1973-27-05",
+    "ip": "157.204.127.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Floor director travel three history. Young pull city.\nCourt sure great on cut cup. Activity peace field cold memory machine.\nCity trial provide all attack left. Security fine often room which all.",
+        "bio": "Number seat contain pattern guy official help.\nRule parent teacher glass cost represent. Live most number nice fast serious. Conference available wrong."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
