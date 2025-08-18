@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Luna",
+    "age": 63,
+    "address": {
+        "street": "Maldonado Crest",
+        "city": "Perezfurt",
+        "state": "Illinois",
+        "zip": "06118"
+    },
+    "contact": {
+        "phone": "591-809-8995x68733",
+        "servicePhone": "800328267"
+    },
+    "birthday": "1962-24-05",
+    "ip": "142.90.77.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Society generation hair appear poor middle. Knowledge spring life. Teach team drop single thought.",
+        "bio": "Someone science possible effect general provide police. Bring born investment information amount everybody worry. Culture since low myself resource response."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
