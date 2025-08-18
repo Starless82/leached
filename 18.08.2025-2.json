@@ -1,0 +1,25 @@
+{
+    "name": "Maria Moss",
+    "age": 37,
+    "address": {
+        "street": "Acosta Heights",
+        "city": "Lake Douglashaven",
+        "state": "Arkansas",
+        "zip": "28576"
+    },
+    "contact": {
+        "phone": "+1-355-351-0954x60165",
+        "servicePhone": "800534198"
+    },
+    "birthday": "1988-03-09",
+    "ip": "72.150.178.19",
+    "foo": "bar",
+    "profile": {
+        "about": "According candidate person. Treatment ahead parent. Common face then change west. Four increase run spring.",
+        "bio": "Position collection special budget establish. Natural statement draw story. Best explain government again."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
