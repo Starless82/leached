@@ -1,0 +1,25 @@
+{
+    "name": "Shane Barnes",
+    "age": 82,
+    "address": {
+        "street": "Carpenter Road",
+        "city": "Johnsonshire",
+        "state": "South Carolina",
+        "zip": "07190"
+    },
+    "contact": {
+        "phone": "001-332-529-0634x1924",
+        "servicePhone": "800218040"
+    },
+    "birthday": "1943-11-05",
+    "ip": "124.60.15.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Because within thought letter kitchen old condition. Share road address amount sea PM thing.\nService area method. Pull peace new table.",
+        "bio": "People summer rule may concern. Doctor particular finally company want by.\nIndividual today why. Choose bar method others never strong size."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
