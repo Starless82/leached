@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Olsen",
+    "age": 13,
+    "address": {
+        "street": "Elliott Divide",
+        "city": "West Benjaminmouth",
+        "state": "South Carolina",
+        "zip": "54333"
+    },
+    "contact": {
+        "phone": "349.852.2188x47272",
+        "servicePhone": "800312635"
+    },
+    "birthday": "2012-15-10",
+    "ip": "65.236.24.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Recent generation morning nature know. Again response no simply hold soldier. Down chance follow.",
+        "bio": "Activity lose important financial agree. See idea always case above.\nKey item goal of. Low without name.\nDefense from back hour couple whether environment. Commercial speech so model produce suggest."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
