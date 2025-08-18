@@ -1,0 +1,25 @@
+{
+    "name": "Valerie Mckay",
+    "age": 113,
+    "address": {
+        "street": "Justin Cliffs",
+        "city": "East Marie",
+        "state": "New Mexico",
+        "zip": "75155"
+    },
+    "contact": {
+        "phone": "+1-262-866-3570x4640",
+        "servicePhone": "800565486"
+    },
+    "birthday": "1912-27-06",
+    "ip": "136.106.39.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Apply main painting third. Man ahead science play book arrive. Response film their present morning foreign environmental.",
+        "bio": "Statement key personal others somebody as institution. Prove morning less purpose couple."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
