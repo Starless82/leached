@@ -1,0 +1,25 @@
+{
+    "name": "David West",
+    "age": 36,
+    "address": {
+        "street": "Dana Lake",
+        "city": "Lake Rachelville",
+        "state": "Kentucky",
+        "zip": "06158"
+    },
+    "contact": {
+        "phone": "948-539-2095x4201",
+        "servicePhone": "800167623"
+    },
+    "birthday": "1989-01-03",
+    "ip": "113.127.41.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Indeed glass value discover. Help cause yet instead modern figure girl real. Care camera drive participant talk speech.",
+        "bio": "Game whatever defense since we each. Trouble social time fast part law necessary. Production of price American stuff society almost."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
