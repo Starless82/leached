@@ -1,0 +1,25 @@
+{
+    "name": "Stacey Jordan",
+    "age": 48,
+    "address": {
+        "street": "Lane Circles",
+        "city": "Michaelside",
+        "state": "South Carolina",
+        "zip": "04636"
+    },
+    "contact": {
+        "phone": "9798258008",
+        "servicePhone": "800866144"
+    },
+    "birthday": "1977-08-01",
+    "ip": "115.70.140.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Similar modern business country. Other maintain similar challenge despite. Foreign ball or model when give eye.",
+        "bio": "First standard coach add push. Alone table stand study practice pass step rise.\nModern prepare apply fine forward. Recently which across former financial."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
