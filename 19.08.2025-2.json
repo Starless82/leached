@@ -1,0 +1,25 @@
+{
+    "name": "Robert Collier",
+    "age": 116,
+    "address": {
+        "street": "Taylor Mountains",
+        "city": "East Richardburgh",
+        "state": "Nebraska",
+        "zip": "11557"
+    },
+    "contact": {
+        "phone": "(231)972-0947",
+        "servicePhone": "800024656"
+    },
+    "birthday": "1909-10-11",
+    "ip": "143.214.198.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Move time through wrong. He believe instead different card continue. Lawyer success shake mouth instead research current.\nPossible drive exactly poor record standard still hope. Appear pay visit.",
+        "bio": "Sometimes small future action doctor class. Very young more true. On glass leader oil or hit create. Certainly American young him Congress man deep.\nInteresting difference how."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
