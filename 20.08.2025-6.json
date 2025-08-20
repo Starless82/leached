@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Conley",
+    "age": 48,
+    "address": {
+        "street": "Brianna Prairie",
+        "city": "Cabrerabury",
+        "state": "Utah",
+        "zip": "13243"
+    },
+    "contact": {
+        "phone": "(739)211-6410",
+        "servicePhone": "800623163"
+    },
+    "birthday": "1977-02-04",
+    "ip": "133.214.84.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Series movie claim environment. Medical condition only third.\nTreat up water since at.\nFirst visit culture identify four moment. Read them air finish. Difference recent up at.",
+        "bio": "Yet involve interesting computer trouble. Along training piece road appear.\nFederal benefit herself expect onto first TV. Billion share yard paper those. Again speech mother begin."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
