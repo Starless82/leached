@@ -1,0 +1,25 @@
+{
+    "name": "Diane Martin",
+    "age": 75,
+    "address": {
+        "street": "Bradley Villages",
+        "city": "Carolton",
+        "state": "New Jersey",
+        "zip": "78256"
+    },
+    "contact": {
+        "phone": "+1-683-626-4719x208",
+        "servicePhone": "800611401"
+    },
+    "birthday": "1950-11-02",
+    "ip": "164.194.47.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Here middle though sea.\nBorn since discover then high. Star year activity boy radio. Seek but inside level century business and rock.",
+        "bio": "Discover believe party measure rich fast appear. Final suffer time agent home health occur. However just grow risk husband medical shoulder whatever."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
