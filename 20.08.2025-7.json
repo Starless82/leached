@@ -1,0 +1,25 @@
+{
+    "name": "Laura Johnson",
+    "age": 83,
+    "address": {
+        "street": "Jenkins Heights",
+        "city": "Katherinebury",
+        "state": "West Virginia",
+        "zip": "62229"
+    },
+    "contact": {
+        "phone": "+1-334-268-5501x4207",
+        "servicePhone": "800114918"
+    },
+    "birthday": "1942-01-06",
+    "ip": "54.176.85.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Economic other trial represent arm. Real policy wait process.\nFar well group author wife. Need pull her about center different project truth.",
+        "bio": "Note recognize customer term develop sell. Energy professional machine fire.\nSit soon yes cut.\nColor someone upon his set. City home serve table reduce."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
