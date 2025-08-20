@@ -1,0 +1,25 @@
+{
+    "name": "Alan Orr",
+    "age": 13,
+    "address": {
+        "street": "Scott Junctions",
+        "city": "Barbarastad",
+        "state": "Alaska",
+        "zip": "95206"
+    },
+    "contact": {
+        "phone": "801-375-8895x5019",
+        "servicePhone": "800170558"
+    },
+    "birthday": "2012-25-05",
+    "ip": "149.192.125.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Way fight news impact. Tough care condition candidate.\nRepublican coach tonight family difference. Huge address check here event.",
+        "bio": "Look blue trial type. Note speech sign book.\nMaybe better create. Water receive risk policy."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
