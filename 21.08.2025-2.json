@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Brown",
+    "age": 68,
+    "address": {
+        "street": "Rhodes Turnpike",
+        "city": "Jenniferberg",
+        "state": "North Carolina",
+        "zip": "32048"
+    },
+    "contact": {
+        "phone": "+1-466-946-1390",
+        "servicePhone": "800217130"
+    },
+    "birthday": "1957-27-11",
+    "ip": "159.227.38.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Professor service room third drop once interview. Quickly agent yard compare drive someone itself.",
+        "bio": "Watch example film relationship street. Company he fight low small actually alone. Moment road provide. Almost edge road carry.\nRadio west physical its bill least throughout. Under fill story speech."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
