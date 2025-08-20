@@ -1,0 +1,25 @@
+{
+    "name": "Paula Estrada",
+    "age": 84,
+    "address": {
+        "street": "Lisa Hills",
+        "city": "Kristinbury",
+        "state": "Idaho",
+        "zip": "04058"
+    },
+    "contact": {
+        "phone": "2069375428",
+        "servicePhone": "800048272"
+    },
+    "birthday": "1941-10-06",
+    "ip": "100.33.226.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Price various never husband fear throughout. Ahead keep begin wide. Feel lose line talk view.",
+        "bio": "Radio left up. Morning between positive task interest just. Over upon minute.\nSuffer option carry green century throw white.\nAfter reveal begin story sound. Can have mind study style."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
