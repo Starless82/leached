@@ -1,0 +1,25 @@
+{
+    "name": "Olivia Jackson",
+    "age": 83,
+    "address": {
+        "street": "Caitlin Fork",
+        "city": "East Eileenfort",
+        "state": "Oklahoma",
+        "zip": "18071"
+    },
+    "contact": {
+        "phone": "696.304.3139x933",
+        "servicePhone": "800941656"
+    },
+    "birthday": "1942-24-08",
+    "ip": "59.217.115.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Establish crime order born stop forget.\nSource official draw team rule into yard. Point game soldier front away type.",
+        "bio": "Evening reflect trip lot tough point. Control pull race address ability."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
