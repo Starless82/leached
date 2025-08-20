@@ -1,0 +1,25 @@
+{
+    "name": "Misty West",
+    "age": 32,
+    "address": {
+        "street": "Fox Islands",
+        "city": "North Barbarafurt",
+        "state": "Virginia",
+        "zip": "21352"
+    },
+    "contact": {
+        "phone": "001-960-548-1540",
+        "servicePhone": "800964766"
+    },
+    "birthday": "1993-27-01",
+    "ip": "110.164.128.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Positive hand push group.\nArticle sign step sit. Group with ago. Community two certain national everybody.\nThere do summer forget. Story maybe gun political bank.",
+        "bio": "Do protect strategy coach war report down up. Born pay economy significant develop note clear."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
