@@ -1,0 +1,25 @@
+{
+    "name": "Brian Barnett",
+    "age": 58,
+    "address": {
+        "street": "Peterson Bypass",
+        "city": "Smithburgh",
+        "state": "Mississippi",
+        "zip": "99276"
+    },
+    "contact": {
+        "phone": "+1-909-889-4647",
+        "servicePhone": "800071687"
+    },
+    "birthday": "1967-02-08",
+    "ip": "170.136.48.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Arm player give career. Compare shoulder expert half discover season. Year step because police.\nContain specific window baby each. Start dream happen fire find audience style child.",
+        "bio": "Radio what son paper. Later she yard claim have one near. Safe sometimes executive suggest upon often truth.\nYard six cell or issue. Range buy hundred role challenge certainly anyone."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
