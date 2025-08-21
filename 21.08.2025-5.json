@@ -1,0 +1,25 @@
+{
+    "name": "Mark Oneal",
+    "age": 5,
+    "address": {
+        "street": "Wendy Roads",
+        "city": "North Victorfort",
+        "state": "Utah",
+        "zip": "71248"
+    },
+    "contact": {
+        "phone": "268.954.7455x9532",
+        "servicePhone": "800959065"
+    },
+    "birthday": "2020-04-11",
+    "ip": "36.207.127.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Son her table note certain nothing. System partner go.\nAdult budget spend pressure increase. Magazine turn control list themselves forget. Ever develop cause deep individual identify.",
+        "bio": "Pm statement stay suddenly pattern firm. Bar source risk sure group. Movement son summer especially indicate present single."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
