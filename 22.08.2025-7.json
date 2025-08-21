@@ -1,0 +1,25 @@
+{
+    "name": "Anna Ashley",
+    "age": 49,
+    "address": {
+        "street": "Richard Skyway",
+        "city": "Laurenfort",
+        "state": "Wisconsin",
+        "zip": "18140"
+    },
+    "contact": {
+        "phone": "988.443.5553",
+        "servicePhone": "800226861"
+    },
+    "birthday": "1976-07-05",
+    "ip": "1.141.57.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Program you discover western bit another difference. Rich find throw water more.\nInternational up up.\nRise represent but cultural.",
+        "bio": "West glass position market. Story tax notice game available year. Loss result dinner area black yard show."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
