@@ -1,0 +1,25 @@
+{
+    "name": "Kristin Brown",
+    "age": 45,
+    "address": {
+        "street": "Regina Drive",
+        "city": "East Kelseymouth",
+        "state": "Rhode Island",
+        "zip": "70822"
+    },
+    "contact": {
+        "phone": "001-431-517-3313x159",
+        "servicePhone": "800908438"
+    },
+    "birthday": "1980-30-08",
+    "ip": "105.240.161.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Rather set beautiful far. Wall after yeah to discover magazine animal and.\nDrug student usually very want. Include term future really figure public off.",
+        "bio": "Range church high generation vote tough total. White ball future none.\nResponse everyone society his drive child. Ground medical art throw item start city herself. Star then particularly."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
