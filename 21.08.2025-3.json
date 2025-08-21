@@ -1,0 +1,25 @@
+{
+    "name": "Jody Conner",
+    "age": 78,
+    "address": {
+        "street": "Simpson Burgs",
+        "city": "South John",
+        "state": "New York",
+        "zip": "19326"
+    },
+    "contact": {
+        "phone": "385-515-0958x86351",
+        "servicePhone": "800688932"
+    },
+    "birthday": "1947-16-06",
+    "ip": "192.213.169.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Word think generation company return. Outside born product civil senior century.\nMajority quite issue and decide the hit. Professor thank candidate toward new remain.",
+        "bio": "Generation listen size team its nor challenge. Great behavior new something kind we. Produce give civil television race. Up fill carry company difference nor beyond."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
