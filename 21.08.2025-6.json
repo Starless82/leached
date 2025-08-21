@@ -1,0 +1,25 @@
+{
+    "name": "Shawn Rowe",
+    "age": 45,
+    "address": {
+        "street": "Peterson Lock",
+        "city": "Douglasshire",
+        "state": "Indiana",
+        "zip": "72705"
+    },
+    "contact": {
+        "phone": "759-210-4408x645",
+        "servicePhone": "800089415"
+    },
+    "birthday": "1980-09-11",
+    "ip": "157.157.39.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Arm wind moment especially there result hear she. Teach bag friend half evidence always ground.",
+        "bio": "Rate again but everyone draw. Stop music paper situation role send. Week economic design table hour college expect answer."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
