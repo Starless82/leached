@@ -1,0 +1,25 @@
+{
+    "name": "Justin Baker",
+    "age": 75,
+    "address": {
+        "street": "Vasquez Roads",
+        "city": "Andrewville",
+        "state": "Washington",
+        "zip": "14054"
+    },
+    "contact": {
+        "phone": "001-592-964-4867x30737",
+        "servicePhone": "800532474"
+    },
+    "birthday": "1950-25-12",
+    "ip": "171.192.111.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Threat compare see player concern question play.\nMaybe pass determine. Right history wrong investment smile event year.\nDescribe occur never medical tell. Billion campaign mind born suffer son.",
+        "bio": "Film serious join. Trip life mention.\nDescribe near represent recent likely. Church real test end individual message.\nSee cell might blue. Under mission memory reason."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
