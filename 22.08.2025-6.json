@@ -1,0 +1,25 @@
+{
+    "name": "Megan Spencer",
+    "age": 69,
+    "address": {
+        "street": "Rogers Burg",
+        "city": "Coleport",
+        "state": "Kansas",
+        "zip": "13168"
+    },
+    "contact": {
+        "phone": "418.800.4594",
+        "servicePhone": "800648130"
+    },
+    "birthday": "1956-30-12",
+    "ip": "177.2.43.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Everything ever bar understand stay across lot.\nProfessor value commercial hotel threat fear. Assume food which hard cut catch. Hope present stay above sign.",
+        "bio": "Last drive knowledge character something process method. Cultural evidence decade investment attorney raise protect.\nThemselves near hundred run that. In professional television pay well."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
