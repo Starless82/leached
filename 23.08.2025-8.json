@@ -1,0 +1,25 @@
+{
+    "name": "Lori Lawson",
+    "age": 44,
+    "address": {
+        "street": "Griffith Motorway",
+        "city": "Evansbury",
+        "state": "New Jersey",
+        "zip": "52525"
+    },
+    "contact": {
+        "phone": "977.491.6238x5927",
+        "servicePhone": "800702424"
+    },
+    "birthday": "1981-27-01",
+    "ip": "112.8.210.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Agent challenge deep fall. Very response lead scientist friend company worker message. Begin decision drop physical science.",
+        "bio": "Significant behind American table yeah on. Light you look investment notice someone own especially. Player money maintain green water executive art."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
