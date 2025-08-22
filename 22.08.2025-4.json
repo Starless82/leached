@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Garza",
+    "age": 17,
+    "address": {
+        "street": "Holly Mission",
+        "city": "Lake Caitlyn",
+        "state": "Tennessee",
+        "zip": "80171"
+    },
+    "contact": {
+        "phone": "512-307-6152",
+        "servicePhone": "800697562"
+    },
+    "birthday": "2008-12-09",
+    "ip": "167.117.245.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Film head rule example girl already. Raise important air eye visit fine. I eat impact into sound sea.",
+        "bio": "Ago subject deal push.\nDetermine several at work represent. Choice choice college there religious week participant. Debate police local speak.\nResearch west street green.\nModel feeling interesting."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
