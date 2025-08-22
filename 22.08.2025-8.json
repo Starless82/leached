@@ -1,0 +1,25 @@
+{
+    "name": "Luis Weaver",
+    "age": 74,
+    "address": {
+        "street": "Holloway Rue",
+        "city": "East Paulhaven",
+        "state": "Missouri",
+        "zip": "46917"
+    },
+    "contact": {
+        "phone": "431-656-3661",
+        "servicePhone": "800785880"
+    },
+    "birthday": "1951-04-04",
+    "ip": "138.200.241.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Serious ago always. Collection vote tax laugh how. Conference stuff table wish role area growth.\nMaterial black today bed.\nYoung could born result write. Son dark cup special five stock million.",
+        "bio": "Pick call nation. Detail choose size education. Two risk again writer bad."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
