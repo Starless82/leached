@@ -1,0 +1,25 @@
+{
+    "name": "William Jones",
+    "age": 26,
+    "address": {
+        "street": "Joshua Crossroad",
+        "city": "Amandaburgh",
+        "state": "Hawaii",
+        "zip": "96798"
+    },
+    "contact": {
+        "phone": "+1-554-888-8851",
+        "servicePhone": "800453125"
+    },
+    "birthday": "1999-11-10",
+    "ip": "159.210.96.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Audience know she. Meeting ahead suffer side find beat.\nFactor ready process career. Kitchen very determine now. Personal back participant stage number but line perform.",
+        "bio": "Ready call claim. Money item soldier art more key.\nSociety how poor anyone cost. Manage top upon yourself federal yard. Smile probably game dinner area including down."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
