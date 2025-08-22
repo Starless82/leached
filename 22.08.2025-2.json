@@ -1,0 +1,25 @@
+{
+    "name": "Erin Chapman",
+    "age": 89,
+    "address": {
+        "street": "Lisa Mountains",
+        "city": "East Sarahshire",
+        "state": "Maine",
+        "zip": "97856"
+    },
+    "contact": {
+        "phone": "2186147017",
+        "servicePhone": "800319892"
+    },
+    "birthday": "1936-14-06",
+    "ip": "201.45.0.240",
+    "foo": "bar",
+    "profile": {
+        "about": "I write speak friend eye forward figure job. Hundred debate act public house. Issue staff feeling difficult reality.",
+        "bio": "Foreign avoid vote provide. Sing first very. Left late service thank daughter dark.\nSense glass executive window draw training. Worker five maintain cause business be forward."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
