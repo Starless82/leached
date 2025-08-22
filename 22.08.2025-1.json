@@ -1,0 +1,25 @@
+{
+    "name": "Caitlin Reilly",
+    "age": 105,
+    "address": {
+        "street": "Rice Drive",
+        "city": "Latoyaburgh",
+        "state": "Kansas",
+        "zip": "64388"
+    },
+    "contact": {
+        "phone": "001-340-944-2525x402",
+        "servicePhone": "800801145"
+    },
+    "birthday": "1920-08-07",
+    "ip": "170.210.121.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Edge specific entire bank blood possible American. Audience soon subject.\nImagine catch current financial dinner enough. Perform know director sense. Trouble police cost will method concern.",
+        "bio": "Example between forget woman. Same major no entire party system lead field. Mother structure six top society.\nTeam officer new born community."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
