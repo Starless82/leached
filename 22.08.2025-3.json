@@ -1,0 +1,25 @@
+{
+    "name": "Jenna Lozano",
+    "age": 49,
+    "address": {
+        "street": "Scott Hills",
+        "city": "North Janiceberg",
+        "state": "Colorado",
+        "zip": "87842"
+    },
+    "contact": {
+        "phone": "001-494-845-2341x4180",
+        "servicePhone": "800976758"
+    },
+    "birthday": "1976-06-07",
+    "ip": "95.58.91.162",
+    "foo": "bar",
+    "profile": {
+        "about": "In sort agency relate its may. Listen seem dog single fine model. Together pretty benefit send perform enjoy whether.\nBoard check boy tell. Either describe especially benefit take short.",
+        "bio": "Budget the country away. Call spend energy summer fact.\nSkill sell magazine. Group then foreign name value couple wide. Plan trade west hour commercial."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
