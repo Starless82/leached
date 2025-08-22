@@ -1,0 +1,25 @@
+{
+    "name": "Kristi Payne",
+    "age": 43,
+    "address": {
+        "street": "Patrick Mission",
+        "city": "Joneshaven",
+        "state": "Ohio",
+        "zip": "80888"
+    },
+    "contact": {
+        "phone": "222-221-9307",
+        "servicePhone": "800779359"
+    },
+    "birthday": "1982-16-07",
+    "ip": "115.188.131.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Despite every line like bag learn. Hot forward which something arm see need. Safe someone medical course interview level.\nDegree still remember name ball.",
+        "bio": "Anything sure owner wide. Stand since seven relationship something.\nOfficer until partner represent camera. Phone simply foreign test."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
