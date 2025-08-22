@@ -1,0 +1,25 @@
+{
+    "name": "John Williams",
+    "age": 17,
+    "address": {
+        "street": "Rodney Extensions",
+        "city": "East Deborahville",
+        "state": "Texas",
+        "zip": "28844"
+    },
+    "contact": {
+        "phone": "(659)853-5884x9274",
+        "servicePhone": "800977165"
+    },
+    "birthday": "2008-15-11",
+    "ip": "213.253.72.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Know out the to particularly. Process worker level clear turn their source.\nService they risk reduce. Parent effect low.\nSpring think next positive certainly budget. Still approach loss rise those.",
+        "bio": "Science indeed worry mother. Cell hotel good line. Let edge sit gun window impact sense tonight.\nResponse require within carry subject concern compare tend."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
