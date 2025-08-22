@@ -1,0 +1,25 @@
+{
+    "name": "Maria Smith",
+    "age": 60,
+    "address": {
+        "street": "David Ports",
+        "city": "South Nancy",
+        "state": "New Mexico",
+        "zip": "91219"
+    },
+    "contact": {
+        "phone": "+1-702-721-3195x79593",
+        "servicePhone": "800145687"
+    },
+    "birthday": "1965-20-06",
+    "ip": "188.111.41.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Wide meet everybody hear both four. Require space consumer worry. Discussion between room trade rate rule rock.\nSomeone experience of age. Break gun live back. Analysis office treat.",
+        "bio": "Tree their oil job customer condition. Central carry better history than report.\nKeep shake ever understand never. Most read ok past. Poor high method despite also career course story."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
