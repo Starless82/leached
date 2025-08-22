@@ -1,0 +1,25 @@
+{
+    "name": "Alexa Smith",
+    "age": 52,
+    "address": {
+        "street": "Edward Gateway",
+        "city": "Mclaughlinville",
+        "state": "Arizona",
+        "zip": "82882"
+    },
+    "contact": {
+        "phone": "001-912-898-9656x23869",
+        "servicePhone": "800623931"
+    },
+    "birthday": "1973-29-10",
+    "ip": "128.105.24.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Again once pretty candidate occur. Above quite turn detail yard service oil.",
+        "bio": "Simply development night five material benefit they. City experience war cup job. Year up individual east light."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
