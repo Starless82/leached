@@ -1,0 +1,25 @@
+{
+    "name": "Mason Porter",
+    "age": 14,
+    "address": {
+        "street": "Palmer Center",
+        "city": "Barbaraside",
+        "state": "Minnesota",
+        "zip": "09777"
+    },
+    "contact": {
+        "phone": "(391)705-9104x4297",
+        "servicePhone": "800772794"
+    },
+    "birthday": "2011-14-07",
+    "ip": "212.92.180.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Baby financial within his music old. Describe author politics claim particular right tree. Consider inside eye mouth.",
+        "bio": "Whatever pass environmental new.\nMaybe where store notice station series effort. Person try best difference line.\nLoss dream set. Arrive system some do concern. Research quality strong new."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
