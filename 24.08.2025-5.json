@@ -1,0 +1,25 @@
+{
+    "name": "Frank Davis",
+    "age": 51,
+    "address": {
+        "street": "Vega Spring",
+        "city": "North Marilynmouth",
+        "state": "New York",
+        "zip": "06973"
+    },
+    "contact": {
+        "phone": "+1-239-551-7051x376",
+        "servicePhone": "800339913"
+    },
+    "birthday": "1974-01-11",
+    "ip": "135.29.237.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Stock organization center wrong need matter. I when after way maybe.\nFinish simple see special action writer. Wear should stock everybody nor. Technology truth tend wrong.",
+        "bio": "Manager assume middle national guess military fast rule. Set practice member peace task.\nWhite fund rich parent."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
