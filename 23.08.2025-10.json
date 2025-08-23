@@ -1,0 +1,25 @@
+{
+    "name": "Janet Forbes",
+    "age": 108,
+    "address": {
+        "street": "Allen Corners",
+        "city": "New Tony",
+        "state": "Delaware",
+        "zip": "74112"
+    },
+    "contact": {
+        "phone": "+1-667-584-6154x4946",
+        "servicePhone": "800231145"
+    },
+    "birthday": "1917-02-09",
+    "ip": "191.8.222.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Future challenge since popular help authority cup specific. Investment ten movement response.\nCommon study performance class fire bring. Process money her hard. Daughter its pattern research effort.",
+        "bio": "Grow notice attorney others statement. And along share. Well lawyer then light knowledge opportunity blue.\nUntil worry imagine she officer bit.\nBoth these president put."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
