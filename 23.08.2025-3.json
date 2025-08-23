@@ -1,0 +1,25 @@
+{
+    "name": "Wesley Mcintyre",
+    "age": 19,
+    "address": {
+        "street": "Abigail Port",
+        "city": "Nicholastown",
+        "state": "Massachusetts",
+        "zip": "27193"
+    },
+    "contact": {
+        "phone": "529-837-3587",
+        "servicePhone": "800737104"
+    },
+    "birthday": "2006-15-09",
+    "ip": "1.233.167.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Property strategy early conference avoid piece doctor break. Open management performance work nearly possible let nature. Use draw owner such.\nThink bed for song. Someone he work better guess affect.",
+        "bio": "Try reduce affect property teacher movie. Magazine fire tree stay continue several exactly. Art night seat issue see."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
