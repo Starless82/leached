@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Davidson",
+    "age": 62,
+    "address": {
+        "street": "Leslie Spur",
+        "city": "Jessicaton",
+        "state": "New York",
+        "zip": "51366"
+    },
+    "contact": {
+        "phone": "4528645116",
+        "servicePhone": "800406386"
+    },
+    "birthday": "1963-28-05",
+    "ip": "65.145.3.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Star amount fire nature add building. Billion forward take spend.\nPolicy will southern head cell itself. Turn such war ever ability old artist.",
+        "bio": "Without whether court great game wait party option. Value early rise them skin or.\nManagement official heavy explain because true road. With themselves six program country house late."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
