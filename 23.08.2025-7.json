@@ -1,0 +1,25 @@
+{
+    "name": "Tina Barker",
+    "age": 109,
+    "address": {
+        "street": "Daniel Passage",
+        "city": "Cookfurt",
+        "state": "North Carolina",
+        "zip": "27631"
+    },
+    "contact": {
+        "phone": "262-767-5602",
+        "servicePhone": "800085144"
+    },
+    "birthday": "1916-08-07",
+    "ip": "203.158.112.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Goal community perhaps once could onto instead. Every else material as.\nCongress art value hard. Might agree family finish.\nCouple attorney dark memory build face remember.",
+        "bio": "Sister it those hair nor. Wonder go fast heart. Station letter provide evening a forget change."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
