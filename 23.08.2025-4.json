@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Gibson",
+    "age": 99,
+    "address": {
+        "street": "Morris Course",
+        "city": "Lake Heather",
+        "state": "Kansas",
+        "zip": "15906"
+    },
+    "contact": {
+        "phone": "+1-865-706-2735x6474",
+        "servicePhone": "800066618"
+    },
+    "birthday": "1926-23-09",
+    "ip": "210.207.124.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Head upon fine wall why speak. Keep thought job tree marriage life personal. Watch why music suggest next scene.\nAlso view agreement animal. Position ago build not.",
+        "bio": "Teach which bank program play authority describe ten. Guess father write far. Top thus job cell laugh positive laugh smile. Them financial involve range.\nLive boy bill seat no Mr."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
