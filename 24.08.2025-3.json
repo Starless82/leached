@@ -1,0 +1,25 @@
+{
+    "name": "Jaime Clark",
+    "age": 83,
+    "address": {
+        "street": "Tyler Trail",
+        "city": "Kennedymouth",
+        "state": "Washington",
+        "zip": "75081"
+    },
+    "contact": {
+        "phone": "401-735-8193",
+        "servicePhone": "800716890"
+    },
+    "birthday": "1942-21-01",
+    "ip": "21.151.152.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Watch government message eat record player attorney. Lawyer ball arrive couple scientist. Large take approach attention carry.",
+        "bio": "Free change politics perform such set. I listen about. Claim can pass his no wind PM.\nSomebody wear wear mean special. Entire wish seek consider figure amount. Arrive wish stay mother."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
