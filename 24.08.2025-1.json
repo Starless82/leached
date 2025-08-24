@@ -1,0 +1,25 @@
+{
+    "name": "Sean Hall",
+    "age": 79,
+    "address": {
+        "street": "Matthews Plains",
+        "city": "New Barbarashire",
+        "state": "Arizona",
+        "zip": "28246"
+    },
+    "contact": {
+        "phone": "001-748-518-9166x77853",
+        "servicePhone": "800414963"
+    },
+    "birthday": "1946-06-04",
+    "ip": "148.24.137.154",
+    "foo": "bar",
+    "profile": {
+        "about": "So last even official onto church. Do quality today writer. Actually Democrat that which hope.",
+        "bio": "Base two sell relate trouble especially pressure. Security thus grow concern indicate power recognize. Movement wife woman special debate."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
