@@ -1,0 +1,25 @@
+{
+    "name": "Heather Jackson",
+    "age": 84,
+    "address": {
+        "street": "Mcgee Forest",
+        "city": "Garzaton",
+        "state": "Connecticut",
+        "zip": "97562"
+    },
+    "contact": {
+        "phone": "324.908.8720x86299",
+        "servicePhone": "800449724"
+    },
+    "birthday": "1941-22-03",
+    "ip": "38.25.67.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Up through into anything smile so everything reduce. Call within poor. By main half organization news.\nEvent avoid prove office attorney moment civil. Field degree me choose blood field door.",
+        "bio": "Order everything purpose project reason single Mr. Hear attack billion unit clearly actually factor. Major form remember low agreement less. Enter yourself care of behavior military."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
