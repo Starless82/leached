@@ -1,0 +1,25 @@
+{
+    "name": "Natalie Fox",
+    "age": 64,
+    "address": {
+        "street": "Timothy Path",
+        "city": "North Lisa",
+        "state": "New Jersey",
+        "zip": "92714"
+    },
+    "contact": {
+        "phone": "+1-795-587-9730x07089",
+        "servicePhone": "800327518"
+    },
+    "birthday": "1961-02-01",
+    "ip": "175.187.200.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Her impact rest hit. Financial together bad training whose receive be. Business raise pass will term.\nChance join bank benefit south music should. How focus report Mr.",
+        "bio": "Product woman few set learn everybody. City agreement media nor thought yet. Choose public production firm. Notice manager conference include his enough place executive."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
