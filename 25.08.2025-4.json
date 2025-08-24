@@ -1,0 +1,25 @@
+{
+    "name": "Garrett Todd",
+    "age": 49,
+    "address": {
+        "street": "Mario Rue",
+        "city": "Torresstad",
+        "state": "Illinois",
+        "zip": "22654"
+    },
+    "contact": {
+        "phone": "4112969673",
+        "servicePhone": "800284488"
+    },
+    "birthday": "1976-19-11",
+    "ip": "18.198.58.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Marriage alone leg. Respond ever another ok Democrat eat. Discuss hour partner require reach company.\nEveryone table service. Ahead own price moment anything test.",
+        "bio": "Future quite where thing car. More available year leg.\nRisk nothing coach hit natural fear choose.\nProbably trouble number Democrat watch position feel. Improve major everyone hundred car during cup."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
