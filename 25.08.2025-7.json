@@ -1,0 +1,25 @@
+{
+    "name": "Michael Haley",
+    "age": 112,
+    "address": {
+        "street": "Hunt Crossing",
+        "city": "Cookmouth",
+        "state": "North Carolina",
+        "zip": "72935"
+    },
+    "contact": {
+        "phone": "502-718-7158x80370",
+        "servicePhone": "800867693"
+    },
+    "birthday": "1913-26-02",
+    "ip": "157.54.27.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Commercial bank knowledge safe manage east. Drug stand book inside where media dark.",
+        "bio": "True put project never within would federal career. Road of join mind although small social look. Job none phone expect our."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
