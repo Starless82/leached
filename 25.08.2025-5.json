@@ -1,0 +1,25 @@
+{
+    "name": "Laura Harrell",
+    "age": 46,
+    "address": {
+        "street": "Stephanie Spur",
+        "city": "Lake Charlesview",
+        "state": "Idaho",
+        "zip": "71993"
+    },
+    "contact": {
+        "phone": "001-233-728-2054x76750",
+        "servicePhone": "800663780"
+    },
+    "birthday": "1979-23-03",
+    "ip": "64.129.143.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Surface north eye room you cultural. Production degree low walk imagine former agree. Best edge thousand leg.\nElection others we arm read form. Argue gas herself carry operation claim brother PM.",
+        "bio": "Under Congress seat because choice still response. Movie line soldier might trouble number. Pm soldier great vote."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
