@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Sonya Mcfarland",
+    "age": 24,
+    "address": {
+        "street": "Ramirez Mission",
+        "city": "Michealburgh",
+        "state": "Arizona",
+        "zip": "89201"
+    },
+    "contact": {
+        "phone": "310.296.5798",
+        "servicePhone": "800190423"
+    },
+    "birthday": "2001-14-12",
+    "ip": "121.235.138.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Already day second call something interesting. Quite cover describe middle many drop kitchen. Art occur those.",
+        "bio": "After employee up main consumer data. Chance might recently able drive wait feeling. Bag loss put home determine when.\nOwner crime believe. Method record fund home future yes newspaper."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
