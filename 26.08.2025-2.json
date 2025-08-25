@@ -1,0 +1,25 @@
+{
+    "name": "Amber Miller",
+    "age": 44,
+    "address": {
+        "street": "Fowler Ramp",
+        "city": "Davisberg",
+        "state": "Georgia",
+        "zip": "19521"
+    },
+    "contact": {
+        "phone": "001-252-669-8563x730",
+        "servicePhone": "800817180"
+    },
+    "birthday": "1981-24-04",
+    "ip": "147.210.30.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Increase to season firm discover. Leg he spend military film real. Religious stock who.\nCard watch opportunity admit letter. Tax analysis despite bring week teach.",
+        "bio": "Force fish listen show officer section. Carry owner design military move. Pass wind face create rest chair. Southern indicate let stuff which call."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
