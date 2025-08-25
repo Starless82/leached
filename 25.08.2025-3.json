@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Kelly",
+    "age": 13,
+    "address": {
+        "street": "Martinez Station",
+        "city": "Port Kimberly",
+        "state": "West Virginia",
+        "zip": "69939"
+    },
+    "contact": {
+        "phone": "001-900-973-2974x5799",
+        "servicePhone": "800044936"
+    },
+    "birthday": "2012-07-02",
+    "ip": "126.243.44.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Wear entire good until sense middle control. Them development behavior break notice million.",
+        "bio": "Organization Mrs side score hold month series. Left physical their fall. Know fund factor message.\nOutside today family region address. Thing possible nice share respond."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
