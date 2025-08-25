@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Quinn",
+    "age": 22,
+    "address": {
+        "street": "John Corners",
+        "city": "Evanland",
+        "state": "Alabama",
+        "zip": "06327"
+    },
+    "contact": {
+        "phone": "001-228-276-1564",
+        "servicePhone": "800323631"
+    },
+    "birthday": "2003-20-08",
+    "ip": "94.201.239.211",
+    "foo": "bar",
+    "profile": {
+        "about": "More throw with. Study space form really city.\nGroup decade born send ground worry. Close decade if know enough. Although community rather song.",
+        "bio": "Who call nearly down. Property despite could sometimes edge yet. Bag charge community.\nSimply imagine few stage respond perform. Effort do exactly low top husband change."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
