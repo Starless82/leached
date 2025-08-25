@@ -1,0 +1,25 @@
+{
+    "name": "Kayla Francis",
+    "age": 14,
+    "address": {
+        "street": "Christopher Gardens",
+        "city": "North Gregoryhaven",
+        "state": "Kansas",
+        "zip": "43219"
+    },
+    "contact": {
+        "phone": "+1-950-402-1073x494",
+        "servicePhone": "800215260"
+    },
+    "birthday": "2011-15-11",
+    "ip": "222.233.112.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Little their price very scientist nation. Start past soon point goal professor. Cultural control reach open government.",
+        "bio": "Worry civil group our fast. Prepare indeed society half Mrs increase."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
