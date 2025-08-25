@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Davis",
+    "age": 86,
+    "address": {
+        "street": "Jennings Walk",
+        "city": "Thompsonmouth",
+        "state": "Vermont",
+        "zip": "47226"
+    },
+    "contact": {
+        "phone": "301.675.0705",
+        "servicePhone": "800941799"
+    },
+    "birthday": "1939-08-01",
+    "ip": "76.139.237.151",
+    "foo": "bar",
+    "profile": {
+        "about": "East few blue write hear feel production. Decision economic book painting program very. Cut whatever five term.\nCertain woman to much actually include.",
+        "bio": "Yard end action such loss. Size whether wife ground role. Join bring full race discuss doctor.\nAlthough green make here article plan. Best occur member color deep institution."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
