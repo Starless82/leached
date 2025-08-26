@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Green",
+    "age": 86,
+    "address": {
+        "street": "Thomas Centers",
+        "city": "Santosville",
+        "state": "California",
+        "zip": "05564"
+    },
+    "contact": {
+        "phone": "809.961.6840x2263",
+        "servicePhone": "800934328"
+    },
+    "birthday": "1939-02-09",
+    "ip": "192.250.100.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Miss involve necessary all. Stock provide back.\nEat five under dark enter majority stage. Start want change certain general magazine culture. Cell remember side resource yeah.",
+        "bio": "To successful sound what war during. Off nothing half special exactly politics role. Level toward determine dark. Prepare beat lead."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
