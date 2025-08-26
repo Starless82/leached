@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Patel",
+    "age": 115,
+    "address": {
+        "street": "William Forge",
+        "city": "Port Alexander",
+        "state": "New Hampshire",
+        "zip": "88769"
+    },
+    "contact": {
+        "phone": "691-705-2974x8161",
+        "servicePhone": "800016129"
+    },
+    "birthday": "1910-11-10",
+    "ip": "185.95.179.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Relationship hotel above sea case smile hot. Total anything run use history often.\nLay system guess thought once position economic way. Else reduce stuff little care production professional.",
+        "bio": "None Mrs focus carry language. Special hair particular.\nMay show past money. Control he admit well where evening other. Behind president friend professor candidate director realize."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
