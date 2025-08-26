@@ -1,0 +1,25 @@
+{
+    "name": "Brad Alvarado",
+    "age": 27,
+    "address": {
+        "street": "Sanders Unions",
+        "city": "West Elizabeth",
+        "state": "Massachusetts",
+        "zip": "94529"
+    },
+    "contact": {
+        "phone": "(770)591-9069",
+        "servicePhone": "800543305"
+    },
+    "birthday": "1998-08-01",
+    "ip": "112.19.221.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Shoulder prevent food front option respond movement. Want draw measure recently while floor.\nHowever cause help better opportunity. Another item none could. Bad child heart conference.",
+        "bio": "Create cold hear many. Group challenge expect but.\nPainting table thus society certain little. Style beyond require between drive tax outside. Growth under future baby great."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
