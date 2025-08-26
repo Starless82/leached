@@ -1,0 +1,25 @@
+{
+    "name": "Donna Reed",
+    "age": 37,
+    "address": {
+        "street": "Lloyd Stravenue",
+        "city": "Coleport",
+        "state": "Maine",
+        "zip": "45559"
+    },
+    "contact": {
+        "phone": "(694)541-6419x51129",
+        "servicePhone": "800008274"
+    },
+    "birthday": "1988-21-05",
+    "ip": "164.244.123.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Save land this everything radio beat. Woman world rich political your lose rate. Course high skin when.",
+        "bio": "Teacher enjoy catch focus few stuff. Effort build cover two. National huge voice budget.\nFuture deep building. Ok recently more identify last possible run. Series itself its find."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
