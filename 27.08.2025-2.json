@@ -1,0 +1,25 @@
+{
+    "name": "Jon Hernandez",
+    "age": 39,
+    "address": {
+        "street": "Moore Pike",
+        "city": "South Amy",
+        "state": "Delaware",
+        "zip": "53175"
+    },
+    "contact": {
+        "phone": "621.745.9393x13738",
+        "servicePhone": "800169713"
+    },
+    "birthday": "1986-29-10",
+    "ip": "49.40.14.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Leader place cost. Effect subject discover again me imagine long. Level behavior investment hard.\nForeign free around land. Must because foot enjoy those court.",
+        "bio": "Gun true price. Weight big let police course surface leader first.\nWith third amount yeah."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
