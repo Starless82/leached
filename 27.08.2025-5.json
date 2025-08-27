@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Chapman",
+    "age": 1,
+    "address": {
+        "street": "Wheeler Gateway",
+        "city": "Tabithaburgh",
+        "state": "Colorado",
+        "zip": "01756"
+    },
+    "contact": {
+        "phone": "(418)994-3652x01855",
+        "servicePhone": "800602794"
+    },
+    "birthday": "2024-25-09",
+    "ip": "22.177.132.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Let cold wife. Describe main create do understand when wonder. Machine drive early.",
+        "bio": "Away single pay push. Federal necessary wall great answer perhaps early.\nAt throw cup hope individual be add reach. Industry rather probably he. Cell movie glass prevent."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
