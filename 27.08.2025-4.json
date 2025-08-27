@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Adam Nelson",
+    "age": 27,
+    "address": {
+        "street": "Dustin Ridges",
+        "city": "East Edwardstad",
+        "state": "Nebraska",
+        "zip": "32662"
+    },
+    "contact": {
+        "phone": "926.796.3792x051",
+        "servicePhone": "800432561"
+    },
+    "birthday": "1998-12-04",
+    "ip": "118.106.245.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Professor smile drive board. Player plant method. Buy success see beautiful us five yeah interview.\nMother painting practice certainly station back outside name.",
+        "bio": "Gun billion many fear say. Off organization experience morning hit case. Good society third news may order parent. Plan mission spend forget already modern government."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
