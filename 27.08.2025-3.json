@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Brennan",
+    "age": 61,
+    "address": {
+        "street": "Yoder Shoals",
+        "city": "West Edward",
+        "state": "Hawaii",
+        "zip": "67609"
+    },
+    "contact": {
+        "phone": "983.441.4091x48388",
+        "servicePhone": "800763982"
+    },
+    "birthday": "1964-12-07",
+    "ip": "153.51.112.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Order account image yourself run development help. Page community or best. Size agent would source what nor still tough.",
+        "bio": "Begin father color everyone fast.\nGroup by notice production security investment simply. Off decision energy part. Try try manage.\nApply service left fine. His provide act we stock accept."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
