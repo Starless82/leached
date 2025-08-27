@@ -1,0 +1,25 @@
+{
+    "name": "Erika Reynolds",
+    "age": 11,
+    "address": {
+        "street": "Powell Plain",
+        "city": "New Kristina",
+        "state": "Massachusetts",
+        "zip": "57566"
+    },
+    "contact": {
+        "phone": "+1-295-933-3981x509",
+        "servicePhone": "800562402"
+    },
+    "birthday": "2014-18-05",
+    "ip": "198.181.60.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Push walk station federal partner investment hour. Specific security college rock away space gun.\nLevel order grow organization term. Mention test none either page. Feeling minute fact seek perhaps.",
+        "bio": "Might south rock tend individual information carry become. Result lawyer join meet report."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
