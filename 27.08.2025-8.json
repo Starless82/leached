@@ -1,0 +1,25 @@
+{
+    "name": "Steven Mathews",
+    "age": 34,
+    "address": {
+        "street": "Kevin Trail",
+        "city": "Port Martin",
+        "state": "Wisconsin",
+        "zip": "08513"
+    },
+    "contact": {
+        "phone": "(533)535-9290x61622",
+        "servicePhone": "800974831"
+    },
+    "birthday": "1991-28-05",
+    "ip": "168.89.195.120",
+    "foo": "bar",
+    "profile": {
+        "about": "American travel statement gun responsibility. Throw board him research before Mr light. Necessary describe money interesting.",
+        "bio": "Home type whom five consumer able. Thought back billion real find yourself whether."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
