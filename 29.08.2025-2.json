@@ -1,0 +1,25 @@
+{
+    "name": "Jillian Lee",
+    "age": 49,
+    "address": {
+        "street": "Martinez Avenue",
+        "city": "Norrisview",
+        "state": "West Virginia",
+        "zip": "19240"
+    },
+    "contact": {
+        "phone": "(472)474-1604x6316",
+        "servicePhone": "800700978"
+    },
+    "birthday": "1976-02-11",
+    "ip": "140.197.178.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Claim whose picture seek however deep west. Five take himself citizen open able sell. End institution record especially item on.",
+        "bio": "Successful time speech all remain live. Beautiful similar improve rest indeed.\nOrder fear security morning house share college. General expect phone Congress control shake."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
