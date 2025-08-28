@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Allen",
+    "age": 41,
+    "address": {
+        "street": "Brown Skyway",
+        "city": "New Tina",
+        "state": "Utah",
+        "zip": "53317"
+    },
+    "contact": {
+        "phone": "6085173120",
+        "servicePhone": "800828466"
+    },
+    "birthday": "1984-19-01",
+    "ip": "168.60.242.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Dinner system member. Interesting prove knowledge three a everybody marriage. Small inside film.",
+        "bio": "Door wait poor key quickly. Person audience morning interview establish instead both."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
