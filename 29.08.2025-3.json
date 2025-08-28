@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Rhodes",
+    "age": 115,
+    "address": {
+        "street": "Susan Rapids",
+        "city": "East Kerry",
+        "state": "Nebraska",
+        "zip": "96086"
+    },
+    "contact": {
+        "phone": "+1-745-266-3799x5692",
+        "servicePhone": "800824352"
+    },
+    "birthday": "1910-27-01",
+    "ip": "91.161.104.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Order nature state rich dream despite. Baby life college station.\nNight doctor social provide. Soldier leader information risk any.",
+        "bio": "Various week firm feeling. Evening agree whose every boy city. Business safe world plan and determine attorney scientist."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
