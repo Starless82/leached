@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Mcdonald",
+    "age": 78,
+    "address": {
+        "street": "Todd Avenue",
+        "city": "Lake Stacey",
+        "state": "Missouri",
+        "zip": "76685"
+    },
+    "contact": {
+        "phone": "288-237-4549",
+        "servicePhone": "800686723"
+    },
+    "birthday": "1947-28-08",
+    "ip": "151.58.108.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Start push they hotel since whether fill. Which your put onto. Care continue always hand walk actually. Pattern raise degree dinner sea hot social.",
+        "bio": "Fine election money fear economy why ready current. And leg blue father doctor fast participant science. Local worry under positive current power time. Focus system story relationship both."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
