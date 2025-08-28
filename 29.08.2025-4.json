@@ -1,0 +1,25 @@
+{
+    "name": "Jill Nelson",
+    "age": 99,
+    "address": {
+        "street": "Preston Circles",
+        "city": "Jamesborough",
+        "state": "Washington",
+        "zip": "67316"
+    },
+    "contact": {
+        "phone": "969.483.2792",
+        "servicePhone": "800131685"
+    },
+    "birthday": "1926-04-03",
+    "ip": "56.143.147.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Young reality good ability. People person room everything must.\nAlso time with know another thus. Different improve actually wonder.",
+        "bio": "Action song me foot southern about quality. I material trip hear amount."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
