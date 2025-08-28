@@ -1,0 +1,25 @@
+{
+    "name": "Heidi Hayes",
+    "age": 80,
+    "address": {
+        "street": "Anthony Loop",
+        "city": "Jameschester",
+        "state": "New York",
+        "zip": "81740"
+    },
+    "contact": {
+        "phone": "001-542-812-2411x204",
+        "servicePhone": "800337632"
+    },
+    "birthday": "1945-09-02",
+    "ip": "124.204.100.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Conference stand American movement often let. Let start relate thank.\nBecause song agree its western agency.",
+        "bio": "Natural relate shake who change PM. Seat order write gun method.\nUp again instead reality bill material. Whose book girl which might all last. Gun save expect hear open."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
