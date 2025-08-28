@@ -1,0 +1,25 @@
+{
+    "name": "Steven Cruz",
+    "age": 29,
+    "address": {
+        "street": "Vazquez Canyon",
+        "city": "Brittanyfort",
+        "state": "Wyoming",
+        "zip": "44296"
+    },
+    "contact": {
+        "phone": "536.551.7076",
+        "servicePhone": "800519429"
+    },
+    "birthday": "1996-04-04",
+    "ip": "180.189.177.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Most paper peace check word record owner. Picture many exactly activity manager. A smile pull get throw.\nSmall draw western finally about up.\nAlready alone line color weight.",
+        "bio": "Cover bill interview wide everything. Coach sense research above say firm of.\nTonight to first million from budget attorney interesting. Film factor huge trip practice everything hospital the."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
