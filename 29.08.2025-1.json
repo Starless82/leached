@@ -1,0 +1,25 @@
+{
+    "name": "John Crawford",
+    "age": 6,
+    "address": {
+        "street": "Lisa Walks",
+        "city": "Debrahaven",
+        "state": "Maryland",
+        "zip": "51271"
+    },
+    "contact": {
+        "phone": "982.815.5966x03904",
+        "servicePhone": "800060907"
+    },
+    "birthday": "2019-07-01",
+    "ip": "191.4.156.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Name mission chance road most. Rate some too concern check investment trip.\nNature involve minute look matter point since. Save least fight need seat itself. Spring them wear song knowledge believe.",
+        "bio": "Business exist learn approach. Draw between anything end hospital series. Day early part dog.\nCapital arrive occur employee all. Cell can that visit hard reach."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
