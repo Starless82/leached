@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Smith",
+    "age": 74,
+    "address": {
+        "street": "Wesley Tunnel",
+        "city": "North Natalieside",
+        "state": "Nebraska",
+        "zip": "69525"
+    },
+    "contact": {
+        "phone": "994.295.9684x57532",
+        "servicePhone": "800370021"
+    },
+    "birthday": "1951-11-08",
+    "ip": "105.219.208.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Base everyone success spring explain marriage college. Rather sound break good rock employee low.",
+        "bio": "Response board western field reflect free. Special court school write.\nMouth wide painting brother war after. I across whether bit get hard cup. Interesting require special."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
