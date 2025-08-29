@@ -1,0 +1,25 @@
+{
+    "name": "Steven Archer",
+    "age": 48,
+    "address": {
+        "street": "Frederick Knoll",
+        "city": "New Jennifer",
+        "state": "Rhode Island",
+        "zip": "11679"
+    },
+    "contact": {
+        "phone": "+1-613-216-6648x759",
+        "servicePhone": "800413158"
+    },
+    "birthday": "1977-30-08",
+    "ip": "93.139.32.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Begin woman necessary truth television house two late. Often science job. Main cell well recent size open pull.\nPartner get any even son official top speak. Though country around best.",
+        "bio": "Our interesting trial own traditional career then. Rise special amount state. Million computer likely particular.\nOnce approach prepare majority everyone."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
