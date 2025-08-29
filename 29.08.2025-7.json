@@ -1,0 +1,25 @@
+{
+    "name": "Vincent Mcdaniel",
+    "age": 18,
+    "address": {
+        "street": "Raymond Locks",
+        "city": "South Damon",
+        "state": "California",
+        "zip": "52781"
+    },
+    "contact": {
+        "phone": "001-881-683-9130x30510",
+        "servicePhone": "800712351"
+    },
+    "birthday": "2007-06-02",
+    "ip": "33.135.62.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Late care car pass budget account parent. Area interest area second long. She couple politics board analysis decide question.",
+        "bio": "Decade game keep beyond sound light wait case. Hospital by participant together within over sea.\nThird start win ground. Wait child law station. Art heavy value attention happy resource."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
