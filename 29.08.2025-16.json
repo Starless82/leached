@@ -1,0 +1,25 @@
+{
+    "name": "James Fisher",
+    "age": 11,
+    "address": {
+        "street": "Stephen Junctions",
+        "city": "Port Julian",
+        "state": "North Dakota",
+        "zip": "54745"
+    },
+    "contact": {
+        "phone": "+1-642-738-7374",
+        "servicePhone": "800850904"
+    },
+    "birthday": "2014-27-09",
+    "ip": "202.145.140.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Help rather cover wall situation. Arrive religious human policy say.",
+        "bio": "Week social moment case spring wide.\nStandard smile talk else team. Plan lay yet. System age wish third begin. Down walk lot benefit travel."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
