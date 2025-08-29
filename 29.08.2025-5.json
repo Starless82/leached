@@ -1,0 +1,25 @@
+{
+    "name": "Sara James",
+    "age": 109,
+    "address": {
+        "street": "Lopez Flats",
+        "city": "Jonathonchester",
+        "state": "Minnesota",
+        "zip": "55323"
+    },
+    "contact": {
+        "phone": "001-851-566-7705x866",
+        "servicePhone": "800124491"
+    },
+    "birthday": "1916-13-03",
+    "ip": "192.3.253.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Future anything budget soldier picture statement. Case close American not. Anyone understand play until.",
+        "bio": "Nor nor cultural box music. Run few write officer market put son.\nBad present case significant work own. Where movement develop doctor increase law. Detail head soldier you."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
