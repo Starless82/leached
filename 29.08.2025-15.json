@@ -1,0 +1,25 @@
+{
+    "name": "Henry Reed",
+    "age": 69,
+    "address": {
+        "street": "Alvarez Squares",
+        "city": "Millerton",
+        "state": "Ohio",
+        "zip": "15974"
+    },
+    "contact": {
+        "phone": "(856)450-5189",
+        "servicePhone": "800279994"
+    },
+    "birthday": "1956-17-06",
+    "ip": "9.142.88.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Future grow score international none tell practice. Up into be million office serve.\nActually coach more hand doctor. Federal if best on wife.\nTreat go performance inside trouble detail last.",
+        "bio": "Less point whom tax. Dog reduce true tough look keep beyond find.\nEither huge industry trouble report tree management list. Represent third short white off recent family way."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
