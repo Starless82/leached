@@ -1,0 +1,25 @@
+{
+    "name": "Julie Carney",
+    "age": 71,
+    "address": {
+        "street": "Hughes Hollow",
+        "city": "Port Stephanieshire",
+        "state": "Utah",
+        "zip": "67395"
+    },
+    "contact": {
+        "phone": "212.497.5149",
+        "servicePhone": "800403331"
+    },
+    "birthday": "1954-16-04",
+    "ip": "72.39.154.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Camera interesting amount available process moment source. General good when fund. Store fall man. Lay drop record turn.\nInteresting strategy seek. Writer view pay daughter also use imagine.",
+        "bio": "Consider safe concern southern tax ok. Project machine must. Effect should view collection pick medical."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
