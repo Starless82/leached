@@ -1,0 +1,25 @@
+{
+    "name": "Mark Pittman",
+    "age": 66,
+    "address": {
+        "street": "Boyd Square",
+        "city": "West Davidland",
+        "state": "Indiana",
+        "zip": "73073"
+    },
+    "contact": {
+        "phone": "589.951.9204x7477",
+        "servicePhone": "800851292"
+    },
+    "birthday": "1959-05-07",
+    "ip": "18.210.219.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Beautiful just option room move entire series. Box major ever inside security better.\nBuilding task general address. Hard among hotel establish not important worry nearly.",
+        "bio": "Live cut actually beat. Career deal candidate receive.\nPossible room degree road rate. House suffer per write finish cost base. Personal past tonight."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
