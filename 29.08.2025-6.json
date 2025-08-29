@@ -1,0 +1,25 @@
+{
+    "name": "Carrie Chambers",
+    "age": 109,
+    "address": {
+        "street": "Evans Place",
+        "city": "Nicolestad",
+        "state": "Wisconsin",
+        "zip": "52903"
+    },
+    "contact": {
+        "phone": "901.303.2818x75106",
+        "servicePhone": "800240930"
+    },
+    "birthday": "1916-16-05",
+    "ip": "107.193.8.245",
+    "foo": "bar",
+    "profile": {
+        "about": "He world paper back last.\nPractice long they successful. Save individual site event toward.\nAct seven heart my understand.",
+        "bio": "Parent question natural according oil believe. Prove community such machine ball still. Coach director us tend move executive environment."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
