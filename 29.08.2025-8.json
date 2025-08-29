@@ -1,0 +1,25 @@
+{
+    "name": "Mary Guzman",
+    "age": 50,
+    "address": {
+        "street": "Rachel Ford",
+        "city": "Sanchezstad",
+        "state": "Utah",
+        "zip": "70136"
+    },
+    "contact": {
+        "phone": "(707)792-3598",
+        "servicePhone": "800315242"
+    },
+    "birthday": "1975-23-01",
+    "ip": "47.160.183.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Support news similar. Certainly suddenly interest American coach laugh. All moment thing cup it.",
+        "bio": "Site loss interest.\nThought short explain wonder. Entire a can.\nVery live right table over best. But fish occur among skin."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
