@@ -1,0 +1,25 @@
+{
+    "name": "Dr. David Price",
+    "age": 27,
+    "address": {
+        "street": "Kelly Unions",
+        "city": "Dennisfort",
+        "state": "North Carolina",
+        "zip": "93259"
+    },
+    "contact": {
+        "phone": "415.379.6904",
+        "servicePhone": "800681187"
+    },
+    "birthday": "1998-22-11",
+    "ip": "17.71.9.146",
+    "foo": "bar",
+    "profile": {
+        "about": "About side me past. Bag simple entire build team interesting. Very personal particular player threat. Exist right off staff image human catch.",
+        "bio": "Blue how science certain author old. Scientist nearly attack network cost skill money.\nActually war assume of. Upon benefit size east service performance."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
