@@ -1,0 +1,25 @@
+{
+    "name": "Bryan Davis",
+    "age": 12,
+    "address": {
+        "street": "Strickland Shoal",
+        "city": "Johnsonburgh",
+        "state": "Idaho",
+        "zip": "79433"
+    },
+    "contact": {
+        "phone": "885.303.0215x537",
+        "servicePhone": "800322628"
+    },
+    "birthday": "2013-17-11",
+    "ip": "117.71.68.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Bill lot budget organization for. All heavy as practice hospital drop.\nNational free year attention you. Manager study simple tree large. Southern consumer organization program while.",
+        "bio": "Really base performance see rate for. Charge help appear list now who case away. Radio center smile boy name."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
