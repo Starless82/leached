@@ -1,0 +1,25 @@
+{
+    "name": "Terry Mcdonald",
+    "age": 12,
+    "address": {
+        "street": "Norma Centers",
+        "city": "Pottsport",
+        "state": "Missouri",
+        "zip": "56705"
+    },
+    "contact": {
+        "phone": "6087466046",
+        "servicePhone": "800676857"
+    },
+    "birthday": "2013-06-06",
+    "ip": "99.130.124.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Citizen similar history next. Wide wonder a or opportunity wrong my race. Discover human myself such something. This maintain doctor policy garden everyone heart.",
+        "bio": "Far tell author camera lay the our. Him new like walk.\nRock customer and woman sport walk. Election into other story. Next outside no popular."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
