@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Trevino",
+    "age": 83,
+    "address": {
+        "street": "Sanders Summit",
+        "city": "Grahammouth",
+        "state": "South Dakota",
+        "zip": "13038"
+    },
+    "contact": {
+        "phone": "001-229-305-2889x1885",
+        "servicePhone": "800899619"
+    },
+    "birthday": "1942-15-04",
+    "ip": "105.119.190.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Available operation contain tree politics. Skill mind present owner music left.",
+        "bio": "Including keep line water. Hear space strategy agreement. May born group least."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
