@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Sparks",
+    "age": 14,
+    "address": {
+        "street": "Cruz Union",
+        "city": "Port Patrick",
+        "state": "New Hampshire",
+        "zip": "15088"
+    },
+    "contact": {
+        "phone": "001-631-752-7031x77018",
+        "servicePhone": "800247623"
+    },
+    "birthday": "2011-04-09",
+    "ip": "118.216.16.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Own court maybe crime around. Lose law girl easy have. Way thank sport star probably.\nManager final popular against test. Task career high four doctor low.",
+        "bio": "Point four arrive read debate. This some animal benefit. And research city meeting reduce. Girl data safe easy."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
