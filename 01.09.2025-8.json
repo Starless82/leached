@@ -1,0 +1,25 @@
+{
+    "name": "William Tucker",
+    "age": 11,
+    "address": {
+        "street": "Dixon Heights",
+        "city": "Paulbury",
+        "state": "Virginia",
+        "zip": "50544"
+    },
+    "contact": {
+        "phone": "821-958-9014x77320",
+        "servicePhone": "800329415"
+    },
+    "birthday": "2014-03-06",
+    "ip": "104.212.49.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Billion important respond have eat top well tree. State here order right.\nIndeed no defense citizen leave capital act.",
+        "bio": "Condition will central media edge charge whatever. Discuss couple enough difficult reduce until. Billion term water two."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
