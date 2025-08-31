@@ -1,0 +1,25 @@
+{
+    "name": "Christopher House",
+    "age": 52,
+    "address": {
+        "street": "Tyler Turnpike",
+        "city": "East Blaketon",
+        "state": "Connecticut",
+        "zip": "72110"
+    },
+    "contact": {
+        "phone": "001-877-761-8759x946",
+        "servicePhone": "800513381"
+    },
+    "birthday": "1973-06-10",
+    "ip": "155.86.93.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Edge pretty day. Alone board add ago stay. Successful indicate where writer identify sell and find.\nSmall human other business.",
+        "bio": "Player teach cultural agency decade share. But arm argue modern trip.\nPoor those practice measure. Design green ok now look specific especially."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
