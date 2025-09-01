@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Vasquez",
+    "age": 16,
+    "address": {
+        "street": "Fields Heights",
+        "city": "New Jasonville",
+        "state": "Hawaii",
+        "zip": "12609"
+    },
+    "contact": {
+        "phone": "(812)410-2894x37503",
+        "servicePhone": "800671117"
+    },
+    "birthday": "2009-28-02",
+    "ip": "8.138.160.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Time spend force police. Choose if long daughter pressure special.\nLose such first prove appear. Base serve out risk peace fund.",
+        "bio": "Case history yet early raise. Probably indeed course tough. Follow exactly attention explain course future television. Street central or every month movie majority."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
