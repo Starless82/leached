@@ -1,0 +1,25 @@
+{
+    "name": "April Delacruz",
+    "age": 84,
+    "address": {
+        "street": "Larson Club",
+        "city": "New Billytown",
+        "state": "Indiana",
+        "zip": "14027"
+    },
+    "contact": {
+        "phone": "530.560.8478x8264",
+        "servicePhone": "800647597"
+    },
+    "birthday": "1941-09-02",
+    "ip": "85.22.19.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Student crime for world pretty world. Out maybe feel include check tend until. Rise new heavy possible test point.\nWhile American within not machine simple. Serve thank might miss quality.",
+        "bio": "Specific reduce investment over start. Condition training identify camera then new.\nCard relate do may. Although compare team safe tax everybody."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
