@@ -1,0 +1,25 @@
+{
+    "name": "Emily Ramirez",
+    "age": 63,
+    "address": {
+        "street": "Aguilar Curve",
+        "city": "Stewartstad",
+        "state": "Kentucky",
+        "zip": "19640"
+    },
+    "contact": {
+        "phone": "416-912-0550",
+        "servicePhone": "800576045"
+    },
+    "birthday": "1962-04-10",
+    "ip": "139.200.77.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Treatment offer sport whom last. Again provide public quite least.\nMeasure fill if owner writer partner assume.\nHe kid car prepare now strong level. Take series clear glass.",
+        "bio": "Someone be story. According but white speak accept new security.\nParticular boy every myself group world teacher. Price kid bar spring stock."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
