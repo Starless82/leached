@@ -1,0 +1,25 @@
+{
+    "name": "John Carson",
+    "age": 1,
+    "address": {
+        "street": "James Cliffs",
+        "city": "Simmonsmouth",
+        "state": "Oklahoma",
+        "zip": "33496"
+    },
+    "contact": {
+        "phone": "900.972.7998x6446",
+        "servicePhone": "800503948"
+    },
+    "birthday": "2024-06-05",
+    "ip": "183.94.99.145",
+    "foo": "bar",
+    "profile": {
+        "about": "He painting son tonight teach add. Inside because free catch interesting federal after. Marriage just hear his stuff man.",
+        "bio": "Run always nice sure doctor firm nothing. State source southern.\nAlone cultural employee himself until. Music quickly morning full detail commercial according."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
