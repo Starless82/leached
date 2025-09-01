@@ -1,0 +1,25 @@
+{
+    "name": "Paul Harper",
+    "age": 58,
+    "address": {
+        "street": "Haley Cape",
+        "city": "North Sarah",
+        "state": "Nebraska",
+        "zip": "08597"
+    },
+    "contact": {
+        "phone": "001-587-553-1619x618",
+        "servicePhone": "800737094"
+    },
+    "birthday": "1967-09-12",
+    "ip": "149.153.156.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Doctor administration just international head. Over sure apply religious. Water matter along nearly shake.\nComputer role red.",
+        "bio": "Claim final market everyone he body admit pay. Full page put beyond protect accept. Manager theory save along."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
