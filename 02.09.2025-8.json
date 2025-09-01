@@ -1,0 +1,25 @@
+{
+    "name": "Erin Odonnell",
+    "age": 48,
+    "address": {
+        "street": "Crosby Lodge",
+        "city": "East Jacobberg",
+        "state": "North Carolina",
+        "zip": "12556"
+    },
+    "contact": {
+        "phone": "638.211.8690x546",
+        "servicePhone": "800177109"
+    },
+    "birthday": "1977-24-07",
+    "ip": "149.154.86.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Instead spend magazine her price conference. Have low sure whatever could trip. Food yourself our.\nTeam later image machine officer bill. Ten wish let particular oil.",
+        "bio": "Feeling door interest up beyond worry performance response.\nQuality six cultural blood between college. Party now wall grow maintain life simply. Skill tough month paper."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
