@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Stevenson",
+    "age": 30,
+    "address": {
+        "street": "Stacy Corner",
+        "city": "Lake Ericachester",
+        "state": "Maine",
+        "zip": "16108"
+    },
+    "contact": {
+        "phone": "001-770-910-5334x63003",
+        "servicePhone": "800289734"
+    },
+    "birthday": "1995-28-02",
+    "ip": "179.4.106.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Position president six beautiful best range keep. Worker cut data.\nSoldier against today cost any professional. Property box when wish exist walk concern foreign. Threat see upon once.",
+        "bio": "Night Republican six environment. Either effort picture. Article reflect interesting which opportunity peace.\nPass glass none strategy bad one company. Gun herself memory subject agent."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
