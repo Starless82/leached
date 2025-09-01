@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Calhoun",
+    "age": 25,
+    "address": {
+        "street": "Macdonald Roads",
+        "city": "Douglasberg",
+        "state": "Florida",
+        "zip": "12425"
+    },
+    "contact": {
+        "phone": "804-587-2837",
+        "servicePhone": "800684237"
+    },
+    "birthday": "2000-23-03",
+    "ip": "210.240.27.213",
+    "foo": "bar",
+    "profile": {
+        "about": "List big project blue professor charge final. Stock ten power brother everyone north among. Politics question voice hold final occur age.",
+        "bio": "Cup public bad federal level. Available analysis artist audience.\nAdmit rate final dog fire sound stuff. Performance because cost point but size."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
