@@ -1,0 +1,25 @@
+{
+    "name": "Virginia Hall",
+    "age": 95,
+    "address": {
+        "street": "Lisa Land",
+        "city": "Alexville",
+        "state": "Iowa",
+        "zip": "97941"
+    },
+    "contact": {
+        "phone": "001-868-493-0029x9079",
+        "servicePhone": "800539883"
+    },
+    "birthday": "1930-23-05",
+    "ip": "1.0.98.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Foreign anyone produce control remember contain. Serve key material whether.\nTrouble nation enjoy set window success trouble. Point now subject teach center.",
+        "bio": "Doctor reality result shake future draw per two. Him official deep light compare color. Hope everybody after. Reveal help southern reality according reduce much."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
