@@ -1,0 +1,25 @@
+{
+    "name": "Terry Munoz",
+    "age": 59,
+    "address": {
+        "street": "Johnson Harbors",
+        "city": "South Mario",
+        "state": "North Carolina",
+        "zip": "81721"
+    },
+    "contact": {
+        "phone": "001-853-819-1518x814",
+        "servicePhone": "800628847"
+    },
+    "birthday": "1966-22-02",
+    "ip": "200.209.241.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Image according right but because. Reality test next organization require buy stop.",
+        "bio": "Resource car base manager all party still another. Respond bed huge long require about nice. Job car behind threat force student."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
