@@ -1,0 +1,25 @@
+{
+    "name": "Randall Hill",
+    "age": 33,
+    "address": {
+        "street": "Rice Harbors",
+        "city": "Stevensberg",
+        "state": "Nebraska",
+        "zip": "88652"
+    },
+    "contact": {
+        "phone": "594.487.2378x5676",
+        "servicePhone": "800340256"
+    },
+    "birthday": "1992-10-06",
+    "ip": "54.245.142.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Officer culture drive those. Western participant trip human.\nSkin teacher fund this give accept once. Hot site speech. Political response social mouth another family dream.",
+        "bio": "Feel discuss doctor significant black thank. Career thank above enough figure visit piece.\nLay argue human cost control leg do. Agent during common modern news. Car different consider."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
