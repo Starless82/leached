@@ -1,0 +1,25 @@
+{
+    "name": "Mark Shepard",
+    "age": 33,
+    "address": {
+        "street": "Jacob Ways",
+        "city": "Lake Jessicaside",
+        "state": "Montana",
+        "zip": "36872"
+    },
+    "contact": {
+        "phone": "912.875.8776",
+        "servicePhone": "800308906"
+    },
+    "birthday": "1992-22-04",
+    "ip": "149.148.52.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Hair far which main indicate success. Item site yeah bill full space.\nChurch activity these build simply when poor church. Such new remember study last.",
+        "bio": "Memory become pull there particularly trip. Economic drive international season paper."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
