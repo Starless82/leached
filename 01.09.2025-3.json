@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Collins",
+    "age": 78,
+    "address": {
+        "street": "Thomas Locks",
+        "city": "New Alex",
+        "state": "Oregon",
+        "zip": "86202"
+    },
+    "contact": {
+        "phone": "278.215.8466x018",
+        "servicePhone": "800102485"
+    },
+    "birthday": "1947-12-10",
+    "ip": "80.235.56.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Method word pass speech whatever almost military large.\nWear admit box skin these leader start great. Finish general government read different back. You interview free evidence million expect.",
+        "bio": "Continue protect record town well. Role president recently several friend example.\nPast believe together focus order term could president. Never federal baby important benefit. Hear ten which find."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
