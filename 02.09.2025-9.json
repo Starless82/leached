@@ -1,0 +1,25 @@
+{
+    "name": "Robert Mckinney",
+    "age": 96,
+    "address": {
+        "street": "Matthew Highway",
+        "city": "New Crystal",
+        "state": "Massachusetts",
+        "zip": "47312"
+    },
+    "contact": {
+        "phone": "589.264.2495x8219",
+        "servicePhone": "800066567"
+    },
+    "birthday": "1929-12-05",
+    "ip": "7.161.35.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Medical leave role learn else someone doctor art. Fast ball clear her baby sing.\nQuite break consider girl program. She check better yes nice establish approach product.",
+        "bio": "Instead focus beat plan mean raise. When behavior energy way act what police check. Little gas current such.\nTest trial guy yard throw important. Market population memory near set."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
