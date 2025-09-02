@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Woods",
+    "age": 56,
+    "address": {
+        "street": "Adams Brooks",
+        "city": "North Sheila",
+        "state": "Maryland",
+        "zip": "33887"
+    },
+    "contact": {
+        "phone": "+1-773-851-2259x240",
+        "servicePhone": "800317988"
+    },
+    "birthday": "1969-14-07",
+    "ip": "150.6.120.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Against head group region director. Improve seven really concern. But into reach.",
+        "bio": "Full avoid bring represent majority worker base. Read research north. Reflect detail name which can seem.\nHotel the reduce from perhaps.\nReturn article hospital without."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
