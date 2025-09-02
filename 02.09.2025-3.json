@@ -1,0 +1,25 @@
+{
+    "name": "Veronica Lewis",
+    "age": 92,
+    "address": {
+        "street": "Ellis Fork",
+        "city": "Lake Brian",
+        "state": "North Dakota",
+        "zip": "25819"
+    },
+    "contact": {
+        "phone": "001-675-786-6585x91580",
+        "servicePhone": "800404342"
+    },
+    "birthday": "1933-18-12",
+    "ip": "26.137.45.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Give can call magazine. Blue low generation. Scientist stuff item bit yet TV.\nBillion charge read. Finally present section house baby wish partner across. Special boy kind.",
+        "bio": "Contain entire heart high decision. Social born within second black bank.\nMember glass huge however year team. Find outside hand personal do itself."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
