@@ -1,0 +1,25 @@
+{
+    "name": "Amy Lopez",
+    "age": 115,
+    "address": {
+        "street": "Jacob Streets",
+        "city": "Alexanderberg",
+        "state": "North Carolina",
+        "zip": "39234"
+    },
+    "contact": {
+        "phone": "+1-780-523-6092x522",
+        "servicePhone": "800892931"
+    },
+    "birthday": "1910-30-01",
+    "ip": "67.50.194.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Toward raise company interest return despite. Garden participant arm life.",
+        "bio": "National sing better. Clear let nor least. Magazine then group send.\nStart price decade method over price arm. Purpose human song write yeah training lot."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
