@@ -1,0 +1,25 @@
+{
+    "name": "Tanya Davis",
+    "age": 109,
+    "address": {
+        "street": "Rodriguez Viaduct",
+        "city": "Davischester",
+        "state": "Arkansas",
+        "zip": "48000"
+    },
+    "contact": {
+        "phone": "905.617.2441x37194",
+        "servicePhone": "800462174"
+    },
+    "birthday": "1916-29-05",
+    "ip": "98.68.14.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Decision check upon important fly. They behavior director mind. Entire special pretty region democratic he always.",
+        "bio": "Put quite reality still. Recognize serious beyond.\nCut think center seat. Soldier north sing increase few real open plant. Everyone exist true fill artist painting yeah."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
