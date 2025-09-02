@@ -1,0 +1,25 @@
+{
+    "name": "Calvin Jones",
+    "age": 87,
+    "address": {
+        "street": "Kelly Square",
+        "city": "Jamesburgh",
+        "state": "Minnesota",
+        "zip": "28584"
+    },
+    "contact": {
+        "phone": "966.480.8878x38055",
+        "servicePhone": "800668129"
+    },
+    "birthday": "1938-02-07",
+    "ip": "113.123.16.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Article action who opportunity music assume. Yes charge store claim clear something player eat.\nGame we example family or. Language decade arrive low economic agree situation. Everyone bag in.",
+        "bio": "Blood challenge attorney data. People way into tough book tell right.\nNext toward oil culture whatever shake mention. Again air peace. May huge school service chance."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
