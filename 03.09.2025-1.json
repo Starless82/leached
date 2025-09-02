@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Christine Sullivan",
+    "age": 81,
+    "address": {
+        "street": "Bonnie Mountains",
+        "city": "North Katherine",
+        "state": "Minnesota",
+        "zip": "35416"
+    },
+    "contact": {
+        "phone": "001-517-481-1696",
+        "servicePhone": "800799948"
+    },
+    "birthday": "1944-02-11",
+    "ip": "199.26.41.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Avoid laugh ago friend issue education focus media. Remember again knowledge find. Realize indeed for admit collection teacher shake.",
+        "bio": "Land similar area stock picture. Reality far TV street kid.\nSeveral rest different determine fund lead. Girl bed system step security."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
