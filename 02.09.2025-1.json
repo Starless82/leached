@@ -1,0 +1,25 @@
+{
+    "name": "Linda Reynolds",
+    "age": 75,
+    "address": {
+        "street": "Darin Underpass",
+        "city": "Fischershire",
+        "state": "Iowa",
+        "zip": "20067"
+    },
+    "contact": {
+        "phone": "521.689.9966",
+        "servicePhone": "800671454"
+    },
+    "birthday": "1950-07-05",
+    "ip": "14.247.119.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Focus top have low offer. Seven yeah director wind card last resource something.",
+        "bio": "Section full way such citizen hour. Man meeting have soon become.\nFormer improve term. Letter owner subject by apply late. Simply service energy choice television amount."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
