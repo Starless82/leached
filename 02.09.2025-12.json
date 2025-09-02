@@ -1,0 +1,25 @@
+{
+    "name": "Bonnie Shaw",
+    "age": 13,
+    "address": {
+        "street": "Miller Lodge",
+        "city": "East Brandymouth",
+        "state": "Vermont",
+        "zip": "46722"
+    },
+    "contact": {
+        "phone": "5552127133",
+        "servicePhone": "800220347"
+    },
+    "birthday": "2012-20-03",
+    "ip": "62.82.70.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Activity go surface necessary high hour cover there. Physical return discover amount realize article take yard.\nRepresent value back ten key. Exist section address. Music direction first major whole.",
+        "bio": "Social road night toward. Quite southern government term try. Arrive might where finish. Account above billion then because.\nQuite place own value. Stage nor market race. Require road today she."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
