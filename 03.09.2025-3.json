@@ -1,0 +1,25 @@
+{
+    "name": "Michael Hood",
+    "age": 53,
+    "address": {
+        "street": "Scott Estate",
+        "city": "Port Erika",
+        "state": "Missouri",
+        "zip": "24913"
+    },
+    "contact": {
+        "phone": "777.427.7680x8864",
+        "servicePhone": "800881099"
+    },
+    "birthday": "1972-19-06",
+    "ip": "47.56.0.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Price night parent focus. Spend television despite oil knowledge affect provide.",
+        "bio": "American mission heart top mother lose mouth. Lay take start traditional soon nearly. Drug life field set course me.\nGarden concern task both lay."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
