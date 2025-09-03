@@ -1,0 +1,25 @@
+{
+    "name": "Billy Nguyen",
+    "age": 72,
+    "address": {
+        "street": "Austin Union",
+        "city": "Port Stephanie",
+        "state": "Minnesota",
+        "zip": "57579"
+    },
+    "contact": {
+        "phone": "001-937-356-6099x8228",
+        "servicePhone": "800286345"
+    },
+    "birthday": "1953-09-02",
+    "ip": "120.184.197.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Authority beat station dinner shoulder question.\nThose court once concern learn. Picture sell total forward national appear station.",
+        "bio": "Upon letter east.\nReality statement local face. Education natural offer he hand."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
