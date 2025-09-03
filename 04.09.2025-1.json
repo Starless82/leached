@@ -1,0 +1,25 @@
+{
+    "name": "Angela Vasquez",
+    "age": 27,
+    "address": {
+        "street": "James Heights",
+        "city": "Lake Stevehaven",
+        "state": "Pennsylvania",
+        "zip": "26754"
+    },
+    "contact": {
+        "phone": "968-911-6393x186",
+        "servicePhone": "800445043"
+    },
+    "birthday": "1998-10-02",
+    "ip": "12.250.113.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Husband hold southern sense. Arrive director lot growth. Sister happy democratic.\nInterest development right which. He high spend above because present central. Where sit for itself treatment.",
+        "bio": "Popular man explain ball.\nComputer able community detail think. Girl throughout trade lot long figure father clear.\nTeacher music sit establish term different require. Loss fine choice state quality."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
