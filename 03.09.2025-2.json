@@ -1,0 +1,25 @@
+{
+    "name": "Karen Martin",
+    "age": 90,
+    "address": {
+        "street": "Antonio Fords",
+        "city": "South Adammouth",
+        "state": "Oklahoma",
+        "zip": "27765"
+    },
+    "contact": {
+        "phone": "889.329.7640x0943",
+        "servicePhone": "800653884"
+    },
+    "birthday": "1935-22-10",
+    "ip": "130.29.161.230",
+    "foo": "bar",
+    "profile": {
+        "about": "National doctor customer notice a ball. Within everybody mind often stop campaign music.\nReligious impact field wind prove score.",
+        "bio": "Western street father something.\nBuy us face water main. Shoulder notice pick question laugh with. Society member room language whose professional outside."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
