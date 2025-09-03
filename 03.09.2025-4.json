@@ -1,0 +1,25 @@
+{
+    "name": "Lindsey Alvarado",
+    "age": 17,
+    "address": {
+        "street": "Lawrence Alley",
+        "city": "New Amberburgh",
+        "state": "Maryland",
+        "zip": "60895"
+    },
+    "contact": {
+        "phone": "(388)290-8465x09995",
+        "servicePhone": "800420128"
+    },
+    "birthday": "2008-30-07",
+    "ip": "137.19.125.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Across party property note. Event face use rate. Half analysis project security.\nBreak response minute who crime summer.",
+        "bio": "Anyone eye compare sit first should. Teach guy speak point watch sense. Station owner peace threat.\nEnough station that simply fine drive sense. Partner law over seem. Tonight allow television prove."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
