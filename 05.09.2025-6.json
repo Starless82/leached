@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Jackson",
+    "age": 100,
+    "address": {
+        "street": "Daniel Route",
+        "city": "Gillespieberg",
+        "state": "Maine",
+        "zip": "51631"
+    },
+    "contact": {
+        "phone": "(944)338-2609",
+        "servicePhone": "800096128"
+    },
+    "birthday": "1925-09-12",
+    "ip": "52.239.222.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Whole wrong teach eight. Challenge team Mrs tax table over home someone. Throughout today top.",
+        "bio": "Mrs at about everything again body nature. Return wish number could each. Draw manage actually. Hear capital stuff own soldier woman significant."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
