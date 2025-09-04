@@ -1,0 +1,25 @@
+{
+    "name": "Karen Spencer",
+    "age": 28,
+    "address": {
+        "street": "James Plaza",
+        "city": "Jasonmouth",
+        "state": "New York",
+        "zip": "58909"
+    },
+    "contact": {
+        "phone": "270-979-5230",
+        "servicePhone": "800881905"
+    },
+    "birthday": "1997-14-05",
+    "ip": "217.108.201.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Significant government gas others over describe. Pattern help network.\nPaper little far specific Republican. Trouble someone girl investment history.",
+        "bio": "Success according dark member source defense. My well method size view dinner something."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
