@@ -1,0 +1,25 @@
+{
+    "name": "Jackie Hill",
+    "age": 50,
+    "address": {
+        "street": "Craig Court",
+        "city": "East Denisefurt",
+        "state": "Kansas",
+        "zip": "93374"
+    },
+    "contact": {
+        "phone": "(639)815-5043",
+        "servicePhone": "800922039"
+    },
+    "birthday": "1975-23-08",
+    "ip": "130.86.4.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Then stand trip agent off picture modern. Send would family opportunity direction process team.\nSix after task remember thousand lawyer. Per space before. Industry voice lay against cover put song.",
+        "bio": "Late his north coach buy thank. Coach operation movement seat.\nHer until nice important care cause. Expert firm clearly weight ahead. Law amount until board fly deal."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
