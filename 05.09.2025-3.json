@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Ford",
+    "age": 39,
+    "address": {
+        "street": "Hendrix Circle",
+        "city": "Stevenbury",
+        "state": "Wisconsin",
+        "zip": "47899"
+    },
+    "contact": {
+        "phone": "001-683-776-0304x08599",
+        "servicePhone": "800230107"
+    },
+    "birthday": "1986-16-04",
+    "ip": "175.9.97.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Point director same marriage room certainly receive. Price white unit list write great. Wish over effect Republican for whatever.",
+        "bio": "Service when turn evening.\nTrade crime choose popular. Create act air commercial budget. More far above describe similar state politics where."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
