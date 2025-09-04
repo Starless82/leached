@@ -1,0 +1,25 @@
+{
+    "name": "Barbara Figueroa",
+    "age": 56,
+    "address": {
+        "street": "Emily Common",
+        "city": "Lake Lauren",
+        "state": "Alabama",
+        "zip": "54477"
+    },
+    "contact": {
+        "phone": "843-456-0123x829",
+        "servicePhone": "800917954"
+    },
+    "birthday": "1969-26-07",
+    "ip": "9.8.27.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Win one some news simply various fire. No name sister hotel people morning thus. Get bank management bag factor maybe.\nFund term mission finally case degree too. Impact yard where send power act.",
+        "bio": "More become interview remember. Use thus food study hot.\nNothing hear painting. Organization sister detail nearly administration speak its between."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
