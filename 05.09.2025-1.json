@@ -1,0 +1,25 @@
+{
+    "name": "Valerie Frost",
+    "age": 66,
+    "address": {
+        "street": "Green Extension",
+        "city": "Turnerstad",
+        "state": "Alaska",
+        "zip": "54523"
+    },
+    "contact": {
+        "phone": "(446)588-0779",
+        "servicePhone": "800495796"
+    },
+    "birthday": "1959-06-11",
+    "ip": "46.182.69.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Assume conference face size along either. Employee around option live site send success. Budget help country inside yet.\nCan size born nice. Early nice occur. Positive fire raise section free.",
+        "bio": "Fire ten newspaper. Do could coach ever he remain sense. Economic figure near modern here. Build note most region wind can administration article."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
