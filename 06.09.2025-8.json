@@ -1,0 +1,25 @@
+{
+    "name": "Bryan Roberts",
+    "age": 44,
+    "address": {
+        "street": "Casey Spring",
+        "city": "Brownburgh",
+        "state": "Idaho",
+        "zip": "76960"
+    },
+    "contact": {
+        "phone": "+1-743-536-8086x756",
+        "servicePhone": "800055742"
+    },
+    "birthday": "1981-14-07",
+    "ip": "171.137.226.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation station discover him buy during through. War poor still three really that tell provide. Radio stop cover song budget activity quite.",
+        "bio": "Why west expert. Strategy clear hundred course learn.\nSuch difficult like add marriage add. Amount ok but store property worker difficult."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
