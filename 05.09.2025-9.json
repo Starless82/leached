@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Banks",
+    "age": 44,
+    "address": {
+        "street": "Boyer Camp",
+        "city": "Arnoldland",
+        "state": "Massachusetts",
+        "zip": "28052"
+    },
+    "contact": {
+        "phone": "3848911213",
+        "servicePhone": "800060590"
+    },
+    "birthday": "1981-08-02",
+    "ip": "160.189.177.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Any section only data nature easy raise expert. Into cause able picture.\nNation center situation among spend change answer. Professional remain start treat recent take song.",
+        "bio": "Watch protect staff I age so. Court present score physical. Hundred set central suffer. Nothing big challenge any professor.\nDiscussion writer such step management suggest huge wrong."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
