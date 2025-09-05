@@ -1,0 +1,25 @@
+{
+    "name": "Steven Gaines",
+    "age": 72,
+    "address": {
+        "street": "Melanie Lodge",
+        "city": "East Jacobhaven",
+        "state": "Florida",
+        "zip": "51355"
+    },
+    "contact": {
+        "phone": "507-721-3252x630",
+        "servicePhone": "800008317"
+    },
+    "birthday": "1953-18-12",
+    "ip": "145.87.164.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Fill money which follow laugh.\nSeven discuss treatment later fall. Event ability particularly company.\nSomething wide Democrat choose live partner account by. Degree hear rest lot some.",
+        "bio": "Recently state meet evidence. Idea usually whole the century teach everybody about. Wait conference painting force page security."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
