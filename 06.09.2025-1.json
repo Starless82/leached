@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Day",
+    "age": 88,
+    "address": {
+        "street": "Hudson Hollow",
+        "city": "Port Robertland",
+        "state": "Virginia",
+        "zip": "82035"
+    },
+    "contact": {
+        "phone": "392-820-9276",
+        "servicePhone": "800184965"
+    },
+    "birthday": "1937-25-08",
+    "ip": "177.46.215.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Writer ago word hot. Often sign role talk.\nNothing tax speak still or. Chance according including long about.\nBuy song strategy.",
+        "bio": "Role check wish up move subject.\nFour their movie.\nStart peace production keep we there public system. Sell close or culture especially standard. Likely thing scene work."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
