@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Adams",
+    "age": 83,
+    "address": {
+        "street": "Hughes Garden",
+        "city": "East Thomashaven",
+        "state": "Connecticut",
+        "zip": "94809"
+    },
+    "contact": {
+        "phone": "718.878.4661x17890",
+        "servicePhone": "800205925"
+    },
+    "birthday": "1942-21-09",
+    "ip": "62.218.144.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Course join law notice serious part coach. Play scene positive important military television. Not big pattern building focus.\nMention write government. Bag hard everybody kitchen price.",
+        "bio": "Skill bed financial TV analysis world girl usually. Memory since we second usually alone author. Along Mr trade benefit food particularly."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
