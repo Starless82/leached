@@ -1,0 +1,25 @@
+{
+    "name": "Tara Johnson MD",
+    "age": 10,
+    "address": {
+        "street": "Michael Drives",
+        "city": "South Michaelchester",
+        "state": "Colorado",
+        "zip": "17753"
+    },
+    "contact": {
+        "phone": "472.629.8339",
+        "servicePhone": "800180484"
+    },
+    "birthday": "2015-31-07",
+    "ip": "194.17.121.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Easy conference learn camera culture. Begin never loss.\nHotel weight our power.",
+        "bio": "Management now within individual few environment five approach.\nMove before hand course option. Long cause finish democratic wear attack here.\nAgency scientist control represent."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
