@@ -1,0 +1,25 @@
+{
+    "name": "Colin Day",
+    "age": 100,
+    "address": {
+        "street": "Thomas Islands",
+        "city": "Heatherside",
+        "state": "Iowa",
+        "zip": "79532"
+    },
+    "contact": {
+        "phone": "798-340-2253x66747",
+        "servicePhone": "800969775"
+    },
+    "birthday": "1925-13-10",
+    "ip": "105.98.120.209",
+    "foo": "bar",
+    "profile": {
+        "about": "He democratic determine draw. Interesting forward leader administration.\nTime under firm recognize success tree support. Avoid new grow leave amount never wrong.",
+        "bio": "Congress car of perform him. Sing especially home road paper pass. Where almost her administration myself idea interest."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
