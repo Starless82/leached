@@ -1,0 +1,25 @@
+{
+    "name": "Heather Harris",
+    "age": 58,
+    "address": {
+        "street": "Gomez Manor",
+        "city": "Port Barryport",
+        "state": "Utah",
+        "zip": "00840"
+    },
+    "contact": {
+        "phone": "(934)955-9586",
+        "servicePhone": "800289143"
+    },
+    "birthday": "1967-20-09",
+    "ip": "161.233.115.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Drug contain hospital stop watch into focus.\nWhich conference wonder area. Decade Mrs city. Hear eye together rich four type dog.",
+        "bio": "Price especially use world. Weight boy official arm. Option worker gun trade little blue international.\nAnother field raise truth staff guess lot. Consider expert skill special draw big agency."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
