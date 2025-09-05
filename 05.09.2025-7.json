@@ -1,0 +1,25 @@
+{
+    "name": "Angela Martin",
+    "age": 63,
+    "address": {
+        "street": "Stephens Lodge",
+        "city": "New Nicole",
+        "state": "Virginia",
+        "zip": "22265"
+    },
+    "contact": {
+        "phone": "639-363-3348",
+        "servicePhone": "800796340"
+    },
+    "birthday": "1962-18-07",
+    "ip": "73.167.104.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Past forget particularly they guess. Enough bank yes others whole. Would white network world process culture put.",
+        "bio": "Environmental way task movement car room provide rock. Cover knowledge stop section know expect.\nEasy in level food late."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
