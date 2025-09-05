@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Schmidt",
+    "age": 60,
+    "address": {
+        "street": "Matthew Cape",
+        "city": "East Lisa",
+        "state": "Montana",
+        "zip": "13454"
+    },
+    "contact": {
+        "phone": "+1-546-467-2502x978",
+        "servicePhone": "800369678"
+    },
+    "birthday": "1965-30-05",
+    "ip": "30.98.68.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Box strong many nearly price president speak.\nPlay nor money care measure green. Answer financial process go maybe. Note firm state the.",
+        "bio": "Policy make myself operation do rule coach. Writer but middle now himself same. Standard center art note place."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
