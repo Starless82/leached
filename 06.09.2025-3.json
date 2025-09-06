@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Jimenez",
+    "age": 24,
+    "address": {
+        "street": "Daniel Coves",
+        "city": "Martinezburgh",
+        "state": "New York",
+        "zip": "38417"
+    },
+    "contact": {
+        "phone": "734.605.9898",
+        "servicePhone": "800141369"
+    },
+    "birthday": "2001-06-08",
+    "ip": "168.116.14.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Figure cultural area worry house. Present ready summer conference guess raise article. Change remain star age. Exactly remain yet today fund civil big.",
+        "bio": "Friend school field personal. Open future scene policy. Pm leader high baby.\nVoice benefit life activity Republican believe. Shake fire human firm test popular interest."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
