@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Davis",
+    "age": 87,
+    "address": {
+        "street": "Rhonda Path",
+        "city": "North Tina",
+        "state": "North Carolina",
+        "zip": "25925"
+    },
+    "contact": {
+        "phone": "882.290.2304x216",
+        "servicePhone": "800535851"
+    },
+    "birthday": "1938-10-07",
+    "ip": "100.181.40.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Animal research exactly impact range something daughter. Theory red especially nice successful fear. Ok order play sport design energy expert. My eat back.",
+        "bio": "Yet run site free nice series improve. Ability all dream could agent they.\nLot way friend yes road reduce help. Recently mother big increase. Read card phone more tax pressure."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
