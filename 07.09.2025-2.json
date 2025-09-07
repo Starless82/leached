@@ -1,0 +1,25 @@
+{
+    "name": "Pamela Carter",
+    "age": 24,
+    "address": {
+        "street": "Alexander Trace",
+        "city": "North Sarah",
+        "state": "Maryland",
+        "zip": "68488"
+    },
+    "contact": {
+        "phone": "462.716.6245x20952",
+        "servicePhone": "800344043"
+    },
+    "birthday": "2001-11-04",
+    "ip": "194.135.13.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Morning talk whether meeting morning president. Employee statement moment some ever join. Own and thought whose state.\nSoon table summer next week pretty agent. Husband project represent.",
+        "bio": "Area debate see produce as. Tonight no technology important general choice. Sing her better including race discussion."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
