@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Mendez",
+    "age": 9,
+    "address": {
+        "street": "Ashley Radial",
+        "city": "South Edgarport",
+        "state": "Montana",
+        "zip": "57297"
+    },
+    "contact": {
+        "phone": "2645927850",
+        "servicePhone": "800825202"
+    },
+    "birthday": "2016-18-01",
+    "ip": "42.217.228.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Set event those surface. Seven box government maintain conference air fight speak. Family while travel page close first try.",
+        "bio": "Group thing measure. Remain debate wear identify some enough series.\nThese south prevent author. Public yeah little."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
