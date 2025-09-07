@@ -1,0 +1,25 @@
+{
+    "name": "Heather Pollard",
+    "age": 35,
+    "address": {
+        "street": "Brown Square",
+        "city": "North Calvin",
+        "state": "Louisiana",
+        "zip": "47232"
+    },
+    "contact": {
+        "phone": "(730)882-9566x595",
+        "servicePhone": "800936537"
+    },
+    "birthday": "1990-17-10",
+    "ip": "214.155.255.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Lot know interview particular. Current alone book hand law collection. East shoulder skin prepare hair.\nApproach if soon resource debate. Activity be there mission arrive low lawyer.",
+        "bio": "South until evening such woman part. Expect then level certain high would quality.\nSure blood practice every. Nearly anyone even fight. Decide provide hold sign movie."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
