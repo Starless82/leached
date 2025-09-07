@@ -1,0 +1,25 @@
+{
+    "name": "Scott Mendez",
+    "age": 22,
+    "address": {
+        "street": "Lopez Trace",
+        "city": "Henryburgh",
+        "state": "Kansas",
+        "zip": "28037"
+    },
+    "contact": {
+        "phone": "9043851870",
+        "servicePhone": "800980379"
+    },
+    "birthday": "2003-18-05",
+    "ip": "107.143.123.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Himself pay seek. Party himself present series listen economic culture.\nPattern necessary realize quickly goal adult beyond. Glass wall father civil coach.",
+        "bio": "Travel blood might home present. Trade say tonight.\nWith today green. Level thing maybe blue news operation. System fill main travel those site war real."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
