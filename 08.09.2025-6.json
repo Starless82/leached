@@ -1,0 +1,25 @@
+{
+    "name": "Scott Thomas",
+    "age": 60,
+    "address": {
+        "street": "Thomas Inlet",
+        "city": "South Sandra",
+        "state": "Hawaii",
+        "zip": "16084"
+    },
+    "contact": {
+        "phone": "2672333551",
+        "servicePhone": "800481079"
+    },
+    "birthday": "1965-01-02",
+    "ip": "18.166.13.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Direction near century as free small. Scene than speech hundred guess end necessary.\nStudy finally next room debate camera right. Case three to join. While design student.",
+        "bio": "Information success TV good. Fire meet century nation.\nMaybe call fire along. Structure cover quickly east great compare."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
