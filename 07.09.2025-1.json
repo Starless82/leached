@@ -1,0 +1,25 @@
+{
+    "name": "Dan Elliott",
+    "age": 40,
+    "address": {
+        "street": "Strickland Island",
+        "city": "Robertfort",
+        "state": "Missouri",
+        "zip": "25259"
+    },
+    "contact": {
+        "phone": "(896)651-3739",
+        "servicePhone": "800969038"
+    },
+    "birthday": "1985-26-10",
+    "ip": "220.75.225.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Mind final across specific quickly radio. Within account east crime future reason. Activity full finally.",
+        "bio": "Writer material where like bank lawyer. Six range above occur partner wish animal. Allow candidate clear go.\nPiece life affect another particularly bill upon. Finish reveal ten mouth beyond."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
