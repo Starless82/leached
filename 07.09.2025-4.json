@@ -1,0 +1,25 @@
+{
+    "name": "Gabrielle Woods",
+    "age": 37,
+    "address": {
+        "street": "David Shore",
+        "city": "New Sarah",
+        "state": "Vermont",
+        "zip": "45058"
+    },
+    "contact": {
+        "phone": "+1-696-254-8491x5579",
+        "servicePhone": "800540926"
+    },
+    "birthday": "1988-10-03",
+    "ip": "85.65.248.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Each perform simply who point far yeah. Thousand bring talk deal tree.\nNorth case smile type line book. Among arm ten finish Mr citizen nation.",
+        "bio": "Ready type how bar. Soldier money what art. Cause add seem.\nStudy firm yet action share. Go information bank traditional big piece clear. Thus candidate pass heavy kitchen tell buy local."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
