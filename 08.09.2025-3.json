@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Maynard",
+    "age": 54,
+    "address": {
+        "street": "Ian Courts",
+        "city": "Triciaville",
+        "state": "Colorado",
+        "zip": "92993"
+    },
+    "contact": {
+        "phone": "967-517-0096",
+        "servicePhone": "800912512"
+    },
+    "birthday": "1971-22-03",
+    "ip": "130.151.65.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Word mind board himself blood under others. Fear break behind while.\nAir until fly laugh direction believe same produce. Board occur quickly.",
+        "bio": "North skill weight every method something spend.\nPractice lay involve trouble. Trip politics western likely feel Republican."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
