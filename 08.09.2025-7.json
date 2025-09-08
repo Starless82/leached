@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Brown",
+    "age": 88,
+    "address": {
+        "street": "Richard Bypass",
+        "city": "Jamesport",
+        "state": "Louisiana",
+        "zip": "13592"
+    },
+    "contact": {
+        "phone": "(559)730-1256x886",
+        "servicePhone": "800910341"
+    },
+    "birthday": "1937-12-06",
+    "ip": "55.84.10.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Area cut car. Speech control themselves enter describe itself nice.\nSouth travel contain. Worker style want change never add. Better pressure eight happy bank relate.",
+        "bio": "Operation safe strategy people board least. Republican finish page attention floor. Exactly risk half heavy.\nParticular radio prevent quality world set run. Election hour travel truth another."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
