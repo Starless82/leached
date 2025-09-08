@@ -1,0 +1,25 @@
+{
+    "name": "Robert Harmon",
+    "age": 50,
+    "address": {
+        "street": "Cantu Ridges",
+        "city": "Singhland",
+        "state": "Ohio",
+        "zip": "37417"
+    },
+    "contact": {
+        "phone": "(333)549-9598",
+        "servicePhone": "800406769"
+    },
+    "birthday": "1975-01-09",
+    "ip": "220.207.181.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Age from adult candidate community ten fear. Fire life cup table add similar would.\nIndividual leg perform mean.\nImportant myself certain morning concern tend.",
+        "bio": "Without nothing agent. Century tell upon difficult.\nArtist learn although different teach here thus. She air anything campaign interesting. Develop tough daughter lose some use put."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
