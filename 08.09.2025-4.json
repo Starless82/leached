@@ -1,0 +1,25 @@
+{
+    "name": "Caitlin Huynh",
+    "age": 66,
+    "address": {
+        "street": "Mahoney Village",
+        "city": "Sarahland",
+        "state": "Utah",
+        "zip": "56609"
+    },
+    "contact": {
+        "phone": "341.952.6293x57483",
+        "servicePhone": "800498600"
+    },
+    "birthday": "1959-31-01",
+    "ip": "132.90.175.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Animal strong effect environment control five southern. Ten establish team.\nFinally eight imagine method garden threat deal talk. Exist always agent argue camera themselves change hit.",
+        "bio": "Mission firm different fly material sister last. Little amount affect continue knowledge reason knowledge player. With ten beautiful administration establish realize."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
