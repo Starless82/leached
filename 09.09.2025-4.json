@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Johnson",
+    "age": 107,
+    "address": {
+        "street": "Jared Pike",
+        "city": "North Vickieborough",
+        "state": "California",
+        "zip": "34501"
+    },
+    "contact": {
+        "phone": "955-279-6108x062",
+        "servicePhone": "800126554"
+    },
+    "birthday": "1918-09-04",
+    "ip": "68.78.3.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Feel keep page west yourself education board. Artist truth event go Democrat leader.\nSociety fast next feel. Team this rather different. Trouble upon common late president challenge oil develop.",
+        "bio": "Task particularly make wall teach lose page. Agreement list claim nature take single.\nDifficult soldier bed region. Small must training attack simply rich young. Night late mean have."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
