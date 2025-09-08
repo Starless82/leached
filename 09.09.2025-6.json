@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Jones",
+    "age": 1,
+    "address": {
+        "street": "Lloyd Plaza",
+        "city": "South Scotttown",
+        "state": "New Mexico",
+        "zip": "99191"
+    },
+    "contact": {
+        "phone": "200.940.6884x3291",
+        "servicePhone": "800358135"
+    },
+    "birthday": "2024-05-10",
+    "ip": "78.36.216.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Off but nature whether toward film. Determine since return into her blue. Yeah rest service loss technology guy.",
+        "bio": "Perhaps suffer they natural amount plan month still."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
