@@ -1,0 +1,25 @@
+{
+    "name": "Paul Clarke",
+    "age": 34,
+    "address": {
+        "street": "Jones Springs",
+        "city": "Carlashire",
+        "state": "Kansas",
+        "zip": "78598"
+    },
+    "contact": {
+        "phone": "+1-897-580-8162x6526",
+        "servicePhone": "800970567"
+    },
+    "birthday": "1991-14-10",
+    "ip": "157.89.164.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Bar present meeting especially voice million positive. Until threat various within no college kind guess.",
+        "bio": "Audience indicate technology think difficult safe. Forget interview claim interest official."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
