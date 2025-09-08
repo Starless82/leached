@@ -1,0 +1,25 @@
+{
+    "name": "Brendan Bernard",
+    "age": 16,
+    "address": {
+        "street": "Allison Row",
+        "city": "East Cindy",
+        "state": "Alabama",
+        "zip": "82765"
+    },
+    "contact": {
+        "phone": "990.733.6392x1174",
+        "servicePhone": "800915399"
+    },
+    "birthday": "2009-18-01",
+    "ip": "38.137.116.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Key western likely.\nTell enter maybe loss all race to. Including page become.\nTrouble actually between seem network resource. Speech through his morning director.",
+        "bio": "Baby defense top community wide. According state region believe. Third why keep kitchen."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
