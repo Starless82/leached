@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Parker",
+    "age": 103,
+    "address": {
+        "street": "Amber Light",
+        "city": "Port Lindsaybury",
+        "state": "North Dakota",
+        "zip": "06542"
+    },
+    "contact": {
+        "phone": "971-639-9638x31199",
+        "servicePhone": "800952458"
+    },
+    "birthday": "1922-12-09",
+    "ip": "5.74.6.155",
+    "foo": "bar",
+    "profile": {
+        "about": "From story kitchen never choose pick. Student any near. Fund actually whether plant.\nForce us itself skin particularly.\nGoal cell establish positive much hundred. Security hand maintain along level.",
+        "bio": "Hour ability population. Sport other price view deal. Arrive together leg everybody evening follow red ok.\nEither parent right stock expect."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
