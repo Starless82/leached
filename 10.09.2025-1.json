@@ -1,0 +1,25 @@
+{
+    "name": "Kristina Carter",
+    "age": 109,
+    "address": {
+        "street": "Davenport Divide",
+        "city": "Singhberg",
+        "state": "Texas",
+        "zip": "48881"
+    },
+    "contact": {
+        "phone": "935.581.1361x295",
+        "servicePhone": "800078332"
+    },
+    "birthday": "1916-03-05",
+    "ip": "222.140.199.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Course finally glass color eat create. Perhaps surface what allow.\nPast policy produce recent conference treatment example.",
+        "bio": "Well blood TV some. Him whom government minute. Age week religious national employee. Resource recent green theory scene."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
