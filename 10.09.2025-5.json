@@ -1,0 +1,25 @@
+{
+    "name": "Scott Bullock",
+    "age": 105,
+    "address": {
+        "street": "Amanda Estate",
+        "city": "Teresaton",
+        "state": "Arkansas",
+        "zip": "86225"
+    },
+    "contact": {
+        "phone": "713.420.0779",
+        "servicePhone": "800182310"
+    },
+    "birthday": "1920-12-07",
+    "ip": "77.187.198.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Toward event receive establish relate. Material page single follow. Land memory knowledge much perhaps.",
+        "bio": "Listen list hard worry into talk. Nation more get Congress culture system maintain.\nEnd person station thank find what military.\nRed grow pretty team thousand garden. Both mother buy affect language."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
