@@ -1,0 +1,25 @@
+{
+    "name": "Audrey Harris",
+    "age": 14,
+    "address": {
+        "street": "Gary Shore",
+        "city": "East Haleyburgh",
+        "state": "Florida",
+        "zip": "55752"
+    },
+    "contact": {
+        "phone": "001-534-419-9858",
+        "servicePhone": "800894272"
+    },
+    "birthday": "2011-25-11",
+    "ip": "60.25.62.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Alone author interesting join appear later weight. Get choose available give call technology. Almost girl support especially.",
+        "bio": "Couple mean do relate yet until. Recent mouth knowledge treat. Draw require hundred through.\nBecause professional level me church. He drive debate service animal apply town. Operation beyond former."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
