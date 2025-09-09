@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Austin",
+    "age": 89,
+    "address": {
+        "street": "Shane Track",
+        "city": "Hayesmouth",
+        "state": "North Carolina",
+        "zip": "35281"
+    },
+    "contact": {
+        "phone": "520.471.2402",
+        "servicePhone": "800172987"
+    },
+    "birthday": "1936-29-04",
+    "ip": "109.72.164.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Like soldier either school individual. Role dream training religious time.\nMajority investment or. Win defense forget exist. Event lay situation oil blue.",
+        "bio": "Card assume dinner thank choice foreign coach.\nMeasure door fight other group. Hour herself assume who. Kitchen local tonight total citizen claim tax."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
