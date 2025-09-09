@@ -1,0 +1,25 @@
+{
+    "name": "Erika Johnston",
+    "age": 12,
+    "address": {
+        "street": "Williams Valley",
+        "city": "Griffinmouth",
+        "state": "Maryland",
+        "zip": "05945"
+    },
+    "contact": {
+        "phone": "+1-630-682-1389x666",
+        "servicePhone": "800510850"
+    },
+    "birthday": "2013-01-12",
+    "ip": "158.128.28.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Throughout air seven talk for plan. Focus participant agreement wonder.\nProject myself one administration. Young lose strategy protect whom set.",
+        "bio": "Dark Mr and realize soon half form.\nEnergy reality test break. Great certainly myself five give."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
