@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Klein",
+    "age": 24,
+    "address": {
+        "street": "Fox Plains",
+        "city": "Garyton",
+        "state": "Indiana",
+        "zip": "57972"
+    },
+    "contact": {
+        "phone": "944.605.5745",
+        "servicePhone": "800707059"
+    },
+    "birthday": "2001-19-01",
+    "ip": "71.140.220.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Thank yourself tax per whether. Natural space mention civil time black bag apply.",
+        "bio": "Responsibility amount realize toward. Response better though nearly. Listen face cup cause consider."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
