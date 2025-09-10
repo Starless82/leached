@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Adkins",
+    "age": 58,
+    "address": {
+        "street": "Ingram Street",
+        "city": "North Alexchester",
+        "state": "Indiana",
+        "zip": "98706"
+    },
+    "contact": {
+        "phone": "+1-981-214-9967",
+        "servicePhone": "800447450"
+    },
+    "birthday": "1967-22-05",
+    "ip": "47.27.115.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Live style minute stay evidence. Grow participant skill mission almost.\nYard never suffer find wall value option assume. Again recognize wall several.",
+        "bio": "Spend our popular account across. Evening show east spend agency. Well official special hit."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
