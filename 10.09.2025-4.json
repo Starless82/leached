@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Sawyer",
+    "age": 5,
+    "address": {
+        "street": "Joy Harbor",
+        "city": "Taylortown",
+        "state": "Indiana",
+        "zip": "70454"
+    },
+    "contact": {
+        "phone": "7148814434",
+        "servicePhone": "800306880"
+    },
+    "birthday": "2020-12-01",
+    "ip": "163.78.206.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Financial fly main kind property game here.\nAlso board trade. Others father cover local main front claim.",
+        "bio": "Deal scene while amount. Concern nature product seek president even short. Ok money general their tree writer reach out.\nQuality possible style stuff play. Executive effort everybody share city idea."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
