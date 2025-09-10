@@ -1,0 +1,25 @@
+{
+    "name": "Amber Reyes",
+    "age": 65,
+    "address": {
+        "street": "Adams Parkways",
+        "city": "Phillipshaven",
+        "state": "Oregon",
+        "zip": "09631"
+    },
+    "contact": {
+        "phone": "001-915-913-8914x616",
+        "servicePhone": "800468441"
+    },
+    "birthday": "1960-02-02",
+    "ip": "219.223.143.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Century not west realize.\nHear civil security fight sound. Series on often risk lawyer man perhaps fall.\nRelationship believe teach together. About home teacher network red both gun.",
+        "bio": "Outside top necessary draw. Assume effort up imagine notice relate.\nEvidence and short. Contain set body point look career trade."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
