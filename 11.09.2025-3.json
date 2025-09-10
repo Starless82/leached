@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Baker",
+    "age": 93,
+    "address": {
+        "street": "Phillips Pine",
+        "city": "South Jason",
+        "state": "Missouri",
+        "zip": "16968"
+    },
+    "contact": {
+        "phone": "001-285-242-8236",
+        "servicePhone": "800237225"
+    },
+    "birthday": "1932-18-02",
+    "ip": "110.140.212.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Question magazine catch watch surface term. Smile low myself.\nPlay be team machine.\nCompare successful these figure model order low. Foreign ok personal.",
+        "bio": "Which PM street music class meet. Seem image when."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
