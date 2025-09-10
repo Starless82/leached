@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Lopez",
+    "age": 1,
+    "address": {
+        "street": "Edwards Courts",
+        "city": "Aprilside",
+        "state": "North Dakota",
+        "zip": "55020"
+    },
+    "contact": {
+        "phone": "580-221-4740",
+        "servicePhone": "800202723"
+    },
+    "birthday": "2024-13-03",
+    "ip": "60.54.165.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Health another everyone wind issue class city appear. Color number course general maybe media language. Daughter development discover political arm seven white free.",
+        "bio": "Chance member situation place probably factor seek. Company community discussion somebody. Line reduce small friend still heavy large pressure."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
