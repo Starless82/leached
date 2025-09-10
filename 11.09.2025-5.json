@@ -1,0 +1,25 @@
+{
+    "name": "Robert Proctor",
+    "age": 42,
+    "address": {
+        "street": "Lopez Via",
+        "city": "Port Allison",
+        "state": "Illinois",
+        "zip": "68380"
+    },
+    "contact": {
+        "phone": "275-275-7399",
+        "servicePhone": "800984791"
+    },
+    "birthday": "1983-15-08",
+    "ip": "102.199.94.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Section morning top front president alone apply. Character discussion wish little almost.",
+        "bio": "Pull ground employee since prevent detail. Hair hear country contain which shake later."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
