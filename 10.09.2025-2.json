@@ -1,0 +1,25 @@
+{
+    "name": "Clinton Thompson",
+    "age": 72,
+    "address": {
+        "street": "Charles Shores",
+        "city": "New Cynthiaton",
+        "state": "Connecticut",
+        "zip": "96353"
+    },
+    "contact": {
+        "phone": "001-889-897-0395x50041",
+        "servicePhone": "800645412"
+    },
+    "birthday": "1953-26-03",
+    "ip": "223.6.43.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Professor series direction eat station beautiful senior language. Become send produce sell must score.",
+        "bio": "Every main realize leader usually. Send my husband. Identify she rock next later.\nLet pay firm person. Son skill sense official begin teach. Either far special trial help."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
