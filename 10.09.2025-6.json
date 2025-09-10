@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Anderson",
+    "age": 100,
+    "address": {
+        "street": "Hunt Oval",
+        "city": "Paulmouth",
+        "state": "Vermont",
+        "zip": "26250"
+    },
+    "contact": {
+        "phone": "2098497130",
+        "servicePhone": "800783835"
+    },
+    "birthday": "1925-23-06",
+    "ip": "194.17.162.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Worry such leave special way pattern. Brother pull baby read. Wonder lawyer do story take let.\nParty college long national into artist. National open chair long money a direction help.",
+        "bio": "Quite white fast culture.\nMillion either camera rest lot. Thank responsibility eight month then mouth hundred. Dog cut lead by how exist. Size leave international Congress serious."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
