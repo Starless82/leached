@@ -1,0 +1,25 @@
+{
+    "name": "Amy Gray",
+    "age": 16,
+    "address": {
+        "street": "Katelyn Walk",
+        "city": "New Michael",
+        "state": "North Dakota",
+        "zip": "98564"
+    },
+    "contact": {
+        "phone": "+1-514-780-9249x37588",
+        "servicePhone": "800006194"
+    },
+    "birthday": "2009-05-10",
+    "ip": "6.24.242.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Short beyond moment international learn bag participant. Debate political seek trial ball us or. Your organization the nor time month better chair.",
+        "bio": "Recently save age body town view. Door city some gas. She ability investment among."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
