@@ -1,0 +1,25 @@
+{
+    "name": "Wesley Delgado",
+    "age": 30,
+    "address": {
+        "street": "Simmons Summit",
+        "city": "Port Allison",
+        "state": "California",
+        "zip": "98573"
+    },
+    "contact": {
+        "phone": "829.484.4653",
+        "servicePhone": "800391172"
+    },
+    "birthday": "1995-27-06",
+    "ip": "34.115.54.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Speak quality majority other kind. Understand spring section better buy white church.\nExample among traditional. Bring become series poor down go real strong. Family seat yeah loss.",
+        "bio": "Instead continue class voice. Part performance edge.\nThreat member town line chance. Certainly collection significant be many."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
