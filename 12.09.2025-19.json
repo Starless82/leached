@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Lara",
+    "age": 104,
+    "address": {
+        "street": "Hunter Ferry",
+        "city": "Port Kristen",
+        "state": "South Carolina",
+        "zip": "06495"
+    },
+    "contact": {
+        "phone": "+1-269-583-8049",
+        "servicePhone": "800904734"
+    },
+    "birthday": "1921-23-06",
+    "ip": "88.60.94.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Child treatment heavy real media. More power out art environmental mind feeling.\nThese full series just entire. Box miss teacher professional civil.",
+        "bio": "Adult say detail into wonder. Song personal wait prevent anyone worker. Attack church sound position.\nMajority pick teacher. Prepare become compare score. Author sure decade."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
