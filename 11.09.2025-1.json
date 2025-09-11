@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Lambert",
+    "age": 3,
+    "address": {
+        "street": "Young Ville",
+        "city": "East Kelli",
+        "state": "Utah",
+        "zip": "32445"
+    },
+    "contact": {
+        "phone": "001-865-564-9668x5693",
+        "servicePhone": "800400132"
+    },
+    "birthday": "2022-06-11",
+    "ip": "7.208.231.29",
+    "foo": "bar",
+    "profile": {
+        "about": "War painting around. Cause someone any real major term together. Leave help fill property.\nMarket many realize gas. Rather sound expect look majority fire include contain.",
+        "bio": "City last reason poor federal. Door section fund.\nOfficer really street impact remain listen control. So back but next performance less."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
