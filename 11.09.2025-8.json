@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Miller",
+    "age": 37,
+    "address": {
+        "street": "John Harbors",
+        "city": "Wilsonmouth",
+        "state": "Delaware",
+        "zip": "10558"
+    },
+    "contact": {
+        "phone": "520-965-9163",
+        "servicePhone": "800624042"
+    },
+    "birthday": "1988-27-02",
+    "ip": "96.249.120.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Onto move can window rise mother floor. Bank simple help well best.",
+        "bio": "Stop attack threat positive real test late. Enough spring marriage east movie life along. Focus society quality again book center star game.\nAgainst and interesting consumer age manage use bag."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
