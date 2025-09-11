@@ -1,0 +1,25 @@
+{
+    "name": "Anne Vargas",
+    "age": 4,
+    "address": {
+        "street": "Larson Common",
+        "city": "Jorgefort",
+        "state": "Wyoming",
+        "zip": "83047"
+    },
+    "contact": {
+        "phone": "(304)708-4893x902",
+        "servicePhone": "800761642"
+    },
+    "birthday": "2021-20-04",
+    "ip": "221.133.90.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Last against organization. Meeting to sure task.\nReach first under maintain task couple meeting tonight. Him student question bar perform focus meeting.",
+        "bio": "Measure standard purpose compare win. Executive century art. Charge pull consider rock drug local difficult."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
