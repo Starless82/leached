@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Peterson",
+    "age": 24,
+    "address": {
+        "street": "Ross Track",
+        "city": "North Paula",
+        "state": "Idaho",
+        "zip": "07606"
+    },
+    "contact": {
+        "phone": "266-915-7682",
+        "servicePhone": "800437729"
+    },
+    "birthday": "2001-12-05",
+    "ip": "9.160.244.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Thought fight decision realize available least reduce. Ask general structure edge worry experience strategy.\nHowever under finally military. Baby involve final hour senior.",
+        "bio": "Out girl water drug. Figure after establish number.\nRather trip condition defense employee forward well. Resource drop involve improve own true stay."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
