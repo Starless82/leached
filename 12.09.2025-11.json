@@ -1,0 +1,25 @@
+{
+    "name": "Karen Valentine",
+    "age": 81,
+    "address": {
+        "street": "Nicholas Alley",
+        "city": "West Danielberg",
+        "state": "South Dakota",
+        "zip": "24001"
+    },
+    "contact": {
+        "phone": "(940)958-5810x3805",
+        "servicePhone": "800321912"
+    },
+    "birthday": "1944-10-07",
+    "ip": "56.5.112.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Office dinner choice discuss again probably.\nFriend property strategy foreign hundred of wait reason. Group oil character energy test once. True process film these old.",
+        "bio": "Upon somebody almost next point respond. Population social edge such turn me more. Professor guess oil why join require."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
