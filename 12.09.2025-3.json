@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Lucero",
+    "age": 46,
+    "address": {
+        "street": "Weaver Shore",
+        "city": "South Jodi",
+        "state": "Illinois",
+        "zip": "49229"
+    },
+    "contact": {
+        "phone": "+1-913-828-9077x35349",
+        "servicePhone": "800317000"
+    },
+    "birthday": "1979-18-12",
+    "ip": "157.24.145.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Song report news family.\nSeason recent far different commercial support collection. Consumer Congress attention.\nAnyone book me book enter expect. Add degree few firm.",
+        "bio": "Perform government reality try. Address carry way on last second. Rise conference administration play space education. Report author response consider edge."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
