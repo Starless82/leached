@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Moore",
+    "age": 67,
+    "address": {
+        "street": "Kathy Crossing",
+        "city": "East Sabrina",
+        "state": "Hawaii",
+        "zip": "28270"
+    },
+    "contact": {
+        "phone": "445-606-3938",
+        "servicePhone": "800017655"
+    },
+    "birthday": "1958-11-12",
+    "ip": "75.234.221.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Drug free deep drug.\nConsider course stage protect could newspaper. Painting sea serious peace old example occur. Change training professional Republican.",
+        "bio": "Organization later money high discover. Discussion industry many challenge contain.\nPolice behavior medical. Threat cause tell executive. Within dark attention leg."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
