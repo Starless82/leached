@@ -1,0 +1,25 @@
+{
+    "name": "Walter Nelson",
+    "age": 21,
+    "address": {
+        "street": "Natalie Hills",
+        "city": "Ochoaview",
+        "state": "Louisiana",
+        "zip": "39535"
+    },
+    "contact": {
+        "phone": "001-751-992-6261x21278",
+        "servicePhone": "800508181"
+    },
+    "birthday": "2004-23-09",
+    "ip": "76.190.217.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Learn daughter computer great amount continue. Bag hand staff computer enjoy certainly form it. Stuff bad site discover down network environmental.",
+        "bio": "Worry push fall money customer professional.\nTrip south manage product Congress might across. Meet relationship happy nearly. Any space practice the fill."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
