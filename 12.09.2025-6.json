@@ -1,0 +1,25 @@
+{
+    "name": "Robin Serrano",
+    "age": 83,
+    "address": {
+        "street": "Wesley Corners",
+        "city": "North Kimberlychester",
+        "state": "Kentucky",
+        "zip": "46629"
+    },
+    "contact": {
+        "phone": "(717)816-1798",
+        "servicePhone": "800177895"
+    },
+    "birthday": "1942-03-02",
+    "ip": "206.162.227.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Positive church plant perhaps oil draw eye.\nPoor grow somebody build. Heart interest loss. So medical west walk.\nEight real program price. Sense old partner natural point home.",
+        "bio": "Single be per need admit debate late. Food value model into.\nBecome wish change mouth happy research. More move scientist war rich trip. Pattern man deal plant."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
