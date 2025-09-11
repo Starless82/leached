@@ -1,0 +1,25 @@
+{
+    "name": "Michael Jones",
+    "age": 19,
+    "address": {
+        "street": "William Tunnel",
+        "city": "Bakerburgh",
+        "state": "Missouri",
+        "zip": "44904"
+    },
+    "contact": {
+        "phone": "781.312.5790x664",
+        "servicePhone": "800660965"
+    },
+    "birthday": "2006-02-04",
+    "ip": "174.10.235.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Charge list environmental worker. Democratic wide strong.\nStrong base write final establish. Trade up alone yet arm.\nWriter property very station. Father maintain between term will time.",
+        "bio": "Policy coach particular become form. Fear business final Mrs yes name none.\nTeam boy only college could. Relate take past there market structure old."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
