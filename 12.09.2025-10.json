@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Collins",
+    "age": 74,
+    "address": {
+        "street": "Juan Lake",
+        "city": "North Jonathanview",
+        "state": "Arkansas",
+        "zip": "80695"
+    },
+    "contact": {
+        "phone": "374-894-8254x59460",
+        "servicePhone": "800678459"
+    },
+    "birthday": "1951-04-12",
+    "ip": "158.100.150.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Campaign realize coach message minute assume. Game interview shake lawyer voice visit about. Medical success yard story.\nDecide entire effort edge between data maybe.",
+        "bio": "Follow action information spend. Economy fall miss friend practice. Fast nearly possible strategy kid detail call."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
