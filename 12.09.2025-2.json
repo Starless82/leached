@@ -1,0 +1,25 @@
+{
+    "name": "Regina Stone",
+    "age": 77,
+    "address": {
+        "street": "Amanda Orchard",
+        "city": "Savannahmouth",
+        "state": "Texas",
+        "zip": "15028"
+    },
+    "contact": {
+        "phone": "701-208-3005x01785",
+        "servicePhone": "800281673"
+    },
+    "birthday": "1948-17-04",
+    "ip": "220.198.18.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Task five can offer piece. Consider nature surface behind into.\nRead career maybe only recognize born part. Road how politics authority class thank fight.",
+        "bio": "Data recent very amount manager movie. Though machine would lose military down level. Bar culture garden other expert high."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
