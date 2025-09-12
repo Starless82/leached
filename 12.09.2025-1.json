@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Thomas",
+    "age": 35,
+    "address": {
+        "street": "Aguilar Shoal",
+        "city": "Port Michael",
+        "state": "Missouri",
+        "zip": "18120"
+    },
+    "contact": {
+        "phone": "8788721667",
+        "servicePhone": "800814697"
+    },
+    "birthday": "1990-05-09",
+    "ip": "28.2.20.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Less a without adult. Student sport list down wind.\nMovie exist hear write dinner chance. Across tend economy war home action yeah.",
+        "bio": "Sort make range not nothing quality able. Car answer role sign ever total camera.\nSing six here. Present where with message just character. Behind as western alone contain great."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
