@@ -1,0 +1,25 @@
+{
+    "name": "Dennis Pugh",
+    "age": 5,
+    "address": {
+        "street": "Hall Dale",
+        "city": "North Samantha",
+        "state": "Maine",
+        "zip": "80273"
+    },
+    "contact": {
+        "phone": "461-746-3328",
+        "servicePhone": "800601272"
+    },
+    "birthday": "2020-16-09",
+    "ip": "83.168.72.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Against say purpose. Stay probably yard oil. Message would factor.\nStyle impact tell sea ready discover nation hand. Drive tell spring sell PM. Popular six day ability.",
+        "bio": "Turn for turn traditional senior fund mother. Section again town I interesting song.\nFill interview forward my tend stuff us. Discuss evening tonight raise. Same want eight although."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
