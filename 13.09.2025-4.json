@@ -1,0 +1,25 @@
+{
+    "name": "Destiny Martinez",
+    "age": 52,
+    "address": {
+        "street": "Ochoa Corner",
+        "city": "East Mary",
+        "state": "New Mexico",
+        "zip": "80572"
+    },
+    "contact": {
+        "phone": "(330)485-5484x54716",
+        "servicePhone": "800691216"
+    },
+    "birthday": "1973-05-01",
+    "ip": "217.53.56.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Rather hear finish possible bad law even. Man whatever argue region side thus cause. Always way while cell exist.\nSerious set measure notice color. Guy fall almost our would.",
+        "bio": "Modern avoid discussion three away office wind loss. Our conference agreement message leave several positive. Word letter bank find long popular ago."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
