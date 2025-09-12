@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Hawkins",
+    "age": 61,
+    "address": {
+        "street": "Eric Fork",
+        "city": "Heatherton",
+        "state": "Kentucky",
+        "zip": "66516"
+    },
+    "contact": {
+        "phone": "734-662-5612x682",
+        "servicePhone": "800055759"
+    },
+    "birthday": "1964-05-12",
+    "ip": "175.155.212.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Toward other range red weight against. Study listen language memory simple have. Tell student hear peace. Movie house test they PM my.\nCity manage since brother help. To lead cover seem he during.",
+        "bio": "Government end future debate interest seek. Argue act home room.\nPossible piece reduce yes.\nSource if drive."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
