@@ -1,0 +1,25 @@
+{
+    "name": "Gabriel Smith",
+    "age": 74,
+    "address": {
+        "street": "Mendez Hollow",
+        "city": "Kristenchester",
+        "state": "South Carolina",
+        "zip": "28615"
+    },
+    "contact": {
+        "phone": "(644)853-9454",
+        "servicePhone": "800959569"
+    },
+    "birthday": "1951-05-05",
+    "ip": "118.26.141.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Me contain feeling commercial management else thank. Year personal traditional safe relationship ever pressure. Alone site nearly.",
+        "bio": "Produce difficult nearly none south become they. Free agreement result knowledge look head several. Beat low likely investment."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
