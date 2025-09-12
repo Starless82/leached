@@ -1,0 +1,25 @@
+{
+    "name": "Keith Clark",
+    "age": 24,
+    "address": {
+        "street": "Graham Locks",
+        "city": "West Tammy",
+        "state": "Georgia",
+        "zip": "18872"
+    },
+    "contact": {
+        "phone": "+1-341-520-6931x1458",
+        "servicePhone": "800369429"
+    },
+    "birthday": "2001-23-11",
+    "ip": "75.37.47.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Television against board budget music phone between blue.\nAlmost employee oil provide. Candidate artist cultural different.\nQuite forget conference begin professor race.",
+        "bio": "Military similar effort study improve kitchen.\nArgue use ever still physical. Pick important light politics pay."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
