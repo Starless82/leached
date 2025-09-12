@@ -1,0 +1,25 @@
+{
+    "name": "Donna Stephens",
+    "age": 35,
+    "address": {
+        "street": "Cheryl Loop",
+        "city": "East Susanbury",
+        "state": "Wyoming",
+        "zip": "59868"
+    },
+    "contact": {
+        "phone": "6298508865",
+        "servicePhone": "800170141"
+    },
+    "birthday": "1990-09-08",
+    "ip": "47.173.164.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Ahead it peace under three. Pattern near evidence watch.\nFish eight administration whatever. Eye indeed always husband her significant find certain.\nJob media many feel. Notice act audience.",
+        "bio": "Information pretty white month. Budget study take rock environment."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
