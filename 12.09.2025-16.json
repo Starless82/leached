@@ -1,0 +1,25 @@
+{
+    "name": "Carla Sullivan",
+    "age": 95,
+    "address": {
+        "street": "Clark Drives",
+        "city": "Joyville",
+        "state": "New Mexico",
+        "zip": "34447"
+    },
+    "contact": {
+        "phone": "(926)675-5505",
+        "servicePhone": "800590855"
+    },
+    "birthday": "1930-18-04",
+    "ip": "62.180.201.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Again defense knowledge mean. High day summer theory show shoulder stuff.\nCommercial water open car board. Law site will oil both. Those reality garden know current.",
+        "bio": "Show situation collection rather trip couple term. Cell standard new respond career science.\nGreen less trip past management. Reach story lot chance add late."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
