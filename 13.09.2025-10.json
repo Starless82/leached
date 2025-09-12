@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Carr",
+    "age": 36,
+    "address": {
+        "street": "Sharon Land",
+        "city": "New Tammy",
+        "state": "Ohio",
+        "zip": "47501"
+    },
+    "contact": {
+        "phone": "690-854-1390",
+        "servicePhone": "800788225"
+    },
+    "birthday": "1989-27-03",
+    "ip": "66.236.213.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Western serve herself rock. Avoid author between experience join hope.\nWeight than when however. Activity describe test future left. Name box shake eye probably next all.",
+        "bio": "Live note before choose enjoy her. Three over right know after page everyone.\nCharge ground individual eight. Spend three ball could order camera.\nSound community without town. Hit model writer."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
