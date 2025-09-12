@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Hayes",
+    "age": 43,
+    "address": {
+        "street": "Jay Orchard",
+        "city": "Sandratown",
+        "state": "Alabama",
+        "zip": "34536"
+    },
+    "contact": {
+        "phone": "403-562-1838",
+        "servicePhone": "800109051"
+    },
+    "birthday": "1982-18-03",
+    "ip": "186.89.21.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Soldier impact best I. Explain up face magazine boy evidence.\nSmile night receive least hundred job leg police. Body affect month thus. Final a leader building nor arm.",
+        "bio": "Thus wear summer sea think available already. True win perform full. Eat special simply fall thus. Into card police cell somebody through meeting."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
