@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Rasmussen",
+    "age": 103,
+    "address": {
+        "street": "Armstrong Center",
+        "city": "Jerrymouth",
+        "state": "Washington",
+        "zip": "13262"
+    },
+    "contact": {
+        "phone": "474.921.1547",
+        "servicePhone": "800745042"
+    },
+    "birthday": "1922-01-06",
+    "ip": "222.92.137.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Hotel short and green. Together not nation look herself actually pick. Kid dark loss recently. Off born ahead remain.\nBecause popular able effort from a recognize. Film a national television work.",
+        "bio": "Movement hair third these. Today animal exist movie street effort blood. Grow next generation left kid plant. Water be five current experience camera require traditional."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
