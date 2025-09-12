@@ -1,0 +1,25 @@
+{
+    "name": "Katrina Johnson",
+    "age": 46,
+    "address": {
+        "street": "Howard Gardens",
+        "city": "New Charles",
+        "state": "California",
+        "zip": "53306"
+    },
+    "contact": {
+        "phone": "001-768-574-5153x5052",
+        "servicePhone": "800926062"
+    },
+    "birthday": "1979-28-07",
+    "ip": "39.71.155.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Daughter ball blue stuff speak nice first. At time different try natural.\nPolicy law later might western others. Sport standard spring station.",
+        "bio": "Forward attorney go direction before gas experience. Play this issue within serious near history leg. Today themselves talk store forward hair weight.\nTell claim economic since all color."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
