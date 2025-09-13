@@ -1,0 +1,25 @@
+{
+    "name": "Michael Watson",
+    "age": 32,
+    "address": {
+        "street": "Desiree Glen",
+        "city": "Lake Bobbyburgh",
+        "state": "Florida",
+        "zip": "97074"
+    },
+    "contact": {
+        "phone": "777.484.2040",
+        "servicePhone": "800188726"
+    },
+    "birthday": "1993-04-12",
+    "ip": "120.173.203.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Keep maybe help.\nThere family firm admit defense. Computer among door once maintain participant evidence.\nInstead issue each. Listen appear certain trouble front front today.",
+        "bio": "Hundred today detail at deep country. Indicate international realize list fund bed commercial.\nMedical body enough born apply west laugh necessary. Measure need PM change still respond history."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
