@@ -1,0 +1,25 @@
+{
+    "name": "Phillip Bird",
+    "age": 81,
+    "address": {
+        "street": "Phillips Mall",
+        "city": "Breannaport",
+        "state": "Kentucky",
+        "zip": "90974"
+    },
+    "contact": {
+        "phone": "001-909-943-4765x714",
+        "servicePhone": "800730496"
+    },
+    "birthday": "1944-11-07",
+    "ip": "123.218.171.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Popular young radio create want. School personal measure board. State history parent film same seek under. Nor drive approach pick you while degree south.",
+        "bio": "Avoid lay hot responsibility note share spring. He number live debate radio at.\nOur voice develop. Chair especially Mr they put Mrs go. Debate civil election hope interest enjoy drive war."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
