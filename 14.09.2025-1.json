@@ -1,0 +1,25 @@
+{
+    "name": "Jill Olsen",
+    "age": 91,
+    "address": {
+        "street": "Vasquez Spurs",
+        "city": "Markstad",
+        "state": "Missouri",
+        "zip": "61572"
+    },
+    "contact": {
+        "phone": "+1-460-383-1124x34351",
+        "servicePhone": "800326214"
+    },
+    "birthday": "1934-23-10",
+    "ip": "191.109.9.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Past money media issue analysis certainly want cold. Individual simple wind someone.\nFederal tax line billion nearly. Work probably resource risk by travel just word.",
+        "bio": "Kid thought suddenly employee card. Back care though her word create wear.\nGive artist participant increase game because. Pick senior something spend view trip."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
