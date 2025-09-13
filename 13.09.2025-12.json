@@ -1,0 +1,25 @@
+{
+    "name": "Kent Pugh",
+    "age": 62,
+    "address": {
+        "street": "Huff Drive",
+        "city": "Tinafurt",
+        "state": "Arkansas",
+        "zip": "06000"
+    },
+    "contact": {
+        "phone": "(480)928-5427",
+        "servicePhone": "800602155"
+    },
+    "birthday": "1963-21-06",
+    "ip": "105.193.200.110",
+    "foo": "bar",
+    "profile": {
+        "about": "System prepare political for account people situation ability. Behavior brother include dinner service around. Small perhaps individual after same threat page interesting.",
+        "bio": "Pressure people ask audience. Right event unit list art degree adult. Full force me peace.\nArgue stuff name leg. Summer task western military generation. Stop write glass poor."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
