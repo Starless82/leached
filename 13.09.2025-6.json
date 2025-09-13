@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Taylor",
+    "age": 13,
+    "address": {
+        "street": "Stephen Village",
+        "city": "Lake Zacharymouth",
+        "state": "Arkansas",
+        "zip": "67721"
+    },
+    "contact": {
+        "phone": "462-676-3334",
+        "servicePhone": "800363482"
+    },
+    "birthday": "2012-31-07",
+    "ip": "122.227.155.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Right heart hope ever agent city community.\nArticle sell letter offer carry. Offer from anyone feeling total data soldier help.",
+        "bio": "Son push collection maintain art. Third catch loss firm. Far college amount human thousand.\nInteresting alone million five play her lot. Soldier plan give answer enjoy professor good car."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
