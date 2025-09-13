@@ -1,0 +1,25 @@
+{
+    "name": "David Ross",
+    "age": 73,
+    "address": {
+        "street": "Chambers Trail",
+        "city": "Jenniferland",
+        "state": "Oregon",
+        "zip": "94186"
+    },
+    "contact": {
+        "phone": "(933)913-6810",
+        "servicePhone": "800497509"
+    },
+    "birthday": "1952-14-05",
+    "ip": "7.21.76.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Mother suggest research deep reduce make wall. Inside affect pull form quickly sport. Grow yard whatever visit business focus.",
+        "bio": "Value middle improve over hair relate. Type pressure network every mother home focus another. Four kid part.\nLeave stop record customer inside sit.\nLaw late tell girl add term office."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
