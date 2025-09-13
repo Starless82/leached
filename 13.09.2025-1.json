@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Bailey",
+    "age": 40,
+    "address": {
+        "street": "Melinda Coves",
+        "city": "Brentport",
+        "state": "Idaho",
+        "zip": "23710"
+    },
+    "contact": {
+        "phone": "921.794.0944x36282",
+        "servicePhone": "800360188"
+    },
+    "birthday": "1985-06-04",
+    "ip": "88.172.249.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Significant among some future meeting maintain old seem. Street every authority matter approach.",
+        "bio": "Pm agent argue argue customer gas. Behavior close cut force fish. Must campaign drug better.\nArticle just growth can who federal. Bad college ready woman."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
