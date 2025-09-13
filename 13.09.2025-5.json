@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Johnson",
+    "age": 52,
+    "address": {
+        "street": "Steven Freeway",
+        "city": "New Peter",
+        "state": "Virginia",
+        "zip": "38906"
+    },
+    "contact": {
+        "phone": "(295)437-3599x525",
+        "servicePhone": "800820629"
+    },
+    "birthday": "1973-28-07",
+    "ip": "159.135.15.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Board buy pass. Television term pattern under middle. Common him area although measure sister.\nUs her its. One religious movement painting position send.",
+        "bio": "Letter produce dog opportunity. During culture game six science blood.\nThousand from physical describe very trade age forget."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
