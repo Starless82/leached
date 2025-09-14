@@ -1,0 +1,25 @@
+{
+    "name": "Jesse Wright",
+    "age": 99,
+    "address": {
+        "street": "Gilbert Underpass",
+        "city": "New Jesse",
+        "state": "Alabama",
+        "zip": "92756"
+    },
+    "contact": {
+        "phone": "382-480-0085x716",
+        "servicePhone": "800007290"
+    },
+    "birthday": "1926-24-08",
+    "ip": "163.230.131.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Position sure with size worry somebody. Research forward later of stand.\nMaintain must technology high red. Step sister cultural.",
+        "bio": "Ever put all focus care. Performance reduce attack authority place. Use six necessary structure where wonder garden."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
