@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Peters",
+    "age": 14,
+    "address": {
+        "street": "Wilson Freeway",
+        "city": "New Benjaminfort",
+        "state": "Washington",
+        "zip": "14315"
+    },
+    "contact": {
+        "phone": "+1-265-374-0376x86902",
+        "servicePhone": "800856326"
+    },
+    "birthday": "2011-17-06",
+    "ip": "128.141.250.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Single become after wife. Response draw model lot during.\nFloor agreement feeling not. Computer we require each. Build hot method same.",
+        "bio": "Sense must page. Worry approach ability behind population under. Town month leg program international.\nTime book easy prove military buy early. Must out head amount subject."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
