@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Cannon",
+    "age": 52,
+    "address": {
+        "street": "Giles Stravenue",
+        "city": "Rogershaven",
+        "state": "Nebraska",
+        "zip": "77663"
+    },
+    "contact": {
+        "phone": "001-334-423-6101x92504",
+        "servicePhone": "800968499"
+    },
+    "birthday": "1973-27-11",
+    "ip": "61.240.252.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Simply wall within analysis tree successful rock. Physical off current first like strategy situation. Force use sort each machine deal time.",
+        "bio": "Identify kitchen catch probably window. Fly professional yourself air address energy simple work.\nCarry control deal argue coach measure. Her office such government product avoid. Sort form position."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
