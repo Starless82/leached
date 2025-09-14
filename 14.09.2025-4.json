@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Fuentes",
+    "age": 6,
+    "address": {
+        "street": "Hardy Cape",
+        "city": "Port Kevinhaven",
+        "state": "Pennsylvania",
+        "zip": "88991"
+    },
+    "contact": {
+        "phone": "(860)872-6213",
+        "servicePhone": "800037827"
+    },
+    "birthday": "2019-31-07",
+    "ip": "34.177.39.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Whom how president beautiful under suggest.\nJob picture later weight voice. Everything reason remember life material once want. Language else tend fall general.",
+        "bio": "Central present degree well. Region my cause sing huge.\nCall item can spend sport often the. Politics institution push laugh charge describe community."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
