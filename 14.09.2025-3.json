@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Pratt",
+    "age": 64,
+    "address": {
+        "street": "Justin Hollow",
+        "city": "Lake Jessicamouth",
+        "state": "Alabama",
+        "zip": "70875"
+    },
+    "contact": {
+        "phone": "771-542-6428x3561",
+        "servicePhone": "800361526"
+    },
+    "birthday": "1961-16-06",
+    "ip": "220.120.152.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Arrive go detail. Wonder number capital ball statement.\nAccept about sell participant want sport lay. Tonight anyone understand. Subject allow right strategy bad history million.",
+        "bio": "Site or former crime painting teacher majority.\nClearly hard grow father country star before. Particularly relationship since sign follow about several movie. Dog kitchen article policy worker week."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
