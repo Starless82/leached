@@ -1,0 +1,25 @@
+{
+    "name": "Traci Davies",
+    "age": 27,
+    "address": {
+        "street": "Andrew Shoal",
+        "city": "West William",
+        "state": "North Dakota",
+        "zip": "26162"
+    },
+    "contact": {
+        "phone": "+1-845-281-5367",
+        "servicePhone": "800548362"
+    },
+    "birthday": "1998-20-02",
+    "ip": "160.24.209.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Show prevent size else. Perform organization star common six this. Forget ahead game.\nAround guy simple paper population. Toward strong school loss quite.",
+        "bio": "They always interview structure she. Sport performance tough contain partner. Hour develop drug step agent."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
