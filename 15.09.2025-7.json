@@ -1,0 +1,25 @@
+{
+    "name": "Sean Sheppard",
+    "age": 105,
+    "address": {
+        "street": "Hall Greens",
+        "city": "Ochoaport",
+        "state": "Georgia",
+        "zip": "47101"
+    },
+    "contact": {
+        "phone": "+1-646-963-0748x6773",
+        "servicePhone": "800798611"
+    },
+    "birthday": "1920-27-12",
+    "ip": "81.152.0.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Cold fight change within. Cover hand break commercial down. Research teach involve house management.\nMain street manager production. Fear charge hope support.",
+        "bio": "Accept team sometimes position prevent light. Everyone camera item stay interest south.\nListen different remain gas age. Significant bit remember."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
