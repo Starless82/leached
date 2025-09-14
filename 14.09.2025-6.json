@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Duran",
+    "age": 62,
+    "address": {
+        "street": "Mark Corners",
+        "city": "East Aprilville",
+        "state": "New York",
+        "zip": "59084"
+    },
+    "contact": {
+        "phone": "001-763-965-4519x2107",
+        "servicePhone": "800146656"
+    },
+    "birthday": "1963-31-12",
+    "ip": "15.73.125.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Speech evening only law our quality. Old between anyone sometimes knowledge scientist.\nTwo capital compare fill we. Section police type back black. Dream data mind environment never sort.",
+        "bio": "Fear expert recognize beautiful amount claim.\nDecide exist series effect get candidate do. Manage everyone create appear continue. Give accept Mr themselves eye."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
