@@ -1,0 +1,25 @@
+{
+    "name": "Kristina Thompson",
+    "age": 17,
+    "address": {
+        "street": "Ellis Forest",
+        "city": "New Jasonside",
+        "state": "New Jersey",
+        "zip": "71507"
+    },
+    "contact": {
+        "phone": "(446)736-6775x16662",
+        "servicePhone": "800951455"
+    },
+    "birthday": "2008-08-09",
+    "ip": "25.31.105.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Hotel recently quality personal language least term. Ten blue practice decade white.\nHusband national accept. Receive enjoy hard end whose.",
+        "bio": "Walk attack area. Color treat serve impact themselves set. National risk measure.\nSouth report value assume religious. Old keep single simple Republican remember she."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
