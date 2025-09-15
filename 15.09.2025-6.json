@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Graves MD",
+    "age": 101,
+    "address": {
+        "street": "Castillo Corners",
+        "city": "Jessicaview",
+        "state": "Delaware",
+        "zip": "35779"
+    },
+    "contact": {
+        "phone": "+1-560-318-8577",
+        "servicePhone": "800339268"
+    },
+    "birthday": "1924-22-05",
+    "ip": "49.235.79.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Fast many student news. Medical boy allow wish according network serve.\nEvening Congress example. Analysis deal point. Area benefit law hair whom green possible.",
+        "bio": "What stuff wind. Any production organization me occur base. Human region admit civil break girl."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
