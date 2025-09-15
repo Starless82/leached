@@ -1,0 +1,25 @@
+{
+    "name": "Jack Santos",
+    "age": 20,
+    "address": {
+        "street": "Robert Dale",
+        "city": "South Pamela",
+        "state": "Louisiana",
+        "zip": "15030"
+    },
+    "contact": {
+        "phone": "287-850-7117x62461",
+        "servicePhone": "800756720"
+    },
+    "birthday": "2005-03-08",
+    "ip": "102.236.188.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Someone until area myself relationship miss smile positive. Physical allow huge. Actually style guy do occur two.",
+        "bio": "Story control forget picture list. Wear central most fill.\nLeft pretty structure expert soldier traditional put. Book partner side whether discussion. Authority five question reason big his head."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
