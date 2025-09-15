@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Mack",
+    "age": 13,
+    "address": {
+        "street": "Ryan Station",
+        "city": "Johnsonstad",
+        "state": "Texas",
+        "zip": "85931"
+    },
+    "contact": {
+        "phone": "3088246194",
+        "servicePhone": "800943310"
+    },
+    "birthday": "2012-04-09",
+    "ip": "147.114.167.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Perform audience opportunity director though challenge environment. Name property create human difficult next green. Only after capital. Others particular like material.",
+        "bio": "Send campaign fall another. Manager form standard finish rate quickly everything activity. Big speak much Mrs foot need bag."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
