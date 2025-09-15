@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Walker",
+    "age": 58,
+    "address": {
+        "street": "Chelsea Via",
+        "city": "North Jillborough",
+        "state": "Georgia",
+        "zip": "13691"
+    },
+    "contact": {
+        "phone": "(468)456-8279",
+        "servicePhone": "800016185"
+    },
+    "birthday": "1967-11-02",
+    "ip": "50.108.184.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Trip movie clearly discover contain old effort. Report health tough wind food thousand.\nProfessional bill still list issue yet foot.",
+        "bio": "Cup begin memory. Home behavior then beat organization force machine. Perhaps sense officer player.\nStill never garden station leader sea then skill. Surface figure bag but remember fill evidence."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
