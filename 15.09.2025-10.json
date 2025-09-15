@@ -1,0 +1,25 @@
+{
+    "name": "Miranda Morgan",
+    "age": 74,
+    "address": {
+        "street": "Alvarez Light",
+        "city": "Christopherbury",
+        "state": "New Hampshire",
+        "zip": "40976"
+    },
+    "contact": {
+        "phone": "001-945-778-9066x66143",
+        "servicePhone": "800939531"
+    },
+    "birthday": "1951-09-01",
+    "ip": "105.175.84.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Discussion relationship six wish police address. Should describe again them perform tough.\nMention wish space reduce new half. Responsibility next available report be west director.",
+        "bio": "Lose door little result move executive. Down yard responsibility.\nTown change necessary lawyer least use. Year Congress require. My soon beat deal action."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
