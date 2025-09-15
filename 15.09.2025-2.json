@@ -1,0 +1,25 @@
+{
+    "name": "Margaret Pena",
+    "age": 103,
+    "address": {
+        "street": "Bowman Land",
+        "city": "Aprilbury",
+        "state": "Texas",
+        "zip": "66494"
+    },
+    "contact": {
+        "phone": "(750)765-5005x466",
+        "servicePhone": "800305865"
+    },
+    "birthday": "1922-10-09",
+    "ip": "13.246.127.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Heart oil serve stuff thus new about guy. Force whatever green majority account instead. Husband child all effort help game.\nDetermine talk sure break view. Image week compare know while.",
+        "bio": "Personal fall maybe admit. Want authority toward old send trial. Mouth resource thus option.\nUse send across to check morning. Democrat really activity end if."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
