@@ -1,0 +1,25 @@
+{
+    "name": "Terry Wright",
+    "age": 27,
+    "address": {
+        "street": "Dyer Canyon",
+        "city": "East Veronicaborough",
+        "state": "Texas",
+        "zip": "42196"
+    },
+    "contact": {
+        "phone": "(894)812-6205x32367",
+        "servicePhone": "800426599"
+    },
+    "birthday": "1998-25-08",
+    "ip": "60.48.119.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Project camera ask son seek. Produce offer result pretty around.\nProbably relate firm past. Window smile unit travel wish. Activity place our carry.\nList walk model feel certain so. Fight upon offer.",
+        "bio": "Catch day language blue perform travel among. Where special general doctor upon anything wish ten. Development behind or school feel."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
