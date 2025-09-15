@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Bradshaw",
+    "age": 92,
+    "address": {
+        "street": "Nathaniel Knoll",
+        "city": "New Brendatown",
+        "state": "Kansas",
+        "zip": "81178"
+    },
+    "contact": {
+        "phone": "869.376.9660",
+        "servicePhone": "800205369"
+    },
+    "birthday": "1933-29-05",
+    "ip": "111.39.132.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Car require professor tend commercial. Area manage support executive arrive you wait.\nOfficial official group purpose.\nWoman always decide day wind clear. Strategy answer support year range he.",
+        "bio": "Music from laugh ahead. Develop pull machine wait understand fact.\nHold apply concern rule stock him.\nSay remain simple drop him billion particular fly. Civil focus property lot far officer bill."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
