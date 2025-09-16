@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Briggs",
+    "age": 38,
+    "address": {
+        "street": "Shaw Orchard",
+        "city": "Santosfurt",
+        "state": "Maine",
+        "zip": "09607"
+    },
+    "contact": {
+        "phone": "8777844782",
+        "servicePhone": "800216496"
+    },
+    "birthday": "1987-06-05",
+    "ip": "141.106.84.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Project wear individual. Maybe memory current reveal.\nTough son practice office with meet. Away blood professional decade large sound. Fact officer defense radio create.",
+        "bio": "Situation return blood interesting best foreign.\nMan into seat business direction bank among. Officer sort far front foot.\nEveryone head collection. Million consumer believe after enter great."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
