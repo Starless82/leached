@@ -1,0 +1,25 @@
+{
+    "name": "Tanner Weaver",
+    "age": 76,
+    "address": {
+        "street": "Caldwell Mountains",
+        "city": "West Dylanstad",
+        "state": "Montana",
+        "zip": "94315"
+    },
+    "contact": {
+        "phone": "590.970.2576x007",
+        "servicePhone": "800929142"
+    },
+    "birthday": "1949-10-04",
+    "ip": "106.60.75.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Left occur mission professional itself. Father on likely hotel price.\nOccur look we say check so agency. At example one right respond practice possible.",
+        "bio": "Summer big building page husband. Admit senior college inside same.\nMoment fight process almost change. Only rate establish allow ago even choose. Follow around number wall relate those."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
