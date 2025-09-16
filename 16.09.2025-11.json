@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Simpson",
+    "age": 51,
+    "address": {
+        "street": "Daniel Rest",
+        "city": "South Kaylamouth",
+        "state": "Wyoming",
+        "zip": "39499"
+    },
+    "contact": {
+        "phone": "001-663-769-3111",
+        "servicePhone": "800681020"
+    },
+    "birthday": "1974-11-08",
+    "ip": "184.50.144.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Reduce mean PM happy give. Daughter society professional network cell consumer whose. Which film there wrong maintain film.\nClearly scientist teach. Break full service score benefit.",
+        "bio": "Last allow student heart glass book perform. Official challenge join whose risk effect challenge.\nSend attack big stand second factor among. Customer various indicate. Should store student."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
