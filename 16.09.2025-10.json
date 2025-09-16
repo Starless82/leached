@@ -1,0 +1,25 @@
+{
+    "name": "Rose Mclean",
+    "age": 34,
+    "address": {
+        "street": "Lang Village",
+        "city": "Johnsonchester",
+        "state": "New Jersey",
+        "zip": "94284"
+    },
+    "contact": {
+        "phone": "001-495-950-2229x743",
+        "servicePhone": "800149613"
+    },
+    "birthday": "1991-17-11",
+    "ip": "91.77.95.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Suddenly none draw job wonder. Wall them feeling war job. Ahead because image possible.",
+        "bio": "Possible company research produce change. Consumer possible question establish with end help. Work medical tax detail ask teacher. Skill police everybody fast voice."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
