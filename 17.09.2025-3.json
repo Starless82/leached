@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Thompson",
+    "age": 103,
+    "address": {
+        "street": "Joshua Underpass",
+        "city": "East Jenniferhaven",
+        "state": "Massachusetts",
+        "zip": "99773"
+    },
+    "contact": {
+        "phone": "344-335-0571",
+        "servicePhone": "800220104"
+    },
+    "birthday": "1922-29-11",
+    "ip": "181.226.158.184",
+    "foo": "bar",
+    "profile": {
+        "about": "We grow process and maintain. Everything laugh piece card these partner any. Clear child important agree couple watch radio.",
+        "bio": "Action best probably budget. Success face group future about. Break alone behavior win couple of.\nAppear yard born consider receive.\nCareer wish down military certainly."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
