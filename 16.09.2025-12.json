@@ -1,0 +1,25 @@
+{
+    "name": "Christian Austin",
+    "age": 23,
+    "address": {
+        "street": "Nguyen Ville",
+        "city": "Kelleyberg",
+        "state": "New Mexico",
+        "zip": "58049"
+    },
+    "contact": {
+        "phone": "602-561-0734",
+        "servicePhone": "800003960"
+    },
+    "birthday": "2002-30-11",
+    "ip": "150.191.218.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Ready song word expert open difference little gun. Yard couple site you. Thought source friend leg perhaps bit fill.\nSet reality able save sing body. Travel trade beat generation bank policy.",
+        "bio": "Protect evidence participant benefit technology.\nHealth business than new dinner including take drop. Choice right build remember chair civil. Difference hundred black."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
