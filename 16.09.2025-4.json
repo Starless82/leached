@@ -1,0 +1,25 @@
+{
+    "name": "Carl Johnson",
+    "age": 77,
+    "address": {
+        "street": "Tanya Passage",
+        "city": "New Katherine",
+        "state": "Colorado",
+        "zip": "01339"
+    },
+    "contact": {
+        "phone": "901-477-3452x218",
+        "servicePhone": "800492632"
+    },
+    "birthday": "1948-22-12",
+    "ip": "200.231.145.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Affect government picture staff and. Appear both into adult sign as. Little public its pass indeed.",
+        "bio": "Provide could key father. Form others hope special daughter current. Color teacher wife return tell senior.\nNearly down degree provide economic."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
