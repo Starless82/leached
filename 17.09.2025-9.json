@@ -1,0 +1,25 @@
+{
+    "name": "Mark Johnson",
+    "age": 52,
+    "address": {
+        "street": "William Mountain",
+        "city": "East Hollymouth",
+        "state": "Florida",
+        "zip": "25509"
+    },
+    "contact": {
+        "phone": "5813758456",
+        "servicePhone": "800752074"
+    },
+    "birthday": "1973-02-08",
+    "ip": "21.169.243.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Book figure difficult. Deep during quite discussion military. Although say major Congress.\nWife avoid least early interview.",
+        "bio": "Now check way hotel a name radio. Family daughter community nearly range. Determine parent suffer.\nUntil second theory generation threat hour. Several list when third spend."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
