@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Harris",
+    "age": 115,
+    "address": {
+        "street": "Parker Greens",
+        "city": "Wilsonburgh",
+        "state": "Nebraska",
+        "zip": "31003"
+    },
+    "contact": {
+        "phone": "+1-955-240-7972",
+        "servicePhone": "800711482"
+    },
+    "birthday": "1910-28-03",
+    "ip": "166.170.186.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Air teach economic contain computer. Like Mrs challenge.\nCitizen house drug then scene computer tax people. Partner experience and will adult expect soon yourself. Son pull large community.",
+        "bio": "Support then perform how might. Thousand exactly do might. Small range popular material first former.\nWe child human interest return building director. Really night forget gas. Strong own phone."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
