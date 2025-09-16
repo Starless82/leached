@@ -1,0 +1,25 @@
+{
+    "name": "Michael Garcia",
+    "age": 61,
+    "address": {
+        "street": "Pena Prairie",
+        "city": "Kennethburgh",
+        "state": "Pennsylvania",
+        "zip": "18746"
+    },
+    "contact": {
+        "phone": "001-361-319-2901x832",
+        "servicePhone": "800611556"
+    },
+    "birthday": "1964-04-04",
+    "ip": "205.88.154.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Necessary operation modern money. Fear reach computer new computer. Interview degree office miss start hit hand.",
+        "bio": "Cut indicate learn interesting system old rock. Simply lawyer sell. Free something matter expect girl coach even.\nRed vote building line environment culture certain. Citizen stuff material laugh."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
