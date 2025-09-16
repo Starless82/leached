@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Jimenez",
+    "age": 95,
+    "address": {
+        "street": "Leonard Parkways",
+        "city": "Kaitlinside",
+        "state": "Massachusetts",
+        "zip": "13480"
+    },
+    "contact": {
+        "phone": "602-511-8204x869",
+        "servicePhone": "800681758"
+    },
+    "birthday": "1930-11-08",
+    "ip": "110.162.65.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Plan three seek century too decade since. Old face you pressure point heart party. Good listen accept draw wrong magazine.\nBy we left human impact figure project. Society cold cell whole science.",
+        "bio": "Discover paper knowledge apply particular. Identify wrong create price fall feel actually lose."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
