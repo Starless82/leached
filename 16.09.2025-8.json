@@ -1,0 +1,25 @@
+{
+    "name": "Zoe Martinez",
+    "age": 15,
+    "address": {
+        "street": "Collins Plaza",
+        "city": "Peggytown",
+        "state": "New York",
+        "zip": "85244"
+    },
+    "contact": {
+        "phone": "+1-360-494-6747x293",
+        "servicePhone": "800349459"
+    },
+    "birthday": "2010-02-12",
+    "ip": "47.228.102.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Week group base deal. Science child theory expert true remember administration pretty. Return cut save.",
+        "bio": "Work quickly perhaps yourself theory tax begin. Add remember shake. Street police me enough truth science.\nThink work majority agree third each. Also society anyone serve his firm."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
