@@ -1,0 +1,25 @@
+{
+    "name": "Molly King",
+    "age": 87,
+    "address": {
+        "street": "Hughes Islands",
+        "city": "East Cory",
+        "state": "Illinois",
+        "zip": "39027"
+    },
+    "contact": {
+        "phone": "6844052998",
+        "servicePhone": "800921736"
+    },
+    "birthday": "1938-28-04",
+    "ip": "18.165.237.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Project practice memory produce. Sit deep because best mission.\nSkill table technology common.\nFull close majority wish property main. Push report or use.",
+        "bio": "Win guess rich catch outside exactly several. Else past accept thought floor side.\nWatch executive which blue before purpose member. East few foot particular many along."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
