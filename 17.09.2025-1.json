@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Obrien",
+    "age": 19,
+    "address": {
+        "street": "Lopez Square",
+        "city": "Davidbury",
+        "state": "Montana",
+        "zip": "28393"
+    },
+    "contact": {
+        "phone": "+1-514-378-5080",
+        "servicePhone": "800348179"
+    },
+    "birthday": "2006-26-05",
+    "ip": "203.152.38.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Customer between different employee. Street yeah investment human letter wait situation threat. Look teach station vote day. Return behind thing population worker.",
+        "bio": "Project chair despite until within worry read. American up loss weight. Wall along anyone organization white recent catch. Especially particular everyone."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
