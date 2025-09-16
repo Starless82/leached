@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Cardenas",
+    "age": 69,
+    "address": {
+        "street": "Richard Stream",
+        "city": "Maymouth",
+        "state": "New Jersey",
+        "zip": "72613"
+    },
+    "contact": {
+        "phone": "001-923-508-2948",
+        "servicePhone": "800054117"
+    },
+    "birthday": "1956-16-05",
+    "ip": "69.104.185.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Improve heavy a agree consider mention sing pressure. Only ground myself.\nMarriage red management north ground bill remain. A same will type.",
+        "bio": "Suddenly suggest very perhaps quite both third provide. Break office issue.\nMoment month security particularly establish born process. Feeling age build up heavy too cup. World student within free."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
