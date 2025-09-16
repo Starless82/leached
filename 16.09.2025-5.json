@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Gray",
+    "age": 3,
+    "address": {
+        "street": "Betty Dale",
+        "city": "Jacquelinebury",
+        "state": "Oregon",
+        "zip": "17849"
+    },
+    "contact": {
+        "phone": "001-280-718-5660x5651",
+        "servicePhone": "800040624"
+    },
+    "birthday": "2022-03-06",
+    "ip": "199.75.94.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Capital window without carry ever. Increase second story realize example begin. Third wide for leg.\nSell address goal pressure prove especially. Get home follow rest.",
+        "bio": "Personal way employee. Long traditional rich anyone spring yard. War small but voice ten challenge from cover.\nDoctor full deal sound kid mission word."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
