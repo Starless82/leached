@@ -1,0 +1,25 @@
+{
+    "name": "Hannah Henry",
+    "age": 35,
+    "address": {
+        "street": "Heather Mountains",
+        "city": "South Kristiechester",
+        "state": "North Carolina",
+        "zip": "29366"
+    },
+    "contact": {
+        "phone": "758.855.7085x5975",
+        "servicePhone": "800185458"
+    },
+    "birthday": "1990-03-08",
+    "ip": "199.230.156.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Social west even exactly song nor it everything. Identify item be yard reach. Hope language effect history expert second example drug.",
+        "bio": "Away town security kind. People catch especially easy participant.\nSouth ago message day. Size itself may would western marriage."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
