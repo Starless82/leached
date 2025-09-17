@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Allen",
+    "age": 95,
+    "address": {
+        "street": "Salazar Curve",
+        "city": "New Scott",
+        "state": "Alabama",
+        "zip": "02723"
+    },
+    "contact": {
+        "phone": "577-421-6310",
+        "servicePhone": "800018069"
+    },
+    "birthday": "1930-23-08",
+    "ip": "203.153.39.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Give who truth also future cut computer. Article eat exist indeed leave name. Senior senior fight rise collection inside dark.",
+        "bio": "This difference early spring feel word front. Cost card visit seek attack fly create.\nCouple culture candidate so movement. Former color kitchen. Fact business skin final middle."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
