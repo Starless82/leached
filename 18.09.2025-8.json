@@ -1,0 +1,25 @@
+{
+    "name": "John Hall",
+    "age": 110,
+    "address": {
+        "street": "Adrian Harbors",
+        "city": "West Randall",
+        "state": "Louisiana",
+        "zip": "48100"
+    },
+    "contact": {
+        "phone": "+1-436-217-6938x573",
+        "servicePhone": "800255079"
+    },
+    "birthday": "1915-11-07",
+    "ip": "20.141.135.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Defense decade must however. Low society chair air. Small rule letter reason news.\nNor everything various attorney trip concern. Employee society would either. None already admit could eight expect.",
+        "bio": "About top test article if pay color. Explain read house feel region. Top attack smile because knowledge let vote.\nRise natural write. Ball hot the view new too bill do."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
