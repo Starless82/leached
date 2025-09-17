@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Cox",
+    "age": 78,
+    "address": {
+        "street": "Hanson Green",
+        "city": "Villaborough",
+        "state": "Illinois",
+        "zip": "74089"
+    },
+    "contact": {
+        "phone": "+1-376-534-0902x470",
+        "servicePhone": "800689984"
+    },
+    "birthday": "1947-10-04",
+    "ip": "90.133.189.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Risk sort smile. Religious than free.\nWhether activity imagine peace few consider sort. Share election color message evening. Early garden sign.",
+        "bio": "Account expect face soon which those collection believe. Image recognize bill political usually."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
