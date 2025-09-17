@@ -1,0 +1,25 @@
+{
+    "name": "James Mccullough",
+    "age": 91,
+    "address": {
+        "street": "Gloria Lake",
+        "city": "Christopherhaven",
+        "state": "Vermont",
+        "zip": "21571"
+    },
+    "contact": {
+        "phone": "717-408-2937",
+        "servicePhone": "800812918"
+    },
+    "birthday": "1934-08-02",
+    "ip": "125.240.70.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Cold long decision control new involve fact. Safe as unit dream also.\nIndeed would kid child room design.",
+        "bio": "Seek affect able enter book him. Language start although easy again.\nBeyond analysis cause keep not performance on up. So ten street next standard reveal. Behind company record produce."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
