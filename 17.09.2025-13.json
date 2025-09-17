@@ -1,0 +1,25 @@
+{
+    "name": "Robert Franco",
+    "age": 56,
+    "address": {
+        "street": "Stein Harbor",
+        "city": "Lake Kelly",
+        "state": "Kentucky",
+        "zip": "52798"
+    },
+    "contact": {
+        "phone": "+1-367-446-4762",
+        "servicePhone": "800128890"
+    },
+    "birthday": "1969-10-01",
+    "ip": "87.53.234.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Now finally more group sing middle.\nTell each wife building bit whose ten. Us degree oil international have.\nAround spring others gun year rock song. Truth establish focus late fly base significant.",
+        "bio": "Cup read democratic director season it sure. Like nothing card future. Risk get store job reflect guess."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
