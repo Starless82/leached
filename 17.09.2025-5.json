@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Smith",
+    "age": 11,
+    "address": {
+        "street": "Billy Rest",
+        "city": "Lake Antonioland",
+        "state": "Tennessee",
+        "zip": "63676"
+    },
+    "contact": {
+        "phone": "580.967.6284x218",
+        "servicePhone": "800716873"
+    },
+    "birthday": "2014-16-05",
+    "ip": "86.194.92.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Feel laugh worker provide if age. Entire cost series reality purpose space five five. Different report court. Doctor treat certainly night great.",
+        "bio": "Still bad support health. Today situation line even star as feel.\nThese situation station not."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
