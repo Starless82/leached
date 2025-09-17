@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Lewis",
+    "age": 94,
+    "address": {
+        "street": "Parker Parkway",
+        "city": "Leslieport",
+        "state": "Florida",
+        "zip": "74325"
+    },
+    "contact": {
+        "phone": "+1-322-578-1292x2553",
+        "servicePhone": "800422954"
+    },
+    "birthday": "1931-30-08",
+    "ip": "201.23.215.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Positive majority town then business start. Figure of speech dog soldier often. Decade I hospital.\nQuickly painting player second politics. Crime movie speech vote ahead baby. Run reveal fly.",
+        "bio": "Play image down husband next. Thing billion sea and card nearly. Sound discover change yes.\nCheck indicate tell business. Wide various into side me a boy explain."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
