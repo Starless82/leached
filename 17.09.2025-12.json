@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Blackburn",
+    "age": 33,
+    "address": {
+        "street": "Evans Ways",
+        "city": "New Lisa",
+        "state": "Illinois",
+        "zip": "81114"
+    },
+    "contact": {
+        "phone": "717.460.4891",
+        "servicePhone": "800005058"
+    },
+    "birthday": "1992-07-01",
+    "ip": "173.0.183.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Result admit table product. Reflect time agent exist. Everybody however board skill action.",
+        "bio": "Provide most man. Affect people program glass education able. Really order cover major technology same."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
