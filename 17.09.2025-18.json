@@ -1,0 +1,25 @@
+{
+    "name": "Jason Brown",
+    "age": 104,
+    "address": {
+        "street": "Beth Heights",
+        "city": "Nicholasport",
+        "state": "Idaho",
+        "zip": "03255"
+    },
+    "contact": {
+        "phone": "599-500-6221",
+        "servicePhone": "800429752"
+    },
+    "birthday": "1921-17-09",
+    "ip": "158.163.165.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Pm building here security. Human hope right lawyer cold early finish. Hold realize partner former draw surface design.",
+        "bio": "Economy wide investment Mrs politics. Buy agree through hotel pass single. Candidate item ago.\nRepublican author test success today. Performance each treat indeed drop training cause."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
