@@ -1,0 +1,25 @@
+{
+    "name": "Diana Martinez",
+    "age": 40,
+    "address": {
+        "street": "Smith Mountain",
+        "city": "New Nichole",
+        "state": "New York",
+        "zip": "60837"
+    },
+    "contact": {
+        "phone": "+1-223-501-3522x4224",
+        "servicePhone": "800786076"
+    },
+    "birthday": "1985-13-11",
+    "ip": "198.161.172.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Work civil threat affect. News picture focus Democrat. Car somebody it common media talk just.\nHand scientist what operation production. Real add season window lose south.",
+        "bio": "Account account staff lot school sure. Media prove account loss senior audience degree.\nMorning mean without son. Beyond get easy hotel city six report attention."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
