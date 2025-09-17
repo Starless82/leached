@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Schroeder",
+    "age": 113,
+    "address": {
+        "street": "Eaton Light",
+        "city": "Whitehaven",
+        "state": "Washington",
+        "zip": "43106"
+    },
+    "contact": {
+        "phone": "826-771-4686x99695",
+        "servicePhone": "800144106"
+    },
+    "birthday": "1912-05-01",
+    "ip": "166.160.217.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Computer child other put compare. Old response pass.\nUs animal member second loss should.",
+        "bio": "Perform which ready close. Treat law bring always by affect development five. Woman fight life trial project.\nProduce use good southern. Parent eight feel he."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
