@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Tanner",
+    "age": 19,
+    "address": {
+        "street": "Corey Vista",
+        "city": "Codyland",
+        "state": "Delaware",
+        "zip": "93010"
+    },
+    "contact": {
+        "phone": "425-551-7362",
+        "servicePhone": "800132149"
+    },
+    "birthday": "2006-28-01",
+    "ip": "63.108.164.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Financial her part throw. Arm organization else thought. Scene purpose serious direction.\nHalf action movement TV free care. Talk after better plan necessary movement. Present daughter person short.",
+        "bio": "Crime goal process husband upon because.\nClaim interesting natural management employee cost anything cup. Feel ready key well."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
