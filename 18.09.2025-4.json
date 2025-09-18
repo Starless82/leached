@@ -1,0 +1,25 @@
+{
+    "name": "Linda Rivas",
+    "age": 65,
+    "address": {
+        "street": "Baxter Trace",
+        "city": "West Virginia",
+        "state": "Texas",
+        "zip": "74628"
+    },
+    "contact": {
+        "phone": "710-468-7520x765",
+        "servicePhone": "800898412"
+    },
+    "birthday": "1960-08-06",
+    "ip": "221.226.83.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Remember lot space effort huge important. Friend system need his. Sometimes local admit off moment.",
+        "bio": "Stock offer building expert never occur. Pattern piece take mission Mr million suffer.\nEither reason sometimes picture society him strategy. Statement over boy per age. Thought couple reveal."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
