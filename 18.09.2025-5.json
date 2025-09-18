@@ -1,0 +1,25 @@
+{
+    "name": "Vincent Hammond",
+    "age": 58,
+    "address": {
+        "street": "Jennifer Land",
+        "city": "South Jillview",
+        "state": "New Jersey",
+        "zip": "22114"
+    },
+    "contact": {
+        "phone": "602.256.6457",
+        "servicePhone": "800440065"
+    },
+    "birthday": "1967-02-12",
+    "ip": "24.57.0.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Factor practice beyond garden feeling drive. Anything attorney decide. Traditional her usually become explain second big.",
+        "bio": "Owner analysis interest particularly recognize letter. Suggest common which. Simply agreement pull news admit.\nRole almost great every forward each. Notice hundred no technology mission look teacher."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
