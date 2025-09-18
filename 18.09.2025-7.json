@@ -1,0 +1,25 @@
+{
+    "name": "David Sims",
+    "age": 46,
+    "address": {
+        "street": "Debra Valleys",
+        "city": "Traceyton",
+        "state": "California",
+        "zip": "36241"
+    },
+    "contact": {
+        "phone": "001-365-872-5156x406",
+        "servicePhone": "800650301"
+    },
+    "birthday": "1979-03-01",
+    "ip": "146.229.20.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Hear buy red organization series far popular.\nFirst government alone a. Ok truth best life source wrong. Worker in life standard.",
+        "bio": "Company present mother the evening. Majority front image list race lay. Pull white structure owner husband end traditional."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
