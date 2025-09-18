@@ -1,0 +1,25 @@
+{
+    "name": "Connie Jones",
+    "age": 14,
+    "address": {
+        "street": "Ronald Place",
+        "city": "New Sandrafurt",
+        "state": "Pennsylvania",
+        "zip": "69079"
+    },
+    "contact": {
+        "phone": "001-871-464-0750x516",
+        "servicePhone": "800969727"
+    },
+    "birthday": "2011-20-12",
+    "ip": "128.113.127.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Generation house should throughout parent service summer. Eye according real six also. Cause attorney draw sea behind job still.",
+        "bio": "Agreement point without collection something head. Your skin hear mind whether white. Amount team news avoid.\nAlone game life call. Nor head senior near adult."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
