@@ -1,0 +1,25 @@
+{
+    "name": "Sherri Rojas",
+    "age": 78,
+    "address": {
+        "street": "Whitehead Circle",
+        "city": "Matthewfort",
+        "state": "Ohio",
+        "zip": "06586"
+    },
+    "contact": {
+        "phone": "9698440738",
+        "servicePhone": "800958581"
+    },
+    "birthday": "1947-01-09",
+    "ip": "216.250.188.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Deal professional race life special probably though trip. War position above local.\nMember condition including create resource view tonight. Likely because sell could friend expect treat off.",
+        "bio": "Land deep for Democrat prepare return explain my. Fine particularly democratic go work.\nAround could system decide your ok second. Unit collection as team thus word ever. Close budget during."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
