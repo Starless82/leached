@@ -1,0 +1,25 @@
+{
+    "name": "Phillip Mckay",
+    "age": 55,
+    "address": {
+        "street": "Davis Harbors",
+        "city": "West Erinside",
+        "state": "Arkansas",
+        "zip": "56491"
+    },
+    "contact": {
+        "phone": "481.575.5170x54174",
+        "servicePhone": "800056282"
+    },
+    "birthday": "1970-15-08",
+    "ip": "51.146.229.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Movement human toward whose unit rich compare. Civil trip recognize peace.\nDrug quickly now another. See this mouth sell line public.",
+        "bio": "Unit weight west write front involve. Them girl himself dog stock sit.\nStrategy local range should. Manager attack woman itself money president similar chair."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
