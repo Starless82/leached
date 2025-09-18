@@ -1,0 +1,25 @@
+{
+    "name": "Katie Meyer",
+    "age": 104,
+    "address": {
+        "street": "Rodriguez Camp",
+        "city": "South Davidburgh",
+        "state": "Connecticut",
+        "zip": "81183"
+    },
+    "contact": {
+        "phone": "655-778-2609",
+        "servicePhone": "800676925"
+    },
+    "birthday": "1921-05-09",
+    "ip": "25.206.166.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Of up professional each. Political but technology area practice growth money. Site guy best every two.",
+        "bio": "Second clearly possible fine really strong relationship. Course wall material gun somebody group.\nBring machine development exist west."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
