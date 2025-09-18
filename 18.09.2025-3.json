@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Powers",
+    "age": 7,
+    "address": {
+        "street": "Bernard Fords",
+        "city": "Griffinton",
+        "state": "Michigan",
+        "zip": "12934"
+    },
+    "contact": {
+        "phone": "323.612.2542x57025",
+        "servicePhone": "800792701"
+    },
+    "birthday": "2018-25-07",
+    "ip": "202.182.78.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Before development however yourself state environment within. Never around first bar hold whole suggest section.",
+        "bio": "Rule then put protect. Speech tax design expert especially from.\nOfficer fire manager picture simply staff.\nAuthor career range interview medical everything trial. Picture put young perhaps."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
