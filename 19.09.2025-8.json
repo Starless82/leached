@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Hall",
+    "age": 99,
+    "address": {
+        "street": "Sanchez Stravenue",
+        "city": "Muellerfort",
+        "state": "California",
+        "zip": "38816"
+    },
+    "contact": {
+        "phone": "+1-834-404-3524",
+        "servicePhone": "800312903"
+    },
+    "birthday": "1926-12-07",
+    "ip": "31.159.242.124",
+    "foo": "bar",
+    "profile": {
+        "about": "List who keep interview town job information. More goal garden if difference area popular light. Station shake piece color full.\nTown study help sign push. Focus guy matter official none weight.",
+        "bio": "Provide radio including friend change data crime his. Charge present group doctor or however. Community again worry low argue meet.\nSignificant TV look card six it future. Middle from full."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
