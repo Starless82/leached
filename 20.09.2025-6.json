@@ -1,0 +1,25 @@
+{
+    "name": "Jesus Burnett",
+    "age": 76,
+    "address": {
+        "street": "Darlene Vista",
+        "city": "South Mark",
+        "state": "Indiana",
+        "zip": "70767"
+    },
+    "contact": {
+        "phone": "001-731-255-0919",
+        "servicePhone": "800317478"
+    },
+    "birthday": "1949-23-08",
+    "ip": "8.36.44.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Word project generation drop. Leg magazine and task finally.\nBoth go every seven minute attack. Easy rather theory likely one recent. Before entire thousand thousand participant two.",
+        "bio": "Note away short maintain remember keep. Radio sense environmental truth.\nThank why worker nearly parent television. Air later marriage ago high."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
