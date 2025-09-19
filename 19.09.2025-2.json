@@ -1,0 +1,25 @@
+{
+    "name": "Molly Young",
+    "age": 20,
+    "address": {
+        "street": "Alexander Valley",
+        "city": "Kingberg",
+        "state": "Florida",
+        "zip": "67797"
+    },
+    "contact": {
+        "phone": "586-244-1028",
+        "servicePhone": "800567279"
+    },
+    "birthday": "2005-28-09",
+    "ip": "157.162.213.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Similar according director somebody table. Message collection expect yard answer serious. Type want home.",
+        "bio": "Hear heavy professor case history consumer. There least reflect less. Account detail medical establish often source season.\nAnd thought service edge do. Receive risk nation above staff."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
