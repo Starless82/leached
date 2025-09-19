@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Brown",
+    "age": 14,
+    "address": {
+        "street": "Matthew Circle",
+        "city": "New Alexamouth",
+        "state": "North Carolina",
+        "zip": "77268"
+    },
+    "contact": {
+        "phone": "+1-990-463-9782",
+        "servicePhone": "800276490"
+    },
+    "birthday": "2011-29-08",
+    "ip": "108.249.121.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Generation cut impact direction.\nFly dark strategy brother Mr upon phone. Fire sport reason PM former pressure.\nParent bit woman. Citizen year green nature. Top support social energy thing sea.",
+        "bio": "Past hand goal note. Above source let gun.\nFrom arrive building garden. Many home it. Old daughter economic mother bank once director."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
