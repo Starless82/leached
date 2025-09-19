@@ -1,0 +1,25 @@
+{
+    "name": "Kristie Vega",
+    "age": 11,
+    "address": {
+        "street": "Whitney Crescent",
+        "city": "Robertburgh",
+        "state": "New York",
+        "zip": "54003"
+    },
+    "contact": {
+        "phone": "825.823.7668x321",
+        "servicePhone": "800440918"
+    },
+    "birthday": "2014-16-01",
+    "ip": "177.176.181.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation production item once authority. Player himself instead magazine six across.\nTreatment same street maybe many smile them. Way effort successful character speech American must. Pm present rate.",
+        "bio": "East article point piece sea peace single. Strong those stage sound factor such. Significant popular recent range.\nCultural treatment information campaign. Themselves them second suddenly single."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
