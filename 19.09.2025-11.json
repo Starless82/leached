@@ -1,0 +1,25 @@
+{
+    "name": "Mary Snyder",
+    "age": 71,
+    "address": {
+        "street": "Elliott Estate",
+        "city": "Davisland",
+        "state": "New Mexico",
+        "zip": "91151"
+    },
+    "contact": {
+        "phone": "(366)864-0940x560",
+        "servicePhone": "800770751"
+    },
+    "birthday": "1954-29-11",
+    "ip": "2.166.237.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Particularly than outside general. Ten need without ever. Sister soon color heavy cultural.",
+        "bio": "Appear response about last. Author career activity sometimes.\nBed factor culture. Approach share big."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
