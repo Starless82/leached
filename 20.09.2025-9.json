@@ -1,0 +1,25 @@
+{
+    "name": "Theodore Clark",
+    "age": 29,
+    "address": {
+        "street": "Hines Inlet",
+        "city": "Jasonland",
+        "state": "North Dakota",
+        "zip": "97639"
+    },
+    "contact": {
+        "phone": "(214)885-3824",
+        "servicePhone": "800489519"
+    },
+    "birthday": "1996-12-01",
+    "ip": "210.62.245.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Face whole fine. Situation including church state reality.\nThemselves president last continue. Cost good out.\nOccur trouble like body science sing. Whose wide focus western wear organization.",
+        "bio": "Threat entire force Congress begin education picture. Sing then energy doctor political group population."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
