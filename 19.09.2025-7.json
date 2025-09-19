@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Petty",
+    "age": 76,
+    "address": {
+        "street": "Ashley Wells",
+        "city": "New Joseph",
+        "state": "Washington",
+        "zip": "95125"
+    },
+    "contact": {
+        "phone": "610.616.1701",
+        "servicePhone": "800857204"
+    },
+    "birthday": "1949-06-05",
+    "ip": "189.219.112.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Contain style upon suggest around. Fact area ability middle gun concern son. Find individual Congress bad process.\nMethod technology personal. Doctor bed pay enjoy attack ok notice.",
+        "bio": "Beautiful method rather continue although its. Once back fall garden agent. Teacher half share."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
