@@ -1,0 +1,25 @@
+{
+    "name": "William Thomas",
+    "age": 77,
+    "address": {
+        "street": "Butler Flat",
+        "city": "Cookeville",
+        "state": "New Mexico",
+        "zip": "56760"
+    },
+    "contact": {
+        "phone": "+1-466-345-7976x78938",
+        "servicePhone": "800595004"
+    },
+    "birthday": "1948-28-06",
+    "ip": "78.149.23.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Nor above possible possible sea strategy huge action. Us you system apply Republican.",
+        "bio": "Game actually real space particularly question course. Again lawyer tree adult hot respond. Lot left every town.\nLeast rule test two ability government degree. Bill eye voice throughout glass of."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
