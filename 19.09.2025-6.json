@@ -1,0 +1,25 @@
+{
+    "name": "Kylie White",
+    "age": 97,
+    "address": {
+        "street": "Shirley Forest",
+        "city": "East Matthew",
+        "state": "Washington",
+        "zip": "43613"
+    },
+    "contact": {
+        "phone": "(926)715-9020",
+        "servicePhone": "800844753"
+    },
+    "birthday": "1928-05-08",
+    "ip": "7.102.72.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Month training teacher card. Their investment reason all report rate.\nOur everything learn down bed. Sport ahead write cultural decade difference begin. House late lead training explain short.",
+        "bio": "Goal society teach. Exactly rule his believe really key late ever. Again put want address build.\nOne full about eight song. My happen hold well. Enter source sort speak turn seven."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
