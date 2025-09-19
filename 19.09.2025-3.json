@@ -1,0 +1,25 @@
+{
+    "name": "Pamela Fritz",
+    "age": 92,
+    "address": {
+        "street": "Stephanie Crossroad",
+        "city": "East William",
+        "state": "Washington",
+        "zip": "79410"
+    },
+    "contact": {
+        "phone": "710-550-4525x82713",
+        "servicePhone": "800004572"
+    },
+    "birthday": "1933-13-09",
+    "ip": "43.45.173.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Nothing Mrs ready list parent.\nStudy until successful west agent. So stuff wall size final large beat. Pay business almost simply to war.",
+        "bio": "Help black continue move television population could. Film clearly throughout represent alone."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
