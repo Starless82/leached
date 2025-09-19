@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Davis",
+    "age": 63,
+    "address": {
+        "street": "David Plaza",
+        "city": "Tanyamouth",
+        "state": "North Carolina",
+        "zip": "17969"
+    },
+    "contact": {
+        "phone": "373.431.4428x601",
+        "servicePhone": "800916930"
+    },
+    "birthday": "1962-14-10",
+    "ip": "175.86.118.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Conference civil country present put. Member series popular take especially democratic change. Other evidence deal fear politics understand.",
+        "bio": "Describe almost tell provide already record. Computer force can easy student.\nCulture various generation single today this majority. Hotel while blue short."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
