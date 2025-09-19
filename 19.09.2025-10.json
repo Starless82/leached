@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Graham",
+    "age": 65,
+    "address": {
+        "street": "John Manors",
+        "city": "Morganhaven",
+        "state": "Massachusetts",
+        "zip": "60754"
+    },
+    "contact": {
+        "phone": "547-624-5053",
+        "servicePhone": "800397428"
+    },
+    "birthday": "1960-21-04",
+    "ip": "211.37.9.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Feel order difference hit. Body song effect north tend area. Grow city public continue.\nHistory something off draw middle. Cup according production could sister too no foreign.",
+        "bio": "This risk form who. Rate magazine attention charge. Think maintain rock.\nBaby others several finish participant bad. Morning popular amount right behind lot."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
