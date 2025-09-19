@@ -1,0 +1,25 @@
+{
+    "name": "Amy Johnson",
+    "age": 35,
+    "address": {
+        "street": "Wells Ranch",
+        "city": "Hallside",
+        "state": "Arizona",
+        "zip": "14698"
+    },
+    "contact": {
+        "phone": "(967)716-1716x5552",
+        "servicePhone": "800907528"
+    },
+    "birthday": "1990-05-09",
+    "ip": "135.86.80.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Culture road vote specific far avoid easy wonder. Answer miss last international building win again.\nYour trip upon prevent. Especially similar offer. Author job company report age air whether.",
+        "bio": "Painting ago your hour car option. Everything style next customer.\nForward help within current single. Seem wall yard new nor news."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
