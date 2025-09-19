@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Jackson",
+    "age": 63,
+    "address": {
+        "street": "Michael Vista",
+        "city": "Smithborough",
+        "state": "Utah",
+        "zip": "30409"
+    },
+    "contact": {
+        "phone": "(543)484-8114",
+        "servicePhone": "800152188"
+    },
+    "birthday": "1962-31-01",
+    "ip": "190.101.221.168",
+    "foo": "bar",
+    "profile": {
+        "about": "About trouble quality pressure inside report position. Body know of treat billion.",
+        "bio": "Attorney father whole sport bit. Financial appear lawyer ago to billion red.\nLeft produce anyone. Down chance student concern politics. Position view could goal."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
