@@ -1,0 +1,25 @@
+{
+    "name": "Gary Tucker",
+    "age": 81,
+    "address": {
+        "street": "Steven Ferry",
+        "city": "North Amanda",
+        "state": "Arkansas",
+        "zip": "04673"
+    },
+    "contact": {
+        "phone": "610-781-0166",
+        "servicePhone": "800984444"
+    },
+    "birthday": "1944-01-12",
+    "ip": "17.117.182.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Us value break save especially plant. Eye partner goal development why mind police. Heart now green whose way president.\nPut move enjoy. Money would sure us charge.",
+        "bio": "Record agreement know adult modern young call. Social meeting build. Main skin next everyone husband.\nPeace its forget.\nSense though material common although system Mr."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
