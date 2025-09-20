@@ -1,0 +1,25 @@
+{
+    "name": "Valerie Gomez",
+    "age": 17,
+    "address": {
+        "street": "Jessica Branch",
+        "city": "Haneymouth",
+        "state": "Arizona",
+        "zip": "79477"
+    },
+    "contact": {
+        "phone": "325-632-8708",
+        "servicePhone": "800637404"
+    },
+    "birthday": "2008-13-07",
+    "ip": "42.146.193.177",
+    "foo": "bar",
+    "profile": {
+        "about": "White imagine fight position seven change.\nSell much himself could number one. Increase democratic everyone long power feel suffer. Everyone election environmental environment couple.",
+        "bio": "Seven stuff however station. Case write class like ahead. Specific score risk table care.\nGroup citizen check order order win crime avoid. Industry analysis he thus memory. Risk happy partner."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
