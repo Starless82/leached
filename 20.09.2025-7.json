@@ -1,0 +1,25 @@
+{
+    "name": "Raymond Sanchez",
+    "age": 113,
+    "address": {
+        "street": "Dunlap Gardens",
+        "city": "Port Aaronshire",
+        "state": "North Carolina",
+        "zip": "79823"
+    },
+    "contact": {
+        "phone": "(421)876-1533x4133",
+        "servicePhone": "800402401"
+    },
+    "birthday": "1912-05-06",
+    "ip": "168.60.18.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Box rise thousand claim.\nSo election summer prove. Worry here peace. Large oil get hot.",
+        "bio": "But war level war despite adult send. Career choice point ever school budget together. Event feel project."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
