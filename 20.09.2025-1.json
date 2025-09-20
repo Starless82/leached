@@ -1,0 +1,25 @@
+{
+    "name": "James Golden",
+    "age": 12,
+    "address": {
+        "street": "Matthew Greens",
+        "city": "New Luketon",
+        "state": "South Dakota",
+        "zip": "57378"
+    },
+    "contact": {
+        "phone": "4098184721",
+        "servicePhone": "800163333"
+    },
+    "birthday": "2013-12-09",
+    "ip": "150.245.67.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Since positive less cell decision exactly produce trial. Interview film president chair seven when. Community most black feeling see best adult.",
+        "bio": "Case likely stop recent leave cultural shake a.\nA page involve wish blood. Sometimes mention line experience agent fact upon. Late their above finally lead."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
