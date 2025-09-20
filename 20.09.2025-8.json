@@ -1,0 +1,25 @@
+{
+    "name": "Darryl Mcconnell",
+    "age": 67,
+    "address": {
+        "street": "Harris Pike",
+        "city": "Lake Jennahaven",
+        "state": "Nevada",
+        "zip": "43447"
+    },
+    "contact": {
+        "phone": "(690)600-9693",
+        "servicePhone": "800121733"
+    },
+    "birthday": "1958-01-02",
+    "ip": "166.167.237.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Word should everyone by teacher. Maybe establish product campaign. Happy suggest science could five.",
+        "bio": "About however rule teach themselves fill personal sometimes. Listen management up more while skill.\nTen beat husband arrive bank day more. Table ok whole myself exactly road. Own month third worker."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
