@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Ballard",
+    "age": 53,
+    "address": {
+        "street": "Choi Row",
+        "city": "Salazarfort",
+        "state": "Oregon",
+        "zip": "54743"
+    },
+    "contact": {
+        "phone": "559.621.4980x39717",
+        "servicePhone": "800357266"
+    },
+    "birthday": "1972-02-06",
+    "ip": "217.113.69.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Effort let institution light off ball born. Movie service fish out off rest same television. Usually air to story positive red especially.",
+        "bio": "Pretty by against partner impact heavy. Deal factor great water. Charge middle should.\nSeries be growth kitchen. Easy without tough civil rule than. Certain run anyone provide."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
