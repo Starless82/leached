@@ -1,0 +1,25 @@
+{
+    "name": "Mary Green",
+    "age": 22,
+    "address": {
+        "street": "Cassandra Curve",
+        "city": "Johnhaven",
+        "state": "Ohio",
+        "zip": "76718"
+    },
+    "contact": {
+        "phone": "(602)520-2283x2148",
+        "servicePhone": "800217998"
+    },
+    "birthday": "2003-01-09",
+    "ip": "66.188.38.73",
+    "foo": "bar",
+    "profile": {
+        "about": "A new learn nice play. Moment newspaper wall far. Bad talk ground. Physical bar social probably bad seem media.\nMusic option serious. Soon financial sure open room third number.",
+        "bio": "Sit series position job break somebody bad cost. Hundred little develop man interest yeah modern. Occur less animal them training."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
