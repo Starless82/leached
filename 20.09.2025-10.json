@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Simmons",
+    "age": 52,
+    "address": {
+        "street": "Patricia Hill",
+        "city": "Alexanderberg",
+        "state": "Idaho",
+        "zip": "63729"
+    },
+    "contact": {
+        "phone": "955-999-2316x848",
+        "servicePhone": "800025372"
+    },
+    "birthday": "1973-29-07",
+    "ip": "131.23.49.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Here beautiful partner develop. Growth boy man cup cause husband sign. Guess sort man structure far down.",
+        "bio": "Police may peace outside ago. Oil ability foot truth attention visit bill.\nFood the he well. Team father word whole speech call."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
