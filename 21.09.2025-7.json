@@ -1,0 +1,25 @@
+{
+    "name": "Ian Russo",
+    "age": 110,
+    "address": {
+        "street": "Lyons Gateway",
+        "city": "South Robertberg",
+        "state": "Montana",
+        "zip": "39772"
+    },
+    "contact": {
+        "phone": "319-878-5328x42786",
+        "servicePhone": "800844680"
+    },
+    "birthday": "1915-21-02",
+    "ip": "77.0.141.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Congress cover me how. Each total imagine perhaps yeah reduce. Follow wish again tend nation newspaper sense.\nAt plant still modern pattern education any. Eat beat drop million increase value.",
+        "bio": "Visit west father institution sister way general. Apply no key mean there small attention."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
