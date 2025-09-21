@@ -1,0 +1,25 @@
+{
+    "name": "David Escobar",
+    "age": 10,
+    "address": {
+        "street": "Lori Crossing",
+        "city": "Port Cherylland",
+        "state": "Florida",
+        "zip": "57135"
+    },
+    "contact": {
+        "phone": "+1-786-985-3505x5701",
+        "servicePhone": "800512214"
+    },
+    "birthday": "2015-16-11",
+    "ip": "83.56.76.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Quickly foot pay bed quite. Most baby face hair pressure. Ready certainly sister sing.\nInteresting hard school our. Impact most response work agreement everybody too over. List member free food.",
+        "bio": "Data build wonder action major five there song. A officer general weight speak identify.\nSuccess activity bed. Lot bring base. Poor body must perform grow."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
