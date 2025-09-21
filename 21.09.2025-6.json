@@ -1,0 +1,25 @@
+{
+    "name": "Jon Price",
+    "age": 57,
+    "address": {
+        "street": "Meghan Lights",
+        "city": "South Luisberg",
+        "state": "Iowa",
+        "zip": "47986"
+    },
+    "contact": {
+        "phone": "(720)536-0905x1974",
+        "servicePhone": "800532307"
+    },
+    "birthday": "1968-10-06",
+    "ip": "43.234.27.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Into gas foot. Though start however technology.\nFloor someone question page involve significant plant. Fast marriage above teacher.",
+        "bio": "Toward study rate appear. Whatever win person prepare specific professional."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
