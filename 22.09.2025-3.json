@@ -1,0 +1,25 @@
+{
+    "name": "Gary Powell",
+    "age": 82,
+    "address": {
+        "street": "Foster Islands",
+        "city": "Lake Alyssatown",
+        "state": "Alabama",
+        "zip": "80802"
+    },
+    "contact": {
+        "phone": "(858)584-3849",
+        "servicePhone": "800966043"
+    },
+    "birthday": "1943-13-01",
+    "ip": "18.191.175.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Cup improve son into certainly. Culture interest west say manager season. Computer mean position whole law law already.\nType fall require create professional have.",
+        "bio": "Place PM hear suffer candidate these positive.\nDecade three those next future. Record language pattern song small. Teach official myself question spring arm fund could."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
