@@ -1,0 +1,25 @@
+{
+    "name": "Angela Sanders",
+    "age": 105,
+    "address": {
+        "street": "Burke Vista",
+        "city": "Jacksonhaven",
+        "state": "New Hampshire",
+        "zip": "43737"
+    },
+    "contact": {
+        "phone": "510.772.4562",
+        "servicePhone": "800767109"
+    },
+    "birthday": "1920-09-10",
+    "ip": "48.16.185.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Certainly administration fly happen possible trip. Year whatever respond mission player.",
+        "bio": "Order threat buy leave. Develop nothing not as still. Particularly available wall its easy."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
