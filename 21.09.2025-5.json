@@ -1,0 +1,25 @@
+{
+    "name": "Travis Peterson",
+    "age": 55,
+    "address": {
+        "street": "Martinez Stravenue",
+        "city": "Lake Nancy",
+        "state": "Georgia",
+        "zip": "35245"
+    },
+    "contact": {
+        "phone": "+1-822-711-5504",
+        "servicePhone": "800709716"
+    },
+    "birthday": "1970-04-09",
+    "ip": "144.89.191.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Society view few allow relationship art daughter. Lawyer plant ago with.\nTop turn school heart. Create give other heart seem. Party level involve fire order because.",
+        "bio": "Imagine respond leave probably. Ground book specific single. Subject you water dark.\nFather word guess audience get. Continue some purpose tend new."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
