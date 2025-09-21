@@ -1,0 +1,25 @@
+{
+    "name": "Charles Carroll",
+    "age": 63,
+    "address": {
+        "street": "Matthew Union",
+        "city": "Lake Christopherville",
+        "state": "Oregon",
+        "zip": "82751"
+    },
+    "contact": {
+        "phone": "773.834.8713",
+        "servicePhone": "800978695"
+    },
+    "birthday": "1962-06-11",
+    "ip": "96.230.137.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Phone radio available. Not improve story least finally really option them.\nAfter someone song drug against help. Sister understand my five compare win.",
+        "bio": "Cost view first. Do everybody road training.\nInvolve stay what affect create per establish.\nHome goal as should party cost. So pass suddenly."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
