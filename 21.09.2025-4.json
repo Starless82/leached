@@ -1,0 +1,25 @@
+{
+    "name": "Angela Fox",
+    "age": 35,
+    "address": {
+        "street": "Jennifer Groves",
+        "city": "Bradshawbury",
+        "state": "Delaware",
+        "zip": "98019"
+    },
+    "contact": {
+        "phone": "001-851-829-1933x04052",
+        "servicePhone": "800313628"
+    },
+    "birthday": "1990-18-06",
+    "ip": "56.157.216.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Talk lay product difficult medical. Pm theory leave season true pull house.\nLast develop with perhaps. Central evening bar baby. Turn pay decision agreement visit great at.",
+        "bio": "Serve fly tonight why matter. Sit attorney effect radio.\nStation write car evening feeling. Always use increase. Available church law upon page fine."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
