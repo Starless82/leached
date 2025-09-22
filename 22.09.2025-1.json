@@ -1,0 +1,25 @@
+{
+    "name": "Dean Mathews",
+    "age": 115,
+    "address": {
+        "street": "Browning Island",
+        "city": "Lake Kimberly",
+        "state": "Vermont",
+        "zip": "79019"
+    },
+    "contact": {
+        "phone": "001-706-574-6936x905",
+        "servicePhone": "800305700"
+    },
+    "birthday": "1910-08-02",
+    "ip": "1.180.127.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Oil try media anyone. Month its production successful off news.\nMoment yard against air bring keep lawyer. Spend break small teacher wish level tree fact. Information two on sit mind.",
+        "bio": "Decide individual buy east expert market.\nCivil wrong culture consumer success send debate. Baby factor move more very."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
