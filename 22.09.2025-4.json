@@ -1,0 +1,25 @@
+{
+    "name": "Raymond Phillips",
+    "age": 75,
+    "address": {
+        "street": "Grant Freeway",
+        "city": "Rebeccaview",
+        "state": "South Carolina",
+        "zip": "49671"
+    },
+    "contact": {
+        "phone": "608-358-6947x284",
+        "servicePhone": "800332398"
+    },
+    "birthday": "1950-14-09",
+    "ip": "167.159.120.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Keep movie know thing guy. Here difference recognize conference.\nFinally goal television term last defense. National care wide who everyone think go her.",
+        "bio": "Price dinner threat meeting effect.\nHigh here she black. Red drug make computer professor stage particular full. Right thank baby from."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
