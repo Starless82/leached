@@ -1,0 +1,25 @@
+{
+    "name": "Michael Cole",
+    "age": 41,
+    "address": {
+        "street": "Taylor Route",
+        "city": "Cisnerostown",
+        "state": "New Jersey",
+        "zip": "84818"
+    },
+    "contact": {
+        "phone": "(946)442-7584x899",
+        "servicePhone": "800626874"
+    },
+    "birthday": "1984-09-06",
+    "ip": "51.175.90.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Still certainly before possible organization. Affect magazine clearly magazine Congress politics.\nSpeech lot result bill agree majority office. Business high event world star entire exist heart.",
+        "bio": "Much recent hair treatment campaign total. Between according although everything require. Size painting color wait stock above."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
