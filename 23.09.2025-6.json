@@ -1,0 +1,25 @@
+{
+    "name": "Travis Robinson",
+    "age": 17,
+    "address": {
+        "street": "Johnson Mission",
+        "city": "Lake Christopher",
+        "state": "Virginia",
+        "zip": "47939"
+    },
+    "contact": {
+        "phone": "866-462-8014x0911",
+        "servicePhone": "800423642"
+    },
+    "birthday": "2008-07-09",
+    "ip": "211.60.122.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Manager instead food from city. Do sure fact company official heavy front.",
+        "bio": "Human assume both. Service country figure front seven.\nWestern sport discuss. Rule rock mouth board simply term laugh create. Other write everyone number TV."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
