@@ -1,0 +1,25 @@
+{
+    "name": "Eric Stephenson",
+    "age": 98,
+    "address": {
+        "street": "Alvarez Tunnel",
+        "city": "Schwartzfort",
+        "state": "Nebraska",
+        "zip": "47563"
+    },
+    "contact": {
+        "phone": "972.586.8021x239",
+        "servicePhone": "800635383"
+    },
+    "birthday": "1927-21-01",
+    "ip": "70.134.74.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Court draw letter machine society. Media call commercial skill tell can. Important authority campaign high.",
+        "bio": "News college design weight actually. Computer music teacher entire newspaper ahead short. Size create race want. Question first factor program think feeling often do."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
