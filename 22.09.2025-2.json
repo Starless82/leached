@@ -1,0 +1,25 @@
+{
+    "name": "Linda Williams",
+    "age": 73,
+    "address": {
+        "street": "Bradley Terrace",
+        "city": "West Kimberlyburgh",
+        "state": "Oklahoma",
+        "zip": "85420"
+    },
+    "contact": {
+        "phone": "001-485-903-1635x85485",
+        "servicePhone": "800567543"
+    },
+    "birthday": "1952-03-02",
+    "ip": "135.105.203.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Some should energy range fear. How check attack each. Fire exist go. Event might pull professor appear.\nBack will why attorney. Summer free step professional exist fly.",
+        "bio": "Town rather detail second west think outside. Boy perform degree build I.\nFinancial traditional ground."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
