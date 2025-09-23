@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Berg",
+    "age": 110,
+    "address": {
+        "street": "William Valleys",
+        "city": "Christianview",
+        "state": "Missouri",
+        "zip": "54015"
+    },
+    "contact": {
+        "phone": "958-704-7342x08465",
+        "servicePhone": "800053576"
+    },
+    "birthday": "1915-07-02",
+    "ip": "165.167.174.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Enough officer we factor yes prove.\nProfessional consider success whether pressure. Spring son off character.\nMachine democratic field person collection. Front check call school goal.",
+        "bio": "Should remain sport themselves building product region. Collection of why yes see including. Care moment north.\nMiddle focus should mind gas.\nAbout various appear quickly happy body."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
