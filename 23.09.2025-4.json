@@ -1,0 +1,25 @@
+{
+    "name": "Julie Kelley",
+    "age": 56,
+    "address": {
+        "street": "Martinez Crescent",
+        "city": "Danabury",
+        "state": "Arkansas",
+        "zip": "78605"
+    },
+    "contact": {
+        "phone": "001-895-647-2040x0285",
+        "servicePhone": "800034158"
+    },
+    "birthday": "1969-01-02",
+    "ip": "124.66.112.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Audience international green summer hot why then. Seek full top discussion above strategy about miss. According there bank money purpose last.",
+        "bio": "Increase thank section cause gun yard. Record pretty few wind way individual visit section.\nSave stock field standard. Most yet why whether though require actually customer. Respond bill peace grow."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
