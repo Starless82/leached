@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Brown",
+    "age": 71,
+    "address": {
+        "street": "Thomas Villages",
+        "city": "Stephanietown",
+        "state": "Virginia",
+        "zip": "59505"
+    },
+    "contact": {
+        "phone": "+1-229-642-4793x0900",
+        "servicePhone": "800690705"
+    },
+    "birthday": "1954-17-06",
+    "ip": "93.19.179.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Shoulder skill card outside. Military serve at offer. Boy institution three.",
+        "bio": "Candidate pass program court through consider adult.\nScience project forget ten central young risk. Civil including nation outside."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
