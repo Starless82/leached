@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Chavez",
+    "age": 42,
+    "address": {
+        "street": "Wilson Extension",
+        "city": "Port Gilbertton",
+        "state": "New York",
+        "zip": "15400"
+    },
+    "contact": {
+        "phone": "218-445-6874",
+        "servicePhone": "800092120"
+    },
+    "birthday": "1983-21-05",
+    "ip": "27.184.215.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Girl TV price economic member executive could. Series note allow imagine free parent interesting kind. Single point full conference one kid begin condition.",
+        "bio": "Today figure huge staff. Someone write raise degree often above. Note number music front. Understand reflect discussion."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
