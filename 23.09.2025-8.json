@@ -1,0 +1,25 @@
+{
+    "name": "Erin Sharp",
+    "age": 2,
+    "address": {
+        "street": "Steven Ford",
+        "city": "Burtonberg",
+        "state": "Tennessee",
+        "zip": "48486"
+    },
+    "contact": {
+        "phone": "001-297-645-6608",
+        "servicePhone": "800246052"
+    },
+    "birthday": "2023-02-11",
+    "ip": "218.177.16.121",
+    "foo": "bar",
+    "profile": {
+        "about": "We evening light Mr they recognize director.\nTreatment right tend house item. Myself culture let able here. Become citizen chance deal Republican chair would they. Officer break their drive wish.",
+        "bio": "Individual city recently article only perhaps. Church modern large town any official quickly.\nImagine act like. Range model ability issue party well. Practice final hour test."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
