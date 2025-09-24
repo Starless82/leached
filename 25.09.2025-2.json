@@ -1,0 +1,25 @@
+{
+    "name": "Katelyn Moore",
+    "age": 83,
+    "address": {
+        "street": "Martin Mall",
+        "city": "Calhounport",
+        "state": "New Jersey",
+        "zip": "01312"
+    },
+    "contact": {
+        "phone": "001-788-519-5488x680",
+        "servicePhone": "800746010"
+    },
+    "birthday": "1942-27-08",
+    "ip": "169.90.6.20",
+    "foo": "bar",
+    "profile": {
+        "about": "View investment home company at southern lay. Bill rule yourself to particularly population they.\nSure behind central week bring. Article stand defense weight leave. Human seek offer operation sign.",
+        "bio": "Decision similar family enough himself identify. Food source offer rich trouble pass job. Trial do popular less serious themselves board through. Ten forget blood they hold course establish."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
