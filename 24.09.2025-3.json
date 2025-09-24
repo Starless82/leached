@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Johnson",
+    "age": 40,
+    "address": {
+        "street": "Michael Plaza",
+        "city": "Adamsmouth",
+        "state": "Arizona",
+        "zip": "76020"
+    },
+    "contact": {
+        "phone": "(887)982-2860x3188",
+        "servicePhone": "800832111"
+    },
+    "birthday": "1985-22-12",
+    "ip": "75.34.251.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Reveal magazine science leg security expect. Hot sometimes open part.\nDegree response hold simple. Economy prevent capital place where relate catch. National difference president.",
+        "bio": "Guess response natural finally newspaper win reflect. Majority administration what radio bank common. Blue career build deep bill father adult."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
