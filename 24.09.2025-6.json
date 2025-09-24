@@ -1,0 +1,25 @@
+{
+    "name": "Robert Kane",
+    "age": 106,
+    "address": {
+        "street": "Weaver Island",
+        "city": "Rachelburgh",
+        "state": "Rhode Island",
+        "zip": "67534"
+    },
+    "contact": {
+        "phone": "001-633-416-6419x837",
+        "servicePhone": "800172072"
+    },
+    "birthday": "1919-06-04",
+    "ip": "180.165.80.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Heart affect choose order week. Miss possible city industry outside company arm. Down serious kind.",
+        "bio": "Evidence pull firm present. Bag meeting early serious can draw age market.\nProvide region represent friend wonder a best information. Third huge forget eight next style feel somebody."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
