@@ -1,0 +1,25 @@
+{
+    "name": "Joel Clark",
+    "age": 115,
+    "address": {
+        "street": "Hardin Avenue",
+        "city": "East Jeremy",
+        "state": "Alaska",
+        "zip": "93319"
+    },
+    "contact": {
+        "phone": "8657009042",
+        "servicePhone": "800766644"
+    },
+    "birthday": "1910-08-11",
+    "ip": "198.31.123.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Inside resource necessary nation could way. Up compare listen police. Somebody our determine plan.\nAttack foreign morning be reason amount west. Partner thousand probably color article.",
+        "bio": "Safe green rather provide.\nCivil gun now power space. Personal financial when concern artist while same. Child tough audience member add miss."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
