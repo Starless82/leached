@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Steven Mckee",
+    "age": 86,
+    "address": {
+        "street": "Debra Lodge",
+        "city": "New Mark",
+        "state": "Virginia",
+        "zip": "92272"
+    },
+    "contact": {
+        "phone": "+1-753-357-5443x1768",
+        "servicePhone": "800921291"
+    },
+    "birthday": "1939-12-06",
+    "ip": "29.164.4.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Few own own window power. Believe word she where clear. Animal life nice produce executive use control.\nPainting stop program road. Data music side hour court.",
+        "bio": "Each strategy oil. Spring suggest mission plant information interesting. Put example born entire reveal former. Fall expect we technology head kind mind."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
