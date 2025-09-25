@@ -1,0 +1,25 @@
+{
+    "name": "Charles Hicks",
+    "age": 11,
+    "address": {
+        "street": "Daniel Burg",
+        "city": "Harringtonton",
+        "state": "New York",
+        "zip": "73872"
+    },
+    "contact": {
+        "phone": "416.903.9671",
+        "servicePhone": "800534311"
+    },
+    "birthday": "2014-04-11",
+    "ip": "184.63.254.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Cup care subject site alone tough truth collection. If modern ask.\nMessage western mention likely teacher life upon. Some once middle score total never. No change fund.\nOne dark card. Trade room him.",
+        "bio": "Young watch option. Series hundred total live within outside."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
