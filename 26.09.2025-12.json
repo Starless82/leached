@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Duffy",
+    "age": 109,
+    "address": {
+        "street": "Heather Lights",
+        "city": "New Jaimeburgh",
+        "state": "Tennessee",
+        "zip": "90215"
+    },
+    "contact": {
+        "phone": "205-933-8306x47912",
+        "servicePhone": "800760101"
+    },
+    "birthday": "1916-17-03",
+    "ip": "86.193.220.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Ready less rock bad walk. Person look everything public necessary thus let. Relationship life morning enjoy according former since information.\nMillion peace pretty too.",
+        "bio": "President often find firm. Continue before high class.\nBreak occur give glass particular. Animal hair road hair with follow. Law suffer miss point."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
