@@ -1,0 +1,25 @@
+{
+    "name": "Denise Aguilar",
+    "age": 37,
+    "address": {
+        "street": "Williams Estates",
+        "city": "Port Susanbury",
+        "state": "North Carolina",
+        "zip": "97735"
+    },
+    "contact": {
+        "phone": "(432)586-9203x77679",
+        "servicePhone": "800576279"
+    },
+    "birthday": "1988-25-04",
+    "ip": "36.216.229.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Any provide ground. Indeed senior keep crime seven. Wait project give would bag.\nWind world place pull happy throw always. Former people investment short deep mouth.",
+        "bio": "Medical concern ask white. Hit decision receive leave deal night her Congress. Ground character quite back career.\nHave lead else. Get quickly time section perhaps."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
