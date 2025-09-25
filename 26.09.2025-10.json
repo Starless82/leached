@@ -1,0 +1,25 @@
+{
+    "name": "George Klein",
+    "age": 0,
+    "address": {
+        "street": "Eric Wells",
+        "city": "Robertton",
+        "state": "Michigan",
+        "zip": "02386"
+    },
+    "contact": {
+        "phone": "741-904-7706",
+        "servicePhone": "800784149"
+    },
+    "birthday": "2025-19-06",
+    "ip": "165.74.97.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Age adult issue option investment fire realize.\nApproach from writer health television hot general. Radio establish woman instead.",
+        "bio": "Radio while believe subject avoid. Hear partner push southern hot. Hot rather or color culture. Kind he treat just."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
