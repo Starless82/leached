@@ -1,0 +1,25 @@
+{
+    "name": "Christina Mccullough",
+    "age": 1,
+    "address": {
+        "street": "Hodges Canyon",
+        "city": "Port Melissa",
+        "state": "Idaho",
+        "zip": "66438"
+    },
+    "contact": {
+        "phone": "209-684-1968x1943",
+        "servicePhone": "800398477"
+    },
+    "birthday": "2024-10-09",
+    "ip": "133.172.227.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Physical need those also mind. Fly vote million. Level another receive audience.",
+        "bio": "Represent at son Mrs front want. Key successful approach vote adult compare music."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
