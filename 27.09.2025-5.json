@@ -1,0 +1,25 @@
+{
+    "name": "Anna Hoover",
+    "age": 42,
+    "address": {
+        "street": "Rhodes Forge",
+        "city": "North Brandonfurt",
+        "state": "Michigan",
+        "zip": "52456"
+    },
+    "contact": {
+        "phone": "(387)233-0063x9351",
+        "servicePhone": "800686890"
+    },
+    "birthday": "1983-01-01",
+    "ip": "145.31.141.79",
+    "foo": "bar",
+    "profile": {
+        "about": "During everything option artist under. Herself yes dinner. Idea kind stage cold today would three.",
+        "bio": "Both message guy statement show fine always. Although bar its face. Really story blood land gun if return. Different away first writer still under old."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
