@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Myers",
+    "age": 47,
+    "address": {
+        "street": "Carol Summit",
+        "city": "Amandaton",
+        "state": "Delaware",
+        "zip": "40091"
+    },
+    "contact": {
+        "phone": "824.462.3192x522",
+        "servicePhone": "800522772"
+    },
+    "birthday": "1978-02-10",
+    "ip": "170.3.217.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Know generation production onto less. Yard far face draw red analysis. Miss table become son I professional expert.",
+        "bio": "Story process enjoy sometimes indeed. Picture tonight crime accept.\nDecision half key but clearly she."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
