@@ -1,0 +1,25 @@
+{
+    "name": "Greg Mckinney",
+    "age": 26,
+    "address": {
+        "street": "Wilson Estates",
+        "city": "Cunninghamburgh",
+        "state": "Vermont",
+        "zip": "68380"
+    },
+    "contact": {
+        "phone": "001-851-638-3686x8497",
+        "servicePhone": "800893617"
+    },
+    "birthday": "1999-10-12",
+    "ip": "14.89.27.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Last raise perhaps record. Quite hospital include teach really free capital inside.\nCommercial cut door market important. Sell science on serious decade price get. Church wall music evidence impact.",
+        "bio": "City party skill writer tend nature. Beautiful that capital. Son simple good she admit.\nSeason everybody cultural note. Charge help anyone compare before."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
