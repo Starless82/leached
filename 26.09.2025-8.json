@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Anderson",
+    "age": 13,
+    "address": {
+        "street": "Jennifer Groves",
+        "city": "Leonmouth",
+        "state": "Nebraska",
+        "zip": "37217"
+    },
+    "contact": {
+        "phone": "(753)223-9369",
+        "servicePhone": "800105981"
+    },
+    "birthday": "2012-30-07",
+    "ip": "27.249.188.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Card or order finish leave the. Modern pay culture.\nColor cut figure truth.\nReason beyond describe. Unit indicate other boy.\nDespite person Mrs front think national go. Result project benefit attack.",
+        "bio": "Black identify computer you.\nSummer likely drop mention traditional company. Year war business able modern level. Authority talk anyone civil budget."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
