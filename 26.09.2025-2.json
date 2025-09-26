@@ -1,0 +1,25 @@
+{
+    "name": "Robert Jones",
+    "age": 85,
+    "address": {
+        "street": "Dylan Streets",
+        "city": "New Erinmouth",
+        "state": "Florida",
+        "zip": "10833"
+    },
+    "contact": {
+        "phone": "(742)517-2866x4052",
+        "servicePhone": "800072783"
+    },
+    "birthday": "1940-28-10",
+    "ip": "89.194.83.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Maintain detail reduce development eat. Thing memory white pull. Program class middle create feeling maybe old.",
+        "bio": "Consumer successful entire amount ground drop. Direction foot step him. To let especially guy.\nFree catch area notice respond dark discuss official. Season body hit somebody light."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
