@@ -1,0 +1,25 @@
+{
+    "name": "Jason Collins",
+    "age": 32,
+    "address": {
+        "street": "Samuel Forest",
+        "city": "South Bryan",
+        "state": "Wyoming",
+        "zip": "97002"
+    },
+    "contact": {
+        "phone": "907-462-0175",
+        "servicePhone": "800461540"
+    },
+    "birthday": "1993-29-05",
+    "ip": "105.109.19.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Measure idea stay clearly nearly baby. Threat important value possible baby development. Popular view off meeting partner thing among participant.",
+        "bio": "Prevent section court prove other whole western. Agree name new to method past. Local forward student oil. Us eat will situation.\nVote participant report age."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
