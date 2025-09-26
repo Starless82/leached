@@ -1,0 +1,25 @@
+{
+    "name": "Paul Ramos",
+    "age": 17,
+    "address": {
+        "street": "Marcus Lodge",
+        "city": "Port Jamesport",
+        "state": "Missouri",
+        "zip": "03000"
+    },
+    "contact": {
+        "phone": "+1-291-590-3108",
+        "servicePhone": "800840240"
+    },
+    "birthday": "2008-12-11",
+    "ip": "138.81.173.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Cell job be special fact wear every similar. Woman reality plant society check. Together other hear. Mean sometimes far improve middle.",
+        "bio": "Alone imagine hot us senior read. Part bar chair.\nFull take fine sort establish professor. Much seem cause office."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
