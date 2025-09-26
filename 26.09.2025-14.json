@@ -1,0 +1,25 @@
+{
+    "name": "Barbara Thomas",
+    "age": 104,
+    "address": {
+        "street": "Tina Rapid",
+        "city": "Melissaland",
+        "state": "Massachusetts",
+        "zip": "99624"
+    },
+    "contact": {
+        "phone": "+1-718-816-2241",
+        "servicePhone": "800781882"
+    },
+    "birthday": "1921-20-11",
+    "ip": "16.111.14.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Majority apply production realize above school bar. Industry officer rise hospital prepare yourself garden.\nReach throughout lot sign per something. Impact range feel. Year decision serve.",
+        "bio": "Then improve food character month much later family. Teach compare wonder as nearly.\nResearch since resource go. Try change try deal cause adult back whether."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
