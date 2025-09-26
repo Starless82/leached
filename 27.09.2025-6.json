@@ -1,0 +1,25 @@
+{
+    "name": "Cody Lopez",
+    "age": 12,
+    "address": {
+        "street": "Benjamin Mission",
+        "city": "Elijahburgh",
+        "state": "Tennessee",
+        "zip": "55770"
+    },
+    "contact": {
+        "phone": "430-341-4389x0635",
+        "servicePhone": "800711186"
+    },
+    "birthday": "2013-07-04",
+    "ip": "43.248.201.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Something rather save tax apply source. Special mission song whole.\nWhose increase big ago within. Speak list effect choose food clear. Body left wait minute nice night will building.",
+        "bio": "Fire benefit argue degree light take partner what.\nKey baby memory shake actually. Enjoy difference camera left decision under. Republican without we student hospital point life investment."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
