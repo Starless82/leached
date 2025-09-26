@@ -1,0 +1,25 @@
+{
+    "name": "Vickie Church",
+    "age": 93,
+    "address": {
+        "street": "Melendez View",
+        "city": "Port Adam",
+        "state": "West Virginia",
+        "zip": "95984"
+    },
+    "contact": {
+        "phone": "2413067225",
+        "servicePhone": "800596514"
+    },
+    "birthday": "1932-10-03",
+    "ip": "144.153.93.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Run morning training heart agree sometimes network. Gas site style parent.\nIf front music. Time hand nice guess.\nBase edge would have. Provide section success current. Industry fine speech leader.",
+        "bio": "You their teach. Manage end day item test part wind. Push ready line provide fact standard direction."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
