@@ -1,0 +1,25 @@
+{
+    "name": "Katrina Adams",
+    "age": 114,
+    "address": {
+        "street": "Colin Falls",
+        "city": "Port Kevintown",
+        "state": "North Carolina",
+        "zip": "95610"
+    },
+    "contact": {
+        "phone": "842-610-7764",
+        "servicePhone": "800132800"
+    },
+    "birthday": "1911-28-12",
+    "ip": "43.13.207.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Energy recognize couple. Price grow than light despite couple. Hear team every.\nSource hot my both high into nor. Boy first culture detail remember sense military.",
+        "bio": "Prove fine mean sea information thing wind. Something soon surface remain. Decision generation finally avoid."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
