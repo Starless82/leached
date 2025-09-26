@@ -1,0 +1,25 @@
+{
+    "name": "Monique Atkins",
+    "age": 33,
+    "address": {
+        "street": "Kelly Wall",
+        "city": "Joneschester",
+        "state": "Washington",
+        "zip": "52155"
+    },
+    "contact": {
+        "phone": "(874)826-9604x4962",
+        "servicePhone": "800995214"
+    },
+    "birthday": "1992-01-04",
+    "ip": "1.29.154.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Lawyer us voice everyone rather recently listen catch. Throughout dream arrive important difference.\nThank develop father the central same.",
+        "bio": "Detail law conference eye figure. Anything local already drop sort allow until growth.\nPeace talk hard. Different actually help term want.\nFish run time now. Couple stage of hard beyond."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
