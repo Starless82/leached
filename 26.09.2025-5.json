@@ -1,0 +1,25 @@
+{
+    "name": "Michael Richards",
+    "age": 7,
+    "address": {
+        "street": "Margaret View",
+        "city": "Hendersonland",
+        "state": "Alaska",
+        "zip": "53682"
+    },
+    "contact": {
+        "phone": "001-218-795-1962",
+        "servicePhone": "800288059"
+    },
+    "birthday": "2018-09-03",
+    "ip": "19.108.97.218",
+    "foo": "bar",
+    "profile": {
+        "about": "College PM end.\nStage five certainly sit appear. Indicate nothing interview letter hour subject center break.\nHard tree environmental there. Play attorney Mrs.",
+        "bio": "Natural return that adult since memory. Tonight culture result purpose big them view.\nGuess can wife their heavy candidate bit. Feel either positive guy."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
