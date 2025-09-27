@@ -1,0 +1,25 @@
+{
+    "name": "Darrell Hart",
+    "age": 101,
+    "address": {
+        "street": "Craig Walk",
+        "city": "Port Adam",
+        "state": "Georgia",
+        "zip": "66502"
+    },
+    "contact": {
+        "phone": "001-698-448-6681x25619",
+        "servicePhone": "800346397"
+    },
+    "birthday": "1924-05-05",
+    "ip": "110.16.212.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Upon cause himself join culture animal apply. You for possible above wonder. Involve evening pretty table ready place outside.\nCamera sell show eight. Common quite structure talk.",
+        "bio": "Decide including similar. Put become seem sit note he song. Yeah full finally.\nLast top by require force. Skin father open because admit son first."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
