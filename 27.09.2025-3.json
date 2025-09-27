@@ -1,0 +1,25 @@
+{
+    "name": "Tina Friedman",
+    "age": 12,
+    "address": {
+        "street": "Smith Views",
+        "city": "Hicksmouth",
+        "state": "Iowa",
+        "zip": "25376"
+    },
+    "contact": {
+        "phone": "001-915-638-5170",
+        "servicePhone": "800513755"
+    },
+    "birthday": "2013-26-03",
+    "ip": "14.191.175.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Carry boy production entire find. Condition nor what instead beat.\nVarious sign water involve. High item practice letter major arrive standard sort.",
+        "bio": "Talk industry next different than he. Rate local kind. Program every when win few star.\nHerself nation ground think most. Season still assume. Economy wife age score grow interest."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
