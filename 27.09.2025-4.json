@@ -1,0 +1,25 @@
+{
+    "name": "Cassandra Mendez",
+    "age": 12,
+    "address": {
+        "street": "Gutierrez Fork",
+        "city": "New Benjaminborough",
+        "state": "Illinois",
+        "zip": "07951"
+    },
+    "contact": {
+        "phone": "001-460-343-4993x150",
+        "servicePhone": "800699236"
+    },
+    "birthday": "2013-02-06",
+    "ip": "106.17.221.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Down financial much price early. Office focus study above. Soldier charge huge early degree.",
+        "bio": "Security dinner bad effort. Until current career once notice. Success sense local especially.\nReal learn able ten item half region. Though manager that able success. Letter purpose enjoy rise once a."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
