@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Anderson",
+    "age": 74,
+    "address": {
+        "street": "Austin Passage",
+        "city": "Danielshire",
+        "state": "Montana",
+        "zip": "75329"
+    },
+    "contact": {
+        "phone": "775.455.7717",
+        "servicePhone": "800866172"
+    },
+    "birthday": "1951-11-07",
+    "ip": "146.59.152.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Police still half section. Research toward attack stuff. Most apply teach card yet analysis.\nSocial man class individual method wind everything better. Join his wonder somebody animal.",
+        "bio": "For traditional find many firm rather open. Service use seven especially protect it free.\nMoney point yes enough. Describe former class every. Suggest you simply seem behavior."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
