@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Anderson",
+    "age": 0,
+    "address": {
+        "street": "Christine Street",
+        "city": "Annatown",
+        "state": "Pennsylvania",
+        "zip": "85987"
+    },
+    "contact": {
+        "phone": "001-822-467-0099x5795",
+        "servicePhone": "800266791"
+    },
+    "birthday": "2025-11-03",
+    "ip": "173.71.175.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Ago member conference single catch his part. Modern those policy president. Listen space those city. Past happen evening down walk would.",
+        "bio": "Nearly debate enter suffer available. Future human support charge movie imagine some. Old chair human democratic.\nRest wall them away explain. Easy politics field."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}

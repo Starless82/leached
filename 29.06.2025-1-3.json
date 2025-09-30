@@ -1,0 +1,25 @@
+{
+    "name": "Shelby Harris",
+    "age": 101,
+    "address": {
+        "street": "Hale Spurs",
+        "city": "Darrylfurt",
+        "state": "Missouri",
+        "zip": "34642"
+    },
+    "contact": {
+        "phone": "947-925-7020x43542",
+        "servicePhone": "800212907"
+    },
+    "birthday": "1924-13-11",
+    "ip": "122.212.210.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Cost write hot book mouth consumer total most. Experience author community black maintain hope.",
+        "bio": "It well war camera ahead consider politics. Look production case pressure four. Nice recently back same somebody area."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
