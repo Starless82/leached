@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Prince",
+    "age": 75,
+    "address": {
+        "street": "Gonzalez Inlet",
+        "city": "Jonesmouth",
+        "state": "Virginia",
+        "zip": "21708"
+    },
+    "contact": {
+        "phone": "001-599-499-6563x78285",
+        "servicePhone": "800561106"
+    },
+    "birthday": "1950-13-12",
+    "ip": "179.125.219.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Lose other image who analysis power. Treat almost for between out item market. Listen sound read.\nLate maintain five gun. Road international face cut determine.",
+        "bio": "Join behavior travel shake. Charge adult ball whole level.\nWant police agent performance challenge expert. Also next cost home. Happy TV information ground cup just."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
