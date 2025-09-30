@@ -1,0 +1,25 @@
+{
+    "name": "Jody Wilson",
+    "age": 107,
+    "address": {
+        "street": "Martinez Course",
+        "city": "Charlesshire",
+        "state": "Ohio",
+        "zip": "89240"
+    },
+    "contact": {
+        "phone": "351.307.2450x5454",
+        "servicePhone": "800699378"
+    },
+    "birthday": "1918-06-06",
+    "ip": "10.27.6.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Bill arm above north. East conference ok prevent skill general record surface. My boy travel nor.\nPhysical scene family.\nFocus experience any.",
+        "bio": "Get show get act. Indicate car opportunity return yet ready describe. Weight test there to."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}

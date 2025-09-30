@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Hernandez",
+    "age": 67,
+    "address": {
+        "street": "Young Valley",
+        "city": "Adriennemouth",
+        "state": "Kansas",
+        "zip": "14654"
+    },
+    "contact": {
+        "phone": "(635)920-6316",
+        "servicePhone": "800699790"
+    },
+    "birthday": "1958-01-09",
+    "ip": "18.134.32.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Condition deal political season debate. Entire green wonder few. Health sing add inside stage.",
+        "bio": "Data site big really near plant degree. Quite white hear responsibility campaign especially agreement. The check wall. Protect prove such area artist friend she professional."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
