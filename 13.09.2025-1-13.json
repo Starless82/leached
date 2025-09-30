@@ -1,0 +1,25 @@
+{
+    "name": "Michael Leonard",
+    "age": 26,
+    "address": {
+        "street": "Dana Crossroad",
+        "city": "Nicholetown",
+        "state": "New Jersey",
+        "zip": "82486"
+    },
+    "contact": {
+        "phone": "273-322-8547x6040",
+        "servicePhone": "800184732"
+    },
+    "birthday": "1999-07-10",
+    "ip": "196.18.116.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Case ahead effect wait. Man hold everybody first eight. Bank industry skin final reveal believe.",
+        "bio": "Player senior another available short take finish. Lay research represent thought marriage."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
