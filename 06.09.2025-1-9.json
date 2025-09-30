@@ -1,0 +1,25 @@
+{
+    "name": "Mark Hopkins",
+    "age": 35,
+    "address": {
+        "street": "Jessica Cape",
+        "city": "Toddborough",
+        "state": "Arkansas",
+        "zip": "99337"
+    },
+    "contact": {
+        "phone": "+1-815-338-9752x15579",
+        "servicePhone": "800935389"
+    },
+    "birthday": "1990-08-11",
+    "ip": "57.28.122.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Whether near method instead its skin dog gas. Thousand my happen open. Fine ago until anyone figure sing.",
+        "bio": "Charge just Democrat executive smile miss responsibility.\nFeel agent leg turn. Down and no interesting. Newspaper perhaps parent."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
