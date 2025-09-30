@@ -1,0 +1,25 @@
+{
+    "name": "Robert Benton",
+    "age": 82,
+    "address": {
+        "street": "Austin Way",
+        "city": "New Mary",
+        "state": "New Mexico",
+        "zip": "53722"
+    },
+    "contact": {
+        "phone": "9427020026",
+        "servicePhone": "800005529"
+    },
+    "birthday": "1943-18-09",
+    "ip": "191.22.224.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Media now organization with. Save long data top activity.\nLetter nature me more really. Me serious important. Authority artist alone everybody.",
+        "bio": "Expert style Congress present. Figure power star same. Pull response wife.\nAccept discuss Mr individual guy someone magazine meet."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
