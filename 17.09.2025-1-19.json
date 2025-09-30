@@ -1,0 +1,25 @@
+{
+    "name": "Rebekah Williams",
+    "age": 17,
+    "address": {
+        "street": "Willie Common",
+        "city": "Jeffhaven",
+        "state": "Florida",
+        "zip": "91226"
+    },
+    "contact": {
+        "phone": "937.767.9084x049",
+        "servicePhone": "800720423"
+    },
+    "birthday": "2008-04-06",
+    "ip": "145.207.65.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Sing staff miss. Color run cold feeling.\nFar every right. Body law begin sister. Until return maybe book fear board why prevent.",
+        "bio": "Begin job phone low. List pull site another form."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Bradley Frederick",
+    "age": 2,
+    "address": {
+        "street": "Morrison Gardens",
+        "city": "Port Pamela",
+        "state": "Rhode Island",
+        "zip": "24514"
+    },
+    "contact": {
+        "phone": "(858)398-0708x47111",
+        "servicePhone": "800294470"
+    },
+    "birthday": "2023-28-07",
+    "ip": "19.79.212.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Whether three miss TV attorney fall especially four. Authority special represent late around.",
+        "bio": "Tend civil significant fear. By tax include response. Student life eight usually property rather.\nOut cut yard tax yourself. Picture know third financial miss get."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
