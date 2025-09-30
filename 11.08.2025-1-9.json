@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Young",
+    "age": 53,
+    "address": {
+        "street": "Courtney Fork",
+        "city": "Robertland",
+        "state": "Arizona",
+        "zip": "01418"
+    },
+    "contact": {
+        "phone": "001-613-228-0746x436",
+        "servicePhone": "800631035"
+    },
+    "birthday": "1972-16-04",
+    "ip": "148.236.213.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Arm executive low score treat fight air. Study develop into personal.\nOutside suddenly name ready add. Protect wall result player animal.",
+        "bio": "Recently memory attack. Music must why movement power upon show. Herself office morning thousand want.\nThousand which term job. International happy TV technology marriage."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}

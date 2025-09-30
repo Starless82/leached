@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Barnes",
+    "age": 51,
+    "address": {
+        "street": "Vazquez Hills",
+        "city": "Port Jonathanbury",
+        "state": "South Dakota",
+        "zip": "29629"
+    },
+    "contact": {
+        "phone": "779-723-1994x8178",
+        "servicePhone": "800977526"
+    },
+    "birthday": "1974-14-03",
+    "ip": "180.207.1.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Phone east any imagine. Red several stand only message end energy. Where ball represent rate.\nSurface beat standard catch individual away. Exactly four inside. Laugh young apply public cut indeed.",
+        "bio": "Develop father at resource. Network hotel cut than they scene. Toward interest contain first customer high kid.\nCity he charge rich better choose. System able them."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
